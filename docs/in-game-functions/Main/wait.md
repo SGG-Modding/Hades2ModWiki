@@ -4,7 +4,9 @@ Syntactic sugar for `yield`.
 
 ## Usage
 
-`wait(duration, tag, persist)`
+```lua
+wait(duration, tag, persist)
+```
 
 ### Args
 
