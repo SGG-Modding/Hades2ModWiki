@@ -23,12 +23,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'In-Game Functions',
+    title: 'In-Game Functions and Data Structures',
     img: require('@site/static/img/Crossroads_Books_02.png').default,
     adjust: {marginTop: '1rem'},
     description: (
       <>
-        Learn what in-game functions are available, and what they do.
+        Learn what in-game functions, data structures, and other information is available, and how it's used.
       </>
     ),
   },
