@@ -76,7 +76,7 @@ const config = {
         title: "Hades 2 Mod Wiki",
         logo: {
           alt: "Hades 2 Mod Logo",
-          src: "img/pom.png",
+          src: "img/Pom.png",
         },
         items: [
           {
