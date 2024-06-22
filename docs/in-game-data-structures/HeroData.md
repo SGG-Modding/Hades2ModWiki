@@ -1,31 +1,31 @@
 # HeroData
 
-This entire structure is copied over to `CurrentRun` when starting a new run.
+The `HeroData` structure is copied over to `CurrentRun` when starting a new run.
 
 ```lua
+-- this is NOT the entire structure, just some interesting values!
 {
-    Name = string,
-    DefaultWeapon = string,
-    MaxHealth = int,
-    MaxHealthMultiplier = int,
-    MaxMana = int,
-    LastStands = table,
-    UnusedWeaponThreshold = int,
-    DashManeuverTimeThreshold = float,
-    LastStandData = {
-        Heal = float,
-        Duration = float,
-        Modifier = float
-    },
+    ...
+    MaxHealth = 30,
+    MaxHealthMultiplier = 1,
+    MaxMana = 50,
+    ...
     ManaData = {
-        MinManaTickRate = float,
-        ManaRegenCooldown = float
+        MinManaTickRate = 0.05,
+        ManaRegenCooldown = 1.0
     },
-    InvulnerableFrameThreshold = float,
-    InvulnerableFrameMinDamage = 15,
-    InvulnerableFrameCumulativeDamageDuration = float,
-    InvulnerableFrameDuration = float,
-    PerfectDashHitDisableDuration = float,
+    ...
+    MaxGodsPerRun = 4,
+    BoonData = {
+        ...
+        RarityChances = {
+            Rare = 0.10,
+            Epic = 0.05,
+            Duo = 0.12,
+            Legendary = 0.10,
+        },
+        ReplaceChance = 0.1
+    }
     ...
 }
 ```

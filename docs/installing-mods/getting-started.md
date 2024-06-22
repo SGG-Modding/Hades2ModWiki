@@ -4,4 +4,8 @@ sidebar_position: 1
 
 # Getting Started
 
-NYI
+## r2modman
+
+## Steam
+
+## Epic
