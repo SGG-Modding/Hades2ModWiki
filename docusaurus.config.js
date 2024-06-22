@@ -45,8 +45,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/sgg-modding/hades2modwiki/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/sgg-modding/hades2modwiki/tree/main/",
         },
         // blog: {
         //   showReadingTime: true,
@@ -136,10 +135,19 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-  
+
   headTags: [
-    { tagName: 'link', attributes: { rel: 'preload', href: '/fonts/CaesarDressing-Regular.ttf', as: 'font', type: 'font/ttf', crossorigin: 'anonymous' } }
-  ]
+    {
+      tagName: "link",
+      attributes: {
+        rel: "preload",
+        href: "/fonts/CaesarDressing-Regular.ttf",
+        as: "font",
+        type: "font/ttf",
+        crossorigin: "anonymous",
+      },
+    },
+  ],
 }
 
 export default config
