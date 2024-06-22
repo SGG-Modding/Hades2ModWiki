@@ -9,8 +9,8 @@ import { themes as prismThemes } from "prism-react-renderer"
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Hades 2 Mod Wiki",
-  tagline: "Dinosaurs are cool",
-  favicon: "img/favicon.ico",
+  tagline: "Death to Chronos",
+  favicon: "img/Pom.png",
 
   // Set the production url of your site here
   url: "https://sgg-modding.github.io",
@@ -76,7 +76,7 @@ const config = {
         title: "Hades 2 Mod Wiki",
         logo: {
           alt: "Hades 2 Mod Logo",
-          src: "img/logo.svg",
+          src: "img/pom.png",
         },
         items: [
           {
@@ -128,13 +128,17 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} SGG-Modding, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SGG-Modding. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
+  
+  headTags: [
+    { tagName: 'link', attributes: { rel: 'preload', href: '/fonts/CaesarDressing-Regular.ttf', as: 'font', type: 'font/ttf', crossorigin: 'anonymous' } }
+  ]
 }
 
 export default config

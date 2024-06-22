@@ -28,3 +28,28 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+@font-face {
+  font-family: 'Caesar Dressing';
+  src: url('../../static/font/CaesarDressing-Regular.ttf');
+  font-style: 'normal';
+  font-display: 'swap'
+}
+
+.hero__title {
+  margin-top: 2rem;
+}
+.hero__title, .hero__subtitle {
+  font-family: "Caesar Dressing", system-ui;
+  font-weight: 400;
+}
+
+.hero {
+  background-image: url('../../static/img/LocationBacking_01.png');
+  background-size: cover;
+}
+
+.hero--primary {
+  --ifm-hero-background-color: rgb(27, 27, 29);
+  color: white;
+}
