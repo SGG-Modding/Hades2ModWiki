@@ -71,7 +71,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/wiki-social-card.png",
       navbar: {
         title: "Hades 2 Mod Wiki",
         logo: {

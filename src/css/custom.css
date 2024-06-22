@@ -37,7 +37,7 @@
 }
 
 .hero__title {
-  margin-top: 2rem;
+  margin-top: 5rem;
 }
 .hero__title, .hero__subtitle {
   font-family: "Caesar Dressing", system-ui;
@@ -47,9 +47,14 @@
 .hero {
   background-image: url('../../static/img/LocationBacking_01.png');
   background-size: cover;
+  /* padding: 2rem 0 0; */
 }
 
 .hero--primary {
   --ifm-hero-background-color: rgb(27, 27, 29);
   color: white;
 }
+
+/* .heroBanner {
+  padding: 0
+} */
