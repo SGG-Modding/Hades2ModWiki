@@ -2,10 +2,13 @@
 sidebar_position: 1
 ---
 
-# Hades II Modding
+# Getting Started
 Welcome! This guide will help you set up **r2modman** so you can begin downloading and using **Hell2Modding** (also known as h2m) mods from Thunderstore.
-## Getting Started
-### 1. Remove old mods
+
+## Browsing available mods
+All available mods can be viewed in the [Thunderstore Hades II](https://thunderstore.io/c/hades-ii/) community.
+
+## 1. Remove old mods
 If you were using mods from Nexus, you will need to uninstall them before using r2modman. if you were not, skip this step. \
 [How to clean up ModImporter mods](#how-do-i-clean-up-old-modimporter-mods)
 
@@ -17,15 +20,21 @@ If you were using mods from Nexus, you will need to uninstall them before using 
 :::
 
 
-### 2. Install r2modman
-**Important!! The standard r2modman version will NOT work with Hades II.** \
-Please use the *temporary* 3.1.48 r2modman release with Hades II support: \
-[Direct Download Link for Windows](https://github.com/xiaoxiao921/r2modmanPlus/releases/download/v3.1.48/r2modman-3.1.48.exe) or [GitHub Releases Page](https://github.com/xiaoxiao921/r2modmanPlus/releases/tag/v3.1.48)
+## 2. Install r2modman
+**TEMPORARY!** \
+The current build of r2modman does NOT have Hades 2 support. Please use our custom release until r2modman is updated.
 
-Feel free to read more about [why there is a custom release](#why-do-i-have-to-use-an-unofficial-r2modman-release).
+:::warning[You must use the custom Hades 2 release for r2modman]
 
+Please use the *temporary* 3.1.48 r2modman release with Hades 2 support: \
+[`Direct Download Link for Windows`](https://github.com/xiaoxiao921/r2modmanPlus/releases/download/v3.1.48/r2modman-3.1.48.exe) \
+[GitHub Releases Page](https://github.com/xiaoxiao921/r2modmanPlus/releases/tag/v3.1.48)
 
-### 3. Start r2modman
+:::
+
+Learn more about [why there is a custom release](#why-do-i-have-to-use-an-unofficial-r2modman-release).
+
+## 3. Start r2modman
 
 1. Start **r2modman**
 2. Search for **Hades II** and click `Select Game`
@@ -33,9 +42,6 @@ Feel free to read more about [why there is a custom release](#why-do-i-have-to-u
 4. Browse the `Online` mod section and download whatever you like
 5. Click `Start modded` in the top-left of the screen to start the game with your downloaded mods
 6. Have fun!
-
-### Browsing available mods
-All available mods can be viewed in the [Thunderstore Hades II](https://thunderstore.io/c/hades-ii/) community.
 
 ---
 ## FAQ
