@@ -55,7 +55,7 @@ LobAmmoBoostAspect | Aspect of Melinoe for the argent skull |
 LobCloseAttackAspect | Aspect of Medea for the argent skull |
 LobImpulseAspect | Aspect of Persephone for the argent skull |
 --------|--------|--------
-ExcorcismPoint | Tablet of Peace shade |
+ExorcismPoint | Tablet of Peace shade |
 FishingPoint | Rod of Fishing interactable |
 HarvestPoint | Gather plant interactable |
 PickaxePoint | Crescent Pick interactable |
