@@ -1,11 +1,21 @@
 # UpgradeHarvestBoon
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`traitDatas`
+
+| Name       | Description |
+| ---------- | ----------- |
+| traitDatas |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpgradeHarvestBoon(traitDatas)
 ```
+
 ---

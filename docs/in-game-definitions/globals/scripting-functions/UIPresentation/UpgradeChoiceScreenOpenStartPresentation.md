@@ -1,11 +1,22 @@
 # UpgradeChoiceScreenOpenStartPresentation
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`screen`, `lootData`
+
+| Name     | Description |
+| -------- | ----------- |
+| screen   |             |
+| lootData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpgradeChoiceScreenOpenStartPresentation(screen, lootData)
 ```
+
 ---

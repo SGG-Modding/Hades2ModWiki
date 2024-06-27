@@ -1,11 +1,22 @@
 # ClearManaChargeIndicator
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`weaponName`, `animationKeyOverride`
+
+| Name                 | Description |
+| -------------------- | ----------- |
+| weaponName           |             |
+| animationKeyOverride |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ClearManaChargeIndicator(weaponName, animationKeyOverride)
 ```
+
 ---

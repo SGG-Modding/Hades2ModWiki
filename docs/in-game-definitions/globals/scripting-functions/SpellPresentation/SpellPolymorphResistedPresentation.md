@@ -1,11 +1,21 @@
 # SpellPolymorphResistedPresentation
+
 Function name in SpellPresentation.lua
+
 ## Parameters
-`enemy`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpellPolymorphResistedPresentation(enemy)
 ```
+
 ---

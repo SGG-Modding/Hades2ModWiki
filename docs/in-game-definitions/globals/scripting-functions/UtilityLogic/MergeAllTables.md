@@ -1,11 +1,21 @@
 # MergeAllTables
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tables`
+
+| Name   | Description |
+| ------ | ----------- |
+| tables |             |
+
 ## Returns
+
 `returnTable`
+
 ## Usage
+
 ```lua
 MergeAllTables(tables)
 ```
+
 ---

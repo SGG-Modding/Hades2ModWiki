@@ -1,11 +1,21 @@
 # ShrineScreenUpdateNextRankText
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShrineScreenUpdateNextRankText(button)
 ```
+
 ---

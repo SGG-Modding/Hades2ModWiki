@@ -1,11 +1,23 @@
 # HitInvulnerablePresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`victim`, `attacker`, `triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| victim      |             |
+| attacker    |             |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HitInvulnerablePresentation(victim, attacker, triggerArgs)
 ```
+
 ---

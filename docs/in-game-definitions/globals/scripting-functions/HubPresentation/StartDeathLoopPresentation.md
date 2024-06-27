@@ -1,11 +1,21 @@
 # StartDeathLoopPresentation
+
 Function name in HubPresentation.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartDeathLoopPresentation(currentRun)
 ```
+
 ---

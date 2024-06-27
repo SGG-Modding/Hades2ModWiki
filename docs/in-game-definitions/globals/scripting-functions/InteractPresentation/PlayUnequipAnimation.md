@@ -1,11 +1,21 @@
 # PlayUnequipAnimation
+
 Function name in InteractPresentation.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PlayUnequipAnimation(args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # UpdateEffectStacks
+
 Function name in EffectPresentation.lua
+
 ## Parameters
-`unit`, `effectName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| unit       |             |
+| effectName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateEffectStacks(unit, effectName)
 ```
+
 ---

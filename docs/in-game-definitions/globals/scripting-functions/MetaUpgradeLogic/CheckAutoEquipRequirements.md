@@ -1,11 +1,21 @@
 # CheckAutoEquipRequirements
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`requirementData`
+
+| Name            | Description |
+| --------------- | ----------- |
+| requirementData |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 CheckAutoEquipRequirements(requirementData)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # LogTraitUses
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LogTraitUses(traitName)
 ```
+
 ---

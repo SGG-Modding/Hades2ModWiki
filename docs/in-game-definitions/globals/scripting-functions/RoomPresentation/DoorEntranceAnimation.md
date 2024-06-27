@@ -1,11 +1,21 @@
 # DoorEntranceAnimation
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoorEntranceAnimation(args)
 ```
+
 ---

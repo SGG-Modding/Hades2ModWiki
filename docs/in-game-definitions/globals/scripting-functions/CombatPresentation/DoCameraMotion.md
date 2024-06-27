@@ -1,11 +1,21 @@
 # DoCameraMotion
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`cameraData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| cameraData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoCameraMotion(cameraData)
 ```
+
 ---

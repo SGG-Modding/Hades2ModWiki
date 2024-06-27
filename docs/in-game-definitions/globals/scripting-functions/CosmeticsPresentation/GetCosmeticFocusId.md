@@ -1,11 +1,21 @@
 # GetCosmeticFocusId
+
 Function name in CosmeticsPresentation.lua
+
 ## Parameters
-`saleData`
+
+| Name     | Description |
+| -------- | ----------- |
+| saleData |             |
+
 ## Returns
+
 `id`
+
 ## Usage
+
 ```lua
 GetCosmeticFocusId(saleData)
 ```
+
 ---

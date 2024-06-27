@@ -1,11 +1,21 @@
 # PulseCombatText
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`damageTextAnchor`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| damageTextAnchor |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PulseCombatText(damageTextAnchor)
 ```
+
 ---

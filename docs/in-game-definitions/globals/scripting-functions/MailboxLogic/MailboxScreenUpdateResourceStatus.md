@@ -1,11 +1,22 @@
 # MailboxScreenUpdateResourceStatus
+
 Function name in MailboxLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MailboxScreenUpdateResourceStatus(screen, button)
 ```
+
 ---

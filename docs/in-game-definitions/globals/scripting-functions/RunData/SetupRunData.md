@@ -1,11 +1,21 @@
 # SetupRunData
+
 Function name in RunData.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetupRunData(args)
 ```
+
 ---

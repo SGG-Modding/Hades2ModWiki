@@ -1,11 +1,21 @@
 # RemoveTransformAttackSpeed
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`functionArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| functionArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveTransformAttackSpeed(functionArgs)
 ```
+
 ---

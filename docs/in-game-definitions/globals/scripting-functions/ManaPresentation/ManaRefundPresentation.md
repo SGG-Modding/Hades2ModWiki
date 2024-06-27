@@ -1,11 +1,22 @@
 # ManaRefundPresentation
+
 Function name in ManaPresentation.lua
+
 ## Parameters
-`weaponData`, `functionArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| weaponData   |             |
+| functionArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ManaRefundPresentation(weaponData, functionArgs)
 ```
+
 ---

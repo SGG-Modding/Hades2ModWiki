@@ -1,11 +1,22 @@
 # OpenMailboxScreen
+
 Function name in MailboxLogic.lua
+
 ## Parameters
-`args`, `openedFrom`
+
+| Name       | Description |
+| ---------- | ----------- |
+| args       |             |
+| openedFrom |             |
+
 ## Returns
+
 `screen`
+
 ## Usage
+
 ```lua
 OpenMailboxScreen(args, openedFrom)
 ```
+
 ---

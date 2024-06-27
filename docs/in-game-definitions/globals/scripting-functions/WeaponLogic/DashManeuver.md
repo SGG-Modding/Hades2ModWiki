@@ -1,11 +1,21 @@
 # DashManeuver
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`duration`
+
+| Name     | Description |
+| -------- | ----------- |
+| duration |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DashManeuver(duration)
 ```
+
 ---

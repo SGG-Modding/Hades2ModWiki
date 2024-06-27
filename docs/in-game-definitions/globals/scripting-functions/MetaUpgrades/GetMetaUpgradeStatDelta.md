@@ -1,11 +1,21 @@
 # GetMetaUpgradeStatDelta
+
 Function name in MetaUpgrades.lua
+
 ## Parameters
-`upgradeData`
+
+| Name        | Description |
+| ----------- | ----------- |
+| upgradeData |             |
+
 ## Returns
+
 `0`
+
 ## Usage
+
 ```lua
 GetMetaUpgradeStatDelta(upgradeData)
 ```
+
 ---

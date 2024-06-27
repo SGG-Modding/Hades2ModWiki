@@ -1,11 +1,22 @@
 # DoWeaponHitRumble
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`weaponData`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+| args       |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoWeaponHitRumble(weaponData, args)
 ```
+
 ---

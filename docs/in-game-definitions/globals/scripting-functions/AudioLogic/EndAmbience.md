@@ -1,11 +1,21 @@
 # EndAmbience
+
 Function name in AudioLogic.lua
+
 ## Parameters
-`duration`
+
+| Name     | Description |
+| -------- | ----------- |
+| duration |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EndAmbience(duration)
 ```
+
 ---

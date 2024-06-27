@@ -1,11 +1,21 @@
 # OrderAndApplyPropertyChanges
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`weaponNames`
+
+| Name        | Description |
+| ----------- | ----------- |
+| weaponNames |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OrderAndApplyPropertyChanges(weaponNames)
 ```
+
 ---

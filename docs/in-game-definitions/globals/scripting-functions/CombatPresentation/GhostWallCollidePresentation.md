@@ -1,11 +1,22 @@
 # GhostWallCollidePresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`collidee`, `collider`
+
+| Name     | Description |
+| -------- | ----------- |
+| collidee |             |
+| collider |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GhostWallCollidePresentation(collidee, collider)
 ```
+
 ---

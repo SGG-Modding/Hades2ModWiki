@@ -1,11 +1,21 @@
 # MouseOverResourceItem
+
 Function name in ResourcePresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOverResourceItem(button)
 ```
+
 ---

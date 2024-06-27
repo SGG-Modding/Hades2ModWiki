@@ -1,11 +1,21 @@
 # CreateWeaponLoot
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateWeaponLoot(args)
 ```
+
 ---

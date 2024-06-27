@@ -1,11 +1,22 @@
 # GetExtractData
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`newTraitData`, `includeExternal`
+
+| Name            | Description |
+| --------------- | ----------- |
+| newTraitData    |             |
+| includeExternal |             |
+
 ## Returns
+
 `extractedData`
+
 ## Usage
+
 ```lua
 GetExtractData(newTraitData, includeExternal)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # EnterMetaUpgradeUpgradeModePresentation
+
 Function name in MetaUpgradeCardScreenPresentation.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EnterMetaUpgradeUpgradeModePresentation(screen)
 ```
+
 ---

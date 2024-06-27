@@ -1,11 +1,22 @@
 # FrogFollowAI
+
 Function name in FamiliarLogic.lua
+
 ## Parameters
-`familiar`, `followId`
+
+| Name     | Description |
+| -------- | ----------- |
+| familiar |             |
+| followId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FrogFollowAI(familiar, followId)
 ```
+
 ---

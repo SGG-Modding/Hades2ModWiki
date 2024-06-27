@@ -1,11 +1,22 @@
 # CalcRoomRewardStores
+
 Function name in RewardLogic.lua
+
 ## Parameters
-`room`, `rewardStoreCounts`
+
+| Name              | Description |
+| ----------------- | ----------- |
+| room              |             |
+| rewardStoreCounts |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CalcRoomRewardStores(room, rewardStoreCounts)
 ```
+
 ---

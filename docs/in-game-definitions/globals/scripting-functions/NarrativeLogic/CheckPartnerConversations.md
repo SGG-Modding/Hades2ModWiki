@@ -1,11 +1,22 @@
 # CheckPartnerConversations
+
 Function name in NarrativeLogic.lua
+
 ## Parameters
-`unit`, `textLines`
+
+| Name      | Description |
+| --------- | ----------- |
+| unit      |             |
+| textLines |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 CheckPartnerConversations(unit, textLines)
 ```
+
 ---

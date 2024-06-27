@@ -1,11 +1,21 @@
 # HasStoreItemPin
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`name`
+
+| Name | Description |
+| ---- | ----------- |
+| name |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasStoreItemPin(name)
 ```
+
 ---

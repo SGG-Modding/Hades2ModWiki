@@ -1,11 +1,21 @@
 # GetGenusName
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetGenusName(source)
 ```
+
 ---

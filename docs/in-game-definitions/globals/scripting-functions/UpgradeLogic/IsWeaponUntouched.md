@@ -1,11 +1,21 @@
 # IsWeaponUntouched
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 IsWeaponUntouched(weaponName)
 ```
+
 ---

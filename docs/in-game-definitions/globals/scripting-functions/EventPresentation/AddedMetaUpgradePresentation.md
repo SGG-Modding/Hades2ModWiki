@@ -1,11 +1,22 @@
 # AddedMetaUpgradePresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`metaUpgradesAdded`, `delay`
+
+| Name              | Description |
+| ----------------- | ----------- |
+| metaUpgradesAdded |             |
+| delay             |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddedMetaUpgradePresentation(metaUpgradesAdded, delay)
 ```
+
 ---

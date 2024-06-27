@@ -1,11 +1,22 @@
 # HasForceRelease
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponData`, `stageData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+| stageData  |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasForceRelease(weaponData, stageData)
 ```
+
 ---

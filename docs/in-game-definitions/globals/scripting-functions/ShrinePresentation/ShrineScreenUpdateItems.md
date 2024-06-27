@@ -1,11 +1,21 @@
 # ShrineScreenUpdateItems
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShrineScreenUpdateItems(screen)
 ```
+
 ---

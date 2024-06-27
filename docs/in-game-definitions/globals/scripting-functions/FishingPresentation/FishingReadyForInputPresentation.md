@@ -1,11 +1,21 @@
 # FishingReadyForInputPresentation
+
 Function name in FishingPresentation.lua
+
 ## Parameters
-`fishingAnimationPointId`
+
+| Name                    | Description |
+| ----------------------- | ----------- |
+| fishingAnimationPointId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FishingReadyForInputPresentation(fishingAnimationPointId)
 ```
+
 ---

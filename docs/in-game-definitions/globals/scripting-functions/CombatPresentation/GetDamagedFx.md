@@ -1,11 +1,22 @@
 # GetDamagedFx
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`victim`, `sourceProjectileData`
+
+| Name                 | Description |
+| -------------------- | ----------- |
+| victim               |             |
+| sourceProjectileData |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 GetDamagedFx(victim, sourceProjectileData)
 ```
+
 ---

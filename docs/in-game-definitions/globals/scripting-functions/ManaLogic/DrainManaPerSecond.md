@@ -1,11 +1,21 @@
 # DrainManaPerSecond
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DrainManaPerSecond(args)
 ```
+
 ---

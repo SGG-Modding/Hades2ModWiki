@@ -1,11 +1,22 @@
 # UseHealthFountain
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`used`, `user`
+
+| Name | Description |
+| ---- | ----------- |
+| used |             |
+| user |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseHealthFountain(used, user)
 ```
+
 ---

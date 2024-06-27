@@ -1,11 +1,21 @@
 # CombineAllValues
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tables`
+
+| Name   | Description |
+| ------ | ----------- |
+| tables |             |
+
 ## Returns
+
 `returnTable`
+
 ## Usage
+
 ```lua
 CombineAllValues(tables)
 ```
+
 ---

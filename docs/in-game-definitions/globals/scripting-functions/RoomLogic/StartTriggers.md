@@ -1,11 +1,22 @@
 # StartTriggers
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`triggerSource`, `triggers`
+
+| Name          | Description |
+| ------------- | ----------- |
+| triggerSource |             |
+| triggers      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartTriggers(triggerSource, triggers)
 ```
+
 ---

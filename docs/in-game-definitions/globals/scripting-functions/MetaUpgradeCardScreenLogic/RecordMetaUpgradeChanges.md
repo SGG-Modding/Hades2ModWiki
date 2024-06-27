@@ -1,11 +1,21 @@
 # RecordMetaUpgradeChanges
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RecordMetaUpgradeChanges(screen)
 ```
+
 ---

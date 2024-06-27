@@ -1,11 +1,21 @@
 # GetDoorHealAmount
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `healAmount`
+
 ## Usage
+
 ```lua
 GetDoorHealAmount(currentRun)
 ```
+
 ---

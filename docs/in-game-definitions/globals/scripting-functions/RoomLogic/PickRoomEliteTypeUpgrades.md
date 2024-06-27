@@ -1,11 +1,21 @@
 # PickRoomEliteTypeUpgrades
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`room`
+
+| Name | Description |
+| ---- | ----------- |
+| room |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PickRoomEliteTypeUpgrades(room)
 ```
+
 ---

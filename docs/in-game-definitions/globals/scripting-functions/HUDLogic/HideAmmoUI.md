@@ -1,11 +1,21 @@
 # HideAmmoUI
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HideAmmoUI(args)
 ```
+
 ---

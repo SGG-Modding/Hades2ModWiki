@@ -1,11 +1,22 @@
 # GhostAdminScreenRevealNewItemsPresentation
+
 Function name in GhostAdminPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GhostAdminScreenRevealNewItemsPresentation(screen, button)
 ```
+
 ---

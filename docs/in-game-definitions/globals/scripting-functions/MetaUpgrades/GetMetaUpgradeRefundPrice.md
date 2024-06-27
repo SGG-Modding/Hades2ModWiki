@@ -1,11 +1,22 @@
 # GetMetaUpgradeRefundPrice
+
 Function name in MetaUpgrades.lua
+
 ## Parameters
-`metaUpgrade`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| metaUpgrade |             |
+| args        |             |
+
 ## Returns
+
 `refund`
+
 ## Usage
+
 ```lua
 GetMetaUpgradeRefundPrice(metaUpgrade, args)
 ```
+
 ---

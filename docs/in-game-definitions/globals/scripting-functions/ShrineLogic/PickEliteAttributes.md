@@ -1,11 +1,22 @@
 # PickEliteAttributes
+
 Function name in ShrineLogic.lua
+
 ## Parameters
-`currentRoom`, `enemy`
+
+| Name        | Description |
+| ----------- | ----------- |
+| currentRoom |             |
+| enemy       |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PickEliteAttributes(currentRoom, enemy)
 ```
+
 ---

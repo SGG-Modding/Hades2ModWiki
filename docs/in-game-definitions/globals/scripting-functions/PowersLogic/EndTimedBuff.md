@@ -1,11 +1,21 @@
 # EndTimedBuff
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EndTimedBuff(traitData)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GetLastRunTextLinesOccured
+
 Function name in NarrativeLogic.lua
+
 ## Parameters
-`textLinesName`
+
+| Name          | Description |
+| ------------- | ----------- |
+| textLinesName |             |
+
 ## Returns
+
 `runNum`
+
 ## Usage
+
 ```lua
 GetLastRunTextLinesOccured(textLinesName)
 ```
+
 ---

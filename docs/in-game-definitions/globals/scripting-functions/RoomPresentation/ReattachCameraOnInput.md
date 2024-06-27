@@ -1,11 +1,21 @@
 # ReattachCameraOnInput
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ReattachCameraOnInput(currentRun)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # UpdateSkellyHitQuest
+
 Function name in EventLogic.lua
+
 ## Parameters
-`victim`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateSkellyHitQuest(victim)
 ```
+
 ---

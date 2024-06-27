@@ -1,11 +1,22 @@
 # MailboxSessionCompletePresentation
+
 Function name in MailboxPresentation.lua
+
 ## Parameters
-`usee`, `screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| usee   |             |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MailboxSessionCompletePresentation(usee, screen)
 ```
+
 ---

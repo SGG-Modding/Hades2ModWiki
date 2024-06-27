@@ -1,11 +1,21 @@
 # GetRarityChances
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`loot`
+
+| Name | Description |
+| ---- | ----------- |
+| loot |             |
+
 ## Returns
+
 `rarityChances`
+
 ## Usage
+
 ```lua
 GetRarityChances(loot)
 ```
+
 ---

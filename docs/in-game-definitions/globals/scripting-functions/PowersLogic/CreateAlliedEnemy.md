@@ -1,11 +1,22 @@
 # CreateAlliedEnemy
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`enemyName`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| enemyName |             |
+| args      |             |
+
 ## Returns
+
 `newEnemy`
+
 ## Usage
+
 ```lua
 CreateAlliedEnemy(enemyName, args)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GetEligibleTraitUpgrades
+
 Function name in UpgradeChoiceLogic.lua
+
 ## Parameters
-`lootData`
+
+| Name     | Description |
+| -------- | ----------- |
+| lootData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetEligibleTraitUpgrades(lootData)
 ```
+
 ---

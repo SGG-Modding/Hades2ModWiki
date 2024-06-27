@@ -1,11 +1,21 @@
 # UpdateFamiliarKits
+
 Function name in FamiliarLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateFamiliarKits(args)
 ```
+
 ---

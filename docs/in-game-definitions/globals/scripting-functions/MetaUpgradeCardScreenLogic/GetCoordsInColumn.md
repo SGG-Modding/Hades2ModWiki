@@ -1,11 +1,21 @@
 # GetCoordsInColumn
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`col`
+
+| Name | Description |
+| ---- | ----------- |
+| col  |             |
+
 ## Returns
+
 `neighboringNames`
+
 ## Usage
+
 ```lua
 GetCoordsInColumn(col)
 ```
+
 ---

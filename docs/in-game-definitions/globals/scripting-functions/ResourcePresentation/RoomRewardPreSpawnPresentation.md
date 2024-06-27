@@ -1,11 +1,22 @@
 # RoomRewardPreSpawnPresentation
+
 Function name in ResourcePresentation.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RoomRewardPreSpawnPresentation(source, args)
 ```
+
 ---

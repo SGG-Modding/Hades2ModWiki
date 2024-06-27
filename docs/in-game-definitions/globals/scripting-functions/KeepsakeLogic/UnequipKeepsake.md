@@ -1,11 +1,22 @@
 # UnequipKeepsake
+
 Function name in KeepsakeLogic.lua
+
 ## Parameters
-`heroUnit`, `traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| heroUnit  |             |
+| traitName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnequipKeepsake(heroUnit, traitName)
 ```
+
 ---

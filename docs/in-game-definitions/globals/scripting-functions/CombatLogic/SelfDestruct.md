@@ -1,11 +1,21 @@
 # SelfDestruct
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`owner`
+
+| Name  | Description |
+| ----- | ----------- |
+| owner |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SelfDestruct(owner)
 ```
+
 ---

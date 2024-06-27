@@ -1,11 +1,22 @@
 # TraitTrayPinOnPresentation
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitTrayPinOnPresentation(screen, button)
 ```
+
 ---

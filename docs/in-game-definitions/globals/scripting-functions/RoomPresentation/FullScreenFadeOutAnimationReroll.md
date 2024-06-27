@@ -1,11 +1,22 @@
 # FullScreenFadeOutAnimationReroll
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`color`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| color |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FullScreenFadeOutAnimationReroll(color, args)
 ```
+
 ---

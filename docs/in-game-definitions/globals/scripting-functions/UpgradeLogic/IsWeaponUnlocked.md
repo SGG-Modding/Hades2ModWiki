@@ -1,11 +1,21 @@
 # IsWeaponUnlocked
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 IsWeaponUnlocked(weaponName)
 ```
+
 ---

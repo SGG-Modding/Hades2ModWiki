@@ -1,11 +1,21 @@
 # RunHistoryScreenOpenPresentation
+
 Function name in RunHistoryPresentation.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RunHistoryScreenOpenPresentation(screen)
 ```
+
 ---

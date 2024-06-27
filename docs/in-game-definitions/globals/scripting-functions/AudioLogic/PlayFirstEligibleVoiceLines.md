@@ -1,11 +1,21 @@
 # PlayFirstEligibleVoiceLines
+
 Function name in AudioLogic.lua
+
 ## Parameters
-`voiceLineSets`
+
+| Name          | Description |
+| ------------- | ----------- |
+| voiceLineSets |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PlayFirstEligibleVoiceLines(voiceLineSets)
 ```
+
 ---

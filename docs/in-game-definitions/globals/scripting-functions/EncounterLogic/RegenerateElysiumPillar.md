@@ -1,11 +1,22 @@
 # RegenerateElysiumPillar
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`pillar`, `currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| pillar     |             |
+| currentRun |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RegenerateElysiumPillar(pillar, currentRun)
 ```
+
 ---

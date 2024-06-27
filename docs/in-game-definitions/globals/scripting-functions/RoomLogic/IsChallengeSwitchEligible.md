@@ -1,11 +1,23 @@
 # IsChallengeSwitchEligible
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`currentRun`, `numPedestals`, `chanceSuccess`
+
+| Name          | Description |
+| ------------- | ----------- |
+| currentRun    |             |
+| numPedestals  |             |
+| chanceSuccess |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsChallengeSwitchEligible(currentRun, numPedestals, chanceSuccess)
 ```
+
 ---

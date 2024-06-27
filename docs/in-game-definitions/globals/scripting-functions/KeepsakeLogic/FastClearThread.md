@@ -1,11 +1,22 @@
 # FastClearThread
+
 Function name in KeepsakeLogic.lua
+
 ## Parameters
-`clearTimeThreshold`, `dodgeTraitData`
+
+| Name               | Description |
+| ------------------ | ----------- |
+| clearTimeThreshold |             |
+| dodgeTraitData     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FastClearThread(clearTimeThreshold, dodgeTraitData)
 ```
+
 ---

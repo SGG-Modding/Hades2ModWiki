@@ -1,11 +1,21 @@
 # ShipsSteeringWheelSelectionPresentation
+
 Function name in RoomPresentation_Late.lua
+
 ## Parameters
-`wheelId`
+
+| Name    | Description |
+| ------- | ----------- |
+| wheelId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShipsSteeringWheelSelectionPresentation(wheelId)
 ```
+
 ---

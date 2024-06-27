@@ -1,11 +1,21 @@
 # StartOver
+
 Function name in DeathLoopLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartOver(args)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # AddBlockEmpower
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`victim`, `args`, `triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| victim      |             |
+| args        |             |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddBlockEmpower(victim, args, triggerArgs)
 ```
+
 ---

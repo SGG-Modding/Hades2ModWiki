@@ -1,11 +1,21 @@
 # CantAffordWeaponKitPresentation
+
 Function name in InteractPresentation.lua
+
 ## Parameters
-`weaponKit`
+
+| Name      | Description |
+| --------- | ----------- |
+| weaponKit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CantAffordWeaponKitPresentation(weaponKit)
 ```
+
 ---

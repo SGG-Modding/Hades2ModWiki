@@ -1,11 +1,21 @@
 # AttemptUseDoorNemesisTookPresentation
+
 Function name in RoomPresentation_Late.lua
+
 ## Parameters
-`exitDoor`
+
+| Name     | Description |
+| -------- | ----------- |
+| exitDoor |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AttemptUseDoorNemesisTookPresentation(exitDoor)
 ```
+
 ---

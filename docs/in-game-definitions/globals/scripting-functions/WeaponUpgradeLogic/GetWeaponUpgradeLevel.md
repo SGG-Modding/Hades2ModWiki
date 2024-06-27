@@ -1,11 +1,21 @@
 # GetWeaponUpgradeLevel
+
 Function name in WeaponUpgradeLogic.lua
+
 ## Parameters
-`traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+
 ## Returns
+
 `numRanks`
+
 ## Usage
+
 ```lua
 GetWeaponUpgradeLevel(traitName)
 ```
+
 ---

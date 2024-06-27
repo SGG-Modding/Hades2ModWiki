@@ -1,11 +1,21 @@
 # BurnEffectApply
+
 Function name in EffectLogic.lua
+
 ## Parameters
-`triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BurnEffectApply(triggerArgs)
 ```
+
 ---

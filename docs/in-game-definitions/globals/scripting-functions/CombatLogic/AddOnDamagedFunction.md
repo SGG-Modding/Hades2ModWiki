@@ -1,11 +1,22 @@
 # AddOnDamagedFunction
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`victim`, `functionName`
+
+| Name         | Description |
+| ------------ | ----------- |
+| victim       |             |
+| functionName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddOnDamagedFunction(victim, functionName)
 ```
+
 ---

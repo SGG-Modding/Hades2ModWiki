@@ -1,11 +1,22 @@
 # GetProcessedValue
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`valueToRamp`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| valueToRamp |             |
+| args        |             |
+
 ## Returns
+
 `valueToRamp`
+
 ## Usage
+
 ```lua
 GetProcessedValue(valueToRamp, args)
 ```
+
 ---

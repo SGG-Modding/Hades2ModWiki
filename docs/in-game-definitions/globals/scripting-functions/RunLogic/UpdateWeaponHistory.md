@@ -1,11 +1,21 @@
 # UpdateWeaponHistory
+
 Function name in RunLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateWeaponHistory(currentRun)
 ```
+
 ---

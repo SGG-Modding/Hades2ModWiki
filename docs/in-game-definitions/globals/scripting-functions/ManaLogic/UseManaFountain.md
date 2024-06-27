@@ -1,11 +1,22 @@
 # UseManaFountain
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseManaFountain(usee, args)
 ```
+
 ---

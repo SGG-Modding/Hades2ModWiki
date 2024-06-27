@@ -1,11 +1,21 @@
 # GetAllKeys
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableToGather`
+
+| Name          | Description |
+| ------------- | ----------- |
+| tableToGather |             |
+
 ## Returns
+
 `keys`
+
 ## Usage
+
 ```lua
 GetAllKeys(tableToGather)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # TraitTrayShowShrineUpgrades
+
 Function name in TraitTrayLogic.lua
+
 ## Parameters
-`screen`, `activeCategory`, `args`
+
+| Name           | Description |
+| -------------- | ----------- |
+| screen         |             |
+| activeCategory |             |
+| args           |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitTrayShowShrineUpgrades(screen, activeCategory, args)
 ```
+
 ---

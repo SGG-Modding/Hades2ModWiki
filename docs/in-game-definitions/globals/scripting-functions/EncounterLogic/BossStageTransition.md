@@ -1,11 +1,23 @@
 # BossStageTransition
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`boss`, `currentRun`, `aiStage`
+
+| Name       | Description |
+| ---------- | ----------- |
+| boss       |             |
+| currentRun |             |
+| aiStage    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BossStageTransition(boss, currentRun, aiStage)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # MouseOffBounty
+
 Function name in BountyLogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOffBounty(button)
 ```
+
 ---

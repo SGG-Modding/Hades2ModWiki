@@ -1,11 +1,22 @@
 # GetRewardsTaken
+
 Function name in Debug.lua
+
 ## Parameters
-`room`, `rewardsTakenTotals`
+
+| Name               | Description |
+| ------------------ | ----------- |
+| room               |             |
+| rewardsTakenTotals |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetRewardsTaken(room, rewardsTakenTotals)
 ```
+
 ---

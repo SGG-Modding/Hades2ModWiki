@@ -1,11 +1,21 @@
 # BoonSkipShrineUpgradePresentation
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`reward`
+
+| Name   | Description |
+| ------ | ----------- |
+| reward |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BoonSkipShrineUpgradePresentation(reward)
 ```
+
 ---

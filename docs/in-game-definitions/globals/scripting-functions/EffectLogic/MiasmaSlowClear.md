@@ -1,11 +1,21 @@
 # MiasmaSlowClear
+
 Function name in EffectLogic.lua
+
 ## Parameters
-`triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MiasmaSlowClear(triggerArgs)
 ```
+
 ---

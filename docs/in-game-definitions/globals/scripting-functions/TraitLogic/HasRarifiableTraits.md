@@ -1,11 +1,21 @@
 # HasRarifiableTraits
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasRarifiableTraits(args)
 ```
+
 ---

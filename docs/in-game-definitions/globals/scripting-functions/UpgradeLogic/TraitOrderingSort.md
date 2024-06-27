@@ -1,11 +1,22 @@
 # TraitOrderingSort
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`itemA`, `itemB`
+
+| Name  | Description |
+| ----- | ----------- |
+| itemA |             |
+| itemB |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitOrderingSort(itemA, itemB)
 ```
+
 ---

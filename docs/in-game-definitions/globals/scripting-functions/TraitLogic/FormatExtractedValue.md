@@ -1,11 +1,22 @@
 # FormatExtractedValue
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`value`, `extractData`
+
+| Name        | Description |
+| ----------- | ----------- |
+| value       |             |
+| extractData |             |
+
 ## Returns
+
 `0`
+
 ## Usage
+
 ```lua
 FormatExtractedValue(value, extractData)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # Contains
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`, `value`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+| value    |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 Contains(tableArg, value)
 ```
+
 ---

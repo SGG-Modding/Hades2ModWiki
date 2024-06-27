@@ -1,11 +1,22 @@
 # UseHeroTraitsWithValue
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`propertyName`, `useFirst`
+
+| Name         | Description |
+| ------------ | ----------- |
+| propertyName |             |
+| useFirst     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseHeroTraitsWithValue(propertyName, useFirst)
 ```
+
 ---

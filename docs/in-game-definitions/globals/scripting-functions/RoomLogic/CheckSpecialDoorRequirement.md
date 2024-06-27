@@ -1,11 +1,21 @@
 # CheckSpecialDoorRequirement
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`door`
+
+| Name | Description |
+| ---- | ----------- |
+| door |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 CheckSpecialDoorRequirement(door)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # DeactivateConditionalItem
+
 Function name in CosmeticsLogic.lua
+
 ## Parameters
-`itemData`
+
+| Name     | Description |
+| -------- | ----------- |
+| itemData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DeactivateConditionalItem(itemData)
 ```
+
 ---

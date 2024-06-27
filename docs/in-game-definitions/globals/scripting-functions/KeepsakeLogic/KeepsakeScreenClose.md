@@ -1,11 +1,22 @@
 # KeepsakeScreenClose
+
 Function name in KeepsakeLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 KeepsakeScreenClose(screen, button)
 ```
+
 ---

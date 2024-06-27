@@ -1,11 +1,21 @@
 # HighlightPlayerToolPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`toolKit`
+
+| Name    | Description |
+| ------- | ----------- |
+| toolKit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HighlightPlayerToolPresentation(toolKit)
 ```
+
 ---

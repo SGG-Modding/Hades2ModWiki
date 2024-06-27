@@ -1,11 +1,21 @@
 # GrantElementFromTool
+
 Function name in HarvestLogic.lua
+
 ## Parameters
-`toolData`
+
+| Name     | Description |
+| -------- | ----------- |
+| toolData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GrantElementFromTool(toolData)
 ```
+
 ---

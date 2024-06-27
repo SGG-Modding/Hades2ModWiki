@@ -1,11 +1,22 @@
 # CheckDaggerBlock
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`weaponData`, `functionArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| weaponData   |             |
+| functionArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckDaggerBlock(weaponData, functionArgs)
 ```
+
 ---

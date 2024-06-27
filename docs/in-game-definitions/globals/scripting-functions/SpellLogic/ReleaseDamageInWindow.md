@@ -1,11 +1,22 @@
 # ReleaseDamageInWindow
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`delay`, `damage`
+
+| Name   | Description |
+| ------ | ----------- |
+| delay  |             |
+| damage |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ReleaseDamageInWindow(delay, damage)
 ```
+
 ---

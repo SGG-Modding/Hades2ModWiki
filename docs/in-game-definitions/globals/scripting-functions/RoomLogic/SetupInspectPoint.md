@@ -1,11 +1,21 @@
 # SetupInspectPoint
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`inspectPointData`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| inspectPointData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetupInspectPoint(inspectPointData)
 ```
+
 ---

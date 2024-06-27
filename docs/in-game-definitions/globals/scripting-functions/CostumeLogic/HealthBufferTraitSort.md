@@ -1,11 +1,22 @@
 # HealthBufferTraitSort
+
 Function name in CostumeLogic.lua
+
 ## Parameters
-`itemA`, `itemB`
+
+| Name  | Description |
+| ----- | ----------- |
+| itemA |             |
+| itemB |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HealthBufferTraitSort(itemA, itemB)
 ```
+
 ---

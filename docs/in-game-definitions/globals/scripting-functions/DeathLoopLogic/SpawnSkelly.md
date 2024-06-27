@@ -1,11 +1,21 @@
 # SpawnSkelly
+
 Function name in DeathLoopLogic.lua
+
 ## Parameters
-`waitTime`
+
+| Name     | Description |
+| -------- | ----------- |
+| waitTime |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpawnSkelly(waitTime)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # QuestLogNextProgressPage
+
 Function name in QuestPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 QuestLogNextProgressPage(screen, button)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # AddOnDeathWeapon
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`unit`, `weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| unit       |             |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddOnDeathWeapon(unit, weaponName)
 ```
+
 ---

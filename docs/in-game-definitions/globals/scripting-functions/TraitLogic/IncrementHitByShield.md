@@ -1,11 +1,21 @@
 # IncrementHitByShield
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`victim`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 IncrementHitByShield(victim)
 ```
+
 ---

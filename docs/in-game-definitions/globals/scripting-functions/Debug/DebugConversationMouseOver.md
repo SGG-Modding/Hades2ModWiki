@@ -1,11 +1,21 @@
 # DebugConversationMouseOver
+
 Function name in Debug.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DebugConversationMouseOver(button)
 ```
+
 ---

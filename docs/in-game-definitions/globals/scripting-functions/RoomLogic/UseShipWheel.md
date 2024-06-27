@@ -1,11 +1,21 @@
 # UseShipWheel
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`wheel`
+
+| Name  | Description |
+| ----- | ----------- |
+| wheel |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseShipWheel(wheel)
 ```
+
 ---

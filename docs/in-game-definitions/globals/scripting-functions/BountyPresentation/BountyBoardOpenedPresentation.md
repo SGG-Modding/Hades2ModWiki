@@ -1,11 +1,21 @@
 # BountyBoardOpenedPresentation
+
 Function name in BountyPresentation.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BountyBoardOpenedPresentation(screen)
 ```
+
 ---

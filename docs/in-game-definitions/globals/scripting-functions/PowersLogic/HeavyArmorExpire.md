@@ -1,11 +1,21 @@
 # HeavyArmorExpire
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`flagName`
+
+| Name     | Description |
+| -------- | ----------- |
+| flagName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HeavyArmorExpire(flagName)
 ```
+
 ---

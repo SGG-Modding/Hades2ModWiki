@@ -1,11 +1,22 @@
 # SkyAttackerAI
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemy`, `CurrentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| enemy      |             |
+| CurrentRun |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SkyAttackerAI(enemy, CurrentRun)
 ```
+
 ---

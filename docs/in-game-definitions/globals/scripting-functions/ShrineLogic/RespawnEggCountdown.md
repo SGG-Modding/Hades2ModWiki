@@ -1,11 +1,22 @@
 # RespawnEggCountdown
+
 Function name in ShrineLogic.lua
+
 ## Parameters
-`egg`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| egg  |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RespawnEggCountdown(egg, args)
 ```
+
 ---

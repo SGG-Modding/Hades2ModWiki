@@ -1,11 +1,22 @@
 # stringends
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`String`, `End`
+
+| Name   | Description |
+| ------ | ----------- |
+| String |             |
+| End    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 stringends(String, End)
 ```
+
 ---

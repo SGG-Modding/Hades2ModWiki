@@ -1,11 +1,22 @@
 # TimedBuffSetup
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`hero`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| hero |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TimedBuffSetup(hero, args)
 ```
+
 ---

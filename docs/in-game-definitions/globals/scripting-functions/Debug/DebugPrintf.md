@@ -1,11 +1,21 @@
 # DebugPrintf
+
 Function name in Debug.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DebugPrintf(args)
 ```
+
 ---

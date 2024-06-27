@@ -1,11 +1,21 @@
 # RandomInit
+
 Function name in RandomLogic.lua
+
 ## Parameters
-`rngId`
+
+| Name  | Description |
+| ----- | ----------- |
+| rngId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RandomInit(rngId)
 ```
+
 ---

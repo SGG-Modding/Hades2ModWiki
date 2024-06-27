@@ -1,11 +1,23 @@
 # AggroSpawns
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`victim`, `attacker`, `triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| victim      |             |
+| attacker    |             |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AggroSpawns(victim, attacker, triggerArgs)
 ```
+
 ---

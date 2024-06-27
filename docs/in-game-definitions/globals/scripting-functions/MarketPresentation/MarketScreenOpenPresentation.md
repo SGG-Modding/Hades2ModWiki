@@ -1,11 +1,21 @@
 # MarketScreenOpenPresentation
+
 Function name in MarketPresentation.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MarketScreenOpenPresentation(screen)
 ```
+
 ---

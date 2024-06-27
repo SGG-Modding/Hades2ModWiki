@@ -1,11 +1,22 @@
 # NPCLittering
+
 Function name in DeathLoopLogic.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 NPCLittering(source, args)
 ```
+
 ---

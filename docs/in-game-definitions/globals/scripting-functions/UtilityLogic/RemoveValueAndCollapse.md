@@ -1,11 +1,22 @@
 # RemoveValueAndCollapse
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`, `value`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+| value    |             |
+
 ## Returns
+
 `bool`, `foundValue`
+
 ## Usage
+
 ```lua
 RemoveValueAndCollapse(tableArg, value)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GenericScreenClosePresentation
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GenericScreenClosePresentation(screen)
 ```
+
 ---

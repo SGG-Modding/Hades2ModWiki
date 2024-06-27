@@ -1,11 +1,22 @@
 # CloseShrineUpgradeScreen
+
 Function name in ShrineLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CloseShrineUpgradeScreen(screen, button)
 ```
+
 ---

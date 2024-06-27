@@ -1,11 +1,22 @@
 # GhostAdminPurchaseSequenceFinished
+
 Function name in GhostAdminLogic.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GhostAdminPurchaseSequenceFinished(source, args)
 ```
+
 ---

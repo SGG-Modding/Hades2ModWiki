@@ -1,11 +1,21 @@
 # GetBaseRarityValue
+
 Function name in SellTraitLogic.lua
+
 ## Parameters
-`traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetBaseRarityValue(traitData)
 ```
+
 ---

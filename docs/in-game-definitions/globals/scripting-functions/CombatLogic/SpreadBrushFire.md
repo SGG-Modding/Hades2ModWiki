@@ -1,11 +1,21 @@
 # SpreadBrushFire
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`grassObject`
+
+| Name        | Description |
+| ----------- | ----------- |
+| grassObject |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpreadBrushFire(grassObject)
 ```
+
 ---

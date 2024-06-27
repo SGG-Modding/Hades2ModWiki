@@ -1,11 +1,21 @@
 # GardenPlotTimeUpdateStartPresentation
+
 Function name in GardenPresentation.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GardenPlotTimeUpdateStartPresentation(args)
 ```
+
 ---

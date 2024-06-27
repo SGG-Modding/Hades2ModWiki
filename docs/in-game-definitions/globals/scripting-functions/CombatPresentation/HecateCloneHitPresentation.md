@@ -1,11 +1,22 @@
 # HecateCloneHitPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`blocker`, `args`
+
+| Name    | Description |
+| ------- | ----------- |
+| blocker |             |
+| args    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HecateCloneHitPresentation(blocker, args)
 ```
+
 ---

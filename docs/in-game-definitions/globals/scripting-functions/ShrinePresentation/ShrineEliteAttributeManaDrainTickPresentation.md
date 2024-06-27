@@ -1,11 +1,22 @@
 # ShrineEliteAttributeManaDrainTickPresentation
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`enemy`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShrineEliteAttributeManaDrainTickPresentation(enemy, args)
 ```
+
 ---

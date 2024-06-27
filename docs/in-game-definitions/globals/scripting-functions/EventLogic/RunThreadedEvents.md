@@ -1,11 +1,22 @@
 # RunThreadedEvents
+
 Function name in EventLogic.lua
+
 ## Parameters
-`events`, `eventSource`
+
+| Name        | Description |
+| ----------- | ----------- |
+| events      |             |
+| eventSource |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RunThreadedEvents(events, eventSource)
 ```
+
 ---

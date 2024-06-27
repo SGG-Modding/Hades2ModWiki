@@ -1,11 +1,21 @@
 # GetKeepsakeData
+
 Function name in KeepsakeLogic.lua
+
 ## Parameters
-`keepsakeName`
+
+| Name         | Description |
+| ------------ | ----------- |
+| keepsakeName |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 GetKeepsakeData(keepsakeName)
 ```
+
 ---

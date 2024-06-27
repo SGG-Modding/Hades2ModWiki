@@ -1,11 +1,22 @@
 # HandleSurfaceShopAction
+
 Function name in SurfaceShopLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HandleSurfaceShopAction(screen, button)
 ```
+
 ---

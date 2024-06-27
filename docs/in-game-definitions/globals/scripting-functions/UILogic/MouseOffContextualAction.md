@@ -1,11 +1,21 @@
 # MouseOffContextualAction
+
 Function name in UILogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOffContextualAction(button)
 ```
+
 ---

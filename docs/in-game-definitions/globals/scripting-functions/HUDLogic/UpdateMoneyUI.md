@@ -1,11 +1,21 @@
 # UpdateMoneyUI
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`force`
+
+| Name  | Description |
+| ----- | ----------- |
+| force |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateMoneyUI(force)
 ```
+
 ---

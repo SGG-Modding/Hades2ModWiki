@@ -1,11 +1,21 @@
 # SacrificeHealth
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `0`, `randomDamageValue`
+
 ## Usage
+
 ```lua
 SacrificeHealth(args)
 ```
+
 ---

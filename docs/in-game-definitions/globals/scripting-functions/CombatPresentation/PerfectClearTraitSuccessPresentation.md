@@ -1,11 +1,21 @@
 # PerfectClearTraitSuccessPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PerfectClearTraitSuccessPresentation(traitData)
 ```
+
 ---

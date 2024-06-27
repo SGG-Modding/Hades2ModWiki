@@ -1,11 +1,22 @@
 # AggroNearbyUnits
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemy`, `hostileAggro`
+
+| Name         | Description |
+| ------------ | ----------- |
+| enemy        |             |
+| hostileAggro |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AggroNearbyUnits(enemy, hostileAggro)
 ```
+
 ---

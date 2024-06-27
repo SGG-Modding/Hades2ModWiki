@@ -1,11 +1,21 @@
 # CheckBiomeStateStart
+
 Function name in BiomeStateLogic.lua
+
 ## Parameters
-`currentRoom`
+
+| Name        | Description |
+| ----------- | ----------- |
+| currentRoom |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckBiomeStateStart(currentRoom)
 ```
+
 ---

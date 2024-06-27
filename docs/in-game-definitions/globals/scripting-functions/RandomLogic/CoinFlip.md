@@ -1,11 +1,21 @@
 # CoinFlip
+
 Function name in RandomLogic.lua
+
 ## Parameters
-`rng`
+
+| Name | Description |
+| ---- | ----------- |
+| rng  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CoinFlip(rng)
 ```
+
 ---

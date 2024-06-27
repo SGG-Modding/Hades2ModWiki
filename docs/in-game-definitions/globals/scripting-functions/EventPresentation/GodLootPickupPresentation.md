@@ -1,11 +1,22 @@
 # GodLootPickupPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`loot`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| loot |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GodLootPickupPresentation(loot, args)
 ```
+
 ---

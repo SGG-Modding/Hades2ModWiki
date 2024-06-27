@@ -1,11 +1,21 @@
 # TorchHasMana
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TorchHasMana(weaponData)
 ```
+
 ---

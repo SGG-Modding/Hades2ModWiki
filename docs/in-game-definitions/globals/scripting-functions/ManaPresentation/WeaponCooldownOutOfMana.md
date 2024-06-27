@@ -1,11 +1,22 @@
 # WeaponCooldownOutOfMana
+
 Function name in ManaPresentation.lua
+
 ## Parameters
-`weaponData`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+| args       |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WeaponCooldownOutOfMana(weaponData, args)
 ```
+
 ---

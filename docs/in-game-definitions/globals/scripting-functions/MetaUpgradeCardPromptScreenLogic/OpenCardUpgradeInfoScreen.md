@@ -1,11 +1,21 @@
 # OpenCardUpgradeInfoScreen
+
 Function name in MetaUpgradeCardPromptScreenLogic.lua
+
 ## Parameters
-`parentScreen`
+
+| Name         | Description |
+| ------------ | ----------- |
+| parentScreen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OpenCardUpgradeInfoScreen(parentScreen)
 ```
+
 ---

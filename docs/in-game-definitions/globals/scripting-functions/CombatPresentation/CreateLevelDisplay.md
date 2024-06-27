@@ -1,11 +1,22 @@
 # CreateLevelDisplay
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`newEnemy`, `currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| newEnemy   |             |
+| currentRun |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateLevelDisplay(newEnemy, currentRun)
 ```
+
 ---

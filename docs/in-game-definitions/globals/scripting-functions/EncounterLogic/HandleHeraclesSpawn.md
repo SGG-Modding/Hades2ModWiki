@@ -1,11 +1,21 @@
 # HandleHeraclesSpawn
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`eventSource`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HandleHeraclesSpawn(eventSource)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # HeraclesObjectiveResultPresentation
+
 Function name in EncounterPresentation_Late.lua
+
 ## Parameters
-`heracles`
+
+| Name     | Description |
+| -------- | ----------- |
+| heracles |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HeraclesObjectiveResultPresentation(heracles)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # AddTalentPoints
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`args`, `traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| args      |             |
+| traitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddTalentPoints(args, traitData)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # PulseObjectiveNegative
+
 Function name in ObjectiveLogic.lua
+
 ## Parameters
-`objectiveName`
+
+| Name          | Description |
+| ------------- | ----------- |
+| objectiveName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PulseObjectiveNegative(objectiveName)
 ```
+
 ---

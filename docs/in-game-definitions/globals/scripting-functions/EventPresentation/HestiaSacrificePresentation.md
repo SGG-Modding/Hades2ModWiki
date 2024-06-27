@@ -1,11 +1,21 @@
 # HestiaSacrificePresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`removedTraitName`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| removedTraitName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HestiaSacrificePresentation(removedTraitName)
 ```
+
 ---

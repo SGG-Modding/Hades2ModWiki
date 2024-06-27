@@ -1,11 +1,22 @@
 # OpenGraspLimitScreen
+
 Function name in MetaUpgradeCardPromptScreenLogic.lua
+
 ## Parameters
-`parentScreen`, `useAltText`
+
+| Name         | Description |
+| ------------ | ----------- |
+| parentScreen |             |
+| useAltText   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OpenGraspLimitScreen(parentScreen, useAltText)
 ```
+
 ---

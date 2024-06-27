@@ -1,11 +1,22 @@
 # CloseInventoryScreen
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CloseInventoryScreen(screen, button)
 ```
+
 ---

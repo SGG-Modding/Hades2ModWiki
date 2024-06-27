@@ -1,11 +1,22 @@
 # DoCosmeticShopPurchase
+
 Function name in CosmeticsLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoCosmeticShopPurchase(screen, button)
 ```
+
 ---

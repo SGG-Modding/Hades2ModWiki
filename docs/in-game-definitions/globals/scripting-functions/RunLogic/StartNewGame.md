@@ -1,11 +1,21 @@
 # StartNewGame
+
 Function name in RunLogic.lua
+
 ## Parameters
-`mapName`
+
+| Name    | Description |
+| ------- | ----------- |
+| mapName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartNewGame(mapName)
 ```
+
 ---

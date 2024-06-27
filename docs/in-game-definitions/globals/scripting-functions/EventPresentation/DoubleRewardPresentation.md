@@ -1,11 +1,21 @@
 # DoubleRewardPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`objectId`
+
+| Name     | Description |
+| -------- | ----------- |
+| objectId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoubleRewardPresentation(objectId)
 ```
+
 ---

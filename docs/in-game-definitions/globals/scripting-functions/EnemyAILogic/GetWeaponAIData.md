@@ -1,11 +1,22 @@
 # GetWeaponAIData
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemy`, `weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| enemy      |             |
+| weaponName |             |
+
 ## Returns
+
 `aiData`
+
 ## Usage
+
 ```lua
 GetWeaponAIData(enemy, weaponName)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # CheckPolymorphDeathExplosion
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`enemy`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckPolymorphDeathExplosion(enemy, args)
 ```
+
 ---

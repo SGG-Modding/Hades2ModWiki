@@ -1,11 +1,21 @@
 # HeraclesEncounterEndPresentation
+
 Function name in EncounterPresentation_Late.lua
+
 ## Parameters
-`heracles`
+
+| Name     | Description |
+| -------- | ----------- |
+| heracles |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HeraclesEncounterEndPresentation(heracles)
 ```
+
 ---

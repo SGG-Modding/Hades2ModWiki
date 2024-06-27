@@ -1,11 +1,21 @@
 # GetTraitFrame
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`trait`
+
+| Name  | Description |
+| ----- | ----------- |
+| trait |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 GetTraitFrame(trait)
 ```
+
 ---

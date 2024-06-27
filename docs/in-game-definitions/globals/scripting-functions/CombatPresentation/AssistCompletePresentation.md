@@ -1,11 +1,21 @@
 # AssistCompletePresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`assistData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| assistData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AssistCompletePresentation(assistData)
 ```
+
 ---

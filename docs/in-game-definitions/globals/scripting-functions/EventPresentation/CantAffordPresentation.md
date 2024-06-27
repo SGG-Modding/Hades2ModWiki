@@ -1,11 +1,21 @@
 # CantAffordPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`object`
+
+| Name   | Description |
+| ------ | ----------- |
+| object |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CantAffordPresentation(object)
 ```
+
 ---

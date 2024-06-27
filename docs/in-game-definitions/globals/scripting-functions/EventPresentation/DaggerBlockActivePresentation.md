@@ -1,11 +1,22 @@
 # DaggerBlockActivePresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`traitData`, `reloadTime`
+
+| Name       | Description |
+| ---------- | ----------- |
+| traitData  |             |
+| reloadTime |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DaggerBlockActivePresentation(traitData, reloadTime)
 ```
+
 ---

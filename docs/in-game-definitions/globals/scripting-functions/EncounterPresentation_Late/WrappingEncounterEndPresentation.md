@@ -1,11 +1,21 @@
 # WrappingEncounterEndPresentation
+
 Function name in EncounterPresentation_Late.lua
+
 ## Parameters
-`eventSource`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WrappingEncounterEndPresentation(eventSource)
 ```
+
 ---

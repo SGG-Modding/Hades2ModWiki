@@ -1,11 +1,21 @@
 # EndBountyRunPresentation
+
 Function name in BountyPresentation.lua
+
 ## Parameters
-`bountyData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| bountyData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EndBountyRunPresentation(bountyData)
 ```
+
 ---

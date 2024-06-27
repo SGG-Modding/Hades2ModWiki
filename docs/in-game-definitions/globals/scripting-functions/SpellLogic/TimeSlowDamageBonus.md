@@ -1,11 +1,23 @@
 # TimeSlowDamageBonus
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`enemy`, `functionArgs`, `triggerArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| enemy        |             |
+| functionArgs |             |
+| triggerArgs  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TimeSlowDamageBonus(enemy, functionArgs, triggerArgs)
 ```
+
 ---

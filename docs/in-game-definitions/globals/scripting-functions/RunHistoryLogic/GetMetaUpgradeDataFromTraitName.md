@@ -1,11 +1,21 @@
 # GetMetaUpgradeDataFromTraitName
+
 Function name in RunHistoryLogic.lua
+
 ## Parameters
-`traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+
 ## Returns
+
 `data`, `nil`
+
 ## Usage
+
 ```lua
 GetMetaUpgradeDataFromTraitName(traitName)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # SentryAI
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemy`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SentryAI(enemy)
 ```
+
 ---

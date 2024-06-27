@@ -1,11 +1,21 @@
 # ScyllaActivatePresentation
+
 Function name in RoomPresentation_Late.lua
+
 ## Parameters
-`enemy`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ScyllaActivatePresentation(enemy)
 ```
+
 ---

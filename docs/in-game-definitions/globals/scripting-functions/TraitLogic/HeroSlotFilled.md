@@ -1,11 +1,21 @@
 # HeroSlotFilled
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`slotName`
+
+| Name     | Description |
+| -------- | ----------- |
+| slotName |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HeroSlotFilled(slotName)
 ```
+
 ---

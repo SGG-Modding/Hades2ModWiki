@@ -1,11 +1,22 @@
 # AddStoreItemPin
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`name`, `storeName`
+
+| Name      | Description |
+| --------- | ----------- |
+| name      |             |
+| storeName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddStoreItemPin(name, storeName)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # GhostFollowers
+
 Function name in HubPresentation.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GhostFollowers(source, args)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # ReturnFamiliarToKit
+
 Function name in FamiliarLogic.lua
+
 ## Parameters
-`familiar`, `unequippedKit`, `args`
+
+| Name          | Description |
+| ------------- | ----------- |
+| familiar      |             |
+| unequippedKit |             |
+| args          |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ReturnFamiliarToKit(familiar, unequippedKit, args)
 ```
+
 ---

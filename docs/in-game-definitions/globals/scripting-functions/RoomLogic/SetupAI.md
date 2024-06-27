@@ -1,11 +1,22 @@
 # SetupAI
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`enemy`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetupAI(enemy, args)
 ```
+
 ---

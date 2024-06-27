@@ -1,11 +1,21 @@
 # SpellSummonPresentation
+
 Function name in SpellPresentation.lua
+
 ## Parameters
-`newEnemy`
+
+| Name     | Description |
+| -------- | ----------- |
+| newEnemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpellSummonPresentation(newEnemy)
 ```
+
 ---

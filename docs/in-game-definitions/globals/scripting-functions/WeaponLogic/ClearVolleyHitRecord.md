@@ -1,11 +1,21 @@
 # ClearVolleyHitRecord
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ClearVolleyHitRecord(weaponName)
 ```
+
 ---

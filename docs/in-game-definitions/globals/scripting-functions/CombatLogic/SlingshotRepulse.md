@@ -1,11 +1,22 @@
 # SlingshotRepulse
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`collidee`, `collider`
+
+| Name     | Description |
+| -------- | ----------- |
+| collidee |             |
+| collider |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SlingshotRepulse(collidee, collider)
 ```
+
 ---

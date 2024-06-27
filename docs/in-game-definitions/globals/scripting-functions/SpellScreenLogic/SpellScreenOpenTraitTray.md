@@ -1,11 +1,22 @@
 # SpellScreenOpenTraitTray
+
 Function name in SpellScreenLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpellScreenOpenTraitTray(screen, button)
 ```
+
 ---

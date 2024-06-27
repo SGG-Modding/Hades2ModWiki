@@ -1,11 +1,21 @@
 # GetRecursiveTableString
+
 Function name in Main.lua
+
 ## Parameters
-`object`
+
+| Name   | Description |
+| ------ | ----------- |
+| object |             |
+
 ## Returns
+
 `tableName`
+
 ## Usage
+
 ```lua
 GetRecursiveTableString(object)
 ```
+
 ---

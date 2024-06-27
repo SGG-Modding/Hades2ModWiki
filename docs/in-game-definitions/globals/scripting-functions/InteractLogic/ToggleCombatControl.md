@@ -1,11 +1,23 @@
 # ToggleCombatControl
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`controlNames`, `enabled`, `flag`
+
+| Name         | Description |
+| ------------ | ----------- |
+| controlNames |             |
+| enabled      |             |
+| flag         |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ToggleCombatControl(controlNames, enabled, flag)
 ```
+
 ---

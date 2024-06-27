@@ -1,11 +1,22 @@
 # CheckBurnDeathExplosion
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`enemy`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckBurnDeathExplosion(enemy, args)
 ```
+
 ---

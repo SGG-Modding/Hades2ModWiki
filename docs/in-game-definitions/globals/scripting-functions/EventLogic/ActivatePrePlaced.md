@@ -1,11 +1,22 @@
 # ActivatePrePlaced
+
 Function name in EventLogic.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `activatedUnits`
+
 ## Usage
+
 ```lua
 ActivatePrePlaced(eventSource, args)
 ```
+
 ---

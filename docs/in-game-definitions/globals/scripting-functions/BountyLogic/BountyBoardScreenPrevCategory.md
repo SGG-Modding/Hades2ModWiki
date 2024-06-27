@@ -1,11 +1,22 @@
 # BountyBoardScreenPrevCategory
+
 Function name in BountyLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BountyBoardScreenPrevCategory(screen, button)
 ```
+
 ---

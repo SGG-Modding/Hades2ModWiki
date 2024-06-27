@@ -1,11 +1,22 @@
 # EmptyIndirectCastCharge
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponName`, `stageReached`
+
+| Name         | Description |
+| ------------ | ----------- |
+| weaponName   |             |
+| stageReached |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EmptyIndirectCastCharge(weaponName, stageReached)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # HideResourceAfterDelay
+
 Function name in ResourcePresentation.lua
+
 ## Parameters
-`resourceName`
+
+| Name         | Description |
+| ------------ | ----------- |
+| resourceName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HideResourceAfterDelay(resourceName)
 ```
+
 ---

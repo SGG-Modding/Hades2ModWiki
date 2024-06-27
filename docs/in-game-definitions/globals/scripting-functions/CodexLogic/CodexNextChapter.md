@@ -1,11 +1,22 @@
 # CodexNextChapter
+
 Function name in CodexLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CodexNextChapter(screen, button)
 ```
+
 ---

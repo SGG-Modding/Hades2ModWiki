@@ -1,11 +1,22 @@
 # KeepsakeAcquireSpellDrop
+
 Function name in KeepsakeLogic.lua
+
 ## Parameters
-`args`, `trait`
+
+| Name  | Description |
+| ----- | ----------- |
+| args  |             |
+| trait |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 KeepsakeAcquireSpellDrop(args, trait)
 ```
+
 ---

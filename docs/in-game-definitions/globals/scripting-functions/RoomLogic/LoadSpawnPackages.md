@@ -1,11 +1,21 @@
 # LoadSpawnPackages
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`encounter`
+
+| Name      | Description |
+| --------- | ----------- |
+| encounter |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LoadSpawnPackages(encounter)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # DoorGoldCostumePresentation
+
 Function name in CostumePresentation.lua
+
 ## Parameters
-`money`
+
+| Name  | Description |
+| ----- | ----------- |
+| money |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoorGoldCostumePresentation(money)
 ```
+
 ---

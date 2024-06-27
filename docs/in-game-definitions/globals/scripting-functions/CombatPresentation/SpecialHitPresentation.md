@@ -1,11 +1,22 @@
 # SpecialHitPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`unit`, `triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| unit        |             |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpecialHitPresentation(unit, triggerArgs)
 ```
+
 ---

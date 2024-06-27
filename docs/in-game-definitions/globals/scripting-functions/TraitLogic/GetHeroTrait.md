@@ -1,11 +1,21 @@
 # GetHeroTrait
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetHeroTrait(traitName)
 ```
+
 ---

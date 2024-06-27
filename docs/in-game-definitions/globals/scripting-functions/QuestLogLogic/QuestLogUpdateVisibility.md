@@ -1,11 +1,21 @@
 # QuestLogUpdateVisibility
+
 Function name in QuestLogLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 QuestLogUpdateVisibility(screen)
 ```
+
 ---

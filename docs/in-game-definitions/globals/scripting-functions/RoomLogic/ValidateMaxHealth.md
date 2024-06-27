@@ -1,11 +1,21 @@
 # ValidateMaxHealth
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`blockDelta`
+
+| Name       | Description |
+| ---------- | ----------- |
+| blockDelta |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ValidateMaxHealth(blockDelta)
 ```
+
 ---

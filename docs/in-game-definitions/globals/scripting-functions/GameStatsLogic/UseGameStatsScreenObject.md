@@ -1,11 +1,22 @@
 # UseGameStatsScreenObject
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseGameStatsScreenObject(usee, args)
 ```
+
 ---

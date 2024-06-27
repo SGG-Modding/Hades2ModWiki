@@ -1,11 +1,21 @@
 # ConfirmExitBelowLimitScreen
+
 Function name in MetaUpgradeCardPromptScreenLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ConfirmExitBelowLimitScreen(screen)
 ```
+
 ---

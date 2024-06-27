@@ -1,11 +1,22 @@
 # ActivateToolKit
+
 Function name in WeaponShopLogic.lua
+
 ## Parameters
-`itemData`, `args`
+
+| Name     | Description |
+| -------- | ----------- |
+| itemData |             |
+| args     |             |
+
 ## Returns
+
 `toolKit`
+
 ## Usage
+
 ```lua
 ActivateToolKit(itemData, args)
 ```
+
 ---

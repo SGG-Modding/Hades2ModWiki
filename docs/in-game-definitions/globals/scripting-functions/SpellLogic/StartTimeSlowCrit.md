@@ -1,11 +1,21 @@
 # StartTimeSlowCrit
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`traitArgs`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartTimeSlowCrit(traitArgs)
 ```
+
 ---

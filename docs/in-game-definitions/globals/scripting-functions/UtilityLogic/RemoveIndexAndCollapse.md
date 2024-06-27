@@ -1,11 +1,22 @@
 # RemoveIndexAndCollapse
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`, `indexToRemove`
+
+| Name          | Description |
+| ------------- | ----------- |
+| tableArg      |             |
+| indexToRemove |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveIndexAndCollapse(tableArg, indexToRemove)
 ```
+
 ---

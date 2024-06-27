@@ -1,11 +1,21 @@
-# __genOrderedIndex
+# \_\_genOrderedIndex
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`t`
+
+| Name | Description |
+| ---- | ----------- |
+| t    |             |
+
 ## Returns
+
 `orderedIndex`
+
 ## Usage
+
 ```lua
 __genOrderedIndex(t)
 ```
+
 ---

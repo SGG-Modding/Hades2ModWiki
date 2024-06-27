@@ -1,11 +1,21 @@
 # CheckCallLock
+
 Function name in UILogic.lua
+
 ## Parameters
-`name`
+
+| Name | Description |
+| ---- | ----------- |
+| name |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 CheckCallLock(name)
 ```
+
 ---

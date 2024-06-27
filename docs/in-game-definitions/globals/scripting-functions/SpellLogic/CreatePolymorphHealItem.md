@@ -1,11 +1,21 @@
 # CreatePolymorphHealItem
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`enemy`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+
 ## Returns
+
 `createdHealingItem`
+
 ## Usage
+
 ```lua
 CreatePolymorphHealItem(enemy)
 ```
+
 ---

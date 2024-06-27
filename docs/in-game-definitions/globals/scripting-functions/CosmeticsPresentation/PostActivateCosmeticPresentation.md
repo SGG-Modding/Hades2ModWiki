@@ -1,11 +1,22 @@
 # PostActivateCosmeticPresentation
+
 Function name in CosmeticsPresentation.lua
+
 ## Parameters
-`button`, `saleData`
+
+| Name     | Description |
+| -------- | ----------- |
+| button   |             |
+| saleData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PostActivateCosmeticPresentation(button, saleData)
 ```
+
 ---

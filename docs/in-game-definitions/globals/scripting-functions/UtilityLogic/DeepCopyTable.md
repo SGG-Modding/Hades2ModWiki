@@ -1,11 +1,21 @@
 # DeepCopyTable
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`orig`
+
+| Name | Description |
+| ---- | ----------- |
+| orig |             |
+
 ## Returns
+
 `copy`
+
 ## Usage
+
 ```lua
 DeepCopyTable(orig)
 ```
+
 ---

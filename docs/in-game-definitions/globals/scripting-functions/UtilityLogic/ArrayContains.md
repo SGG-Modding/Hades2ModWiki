@@ -1,11 +1,22 @@
 # ArrayContains
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`arrayArg`, `value`
+
+| Name     | Description |
+| -------- | ----------- |
+| arrayArg |             |
+| value    |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 ArrayContains(arrayArg, value)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # MouseOverMetaIconTray
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOverMetaIconTray(button)
 ```
+
 ---

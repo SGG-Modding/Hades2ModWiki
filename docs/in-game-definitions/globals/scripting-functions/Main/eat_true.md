@@ -1,11 +1,22 @@
 # eat_true
+
 Function name in Main.lua
+
 ## Parameters
-`t`, `...`
+
+| Name | Description |
+| ---- | ----------- |
+| t    |             |
+| ...  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 eat_true(t, ...)
 ```
+
 ---

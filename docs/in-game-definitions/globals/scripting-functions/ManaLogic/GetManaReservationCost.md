@@ -1,11 +1,21 @@
 # GetManaReservationCost
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `manaCost`
+
 ## Usage
+
 ```lua
 GetManaReservationCost(weaponData)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # WeaponShopSessionCompletePresentation
+
 Function name in WeaponShopPresentation.lua
+
 ## Parameters
-`usee`, `screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| usee   |             |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WeaponShopSessionCompletePresentation(usee, screen)
 ```
+
 ---

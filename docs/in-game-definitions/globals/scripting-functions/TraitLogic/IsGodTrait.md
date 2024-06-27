@@ -1,11 +1,22 @@
 # IsGodTrait
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`traitName`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+| args      |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsGodTrait(traitName, args)
 ```
+
 ---

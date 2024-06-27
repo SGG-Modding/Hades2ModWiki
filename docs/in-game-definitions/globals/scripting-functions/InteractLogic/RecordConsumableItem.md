@@ -1,11 +1,21 @@
 # RecordConsumableItem
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`consumableItem`
+
+| Name           | Description |
+| -------------- | ----------- |
+| consumableItem |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RecordConsumableItem(consumableItem)
 ```
+
 ---

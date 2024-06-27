@@ -1,11 +1,21 @@
 # GenerateMailboxItems
+
 Function name in MailboxLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GenerateMailboxItems(args)
 ```
+
 ---

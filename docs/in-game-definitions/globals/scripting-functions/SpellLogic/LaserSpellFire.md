@@ -1,11 +1,22 @@
 # LaserSpellFire
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`unit`, `weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| unit       |             |
+| weaponData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LaserSpellFire(unit, weaponData)
 ```
+
 ---

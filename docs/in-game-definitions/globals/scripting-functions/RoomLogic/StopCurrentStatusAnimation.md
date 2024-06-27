@@ -1,11 +1,21 @@
 # StopCurrentStatusAnimation
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StopCurrentStatusAnimation(source)
 ```
+
 ---

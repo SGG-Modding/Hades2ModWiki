@@ -1,11 +1,21 @@
 # EndChallengeEncounter
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`challengeEncounter`
+
+| Name               | Description |
+| ------------------ | ----------- |
+| challengeEncounter |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EndChallengeEncounter(challengeEncounter)
 ```
+
 ---

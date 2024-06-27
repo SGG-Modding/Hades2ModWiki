@@ -1,11 +1,17 @@
 # GetPlayerGameplayElapsedTimeMultiplier
+
 Function name in CombatLogic.lua
+
 ## Parameters
 
 ## Returns
+
 `minValue`
+
 ## Usage
+
 ```lua
 GetPlayerGameplayElapsedTimeMultiplier()
 ```
+
 ---

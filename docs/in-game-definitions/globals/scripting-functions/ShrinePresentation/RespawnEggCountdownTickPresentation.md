@@ -1,11 +1,22 @@
 # RespawnEggCountdownTickPresentation
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`egg`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| egg  |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RespawnEggCountdownTickPresentation(egg, args)
 ```
+
 ---

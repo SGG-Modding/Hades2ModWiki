@@ -1,11 +1,21 @@
 # MouseOverCodexEntry
+
 Function name in CodexPresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOverCodexEntry(button)
 ```
+
 ---

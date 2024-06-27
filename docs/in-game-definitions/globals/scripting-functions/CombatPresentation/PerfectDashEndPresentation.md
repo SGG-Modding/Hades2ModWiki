@@ -1,11 +1,22 @@
 # PerfectDashEndPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`triggerArgs`, `text`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+| text        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PerfectDashEndPresentation(triggerArgs, text)
 ```
+
 ---

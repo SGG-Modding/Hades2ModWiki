@@ -1,11 +1,22 @@
 # ShowCombatUI
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`flag`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| flag |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShowCombatUI(flag, args)
 ```
+
 ---

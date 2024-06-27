@@ -1,11 +1,22 @@
 # PlayerReceivedGiftPresentation
+
 Function name in GiftPresentation.lua
+
 ## Parameters
-`npc`, `giftName`
+
+| Name     | Description |
+| -------- | ----------- |
+| npc      |             |
+| giftName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PlayerReceivedGiftPresentation(npc, giftName)
 ```
+
 ---

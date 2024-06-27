@@ -1,11 +1,22 @@
 # HeroDamagePresentationThread
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`args`, `sourceSimData`
+
+| Name          | Description |
+| ------------- | ----------- |
+| args          |             |
+| sourceSimData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HeroDamagePresentationThread(args, sourceSimData)
 ```
+
 ---

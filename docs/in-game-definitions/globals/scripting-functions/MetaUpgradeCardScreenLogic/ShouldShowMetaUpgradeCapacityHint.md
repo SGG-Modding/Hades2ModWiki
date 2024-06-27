@@ -1,11 +1,21 @@
 # ShouldShowMetaUpgradeCapacityHint
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 ShouldShowMetaUpgradeCapacityHint(screen)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # FinishedTextLinesPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`source`, `textLines`
+
+| Name      | Description |
+| --------- | ----------- |
+| source    |             |
+| textLines |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FinishedTextLinesPresentation(source, textLines)
 ```
+
 ---

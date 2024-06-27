@@ -1,11 +1,22 @@
 # MailboxPurchaseSuccessPresentation
+
 Function name in MailboxPresentation.lua
+
 ## Parameters
-`screen`, `item`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| item   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MailboxPurchaseSuccessPresentation(screen, item)
 ```
+
 ---

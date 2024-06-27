@@ -1,11 +1,22 @@
 # CheckHeraManaRestore
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`args`, `manaCost`
+
+| Name     | Description |
+| -------- | ----------- |
+| args     |             |
+| manaCost |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckHeraManaRestore(args, manaCost)
 ```
+
 ---

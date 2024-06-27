@@ -1,11 +1,21 @@
 # HestiaSprintSplash
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`functionArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| functionArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HestiaSprintSplash(functionArgs)
 ```
+
 ---

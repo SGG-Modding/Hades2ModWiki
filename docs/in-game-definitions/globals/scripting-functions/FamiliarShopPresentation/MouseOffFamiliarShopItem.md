@@ -1,11 +1,21 @@
 # MouseOffFamiliarShopItem
+
 Function name in FamiliarShopPresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOffFamiliarShopItem(button)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # MouseOverTalentButton
+
 Function name in TalentScreenLogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOverTalentButton(button)
 ```
+
 ---

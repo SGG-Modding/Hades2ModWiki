@@ -1,11 +1,22 @@
 # BadgePurchasePresentation
+
 Function name in BadgePresentation.lua
+
 ## Parameters
-`usee`, `badgeData`
+
+| Name      | Description |
+| --------- | ----------- |
+| usee      |             |
+| badgeData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BadgePurchasePresentation(usee, badgeData)
 ```
+
 ---

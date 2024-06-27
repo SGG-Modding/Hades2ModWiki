@@ -1,11 +1,21 @@
 # BountyPackageRunEndPresentation
+
 Function name in BountyPresentation.lua
+
 ## Parameters
-`bountyName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| bountyName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BountyPackageRunEndPresentation(bountyName)
 ```
+
 ---

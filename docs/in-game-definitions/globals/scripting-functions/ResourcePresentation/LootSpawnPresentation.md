@@ -1,11 +1,22 @@
 # LootSpawnPresentation
+
 Function name in ResourcePresentation.lua
+
 ## Parameters
-`loot`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| loot |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LootSpawnPresentation(loot, args)
 ```
+
 ---

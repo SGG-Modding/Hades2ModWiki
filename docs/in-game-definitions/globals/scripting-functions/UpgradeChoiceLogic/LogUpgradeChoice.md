@@ -1,11 +1,21 @@
 # LogUpgradeChoice
+
 Function name in UpgradeChoiceLogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LogUpgradeChoice(button)
 ```
+
 ---

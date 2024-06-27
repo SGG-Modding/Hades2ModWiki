@@ -1,11 +1,21 @@
 # StartChallengeEncounter
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`challengeSwitch`
+
+| Name            | Description |
+| --------------- | ----------- |
+| challengeSwitch |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartChallengeEncounter(challengeSwitch)
 ```
+
 ---

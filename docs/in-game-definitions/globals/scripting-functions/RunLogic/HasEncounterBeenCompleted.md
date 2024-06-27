@@ -1,11 +1,21 @@
 # HasEncounterBeenCompleted
+
 Function name in RunLogic.lua
+
 ## Parameters
-`encounterName`
+
+| Name          | Description |
+| ------------- | ----------- |
+| encounterName |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasEncounterBeenCompleted(encounterName)
 ```
+
 ---

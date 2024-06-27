@@ -1,11 +1,22 @@
 # TraitUIAdd
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`trait`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| trait |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitUIAdd(trait, args)
 ```
+
 ---

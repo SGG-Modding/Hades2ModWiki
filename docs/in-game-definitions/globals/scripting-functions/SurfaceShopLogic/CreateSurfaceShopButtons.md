@@ -1,11 +1,21 @@
 # CreateSurfaceShopButtons
+
 Function name in SurfaceShopLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateSurfaceShopButtons(screen)
 ```
+
 ---

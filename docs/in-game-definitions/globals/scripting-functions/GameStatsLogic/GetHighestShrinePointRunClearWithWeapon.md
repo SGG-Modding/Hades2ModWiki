@@ -1,11 +1,22 @@
 # GetHighestShrinePointRunClearWithWeapon
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`currentRun`, `weapon`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+| weapon     |             |
+
 ## Returns
+
 `highestPoints`
+
 ## Usage
+
 ```lua
 GetHighestShrinePointRunClearWithWeapon(currentRun, weapon)
 ```
+
 ---

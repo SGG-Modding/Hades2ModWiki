@@ -1,11 +1,22 @@
 # PolymorphClearPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`triggerArgs`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PolymorphClearPresentation(triggerArgs, args)
 ```
+
 ---

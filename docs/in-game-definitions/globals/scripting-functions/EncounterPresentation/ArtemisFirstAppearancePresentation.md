@@ -1,11 +1,21 @@
 # ArtemisFirstAppearancePresentation
+
 Function name in EncounterPresentation.lua
+
 ## Parameters
-`artemis`
+
+| Name    | Description |
+| ------- | ----------- |
+| artemis |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ArtemisFirstAppearancePresentation(artemis)
 ```
+
 ---

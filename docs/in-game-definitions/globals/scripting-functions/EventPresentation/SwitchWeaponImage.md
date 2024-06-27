@@ -1,11 +1,22 @@
 # SwitchWeaponImage
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`id`, `newImageName`
+
+| Name         | Description |
+| ------------ | ----------- |
+| id           |             |
+| newImageName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SwitchWeaponImage(id, newImageName)
 ```
+
 ---

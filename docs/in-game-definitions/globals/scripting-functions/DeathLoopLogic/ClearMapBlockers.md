@@ -1,11 +1,22 @@
 # ClearMapBlockers
+
 Function name in DeathLoopLogic.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ClearMapBlockers(eventSource, args)
 ```
+
 ---

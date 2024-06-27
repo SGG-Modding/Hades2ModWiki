@@ -1,11 +1,22 @@
 # GetSurfaceShopText
+
 Function name in SurfaceShopLogic.lua
+
 ## Parameters
-`upgradeData`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| upgradeData |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetSurfaceShopText(upgradeData, args)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GetHighestIndex
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+
 ## Returns
+
 `highestIndex`
+
 ## Usage
+
 ```lua
 GetHighestIndex(tableArg)
 ```
+
 ---

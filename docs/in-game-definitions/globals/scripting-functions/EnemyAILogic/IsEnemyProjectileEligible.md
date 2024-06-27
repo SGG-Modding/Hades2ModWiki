@@ -1,11 +1,22 @@
 # IsEnemyProjectileEligible
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemy`, `projectileData`
+
+| Name           | Description |
+| -------------- | ----------- |
+| enemy          |             |
+| projectileData |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsEnemyProjectileEligible(enemy, projectileData)
 ```
+
 ---

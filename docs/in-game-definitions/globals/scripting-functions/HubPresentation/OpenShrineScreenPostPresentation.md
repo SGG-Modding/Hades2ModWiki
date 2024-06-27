@@ -1,11 +1,21 @@
 # OpenShrineScreenPostPresentation
+
 Function name in HubPresentation.lua
+
 ## Parameters
-`menuObjectId`
+
+| Name         | Description |
+| ------------ | ----------- |
+| menuObjectId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OpenShrineScreenPostPresentation(menuObjectId)
 ```
+
 ---

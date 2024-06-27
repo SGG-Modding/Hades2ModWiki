@@ -1,11 +1,21 @@
 # ShouldDoLastKillPresentation
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`currentEncounter`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| currentEncounter |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 ShouldDoLastKillPresentation(currentEncounter)
 ```
+
 ---

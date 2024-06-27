@@ -1,11 +1,22 @@
 # ChooseStartingRoom
+
 Function name in RunLogic.lua
+
 ## Parameters
-`currentRun`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+| args       |             |
+
 ## Returns
+
 `startingRoom`
+
 ## Usage
+
 ```lua
 ChooseStartingRoom(currentRun, args)
 ```
+
 ---

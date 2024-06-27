@@ -1,11 +1,22 @@
 # IsCancelSimEffectAllowed
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`cancelingWeaponData`, `canceledEffectNames`
+
+| Name                | Description |
+| ------------------- | ----------- |
+| cancelingWeaponData |             |
+| canceledEffectNames |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsCancelSimEffectAllowed(cancelingWeaponData, canceledEffectNames)
 ```
+
 ---

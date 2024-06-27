@@ -1,11 +1,22 @@
 # ShrineScreenAlreadyAtMaxPresentation
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShrineScreenAlreadyAtMaxPresentation(screen, button)
 ```
+
 ---

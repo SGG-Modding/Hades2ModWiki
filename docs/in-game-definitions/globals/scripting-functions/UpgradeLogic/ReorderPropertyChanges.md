@@ -1,11 +1,21 @@
 # ReorderPropertyChanges
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`propertyChanges`
+
+| Name            | Description |
+| --------------- | ----------- |
+| propertyChanges |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ReorderPropertyChanges(propertyChanges)
 ```
+
 ---

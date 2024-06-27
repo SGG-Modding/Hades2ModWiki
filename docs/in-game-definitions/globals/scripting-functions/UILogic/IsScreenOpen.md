@@ -1,11 +1,21 @@
 # IsScreenOpen
+
 Function name in UILogic.lua
+
 ## Parameters
-`screenName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| screenName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 IsScreenOpen(screenName)
 ```
+
 ---

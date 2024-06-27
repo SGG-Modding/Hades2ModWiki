@@ -1,11 +1,22 @@
 # DaggerBlockSetup
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`hero`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| hero |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DaggerBlockSetup(hero, args)
 ```
+
 ---

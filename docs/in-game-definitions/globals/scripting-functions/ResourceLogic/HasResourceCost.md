@@ -1,11 +1,21 @@
 # HasResourceCost
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`resourceCosts`
+
+| Name          | Description |
+| ------------- | ----------- |
+| resourceCosts |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasResourceCost(resourceCosts)
 ```
+
 ---

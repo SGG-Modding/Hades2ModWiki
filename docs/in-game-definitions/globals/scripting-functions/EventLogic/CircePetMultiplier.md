@@ -1,11 +1,21 @@
 # CircePetMultiplier
+
 Function name in EventLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CircePetMultiplier(args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # GhostAdminSessionCompletePresentation
+
 Function name in GhostAdminPresentation.lua
+
 ## Parameters
-`usee`, `screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| usee   |             |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GhostAdminSessionCompletePresentation(usee, screen)
 ```
+
 ---

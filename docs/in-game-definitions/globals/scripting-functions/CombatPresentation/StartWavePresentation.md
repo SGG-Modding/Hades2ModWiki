@@ -1,11 +1,22 @@
 # StartWavePresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`encounter`, `wave`
+
+| Name      | Description |
+| --------- | ----------- |
+| encounter |             |
+| wave      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartWavePresentation(encounter, wave)
 ```
+
 ---

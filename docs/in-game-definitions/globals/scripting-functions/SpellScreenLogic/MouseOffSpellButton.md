@@ -1,11 +1,21 @@
 # MouseOffSpellButton
+
 Function name in SpellScreenLogic.lua
+
 ## Parameters
-`component`
+
+| Name      | Description |
+| --------- | ----------- |
+| component |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOffSpellButton(component)
 ```
+
 ---

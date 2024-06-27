@@ -1,11 +1,21 @@
 # CreateScreenObstacle
+
 Function name in UILogic.lua
+
 ## Parameters
-`params`
+
+| Name   | Description |
+| ------ | ----------- |
+| params |             |
+
 ## Returns
+
 `obstacleId`
+
 ## Usage
+
 ```lua
 CreateScreenObstacle(params)
 ```
+
 ---

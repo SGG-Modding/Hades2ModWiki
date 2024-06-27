@@ -1,11 +1,22 @@
 # CloseMarketScreen
+
 Function name in MarketLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CloseMarketScreen(screen, button)
 ```
+
 ---

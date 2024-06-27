@@ -1,11 +1,21 @@
 # MouseOffMetaIconTray
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOffMetaIconTray(button)
 ```
+
 ---

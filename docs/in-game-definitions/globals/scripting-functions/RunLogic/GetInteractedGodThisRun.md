@@ -1,11 +1,21 @@
 # GetInteractedGodThisRun
+
 Function name in RunLogic.lua
+
 ## Parameters
-`ignoredGod`
+
+| Name       | Description |
+| ---------- | ----------- |
+| ignoredGod |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetInteractedGodThisRun(ignoredGod)
 ```
+
 ---

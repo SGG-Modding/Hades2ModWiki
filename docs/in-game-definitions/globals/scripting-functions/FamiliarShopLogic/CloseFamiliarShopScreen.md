@@ -1,11 +1,22 @@
 # CloseFamiliarShopScreen
+
 Function name in FamiliarShopLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CloseFamiliarShopScreen(screen, button)
 ```
+
 ---

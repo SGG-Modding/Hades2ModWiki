@@ -1,11 +1,21 @@
 # HasActiveQuestForItem
+
 Function name in QuestLogLogic.lua
+
 ## Parameters
-`name`
+
+| Name | Description |
+| ---- | ----------- |
+| name |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasActiveQuestForItem(name)
 ```
+
 ---

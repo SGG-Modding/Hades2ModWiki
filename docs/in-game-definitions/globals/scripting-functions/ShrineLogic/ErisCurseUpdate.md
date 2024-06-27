@@ -1,11 +1,22 @@
 # ErisCurseUpdate
+
 Function name in ShrineLogic.lua
+
 ## Parameters
-`trait`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| trait |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ErisCurseUpdate(trait, args)
 ```
+
 ---

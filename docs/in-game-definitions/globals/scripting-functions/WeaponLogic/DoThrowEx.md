@@ -1,11 +1,21 @@
 # DoThrowEx
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoThrowEx(weaponName)
 ```
+
 ---

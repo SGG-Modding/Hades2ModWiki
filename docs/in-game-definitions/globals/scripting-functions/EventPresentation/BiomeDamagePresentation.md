@@ -1,11 +1,21 @@
 # BiomeDamagePresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`damageAmount`
+
+| Name         | Description |
+| ------------ | ----------- |
+| damageAmount |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BiomeDamagePresentation(damageAmount)
 ```
+
 ---

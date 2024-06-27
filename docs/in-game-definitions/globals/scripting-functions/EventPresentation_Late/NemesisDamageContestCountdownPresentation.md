@@ -1,11 +1,23 @@
 # NemesisDamageContestCountdownPresentation
+
 Function name in EventPresentation_Late.lua
+
 ## Parameters
-`source`, `args`, `timeRemaining`
+
+| Name          | Description |
+| ------------- | ----------- |
+| source        |             |
+| args          |             |
+| timeRemaining |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 NemesisDamageContestCountdownPresentation(source, args, timeRemaining)
 ```
+
 ---

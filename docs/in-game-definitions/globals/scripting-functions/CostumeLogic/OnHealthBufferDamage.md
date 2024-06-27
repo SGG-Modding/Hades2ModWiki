@@ -1,11 +1,22 @@
 # OnHealthBufferDamage
+
 Function name in CostumeLogic.lua
+
 ## Parameters
-`hero`, `damageTaken`
+
+| Name        | Description |
+| ----------- | ----------- |
+| hero        |             |
+| damageTaken |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OnHealthBufferDamage(hero, damageTaken)
 ```
+
 ---

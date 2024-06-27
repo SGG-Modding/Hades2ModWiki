@@ -1,11 +1,22 @@
 # GetTimerString
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`totalSeconds`, `decimals`
+
+| Name         | Description |
+| ------------ | ----------- |
+| totalSeconds |             |
+| decimals     |             |
+
 ## Returns
+
 `str`
+
 ## Usage
+
 ```lua
 GetTimerString(totalSeconds, decimals)
 ```
+
 ---

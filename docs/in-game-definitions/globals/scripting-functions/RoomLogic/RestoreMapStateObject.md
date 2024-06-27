@@ -1,11 +1,22 @@
 # RestoreMapStateObject
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`mapName`, `object`
+
+| Name    | Description |
+| ------- | ----------- |
+| mapName |             |
+| object  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RestoreMapStateObject(mapName, object)
 ```
+
 ---

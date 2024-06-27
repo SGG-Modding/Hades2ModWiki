@@ -1,11 +1,22 @@
 # AutoUseFailedPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`useTarget`, `userId`
+
+| Name      | Description |
+| --------- | ----------- |
+| useTarget |             |
+| userId    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AutoUseFailedPresentation(useTarget, userId)
 ```
+
 ---

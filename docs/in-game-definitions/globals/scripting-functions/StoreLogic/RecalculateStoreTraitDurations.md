@@ -1,11 +1,21 @@
 # RecalculateStoreTraitDurations
+
 Function name in StoreLogic.lua
+
 ## Parameters
-`traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RecalculateStoreTraitDurations(traitData)
 ```
+
 ---

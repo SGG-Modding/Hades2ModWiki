@@ -1,11 +1,21 @@
 # RaiseDeadPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`newEnemy`
+
+| Name     | Description |
+| -------- | ----------- |
+| newEnemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RaiseDeadPresentation(newEnemy)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # DoWeaponFireRumble
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`weaponData`, `projectileData`
+
+| Name           | Description |
+| -------------- | ----------- |
+| weaponData     |             |
+| projectileData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoWeaponFireRumble(weaponData, projectileData)
 ```
+
 ---

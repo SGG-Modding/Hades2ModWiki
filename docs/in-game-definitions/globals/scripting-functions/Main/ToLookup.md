@@ -1,11 +1,21 @@
 # ToLookup
+
 Function name in Main.lua
+
 ## Parameters
-`table`
+
+| Name  | Description |
+| ----- | ----------- |
+| table |             |
+
 ## Returns
+
 `lookup`
+
 ## Usage
+
 ```lua
 ToLookup(table)
 ```
+
 ---

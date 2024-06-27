@@ -1,11 +1,21 @@
 # ReleaseCallLock
+
 Function name in UILogic.lua
+
 ## Parameters
-`name`
+
+| Name | Description |
+| ---- | ----------- |
+| name |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ReleaseCallLock(name)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GhostAdminHideItems
+
 Function name in GhostAdminLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GhostAdminHideItems(screen)
 ```
+
 ---

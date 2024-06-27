@@ -1,11 +1,21 @@
 # StripRequirements
+
 Function name in EventLogic.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StripRequirements(source)
 ```
+
 ---

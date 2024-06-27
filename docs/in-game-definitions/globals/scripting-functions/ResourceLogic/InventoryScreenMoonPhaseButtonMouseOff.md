@@ -1,11 +1,21 @@
 # InventoryScreenMoonPhaseButtonMouseOff
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 InventoryScreenMoonPhaseButtonMouseOff(button)
 ```
+
 ---

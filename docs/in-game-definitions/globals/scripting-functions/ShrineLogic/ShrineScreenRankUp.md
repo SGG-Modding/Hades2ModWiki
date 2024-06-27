@@ -1,11 +1,22 @@
 # ShrineScreenRankUp
+
 Function name in ShrineLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShrineScreenRankUp(screen, button)
 ```
+
 ---

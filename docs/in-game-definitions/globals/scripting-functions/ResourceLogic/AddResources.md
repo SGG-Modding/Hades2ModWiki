@@ -1,11 +1,22 @@
 # AddResources
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddResources(eventSource, args)
 ```
+
 ---

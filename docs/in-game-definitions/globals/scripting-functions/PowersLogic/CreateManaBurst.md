@@ -1,11 +1,22 @@
 # CreateManaBurst
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`traitArgs`, `totalBursts`
+
+| Name        | Description |
+| ----------- | ----------- |
+| traitArgs   |             |
+| totalBursts |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateManaBurst(traitArgs, totalBursts)
 ```
+
 ---

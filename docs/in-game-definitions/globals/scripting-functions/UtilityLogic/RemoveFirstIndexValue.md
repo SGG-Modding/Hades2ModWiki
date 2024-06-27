@@ -1,11 +1,21 @@
 # RemoveFirstIndexValue
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+
 ## Returns
+
 `returnValue`
+
 ## Usage
+
 ```lua
 RemoveFirstIndexValue(tableArg)
 ```
+
 ---

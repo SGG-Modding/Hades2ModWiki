@@ -1,11 +1,21 @@
 # GetResourceAmount
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`name`
+
+| Name | Description |
+| ---- | ----------- |
+| name |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetResourceAmount(name)
 ```
+
 ---

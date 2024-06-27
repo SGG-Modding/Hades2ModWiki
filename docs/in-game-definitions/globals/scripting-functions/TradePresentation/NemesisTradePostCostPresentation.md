@@ -1,11 +1,22 @@
 # NemesisTradePostCostPresentation
+
 Function name in TradePresentation.lua
+
 ## Parameters
-`screen`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 NemesisTradePostCostPresentation(screen, args)
 ```
+
 ---

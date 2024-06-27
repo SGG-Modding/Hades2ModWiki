@@ -1,11 +1,21 @@
 # FamiliarRestingPresentation
+
 Function name in FamiliarPresentation.lua
+
 ## Parameters
-`familiarKit`
+
+| Name        | Description |
+| ----------- | ----------- |
+| familiarKit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FamiliarRestingPresentation(familiarKit)
 ```
+
 ---

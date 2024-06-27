@@ -1,11 +1,21 @@
 # RandomSetNextInitSeed
+
 Function name in RandomLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RandomSetNextInitSeed(args)
 ```
+
 ---

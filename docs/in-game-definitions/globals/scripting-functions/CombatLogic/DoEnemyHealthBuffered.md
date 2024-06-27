@@ -1,11 +1,21 @@
 # DoEnemyHealthBuffered
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`enemy`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoEnemyHealthBuffered(enemy)
 ```
+
 ---

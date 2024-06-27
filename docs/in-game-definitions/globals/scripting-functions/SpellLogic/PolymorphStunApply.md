@@ -1,11 +1,21 @@
 # PolymorphStunApply
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PolymorphStunApply(triggerArgs)
 ```
+
 ---

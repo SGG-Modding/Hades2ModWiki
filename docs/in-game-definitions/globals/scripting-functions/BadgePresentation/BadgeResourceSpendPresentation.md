@@ -1,11 +1,22 @@
 # BadgeResourceSpendPresentation
+
 Function name in BadgePresentation.lua
+
 ## Parameters
-`usee`, `resourceCost`
+
+| Name         | Description |
+| ------------ | ----------- |
+| usee         |             |
+| resourceCost |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BadgeResourceSpendPresentation(usee, resourceCost)
 ```
+
 ---

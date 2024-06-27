@@ -1,11 +1,21 @@
 # UpgradeMetaUpgradeCardPresentation
+
 Function name in MetaUpgradeCardScreenPresentation.lua
+
 ## Parameters
-`selectedButton`
+
+| Name           | Description |
+| -------------- | ----------- |
+| selectedButton |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpgradeMetaUpgradeCardPresentation(selectedButton)
 ```
+
 ---

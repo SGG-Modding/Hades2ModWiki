@@ -1,11 +1,21 @@
 # CanSpecialInteract
+
 Function name in GiftLogic.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 CanSpecialInteract(source)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # UnoccupySpawnPoint
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`spawnPointId`
+
+| Name         | Description |
+| ------------ | ----------- |
+| spawnPointId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnoccupySpawnPoint(spawnPointId)
 ```
+
 ---

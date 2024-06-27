@@ -1,11 +1,23 @@
 # GardenPlantSeedPresentation
+
 Function name in GardenPresentation.lua
+
 ## Parameters
-`plot`, `args`, `user`
+
+| Name | Description |
+| ---- | ----------- |
+| plot |             |
+| args |             |
+| user |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GardenPlantSeedPresentation(plot, args, user)
 ```
+
 ---

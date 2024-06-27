@@ -1,11 +1,21 @@
 # IsBonusUnusedWeapon
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsBonusUnusedWeapon(weaponName)
 ```
+
 ---

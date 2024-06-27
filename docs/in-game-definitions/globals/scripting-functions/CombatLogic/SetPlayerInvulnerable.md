@@ -1,11 +1,21 @@
 # SetPlayerInvulnerable
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`flag`
+
+| Name | Description |
+| ---- | ----------- |
+| flag |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetPlayerInvulnerable(flag)
 ```
+
 ---

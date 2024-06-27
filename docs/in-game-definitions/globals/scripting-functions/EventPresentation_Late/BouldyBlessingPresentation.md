@@ -1,11 +1,21 @@
 # BouldyBlessingPresentation
+
 Function name in EventPresentation_Late.lua
+
 ## Parameters
-`traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BouldyBlessingPresentation(traitName)
 ```
+
 ---

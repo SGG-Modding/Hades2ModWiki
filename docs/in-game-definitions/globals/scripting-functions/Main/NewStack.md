@@ -1,11 +1,21 @@
 # NewStack
+
 Function name in Main.lua
+
 ## Parameters
-`t`
+
+| Name | Description |
+| ---- | ----------- |
+| t    |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 NewStack(t)
 ```
+
 ---

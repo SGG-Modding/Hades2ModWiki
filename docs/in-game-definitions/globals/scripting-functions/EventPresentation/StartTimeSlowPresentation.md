@@ -1,11 +1,21 @@
 # StartTimeSlowPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`duration`
+
+| Name     | Description |
+| -------- | ----------- |
+| duration |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartTimeSlowPresentation(duration)
 ```
+
 ---

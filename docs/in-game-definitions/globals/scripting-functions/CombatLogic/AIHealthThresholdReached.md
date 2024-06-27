@@ -1,11 +1,21 @@
 # AIHealthThresholdReached
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`victim`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AIHealthThresholdReached(victim)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # CheckClearCastCount
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`victim`, `functionArgs`, `triggerArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| victim       |             |
+| functionArgs |             |
+| triggerArgs  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckClearCastCount(victim, functionArgs, triggerArgs)
 ```
+
 ---

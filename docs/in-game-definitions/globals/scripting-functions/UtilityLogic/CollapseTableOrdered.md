@@ -1,11 +1,21 @@
 # CollapseTableOrdered
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+
 ## Returns
+
 `collapsed`
+
 ## Usage
+
 ```lua
 CollapseTableOrdered(tableArg)
 ```
+
 ---

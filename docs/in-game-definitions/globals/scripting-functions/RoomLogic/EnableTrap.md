@@ -1,11 +1,21 @@
 # EnableTrap
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`enemy`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EnableTrap(enemy)
 ```
+
 ---

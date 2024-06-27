@@ -1,11 +1,21 @@
 # CreateGroupHealthBar
+
 Function name in UILogic.lua
+
 ## Parameters
-`encounter`
+
+| Name      | Description |
+| --------- | ----------- |
+| encounter |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateGroupHealthBar(encounter)
 ```
+
 ---

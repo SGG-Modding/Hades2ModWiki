@@ -1,11 +1,21 @@
 # ProcessSimpleExtractValues
+
 Function name in RunData.lua
+
 ## Parameters
-`data`
+
+| Name | Description |
+| ---- | ----------- |
+| data |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ProcessSimpleExtractValues(data)
 ```
+
 ---

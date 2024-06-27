@@ -1,11 +1,23 @@
 # DestroyOnDelay
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`ids`, `delay`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| ids   |             |
+| delay |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DestroyOnDelay(ids, delay, args)
 ```
+
 ---

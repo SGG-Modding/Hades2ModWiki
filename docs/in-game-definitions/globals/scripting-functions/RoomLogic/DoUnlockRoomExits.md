@@ -1,11 +1,22 @@
 # DoUnlockRoomExits
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`run`, `room`
+
+| Name | Description |
+| ---- | ----------- |
+| run  |             |
+| room |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoUnlockRoomExits(run, room)
 ```
+
 ---

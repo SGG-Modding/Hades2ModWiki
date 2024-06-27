@@ -1,11 +1,22 @@
 # AddStoreItemPinPresentation
+
 Function name in ResourcePresentation.lua
+
 ## Parameters
-`selectedItem`, `args`
+
+| Name         | Description |
+| ------------ | ----------- |
+| selectedItem |             |
+| args         |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddStoreItemPinPresentation(selectedItem, args)
 ```
+
 ---

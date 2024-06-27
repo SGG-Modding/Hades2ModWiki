@@ -1,11 +1,21 @@
 # AngleNPCToHero
+
 Function name in EncounterPresentation.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AngleNPCToHero(source)
 ```
+
 ---

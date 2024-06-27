@@ -1,11 +1,22 @@
 # BonusHealthAndManaPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`bonusHealth`, `bonusMana`
+
+| Name        | Description |
+| ----------- | ----------- |
+| bonusHealth |             |
+| bonusMana   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BonusHealthAndManaPresentation(bonusHealth, bonusMana)
 ```
+
 ---

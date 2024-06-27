@@ -1,11 +1,21 @@
 # HasHeroTraitValue
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`propertyName`
+
+| Name         | Description |
+| ------------ | ----------- |
+| propertyName |             |
+
 ## Returns
+
 `trait`, `nil`
+
 ## Usage
+
 ```lua
 HasHeroTraitValue(propertyName)
 ```
+
 ---

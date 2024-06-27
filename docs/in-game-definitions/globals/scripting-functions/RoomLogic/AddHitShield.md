@@ -1,11 +1,21 @@
 # AddHitShield
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`count`
+
+| Name  | Description |
+| ----- | ----------- |
+| count |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddHitShield(count)
 ```
+
 ---

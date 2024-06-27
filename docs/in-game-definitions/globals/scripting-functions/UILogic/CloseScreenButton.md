@@ -1,11 +1,22 @@
 # CloseScreenButton
+
 Function name in UILogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CloseScreenButton(screen, button)
 ```
+
 ---

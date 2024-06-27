@@ -1,11 +1,21 @@
 # EphyraZoomOut
+
 Function name in EventPresentation_Late.lua
+
 ## Parameters
-`usee`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EphyraZoomOut(usee)
 ```
+
 ---

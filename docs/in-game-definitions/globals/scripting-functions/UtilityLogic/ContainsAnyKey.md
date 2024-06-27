@@ -1,11 +1,22 @@
 # ContainsAnyKey
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableToSearch`, `tableOfKeys`
+
+| Name          | Description |
+| ------------- | ----------- |
+| tableToSearch |             |
+| tableOfKeys   |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 ContainsAnyKey(tableToSearch, tableOfKeys)
 ```
+
 ---

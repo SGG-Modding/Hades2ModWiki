@@ -1,11 +1,22 @@
 # ContainsAll
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableToSearch`, `tableOfValues`
+
+| Name          | Description |
+| ------------- | ----------- |
+| tableToSearch |             |
+| tableOfValues |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 ContainsAll(tableToSearch, tableOfValues)
 ```
+
 ---

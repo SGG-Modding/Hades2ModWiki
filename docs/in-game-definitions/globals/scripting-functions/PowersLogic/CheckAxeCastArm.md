@@ -1,11 +1,22 @@
 # CheckAxeCastArm
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`triggerArgs`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckAxeCastArm(triggerArgs, args)
 ```
+
 ---

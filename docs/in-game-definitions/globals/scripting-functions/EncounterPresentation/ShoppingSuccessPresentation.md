@@ -1,11 +1,22 @@
 # ShoppingSuccessPresentation
+
 Function name in EncounterPresentation.lua
+
 ## Parameters
-`unit`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShoppingSuccessPresentation(unit, args)
 ```
+
 ---

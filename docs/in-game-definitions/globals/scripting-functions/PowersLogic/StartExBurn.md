@@ -1,11 +1,22 @@
 # StartExBurn
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`weaponData`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+| args       |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartExBurn(weaponData, args)
 ```
+
 ---

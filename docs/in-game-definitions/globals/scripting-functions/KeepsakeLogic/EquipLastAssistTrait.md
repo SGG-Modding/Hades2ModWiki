@@ -1,11 +1,22 @@
 # EquipLastAssistTrait
+
 Function name in KeepsakeLogic.lua
+
 ## Parameters
-`eventSource`, `hero`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| hero        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EquipLastAssistTrait(eventSource, hero)
 ```
+
 ---

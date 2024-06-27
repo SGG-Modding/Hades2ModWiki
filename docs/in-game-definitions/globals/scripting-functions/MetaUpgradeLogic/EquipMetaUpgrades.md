@@ -1,11 +1,22 @@
 # EquipMetaUpgrades
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`hero`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| hero |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EquipMetaUpgrades(hero, args)
 ```
+
 ---

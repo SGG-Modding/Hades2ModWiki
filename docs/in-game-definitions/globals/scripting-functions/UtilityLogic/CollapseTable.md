@@ -1,11 +1,21 @@
 # CollapseTable
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+
 ## Returns
+
 `collapsedTable`
+
 ## Usage
+
 ```lua
 CollapseTable(tableArg)
 ```
+
 ---

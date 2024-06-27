@@ -1,11 +1,22 @@
 # MusicSetTrackOffset
+
 Function name in AudioLogic.lua
+
 ## Parameters
-`trackData`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| trackData |             |
+| args      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MusicSetTrackOffset(trackData, args)
 ```
+
 ---

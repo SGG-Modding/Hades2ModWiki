@@ -1,11 +1,22 @@
 # GetNumMetaUpgrades
+
 Function name in RunLogic.lua
+
 ## Parameters
-`upgradeName`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| upgradeName |             |
+| args        |             |
+
 ## Returns
+
 `0`
+
 ## Usage
+
 ```lua
 GetNumMetaUpgrades(upgradeName, args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # NemesisDropPresentation
+
 Function name in TradePresentation.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 NemesisDropPresentation(source, args)
 ```
+
 ---

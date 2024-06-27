@@ -1,11 +1,22 @@
 # SecretMusicPlayer
+
 Function name in AudioLogic.lua
+
 ## Parameters
-`trackName`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| trackName |             |
+| args      |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 SecretMusicPlayer(trackName, args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # MergeWeaponDataOverride
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`unit`, `traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| unit      |             |
+| traitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MergeWeaponDataOverride(unit, traitData)
 ```
+
 ---

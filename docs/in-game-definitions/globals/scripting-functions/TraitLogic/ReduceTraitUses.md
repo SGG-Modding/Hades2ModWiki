@@ -1,11 +1,22 @@
 # ReduceTraitUses
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`trait`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| trait |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ReduceTraitUses(trait, args)
 ```
+
 ---

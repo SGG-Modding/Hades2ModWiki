@@ -1,11 +1,22 @@
 # CalcNumLootChoices
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`isGodLoot`, `treatAsGodLootByShops`
+
+| Name                  | Description |
+| --------------------- | ----------- |
+| isGodLoot             |             |
+| treatAsGodLootByShops |             |
+
 ## Returns
+
 `numChoices`
+
 ## Usage
+
 ```lua
 CalcNumLootChoices(isGodLoot, treatAsGodLootByShops)
 ```
+
 ---

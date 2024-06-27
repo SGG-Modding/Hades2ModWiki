@@ -1,11 +1,21 @@
 # ThreadedPerfectDamageReset
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`delay`
+
+| Name  | Description |
+| ----- | ----------- |
+| delay |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ThreadedPerfectDamageReset(delay)
 ```
+
 ---

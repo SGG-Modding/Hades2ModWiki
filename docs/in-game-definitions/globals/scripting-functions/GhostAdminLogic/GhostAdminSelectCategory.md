@@ -1,11 +1,22 @@
 # GhostAdminSelectCategory
+
 Function name in GhostAdminLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GhostAdminSelectCategory(screen, button)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # PulseExorcismIcon
+
 Function name in HarvestPresentation.lua
+
 ## Parameters
-`sourceId`, `leftMove`
+
+| Name     | Description |
+| -------- | ----------- |
+| sourceId |             |
+| leftMove |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PulseExorcismIcon(sourceId, leftMove)
 ```
+
 ---

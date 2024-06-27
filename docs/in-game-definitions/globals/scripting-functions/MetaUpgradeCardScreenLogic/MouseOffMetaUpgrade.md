@@ -1,11 +1,21 @@
 # MouseOffMetaUpgrade
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOffMetaUpgrade(button)
 ```
+
 ---

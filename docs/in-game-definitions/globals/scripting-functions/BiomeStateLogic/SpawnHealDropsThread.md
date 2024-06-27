@@ -1,11 +1,21 @@
 # SpawnHealDropsThread
+
 Function name in BiomeStateLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpawnHealDropsThread(args)
 ```
+
 ---

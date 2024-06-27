@@ -1,11 +1,22 @@
 # InventoryScreenChangeCategoryPresentation
+
 Function name in ResourcePresentation.lua
+
 ## Parameters
-`screen`, `categoryIndex`
+
+| Name          | Description |
+| ------------- | ----------- |
+| screen        |             |
+| categoryIndex |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 InventoryScreenChangeCategoryPresentation(screen, categoryIndex)
 ```
+
 ---

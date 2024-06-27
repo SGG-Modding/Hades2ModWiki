@@ -1,11 +1,22 @@
 # NemesisSpawnPresentation
+
 Function name in EncounterPresentation_Late.lua
+
 ## Parameters
-`eventSource`, `nemesis`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| nemesis     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 NemesisSpawnPresentation(eventSource, nemesis)
 ```
+
 ---

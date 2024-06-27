@@ -1,11 +1,21 @@
 # GroupAI
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`unitGroup`
+
+| Name      | Description |
+| --------- | ----------- |
+| unitGroup |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GroupAI(unitGroup)
 ```
+
 ---

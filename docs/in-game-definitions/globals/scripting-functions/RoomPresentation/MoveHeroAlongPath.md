@@ -1,11 +1,22 @@
 # MoveHeroAlongPath
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`path`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| path |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MoveHeroAlongPath(path, args)
 ```
+
 ---

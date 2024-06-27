@@ -1,11 +1,21 @@
 # SetPlayerNotStopsProjectiles
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`flag`
+
+| Name | Description |
+| ---- | ----------- |
+| flag |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetPlayerNotStopsProjectiles(flag)
 ```
+
 ---

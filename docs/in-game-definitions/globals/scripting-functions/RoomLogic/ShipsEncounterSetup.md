@@ -1,11 +1,22 @@
 # ShipsEncounterSetup
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`encounter`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| encounter |             |
+| args      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShipsEncounterSetup(encounter, args)
 ```
+
 ---

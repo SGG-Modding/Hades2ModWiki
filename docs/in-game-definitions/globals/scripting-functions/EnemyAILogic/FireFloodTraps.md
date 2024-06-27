@@ -1,11 +1,21 @@
 # FireFloodTraps
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FireFloodTraps(args)
 ```
+
 ---

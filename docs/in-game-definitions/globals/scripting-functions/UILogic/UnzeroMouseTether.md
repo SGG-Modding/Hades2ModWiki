@@ -1,11 +1,21 @@
 # UnzeroMouseTether
+
 Function name in UILogic.lua
+
 ## Parameters
-`flag`
+
+| Name | Description |
+| ---- | ----------- |
+| flag |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnzeroMouseTether(flag)
 ```
+
 ---

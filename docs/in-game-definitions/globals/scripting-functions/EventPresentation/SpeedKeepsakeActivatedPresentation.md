@@ -1,11 +1,21 @@
 # SpeedKeepsakeActivatedPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpeedKeepsakeActivatedPresentation(traitData)
 ```
+
 ---

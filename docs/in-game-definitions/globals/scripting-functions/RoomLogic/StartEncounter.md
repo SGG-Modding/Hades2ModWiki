@@ -1,11 +1,23 @@
 # StartEncounter
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`currentRun`, `currentRoom`, `encounter`
+
+| Name        | Description |
+| ----------- | ----------- |
+| currentRun  |             |
+| currentRoom |             |
+| encounter   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartEncounter(currentRun, currentRoom, encounter)
 ```
+
 ---

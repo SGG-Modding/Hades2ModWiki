@@ -1,11 +1,21 @@
 # SelectBannedEliteAttributes
+
 Function name in RunLogic.lua
+
 ## Parameters
-`run`
+
+| Name | Description |
+| ---- | ----------- |
+| run  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SelectBannedEliteAttributes(run)
 ```
+
 ---

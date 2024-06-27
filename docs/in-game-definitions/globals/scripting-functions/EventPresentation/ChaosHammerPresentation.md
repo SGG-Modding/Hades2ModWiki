@@ -1,11 +1,22 @@
 # ChaosHammerPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`traitRemoved`, `traitsAdded`
+
+| Name         | Description |
+| ------------ | ----------- |
+| traitRemoved |             |
+| traitsAdded  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ChaosHammerPresentation(traitRemoved, traitsAdded)
 ```
+
 ---

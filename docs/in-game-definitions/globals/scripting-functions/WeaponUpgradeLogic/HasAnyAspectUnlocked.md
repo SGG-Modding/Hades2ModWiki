@@ -1,11 +1,21 @@
 # HasAnyAspectUnlocked
+
 Function name in WeaponUpgradeLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasAnyAspectUnlocked(weaponName)
 ```
+
 ---

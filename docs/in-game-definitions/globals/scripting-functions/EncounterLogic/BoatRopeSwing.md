@@ -1,11 +1,23 @@
 # BoatRopeSwing
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`ropeSwing`, `args`, `user`
+
+| Name      | Description |
+| --------- | ----------- |
+| ropeSwing |             |
+| args      |             |
+| user      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BoatRopeSwing(ropeSwing, args, user)
 ```
+
 ---

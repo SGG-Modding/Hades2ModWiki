@@ -1,11 +1,21 @@
 # CannotUseKeepsakeRackPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`rackId`
+
+| Name   | Description |
+| ------ | ----------- |
+| rackId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CannotUseKeepsakeRackPresentation(rackId)
 ```
+
 ---

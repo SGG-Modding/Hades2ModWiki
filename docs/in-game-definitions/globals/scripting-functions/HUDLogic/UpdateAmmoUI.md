@@ -1,11 +1,21 @@
 # UpdateAmmoUI
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateAmmoUI(triggerArgs)
 ```
+
 ---

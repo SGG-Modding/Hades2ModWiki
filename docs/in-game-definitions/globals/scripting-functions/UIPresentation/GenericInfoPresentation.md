@@ -1,11 +1,22 @@
 # GenericInfoPresentation
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GenericInfoPresentation(screen, button)
 ```
+
 ---

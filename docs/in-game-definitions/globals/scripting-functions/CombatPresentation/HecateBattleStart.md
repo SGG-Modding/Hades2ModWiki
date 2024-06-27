@@ -1,11 +1,22 @@
 # HecateBattleStart
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`hecate`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| hecate |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HecateBattleStart(hecate, args)
 ```
+
 ---

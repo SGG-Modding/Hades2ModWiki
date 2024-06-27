@@ -1,11 +1,22 @@
 # ChargeSpell
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`manaDelta`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| manaDelta |             |
+| args      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ChargeSpell(manaDelta, args)
 ```
+
 ---

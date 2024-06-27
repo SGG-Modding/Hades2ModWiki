@@ -1,11 +1,21 @@
 # GetEligibleLootNames
+
 Function name in RewardLogic.lua
+
 ## Parameters
-`excludeLootNames`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| excludeLootNames |             |
+
 ## Returns
+
 `output`
+
 ## Usage
+
 ```lua
 GetEligibleLootNames(excludeLootNames)
 ```
+
 ---

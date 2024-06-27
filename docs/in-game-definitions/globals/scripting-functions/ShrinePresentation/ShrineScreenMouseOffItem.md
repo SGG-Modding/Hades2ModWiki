@@ -1,11 +1,21 @@
 # ShrineScreenMouseOffItem
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShrineScreenMouseOffItem(button)
 ```
+
 ---

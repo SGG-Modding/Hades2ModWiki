@@ -1,11 +1,21 @@
 # AddKeepsakeCharge
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddKeepsakeCharge(args)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # MouseOffWellShopButton
+
 Function name in StoreLogic.lua
+
 ## Parameters
-`component`
+
+| Name      | Description |
+| --------- | ----------- |
+| component |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOffWellShopButton(component)
 ```
+
 ---

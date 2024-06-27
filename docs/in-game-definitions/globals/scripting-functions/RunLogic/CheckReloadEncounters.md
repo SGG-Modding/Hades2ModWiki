@@ -1,11 +1,22 @@
 # CheckReloadEncounters
+
 Function name in RunLogic.lua
+
 ## Parameters
-`room`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| room |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckReloadEncounters(room, args)
 ```
+
 ---

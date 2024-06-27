@@ -1,11 +1,22 @@
 # UpdateWeaponUpgradeButtons
+
 Function name in WeaponUpgradeLogic.lua
+
 ## Parameters
-`screen`, `weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| screen     |             |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateWeaponUpgradeButtons(screen, weaponName)
 ```
+
 ---

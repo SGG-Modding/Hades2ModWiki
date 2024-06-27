@@ -1,11 +1,21 @@
 # MetaPointRoomRewardPresentationThread
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`gained`
+
+| Name   | Description |
+| ------ | ----------- |
+| gained |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MetaPointRoomRewardPresentationThread(gained)
 ```
+
 ---

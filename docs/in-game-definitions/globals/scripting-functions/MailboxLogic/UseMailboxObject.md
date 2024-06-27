@@ -1,11 +1,22 @@
 # UseMailboxObject
+
 Function name in MailboxLogic.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseMailboxObject(usee, args)
 ```
+
 ---

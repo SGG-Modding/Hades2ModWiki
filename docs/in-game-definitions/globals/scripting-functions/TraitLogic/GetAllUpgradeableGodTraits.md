@@ -1,11 +1,21 @@
 # GetAllUpgradeableGodTraits
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`stackNum`
+
+| Name     | Description |
+| -------- | ----------- |
+| stackNum |             |
+
 ## Returns
+
 `traitNames`
+
 ## Usage
+
 ```lua
 GetAllUpgradeableGodTraits(stackNum)
 ```
+
 ---

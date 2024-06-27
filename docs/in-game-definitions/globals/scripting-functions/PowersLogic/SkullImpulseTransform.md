@@ -1,11 +1,23 @@
 # SkullImpulseTransform
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`weaponData`, `functionArgs`, `triggerArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| weaponData   |             |
+| functionArgs |             |
+| triggerArgs  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SkullImpulseTransform(weaponData, functionArgs, triggerArgs)
 ```
+
 ---

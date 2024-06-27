@@ -1,11 +1,22 @@
 # WeaponShopScreenOpenedPresentation
+
 Function name in WeaponShopPresentation.lua
+
 ## Parameters
-`screen`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WeaponShopScreenOpenedPresentation(screen, args)
 ```
+
 ---

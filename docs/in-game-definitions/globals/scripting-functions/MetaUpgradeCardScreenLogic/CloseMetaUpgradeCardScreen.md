@@ -1,11 +1,22 @@
 # CloseMetaUpgradeCardScreen
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`screen`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CloseMetaUpgradeCardScreen(screen, args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # GetEligibleSpells
+
 Function name in SpellScreenLogic.lua
+
 ## Parameters
-`screen`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| args   |             |
+
 ## Returns
+
 `eligibleSpells`
+
 ## Usage
+
 ```lua
 GetEligibleSpells(screen, args)
 ```
+
 ---

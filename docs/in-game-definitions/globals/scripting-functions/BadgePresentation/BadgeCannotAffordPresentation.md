@@ -1,11 +1,22 @@
 # BadgeCannotAffordPresentation
+
 Function name in BadgePresentation.lua
+
 ## Parameters
-`usee`, `nextBadgeData`
+
+| Name          | Description |
+| ------------- | ----------- |
+| usee          |             |
+| nextBadgeData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BadgeCannotAffordPresentation(usee, nextBadgeData)
 ```
+
 ---

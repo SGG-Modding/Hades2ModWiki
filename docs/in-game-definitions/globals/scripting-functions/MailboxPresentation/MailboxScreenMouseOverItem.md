@@ -1,11 +1,21 @@
 # MailboxScreenMouseOverItem
+
 Function name in MailboxPresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MailboxScreenMouseOverItem(button)
 ```
+
 ---

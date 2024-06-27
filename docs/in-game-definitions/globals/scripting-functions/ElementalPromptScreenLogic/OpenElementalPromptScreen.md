@@ -1,11 +1,21 @@
 # OpenElementalPromptScreen
+
 Function name in ElementalPromptScreenLogic.lua
+
 ## Parameters
-`parentScreen`
+
+| Name         | Description |
+| ------------ | ----------- |
+| parentScreen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OpenElementalPromptScreen(parentScreen)
 ```
+
 ---

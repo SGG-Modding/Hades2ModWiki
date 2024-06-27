@@ -1,11 +1,21 @@
 # DoRumble
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoRumble(args)
 ```
+
 ---

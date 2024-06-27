@@ -1,11 +1,22 @@
 # SetupEncounter
+
 Function name in RunLogic.lua
+
 ## Parameters
-`encounterData`, `room`
+
+| Name          | Description |
+| ------------- | ----------- |
+| encounterData |             |
+| room          |             |
+
 ## Returns
+
 `encounter`
+
 ## Usage
+
 ```lua
 SetupEncounter(encounterData, room)
 ```
+
 ---

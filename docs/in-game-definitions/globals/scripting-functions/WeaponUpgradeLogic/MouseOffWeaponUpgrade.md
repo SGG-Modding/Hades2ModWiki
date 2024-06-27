@@ -1,11 +1,21 @@
 # MouseOffWeaponUpgrade
+
 Function name in WeaponUpgradeLogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOffWeaponUpgrade(button)
 ```
+
 ---

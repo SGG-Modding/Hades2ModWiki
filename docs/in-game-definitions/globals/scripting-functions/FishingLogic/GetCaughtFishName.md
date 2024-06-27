@@ -1,11 +1,21 @@
 # GetCaughtFishName
+
 Function name in FishingLogic.lua
+
 ## Parameters
-`biome`
+
+| Name  | Description |
+| ----- | ----------- |
+| biome |             |
+
 ## Returns
+
 `fishName`
+
 ## Usage
+
 ```lua
 GetCaughtFishName(biome)
 ```
+
 ---

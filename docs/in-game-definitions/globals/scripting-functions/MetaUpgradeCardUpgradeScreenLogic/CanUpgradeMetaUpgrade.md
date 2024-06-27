@@ -1,11 +1,21 @@
 # CanUpgradeMetaUpgrade
+
 Function name in MetaUpgradeCardUpgradeScreenLogic.lua
+
 ## Parameters
-`metaUpgradeName`
+
+| Name            | Description |
+| --------------- | ----------- |
+| metaUpgradeName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CanUpgradeMetaUpgrade(metaUpgradeName)
 ```
+
 ---

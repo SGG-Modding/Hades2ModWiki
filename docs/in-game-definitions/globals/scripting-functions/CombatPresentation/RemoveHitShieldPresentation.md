@@ -1,11 +1,21 @@
 # RemoveHitShieldPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`iconId`
+
+| Name   | Description |
+| ------ | ----------- |
+| iconId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveHitShieldPresentation(iconId)
 ```
+
 ---

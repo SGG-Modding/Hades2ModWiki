@@ -1,11 +1,21 @@
 # GetEquippedWeaponValue
+
 Function name in InteractPresentation.lua
+
 ## Parameters
-`key`
+
+| Name | Description |
+| ---- | ----------- |
+| key  |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 GetEquippedWeaponValue(key)
 ```
+
 ---

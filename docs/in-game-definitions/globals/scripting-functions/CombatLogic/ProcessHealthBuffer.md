@@ -1,11 +1,22 @@
 # ProcessHealthBuffer
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`enemy`, `damageEventArgs`
+
+| Name            | Description |
+| --------------- | ----------- |
+| enemy           |             |
+| damageEventArgs |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 ProcessHealthBuffer(enemy, damageEventArgs)
 ```
+
 ---

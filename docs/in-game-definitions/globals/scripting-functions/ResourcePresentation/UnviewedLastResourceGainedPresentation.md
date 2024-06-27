@@ -1,11 +1,22 @@
 # UnviewedLastResourceGainedPresentation
+
 Function name in ResourcePresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnviewedLastResourceGainedPresentation(screen, button)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # CreateHealthBar
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`newEnemy`
+
+| Name     | Description |
+| -------- | ----------- |
+| newEnemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateHealthBar(newEnemy)
 ```
+
 ---

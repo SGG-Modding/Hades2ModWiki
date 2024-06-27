@@ -1,11 +1,21 @@
 # GetNextSpawn
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`currentEncounter`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| currentEncounter |             |
+
 ## Returns
+
 `forcedSpawn`, `randomSpawnInfo`
+
 ## Usage
+
 ```lua
 GetNextSpawn(currentEncounter)
 ```
+
 ---

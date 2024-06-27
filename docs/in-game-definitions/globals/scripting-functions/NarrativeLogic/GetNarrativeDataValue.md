@@ -1,11 +1,22 @@
 # GetNarrativeDataValue
+
 Function name in NarrativeLogic.lua
+
 ## Parameters
-`source`, `key`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| key    |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 GetNarrativeDataValue(source, key)
 ```
+
 ---

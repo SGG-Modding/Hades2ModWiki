@@ -1,11 +1,22 @@
 # RespawnCover
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`objectId`, `room`
+
+| Name     | Description |
+| -------- | ----------- |
+| objectId |             |
+| room     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RespawnCover(objectId, room)
 ```
+
 ---

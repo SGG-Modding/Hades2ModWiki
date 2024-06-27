@@ -1,11 +1,21 @@
 # GetNumRunsWithWeapon
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `runCount`
+
 ## Usage
+
 ```lua
 GetNumRunsWithWeapon(weaponName)
 ```
+
 ---

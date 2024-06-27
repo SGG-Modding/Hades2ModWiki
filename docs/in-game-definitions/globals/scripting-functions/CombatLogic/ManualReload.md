@@ -1,11 +1,21 @@
 # ManualReload
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`attacker`
+
+| Name     | Description |
+| -------- | ----------- |
+| attacker |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ManualReload(attacker)
 ```
+
 ---

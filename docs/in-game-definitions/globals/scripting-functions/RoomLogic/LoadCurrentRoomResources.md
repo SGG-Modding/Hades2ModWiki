@@ -1,11 +1,21 @@
 # LoadCurrentRoomResources
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`currentRoom`
+
+| Name        | Description |
+| ----------- | ----------- |
+| currentRoom |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LoadCurrentRoomResources(currentRoom)
 ```
+
 ---

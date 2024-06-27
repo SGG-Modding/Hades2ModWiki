@@ -1,11 +1,21 @@
 # HeroDamageLowHealthPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`skipStartPresentation`
+
+| Name                  | Description |
+| --------------------- | ----------- |
+| skipStartPresentation |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HeroDamageLowHealthPresentation(skipStartPresentation)
 ```
+
 ---

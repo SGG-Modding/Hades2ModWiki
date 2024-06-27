@@ -1,11 +1,22 @@
 # CheckAutoObjectiveSets
+
 Function name in ObjectiveLogic.lua
+
 ## Parameters
-`currentRun`, `checkTrigger`
+
+| Name         | Description |
+| ------------ | ----------- |
+| currentRun   |             |
+| checkTrigger |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckAutoObjectiveSets(currentRun, checkTrigger)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # RunHistoryStatsSort
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`itemA`, `itemB`
+
+| Name  | Description |
+| ----- | ----------- |
+| itemA |             |
+| itemB |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 RunHistoryStatsSort(itemA, itemB)
 ```
+
 ---

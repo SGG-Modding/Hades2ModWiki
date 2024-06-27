@@ -1,11 +1,21 @@
 # CastArmedPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CastArmedPresentation(weaponData)
 ```
+
 ---

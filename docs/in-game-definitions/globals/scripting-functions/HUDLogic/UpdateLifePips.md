@@ -1,11 +1,21 @@
 # UpdateLifePips
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`heroUnit`
+
+| Name     | Description |
+| -------- | ----------- |
+| heroUnit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateLifePips(heroUnit)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # DoesRunMatchBounty
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`run`, `bountyName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| run        |             |
+| bountyName |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 DoesRunMatchBounty(run, bountyName)
 ```
+
 ---

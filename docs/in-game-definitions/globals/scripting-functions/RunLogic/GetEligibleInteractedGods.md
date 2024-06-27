@@ -1,11 +1,21 @@
 # GetEligibleInteractedGods
+
 Function name in RunLogic.lua
+
 ## Parameters
-`ignoredGod`
+
+| Name       | Description |
+| ---------- | ----------- |
+| ignoredGod |             |
+
 ## Returns
+
 `eligibleGods`, `unionGods`
+
 ## Usage
+
 ```lua
 GetEligibleInteractedGods(ignoredGod)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # PulseAmmo
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`consumable`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| consumable |             |
+| args       |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PulseAmmo(consumable, args)
 ```
+
 ---

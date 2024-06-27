@@ -1,11 +1,21 @@
 # RespawningCoverDeath
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`object`
+
+| Name   | Description |
+| ------ | ----------- |
+| object |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RespawningCoverDeath(object)
 ```
+
 ---

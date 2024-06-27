@@ -1,11 +1,22 @@
 # RemoveRandomValue
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`, `rng`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+| rng      |             |
+
 ## Returns
+
 `retVal`
+
 ## Usage
+
 ```lua
 RemoveRandomValue(tableArg, rng)
 ```
+
 ---

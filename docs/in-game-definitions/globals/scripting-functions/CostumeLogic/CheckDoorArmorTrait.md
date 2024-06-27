@@ -1,11 +1,21 @@
 # CheckDoorArmorTrait
+
 Function name in CostumeLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckDoorArmorTrait(currentRun)
 ```
+
 ---

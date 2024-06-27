@@ -1,11 +1,21 @@
 # GetUseText
+
 Function name in UILogic.lua
+
 ## Parameters
-`useTarget`
+
+| Name      | Description |
+| --------- | ----------- |
+| useTarget |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 GetUseText(useTarget)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GiveLoot
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `loot`
+
 ## Usage
+
 ```lua
 GiveLoot(args)
 ```
+
 ---

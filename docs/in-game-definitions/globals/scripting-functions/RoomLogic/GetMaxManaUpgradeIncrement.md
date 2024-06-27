@@ -1,11 +1,21 @@
 # GetMaxManaUpgradeIncrement
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`value`
+
+| Name  | Description |
+| ----- | ----------- |
+| value |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetMaxManaUpgradeIncrement(value)
 ```
+
 ---

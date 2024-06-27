@@ -1,11 +1,22 @@
 # ChronosBattleStart
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`chronos`, `args`
+
+| Name    | Description |
+| ------- | ----------- |
+| chronos |             |
+| args    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ChronosBattleStart(chronos, args)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # StartBlockDeathPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`tollTimes`
+
+| Name      | Description |
+| --------- | ----------- |
+| tollTimes |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StartBlockDeathPresentation(tollTimes)
 ```
+
 ---

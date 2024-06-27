@@ -1,11 +1,22 @@
 # printData
+
 Function name in Main.lua
+
 ## Parameters
-`data`, `len`
+
+| Name | Description |
+| ---- | ----------- |
+| data |             |
+| len  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 printData(data, len)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # WretchedBrokerReaction
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WretchedBrokerReaction(args)
 ```
+
 ---

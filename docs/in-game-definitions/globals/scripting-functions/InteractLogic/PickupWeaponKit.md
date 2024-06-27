@@ -1,11 +1,21 @@
 # PickupWeaponKit
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`weaponKit`
+
+| Name      | Description |
+| --------- | ----------- |
+| weaponKit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PickupWeaponKit(weaponKit)
 ```
+
 ---

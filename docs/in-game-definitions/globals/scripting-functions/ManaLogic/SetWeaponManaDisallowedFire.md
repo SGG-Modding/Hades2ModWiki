@@ -1,11 +1,21 @@
 # SetWeaponManaDisallowedFire
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetWeaponManaDisallowedFire(weaponName)
 ```
+
 ---

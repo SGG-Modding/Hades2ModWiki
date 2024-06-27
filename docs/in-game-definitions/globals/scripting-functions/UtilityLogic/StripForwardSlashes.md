@@ -1,11 +1,21 @@
 # StripForwardSlashes
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`str`
+
+| Name | Description |
+| ---- | ----------- |
+| str  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StripForwardSlashes(str)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # UnlockWorldUpgrade
+
 Function name in GhostAdminLogic.lua
+
 ## Parameters
-`name`
+
+| Name | Description |
+| ---- | ----------- |
+| name |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnlockWorldUpgrade(name)
 ```
+
 ---

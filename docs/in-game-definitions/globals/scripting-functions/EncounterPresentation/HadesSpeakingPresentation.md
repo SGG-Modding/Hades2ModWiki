@@ -1,11 +1,22 @@
 # HadesSpeakingPresentation
+
 Function name in EncounterPresentation.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HadesSpeakingPresentation(eventSource, args)
 ```
+
 ---

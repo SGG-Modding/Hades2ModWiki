@@ -1,11 +1,22 @@
 # RestoreEncounterReward
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`room`, `rewardToRestore`
+
+| Name            | Description |
+| --------------- | ----------- |
+| room            |             |
+| rewardToRestore |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RestoreEncounterReward(room, rewardToRestore)
 ```
+
 ---

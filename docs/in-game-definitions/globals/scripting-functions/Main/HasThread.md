@@ -1,11 +1,21 @@
 # HasThread
+
 Function name in Main.lua
+
 ## Parameters
-`tag`
+
+| Name | Description |
+| ---- | ----------- |
+| tag  |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasThread(tag)
 ```
+
 ---

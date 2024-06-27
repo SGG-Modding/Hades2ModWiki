@@ -1,11 +1,21 @@
 # DrainClearCastMeter
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`duration`
+
+| Name     | Description |
+| -------- | ----------- |
+| duration |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DrainClearCastMeter(duration)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # DisplayEnemyHealingText
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`victim`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DisplayEnemyHealingText(victim, args)
 ```
+
 ---

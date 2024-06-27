@@ -1,11 +1,21 @@
 # CreateStackLoot
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateStackLoot(args)
 ```
+
 ---

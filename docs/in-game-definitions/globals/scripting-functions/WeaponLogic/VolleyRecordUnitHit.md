@@ -1,11 +1,23 @@
 # VolleyRecordUnitHit
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponName`, `volleyId`, `name`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+| volleyId   |             |
+| name       |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 VolleyRecordUnitHit(weaponName, volleyId, name)
 ```
+
 ---

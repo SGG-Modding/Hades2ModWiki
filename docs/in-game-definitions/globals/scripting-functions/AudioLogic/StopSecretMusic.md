@@ -1,11 +1,21 @@
 # StopSecretMusic
+
 Function name in AudioLogic.lua
+
 ## Parameters
-`smoothStop`
+
+| Name       | Description |
+| ---------- | ----------- |
+| smoothStop |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StopSecretMusic(smoothStop)
 ```
+
 ---

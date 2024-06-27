@@ -1,11 +1,22 @@
 # FireAmmoCollectionPulse
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponName`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+| args       |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FireAmmoCollectionPulse(weaponName, args)
 ```
+
 ---

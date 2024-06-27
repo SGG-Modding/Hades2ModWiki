@@ -1,11 +1,21 @@
 # GetAllAllyIds
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`unit`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+
 ## Returns
+
 `allyIds`
+
 ## Usage
+
 ```lua
 GetAllAllyIds(unit)
 ```
+
 ---

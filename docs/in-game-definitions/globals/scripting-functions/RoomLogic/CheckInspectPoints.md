@@ -1,11 +1,22 @@
 # CheckInspectPoints
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`currentRun`, `source`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+| source     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckInspectPoints(currentRun, source)
 ```
+
 ---

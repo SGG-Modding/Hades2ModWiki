@@ -1,11 +1,23 @@
 # ShrinePointRefundPresentation
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`screen`, `refund`, `buttonId`
+
+| Name     | Description |
+| -------- | ----------- |
+| screen   |             |
+| refund   |             |
+| buttonId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShrinePointRefundPresentation(screen, refund, buttonId)
 ```
+
 ---

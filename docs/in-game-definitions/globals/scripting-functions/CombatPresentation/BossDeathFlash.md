@@ -1,11 +1,22 @@
 # BossDeathFlash
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`startDelay`, `stopDelay`
+
+| Name       | Description |
+| ---------- | ----------- |
+| startDelay |             |
+| stopDelay  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BossDeathFlash(startDelay, stopDelay)
 ```
+
 ---

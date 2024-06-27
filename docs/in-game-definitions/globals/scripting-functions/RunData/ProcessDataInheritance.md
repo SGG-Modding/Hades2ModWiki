@@ -1,11 +1,22 @@
 # ProcessDataInheritance
+
 Function name in RunData.lua
+
 ## Parameters
-`data`, `dataStore`
+
+| Name      | Description |
+| --------- | ----------- |
+| data      |             |
+| dataStore |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ProcessDataInheritance(data, dataStore)
 ```
+
 ---

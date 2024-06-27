@@ -1,11 +1,21 @@
 # SpawnSheepGhost
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`sheep`
+
+| Name  | Description |
+| ----- | ----------- |
+| sheep |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpawnSheepGhost(sheep)
 ```
+
 ---

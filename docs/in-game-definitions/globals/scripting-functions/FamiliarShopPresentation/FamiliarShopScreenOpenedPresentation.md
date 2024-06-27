@@ -1,11 +1,22 @@
 # FamiliarShopScreenOpenedPresentation
+
 Function name in FamiliarShopPresentation.lua
+
 ## Parameters
-`screen`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FamiliarShopScreenOpenedPresentation(screen, args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # AttemptRerollShipWheel
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`run`, `wheel`
+
+| Name  | Description |
+| ----- | ----------- |
+| run   |             |
+| wheel |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AttemptRerollShipWheel(run, wheel)
 ```
+
 ---

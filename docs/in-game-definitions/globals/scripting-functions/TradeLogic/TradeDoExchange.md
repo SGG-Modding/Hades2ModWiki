@@ -1,11 +1,22 @@
 # TradeDoExchange
+
 Function name in TradeLogic.lua
+
 ## Parameters
-`screen`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TradeDoExchange(screen, args)
 ```
+
 ---

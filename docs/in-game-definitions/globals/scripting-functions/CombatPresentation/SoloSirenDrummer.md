@@ -1,11 +1,21 @@
 # SoloSirenDrummer
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`scylla`
+
+| Name   | Description |
+| ------ | ----------- |
+| scylla |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SoloSirenDrummer(scylla)
 ```
+
 ---

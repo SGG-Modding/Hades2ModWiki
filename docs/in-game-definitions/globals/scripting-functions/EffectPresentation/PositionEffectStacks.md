@@ -1,11 +1,21 @@
 # PositionEffectStacks
+
 Function name in EffectPresentation.lua
+
 ## Parameters
-`id`
+
+| Name | Description |
+| ---- | ----------- |
+| id   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PositionEffectStacks(id)
 ```
+
 ---

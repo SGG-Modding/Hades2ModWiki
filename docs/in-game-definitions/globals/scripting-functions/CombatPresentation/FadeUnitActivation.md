@@ -1,11 +1,21 @@
 # FadeUnitActivation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`unit`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FadeUnitActivation(unit)
 ```
+
 ---

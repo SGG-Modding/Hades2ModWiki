@@ -1,11 +1,21 @@
 # UpdateAxeUI
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`trait`
+
+| Name  | Description |
+| ----- | ----------- |
+| trait |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateAxeUI(trait)
 ```
+
 ---

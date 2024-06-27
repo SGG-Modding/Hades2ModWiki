@@ -1,11 +1,22 @@
 # UseQuestLog
+
 Function name in QuestLogLogic.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseQuestLog(usee, args)
 ```
+
 ---

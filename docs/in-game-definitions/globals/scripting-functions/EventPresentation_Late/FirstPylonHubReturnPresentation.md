@@ -1,11 +1,22 @@
 # FirstPylonHubReturnPresentation
+
 Function name in EventPresentation_Late.lua
+
 ## Parameters
-`room`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| room |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FirstPylonHubReturnPresentation(room, args)
 ```
+
 ---

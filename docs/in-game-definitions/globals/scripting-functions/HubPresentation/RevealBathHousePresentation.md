@@ -1,11 +1,21 @@
 # RevealBathHousePresentation
+
 Function name in HubPresentation.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RevealBathHousePresentation(source)
 ```
+
 ---

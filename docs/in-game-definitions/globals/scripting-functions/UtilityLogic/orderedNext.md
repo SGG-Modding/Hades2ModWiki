@@ -1,11 +1,22 @@
 # orderedNext
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`t`, `state`
+
+| Name  | Description |
+| ----- | ----------- |
+| t     |             |
+| state |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 orderedNext(t, state)
 ```
+
 ---

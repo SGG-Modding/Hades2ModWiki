@@ -1,11 +1,21 @@
 # ValidateIds
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`ids`
+
+| Name | Description |
+| ---- | ----------- |
+| ids  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ValidateIds(ids)
 ```
+
 ---

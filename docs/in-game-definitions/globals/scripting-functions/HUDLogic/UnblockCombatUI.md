@@ -1,11 +1,21 @@
 # UnblockCombatUI
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`flag`
+
+| Name | Description |
+| ---- | ----------- |
+| flag |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnblockCombatUI(flag)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # HandleWeaponShopPurchase
+
 Function name in WeaponShopLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HandleWeaponShopPurchase(screen, button)
 ```
+
 ---

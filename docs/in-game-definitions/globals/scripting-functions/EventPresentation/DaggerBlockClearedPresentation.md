@@ -1,11 +1,21 @@
 # DaggerBlockClearedPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`functionArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| functionArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DaggerBlockClearedPresentation(functionArgs)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # RemoveTraitAfterDuration
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`unit`, `traitName`, `duration`
+
+| Name      | Description |
+| --------- | ----------- |
+| unit      |             |
+| traitName |             |
+| duration  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveTraitAfterDuration(unit, traitName, duration)
 ```
+
 ---

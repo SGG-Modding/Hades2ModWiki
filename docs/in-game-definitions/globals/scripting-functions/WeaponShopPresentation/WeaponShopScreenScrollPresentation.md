@@ -1,11 +1,22 @@
 # WeaponShopScreenScrollPresentation
+
 Function name in WeaponShopPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WeaponShopScreenScrollPresentation(screen, button)
 ```
+
 ---

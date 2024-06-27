@@ -1,11 +1,21 @@
 # IcarusAppearancePresentation
+
 Function name in EncounterPresentation_Late.lua
+
 ## Parameters
-`icarus`
+
+| Name   | Description |
+| ------ | ----------- |
+| icarus |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 IcarusAppearancePresentation(icarus)
 ```
+
 ---

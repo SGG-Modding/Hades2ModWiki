@@ -1,11 +1,21 @@
 # LoadMap
+
 Function name in Main.lua
+
 ## Parameters
-`argTable`
+
+| Name     | Description |
+| -------- | ----------- |
+| argTable |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LoadMap(argTable)
 ```
+
 ---

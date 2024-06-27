@@ -1,11 +1,23 @@
 # CheckOnImpactPowers
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`victim`, `attacker`, `args`
+
+| Name     | Description |
+| -------- | ----------- |
+| victim   |             |
+| attacker |             |
+| args     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckOnImpactPowers(victim, attacker, args)
 ```
+
 ---

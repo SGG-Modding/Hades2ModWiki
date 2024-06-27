@@ -1,11 +1,22 @@
 # CinderMeteorWarning
+
 Function name in BiomeStateLogic.lua
+
 ## Parameters
-`unit`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CinderMeteorWarning(unit, args)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # GetGiftIcon
+
 Function name in GiftPresentation.lua
+
 ## Parameters
-`entryName`, `index`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| entryName |             |
+| index     |             |
+| args      |             |
+
 ## Returns
+
 `name`
+
 ## Usage
+
 ```lua
 GetGiftIcon(entryName, index, args)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # CheckWeaponInvisibleFire
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`weaponData`, `functionArgs`, `triggerArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| weaponData   |             |
+| functionArgs |             |
+| triggerArgs  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckWeaponInvisibleFire(weaponData, functionArgs, triggerArgs)
 ```
+
 ---

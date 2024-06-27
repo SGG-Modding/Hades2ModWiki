@@ -1,11 +1,22 @@
 # UpdateWeaponKitUpgrade
+
 Function name in WeaponShopLogic.lua
+
 ## Parameters
-`weaponName`, `traitName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+| traitName  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateWeaponKitUpgrade(weaponName, traitName)
 ```
+
 ---

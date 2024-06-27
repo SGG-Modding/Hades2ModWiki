@@ -1,11 +1,23 @@
 # UpdateMetaUpgradeCard
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`screen`, `row`, `column`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| row    |             |
+| column |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateMetaUpgradeCard(screen, row, column)
 ```
+
 ---

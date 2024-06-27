@@ -1,11 +1,21 @@
 # ChooseNextRewardStore
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`run`
+
+| Name | Description |
+| ---- | ----------- |
+| run  |             |
+
 ## Returns
+
 `rewardStoreName`
+
 ## Usage
+
 ```lua
 ChooseNextRewardStore(run)
 ```
+
 ---

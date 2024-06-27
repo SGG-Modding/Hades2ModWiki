@@ -1,11 +1,22 @@
 # LowHealthCombatTextPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`unitId`, `texts`
+
+| Name   | Description |
+| ------ | ----------- |
+| unitId |             |
+| texts  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LowHealthCombatTextPresentation(unitId, texts)
 ```
+
 ---

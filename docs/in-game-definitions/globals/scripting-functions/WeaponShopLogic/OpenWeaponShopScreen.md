@@ -1,11 +1,22 @@
 # OpenWeaponShopScreen
+
 Function name in WeaponShopLogic.lua
+
 ## Parameters
-`openedFrom`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| openedFrom |             |
+| args       |             |
+
 ## Returns
+
 `screen`
+
 ## Usage
+
 ```lua
 OpenWeaponShopScreen(openedFrom, args)
 ```
+
 ---

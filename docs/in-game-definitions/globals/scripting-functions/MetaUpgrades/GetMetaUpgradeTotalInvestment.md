@@ -1,11 +1,21 @@
 # GetMetaUpgradeTotalInvestment
+
 Function name in MetaUpgrades.lua
+
 ## Parameters
-`metaUpgrade`
+
+| Name        | Description |
+| ----------- | ----------- |
+| metaUpgrade |             |
+
 ## Returns
+
 `total`
+
 ## Usage
+
 ```lua
 GetMetaUpgradeTotalInvestment(metaUpgrade)
 ```
+
 ---

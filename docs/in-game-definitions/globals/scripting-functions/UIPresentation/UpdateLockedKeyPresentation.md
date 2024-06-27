@@ -1,11 +1,21 @@
 # UpdateLockedKeyPresentation
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`obstacle`
+
+| Name     | Description |
+| -------- | ----------- |
+| obstacle |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateLockedKeyPresentation(obstacle)
 ```
+
 ---

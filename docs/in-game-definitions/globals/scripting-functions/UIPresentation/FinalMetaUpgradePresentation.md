@@ -1,11 +1,22 @@
 # FinalMetaUpgradePresentation
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`button`, `metaupgradeName`
+
+| Name            | Description |
+| --------------- | ----------- |
+| button          |             |
+| metaupgradeName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FinalMetaUpgradePresentation(button, metaupgradeName)
 ```
+
 ---

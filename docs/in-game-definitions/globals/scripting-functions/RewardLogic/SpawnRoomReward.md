@@ -1,11 +1,22 @@
 # SpawnRoomReward
+
 Function name in RewardLogic.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `reward`
+
 ## Usage
+
 ```lua
 SpawnRoomReward(eventSource, args)
 ```
+
 ---

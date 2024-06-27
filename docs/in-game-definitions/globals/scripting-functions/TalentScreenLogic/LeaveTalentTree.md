@@ -1,11 +1,22 @@
 # LeaveTalentTree
+
 Function name in TalentScreenLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LeaveTalentTree(screen, button)
 ```
+
 ---

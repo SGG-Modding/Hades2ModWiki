@@ -1,11 +1,21 @@
 # StripRoomsForSave
+
 Function name in Main.lua
+
 ## Parameters
-`run`
+
+| Name | Description |
+| ---- | ----------- |
+| run  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StripRoomsForSave(run)
 ```
+
 ---

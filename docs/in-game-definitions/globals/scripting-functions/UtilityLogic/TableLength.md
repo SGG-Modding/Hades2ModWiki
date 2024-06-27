@@ -1,11 +1,21 @@
 # TableLength
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`table`
+
+| Name  | Description |
+| ----- | ----------- |
+| table |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TableLength(table)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # HasResource
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`name`, `amount`
+
+| Name   | Description |
+| ------ | ----------- |
+| name   |             |
+| amount |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasResource(name, amount)
 ```
+
 ---

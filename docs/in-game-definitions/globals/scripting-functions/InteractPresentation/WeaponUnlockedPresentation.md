@@ -1,11 +1,21 @@
 # WeaponUnlockedPresentation
+
 Function name in InteractPresentation.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WeaponUnlockedPresentation(weaponName)
 ```
+
 ---

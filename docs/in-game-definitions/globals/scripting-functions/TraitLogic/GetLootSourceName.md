@@ -1,11 +1,21 @@
 # GetLootSourceName
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+
 ## Returns
+
 `lootName`, `nil`
+
 ## Usage
+
 ```lua
 GetLootSourceName(traitName)
 ```
+
 ---

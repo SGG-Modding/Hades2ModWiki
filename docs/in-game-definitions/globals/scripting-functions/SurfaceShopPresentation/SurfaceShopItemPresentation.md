@@ -1,11 +1,21 @@
 # SurfaceShopItemPresentation
+
 Function name in SurfaceShopPresentation.lua
+
 ## Parameters
-`targetId`
+
+| Name     | Description |
+| -------- | ----------- |
+| targetId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SurfaceShopItemPresentation(targetId)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # UnreserveMana
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnreserveMana(source)
 ```
+
 ---

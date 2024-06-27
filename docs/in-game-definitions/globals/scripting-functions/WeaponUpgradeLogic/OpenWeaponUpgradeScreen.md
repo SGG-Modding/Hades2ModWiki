@@ -1,11 +1,21 @@
 # OpenWeaponUpgradeScreen
+
 Function name in WeaponUpgradeLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OpenWeaponUpgradeScreen(args)
 ```
+
 ---

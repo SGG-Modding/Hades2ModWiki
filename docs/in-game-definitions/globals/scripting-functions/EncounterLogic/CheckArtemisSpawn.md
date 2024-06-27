@@ -1,11 +1,22 @@
 # CheckArtemisSpawn
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`encounter`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| encounter |             |
+| args      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckArtemisSpawn(encounter, args)
 ```
+
 ---

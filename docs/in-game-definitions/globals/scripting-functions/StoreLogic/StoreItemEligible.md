@@ -1,11 +1,22 @@
 # StoreItemEligible
+
 Function name in StoreLogic.lua
+
 ## Parameters
-`itemData`, `args`
+
+| Name     | Description |
+| -------- | ----------- |
+| itemData |             |
+| args     |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 StoreItemEligible(itemData, args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # ApplyEnemyTraits
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`currentRun`, `enemy`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+| enemy      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ApplyEnemyTraits(currentRun, enemy)
 ```
+
 ---

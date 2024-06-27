@@ -1,11 +1,23 @@
 # RemoveEffectOnDelay
+
 Function name in EffectLogic.lua
+
 ## Parameters
-`id`, `delay`, `effectName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| id         |             |
+| delay      |             |
+| effectName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveEffectOnDelay(id, delay, effectName)
 ```
+
 ---

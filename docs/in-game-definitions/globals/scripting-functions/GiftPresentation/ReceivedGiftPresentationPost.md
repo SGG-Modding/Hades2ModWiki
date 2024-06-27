@@ -1,11 +1,21 @@
 # ReceivedGiftPresentationPost
+
 Function name in GiftPresentation.lua
+
 ## Parameters
-`npc`
+
+| Name | Description |
+| ---- | ----------- |
+| npc  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ReceivedGiftPresentationPost(npc)
 ```
+
 ---

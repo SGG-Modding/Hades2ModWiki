@@ -1,11 +1,23 @@
 # TrackHeraclesChallengeProgress
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`encounter`, `victim`, `killer`
+
+| Name      | Description |
+| --------- | ----------- |
+| encounter |             |
+| victim    |             |
+| killer    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TrackHeraclesChallengeProgress(encounter, victim, killer)
 ```
+
 ---

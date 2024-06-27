@@ -1,11 +1,22 @@
 # DelayFireSprintLinkProjectile
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`enemyId`, `functionArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| enemyId      |             |
+| functionArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DelayFireSprintLinkProjectile(enemyId, functionArgs)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # HitByMiasmaPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`victim`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HitByMiasmaPresentation(victim)
 ```
+
 ---

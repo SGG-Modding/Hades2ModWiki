@@ -1,11 +1,21 @@
 # GetNumRunsClearedWithWeapon
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `runsCleared`
+
 ## Usage
+
 ```lua
 GetNumRunsClearedWithWeapon(weaponName)
 ```
+
 ---

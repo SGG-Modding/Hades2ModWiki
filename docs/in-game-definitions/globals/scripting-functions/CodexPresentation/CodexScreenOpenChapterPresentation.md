@@ -1,11 +1,22 @@
 # CodexScreenOpenChapterPresentation
+
 Function name in CodexPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CodexScreenOpenChapterPresentation(screen, button)
 ```
+
 ---

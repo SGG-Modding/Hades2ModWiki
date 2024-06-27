@@ -1,11 +1,22 @@
 # EquipWeaponUpgrade
+
 Function name in WeaponUpgradeLogic.lua
+
 ## Parameters
-`hero`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| hero |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EquipWeaponUpgrade(hero, args)
 ```
+
 ---

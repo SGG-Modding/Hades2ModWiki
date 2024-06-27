@@ -1,11 +1,23 @@
 # CalculateActiveEnemyCap
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`currentRun`, `currentRoom`, `currentEncounter`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| currentRun       |             |
+| currentRoom      |             |
+| currentEncounter |             |
+
 ## Returns
+
 `enemyCap`
+
 ## Usage
+
 ```lua
 CalculateActiveEnemyCap(currentRun, currentRoom, currentEncounter)
 ```
+
 ---

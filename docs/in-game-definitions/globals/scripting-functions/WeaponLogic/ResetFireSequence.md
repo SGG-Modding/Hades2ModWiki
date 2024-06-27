@@ -1,11 +1,22 @@
 # ResetFireSequence
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`unit`, `weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| unit       |             |
+| weaponData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ResetFireSequence(unit, weaponData)
 ```
+
 ---

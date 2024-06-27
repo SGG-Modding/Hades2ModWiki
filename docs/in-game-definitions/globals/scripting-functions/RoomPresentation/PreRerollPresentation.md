@@ -1,11 +1,22 @@
 # PreRerollPresentation
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`run`, `target`
+
+| Name   | Description |
+| ------ | ----------- |
+| run    |             |
+| target |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PreRerollPresentation(run, target)
 ```
+
 ---

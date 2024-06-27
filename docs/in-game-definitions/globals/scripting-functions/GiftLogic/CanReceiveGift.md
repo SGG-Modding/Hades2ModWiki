@@ -1,11 +1,21 @@
 # CanReceiveGift
+
 Function name in GiftLogic.lua
+
 ## Parameters
-`target`
+
+| Name   | Description |
+| ------ | ----------- |
+| target |             |
+
 ## Returns
+
 `bool`, `hasEligibleTextLines`
+
 ## Usage
+
 ```lua
 CanReceiveGift(target)
 ```
+
 ---

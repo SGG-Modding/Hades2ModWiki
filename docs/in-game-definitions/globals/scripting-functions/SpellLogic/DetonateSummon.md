@@ -1,11 +1,22 @@
 # DetonateSummon
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`unit`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DetonateSummon(unit, args)
 ```
+
 ---

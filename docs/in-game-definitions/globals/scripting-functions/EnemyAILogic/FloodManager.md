@@ -1,11 +1,22 @@
 # FloodManager
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FloodManager(source, args)
 ```
+
 ---

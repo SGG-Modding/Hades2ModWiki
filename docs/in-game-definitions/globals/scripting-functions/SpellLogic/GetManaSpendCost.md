@@ -1,11 +1,21 @@
 # GetManaSpendCost
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `manaCost`
+
 ## Usage
+
 ```lua
 GetManaSpendCost(weaponData)
 ```
+
 ---

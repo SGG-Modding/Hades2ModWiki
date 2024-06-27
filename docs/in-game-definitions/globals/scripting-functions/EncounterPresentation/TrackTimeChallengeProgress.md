@@ -1,11 +1,21 @@
 # TrackTimeChallengeProgress
+
 Function name in EncounterPresentation.lua
+
 ## Parameters
-`challengeEncounter`
+
+| Name               | Description |
+| ------------------ | ----------- |
+| challengeEncounter |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TrackTimeChallengeProgress(challengeEncounter)
 ```
+
 ---

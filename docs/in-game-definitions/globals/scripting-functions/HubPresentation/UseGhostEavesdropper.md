@@ -1,11 +1,23 @@
 # UseGhostEavesdropper
+
 Function name in HubPresentation.lua
+
 ## Parameters
-`usee`, `args`, `user`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+| user |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseGhostEavesdropper(usee, args, user)
 ```
+
 ---

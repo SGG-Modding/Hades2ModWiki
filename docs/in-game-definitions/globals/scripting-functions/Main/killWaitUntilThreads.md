@@ -1,11 +1,21 @@
 # killWaitUntilThreads
+
 Function name in Main.lua
+
 ## Parameters
-`event`
+
+| Name  | Description |
+| ----- | ----------- |
+| event |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 killWaitUntilThreads(event)
 ```
+
 ---

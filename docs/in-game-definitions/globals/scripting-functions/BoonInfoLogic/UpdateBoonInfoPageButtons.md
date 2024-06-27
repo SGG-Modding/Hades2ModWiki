@@ -1,11 +1,21 @@
 # UpdateBoonInfoPageButtons
+
 Function name in BoonInfoLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateBoonInfoPageButtons(screen)
 ```
+
 ---

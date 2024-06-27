@@ -1,11 +1,22 @@
 # BoonInfoScreenNext
+
 Function name in BoonInfoLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BoonInfoScreenNext(screen, button)
 ```
+
 ---

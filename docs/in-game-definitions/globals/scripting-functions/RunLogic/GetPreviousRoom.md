@@ -1,11 +1,21 @@
 # GetPreviousRoom
+
 Function name in RunLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `PreviousDeathAreaRoom`
+
 ## Usage
+
 ```lua
 GetPreviousRoom(currentRun)
 ```
+
 ---

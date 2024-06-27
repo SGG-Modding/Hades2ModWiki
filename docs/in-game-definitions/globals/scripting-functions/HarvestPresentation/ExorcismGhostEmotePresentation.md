@@ -1,11 +1,21 @@
 # ExorcismGhostEmotePresentation
+
 Function name in HarvestPresentation.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ExorcismGhostEmotePresentation(source)
 ```
+
 ---

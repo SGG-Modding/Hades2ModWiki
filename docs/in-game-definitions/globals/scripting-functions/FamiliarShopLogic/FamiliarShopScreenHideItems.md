@@ -1,11 +1,21 @@
 # FamiliarShopScreenHideItems
+
 Function name in FamiliarShopLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FamiliarShopScreenHideItems(screen)
 ```
+
 ---

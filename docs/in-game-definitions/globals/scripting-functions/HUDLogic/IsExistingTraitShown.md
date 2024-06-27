@@ -1,11 +1,21 @@
 # IsExistingTraitShown
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`trait`
+
+| Name  | Description |
+| ----- | ----------- |
+| trait |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsExistingTraitShown(trait)
 ```
+
 ---

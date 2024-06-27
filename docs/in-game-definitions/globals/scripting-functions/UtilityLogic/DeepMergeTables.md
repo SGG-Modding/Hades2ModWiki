@@ -1,11 +1,22 @@
 # DeepMergeTables
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`baseTable`, `incomingTable`
+
+| Name          | Description |
+| ------------- | ----------- |
+| baseTable     |             |
+| incomingTable |             |
+
 ## Returns
+
 `returnTable`
+
 ## Usage
+
 ```lua
 DeepMergeTables(baseTable, incomingTable)
 ```
+
 ---

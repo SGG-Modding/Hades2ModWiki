@@ -1,11 +1,21 @@
 # PostActivatFusePresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`enemy`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PostActivatFusePresentation(enemy)
 ```
+
 ---

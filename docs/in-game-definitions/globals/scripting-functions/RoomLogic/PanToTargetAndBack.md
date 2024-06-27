@@ -1,11 +1,21 @@
 # PanToTargetAndBack
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`targetId`
+
+| Name     | Description |
+| -------- | ----------- |
+| targetId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PanToTargetAndBack(targetId)
 ```
+
 ---

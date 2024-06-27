@@ -1,11 +1,23 @@
 # FishingReelSequence
+
 Function name in FishingLogic.lua
+
 ## Parameters
-`source`, `args`, `fishData`
+
+| Name     | Description |
+| -------- | ----------- |
+| source   |             |
+| args     |             |
+| fishData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FishingReelSequence(source, args, fishData)
 ```
+
 ---

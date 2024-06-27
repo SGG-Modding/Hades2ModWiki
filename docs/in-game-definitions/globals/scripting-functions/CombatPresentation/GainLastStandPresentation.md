@@ -1,11 +1,21 @@
 # GainLastStandPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`index`
+
+| Name  | Description |
+| ----- | ----------- |
+| index |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GainLastStandPresentation(index)
 ```
+
 ---

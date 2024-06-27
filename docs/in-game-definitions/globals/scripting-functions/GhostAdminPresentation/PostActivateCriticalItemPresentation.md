@@ -1,11 +1,22 @@
 # PostActivateCriticalItemPresentation
+
 Function name in GhostAdminPresentation.lua
+
 ## Parameters
-`button`, `saleData`
+
+| Name     | Description |
+| -------- | ----------- |
+| button   |             |
+| saleData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PostActivateCriticalItemPresentation(button, saleData)
 ```
+
 ---

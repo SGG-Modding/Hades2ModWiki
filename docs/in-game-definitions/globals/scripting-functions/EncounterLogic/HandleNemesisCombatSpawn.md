@@ -1,11 +1,21 @@
 # HandleNemesisCombatSpawn
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`eventSource`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HandleNemesisCombatSpawn(eventSource)
 ```
+
 ---

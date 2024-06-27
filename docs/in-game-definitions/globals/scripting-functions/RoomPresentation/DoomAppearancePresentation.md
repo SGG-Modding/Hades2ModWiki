@@ -1,11 +1,21 @@
 # DoomAppearancePresentation
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`delay`
+
+| Name  | Description |
+| ----- | ----------- |
+| delay |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoomAppearancePresentation(delay)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # ManaChargeCompletePresentationThread
+
 Function name in ManaPresentation.lua
+
 ## Parameters
-`weaponData`, `duration`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+| duration   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ManaChargeCompletePresentationThread(weaponData, duration)
 ```
+
 ---

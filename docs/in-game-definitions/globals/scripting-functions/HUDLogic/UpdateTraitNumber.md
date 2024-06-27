@@ -1,11 +1,21 @@
 # UpdateTraitNumber
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`trait`
+
+| Name  | Description |
+| ----- | ----------- |
+| trait |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateTraitNumber(trait)
 ```
+
 ---

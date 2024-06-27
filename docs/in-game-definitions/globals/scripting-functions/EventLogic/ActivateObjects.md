@@ -1,11 +1,22 @@
 # ActivateObjects
+
 Function name in EventLogic.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 ActivateObjects(eventSource, args)
 ```
+
 ---

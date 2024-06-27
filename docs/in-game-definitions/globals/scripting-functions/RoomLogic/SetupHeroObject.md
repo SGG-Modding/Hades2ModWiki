@@ -1,11 +1,22 @@
 # SetupHeroObject
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`room`, `applyLuaUpgrades`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| room             |             |
+| applyLuaUpgrades |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetupHeroObject(room, applyLuaUpgrades)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GetMaxDistance
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+
 ## Returns
+
 `highest`
+
 ## Usage
+
 ```lua
 GetMaxDistance(tableArg)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # HeroShopDeliveryPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`expiringTrait`
+
+| Name          | Description |
+| ------------- | ----------- |
+| expiringTrait |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HeroShopDeliveryPresentation(expiringTrait)
 ```
+
 ---

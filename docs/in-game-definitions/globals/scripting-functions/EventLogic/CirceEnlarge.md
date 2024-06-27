@@ -1,11 +1,23 @@
 # CirceEnlarge
+
 Function name in EventLogic.lua
+
 ## Parameters
-`unit`, `args`, `roomArgs`
+
+| Name     | Description |
+| -------- | ----------- |
+| unit     |             |
+| args     |             |
+| roomArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CirceEnlarge(unit, args, roomArgs)
 ```
+
 ---

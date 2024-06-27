@@ -1,11 +1,21 @@
 # MarkObjectivesComplete
+
 Function name in ObjectiveLogic.lua
+
 ## Parameters
-`objectiveNames`
+
+| Name           | Description |
+| -------------- | ----------- |
+| objectiveNames |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MarkObjectivesComplete(objectiveNames)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GetCoordsInRow
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`row`
+
+| Name | Description |
+| ---- | ----------- |
+| row  |             |
+
 ## Returns
+
 `neighboringNames`
+
 ## Usage
+
 ```lua
 GetCoordsInRow(row)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # SetupWorldShop
+
 Function name in StoreLogic.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetupWorldShop(source, args)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # CreateScreenFromData
+
 Function name in UILogic.lua
+
 ## Parameters
-`screen`, `componentData`, `args`
+
+| Name          | Description |
+| ------------- | ----------- |
+| screen        |             |
+| componentData |             |
+| args          |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateScreenFromData(screen, componentData, args)
 ```
+
 ---

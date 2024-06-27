@@ -1,11 +1,22 @@
 # RoomStatGrowth
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`unit`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RoomStatGrowth(unit, args)
 ```
+
 ---

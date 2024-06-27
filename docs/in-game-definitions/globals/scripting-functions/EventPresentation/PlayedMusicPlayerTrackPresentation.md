@@ -1,11 +1,21 @@
 # PlayedMusicPlayerTrackPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`trackName`
+
+| Name      | Description |
+| --------- | ----------- |
+| trackName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PlayedMusicPlayerTrackPresentation(trackName)
 ```
+
 ---

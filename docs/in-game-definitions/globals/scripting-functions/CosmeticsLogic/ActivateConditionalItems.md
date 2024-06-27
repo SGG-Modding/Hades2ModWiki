@@ -1,11 +1,22 @@
 # ActivateConditionalItems
+
 Function name in CosmeticsLogic.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ActivateConditionalItems(eventSource, args)
 ```
+
 ---

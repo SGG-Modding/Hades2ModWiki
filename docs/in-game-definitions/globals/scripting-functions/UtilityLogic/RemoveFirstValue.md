@@ -1,11 +1,21 @@
 # RemoveFirstValue
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+
 ## Returns
+
 `value`
+
 ## Usage
+
 ```lua
 RemoveFirstValue(tableArg)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GetGiftLevel
+
 Function name in GiftLogic.lua
+
 ## Parameters
-`npcName`
+
+| Name    | Description |
+| ------- | ----------- |
+| npcName |             |
+
 ## Returns
+
 `0`
+
 ## Usage
+
 ```lua
 GetGiftLevel(npcName)
 ```
+
 ---

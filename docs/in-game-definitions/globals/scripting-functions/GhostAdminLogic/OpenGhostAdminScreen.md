@@ -1,11 +1,22 @@
 # OpenGhostAdminScreen
+
 Function name in GhostAdminLogic.lua
+
 ## Parameters
-`openedFrom`, `defaultCategoryIndex`
+
+| Name                 | Description |
+| -------------------- | ----------- |
+| openedFrom           |             |
+| defaultCategoryIndex |             |
+
 ## Returns
+
 `screen`
+
 ## Usage
+
 ```lua
 OpenGhostAdminScreen(openedFrom, defaultCategoryIndex)
 ```
+
 ---

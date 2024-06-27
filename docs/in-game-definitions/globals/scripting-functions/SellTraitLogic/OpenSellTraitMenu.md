@@ -1,11 +1,21 @@
 # OpenSellTraitMenu
+
 Function name in SellTraitLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OpenSellTraitMenu(args)
 ```
+
 ---

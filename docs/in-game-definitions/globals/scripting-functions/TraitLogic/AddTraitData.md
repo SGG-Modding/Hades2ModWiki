@@ -1,11 +1,23 @@
 # AddTraitData
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`unit`, `traitData`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| unit      |             |
+| traitData |             |
+| args      |             |
+
 ## Returns
+
 `newTrait`
+
 ## Usage
+
 ```lua
 AddTraitData(unit, traitData, args)
 ```
+
 ---

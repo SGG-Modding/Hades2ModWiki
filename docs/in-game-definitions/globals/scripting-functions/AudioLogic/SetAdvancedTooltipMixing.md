@@ -1,11 +1,21 @@
 # SetAdvancedTooltipMixing
+
 Function name in AudioLogic.lua
+
 ## Parameters
-`value`
+
+| Name  | Description |
+| ----- | ----------- |
+| value |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetAdvancedTooltipMixing(value)
 ```
+
 ---

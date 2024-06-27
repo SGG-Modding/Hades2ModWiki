@@ -1,11 +1,21 @@
 # ShipWheelEnd
+
 Function name in RoomPresentation_Late.lua
+
 ## Parameters
-`rewardWheel`
+
+| Name        | Description |
+| ----------- | ----------- |
+| rewardWheel |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShipWheelEnd(rewardWheel)
 ```
+
 ---

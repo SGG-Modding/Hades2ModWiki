@@ -1,11 +1,22 @@
 # GameStatsChangeSortMode
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GameStatsChangeSortMode(screen, button)
 ```
+
 ---

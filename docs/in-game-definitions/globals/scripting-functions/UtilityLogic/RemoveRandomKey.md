@@ -1,11 +1,22 @@
 # RemoveRandomKey
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`, `rng`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+| rng      |             |
+
 ## Returns
+
 `key`
+
 ## Usage
+
 ```lua
 RemoveRandomKey(tableArg, rng)
 ```
+
 ---

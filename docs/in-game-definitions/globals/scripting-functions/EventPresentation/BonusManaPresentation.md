@@ -1,11 +1,21 @@
 # BonusManaPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`bonusMana`
+
+| Name      | Description |
+| --------- | ----------- |
+| bonusMana |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 BonusManaPresentation(bonusMana)
 ```
+
 ---

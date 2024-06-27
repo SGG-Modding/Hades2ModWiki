@@ -1,11 +1,21 @@
 # GetEligibleTransformingTrait
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`traitNames`
+
+| Name       | Description |
+| ---------- | ----------- |
+| traitNames |             |
+
 ## Returns
+
 `output`
+
 ## Usage
+
 ```lua
 GetEligibleTransformingTrait(traitNames)
 ```
+
 ---

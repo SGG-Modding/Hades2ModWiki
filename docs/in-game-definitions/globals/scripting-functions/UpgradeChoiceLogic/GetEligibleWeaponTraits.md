@@ -1,11 +1,21 @@
 # GetEligibleWeaponTraits
+
 Function name in UpgradeChoiceLogic.lua
+
 ## Parameters
-`traitNames`
+
+| Name       | Description |
+| ---------- | ----------- |
+| traitNames |             |
+
 ## Returns
+
 `eligibleTraits`
+
 ## Usage
+
 ```lua
 GetEligibleWeaponTraits(traitNames)
 ```
+
 ---

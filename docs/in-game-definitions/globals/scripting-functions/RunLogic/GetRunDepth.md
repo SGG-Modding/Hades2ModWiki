@@ -1,11 +1,21 @@
 # GetRunDepth
+
 Function name in RunLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `1`, `depth`
+
 ## Usage
+
 ```lua
 GetRunDepth(currentRun)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # InitKillCountText
+
 Function name in CodexLogic.lua
+
 ## Parameters
-`screen`, `entryData`
+
+| Name      | Description |
+| --------- | ----------- |
+| screen    |             |
+| entryData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 InitKillCountText(screen, entryData)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # RandomSeed
+
 Function name in RandomLogic.lua
+
 ## Parameters
-`seed`
+
+| Name | Description |
+| ---- | ----------- |
+| seed |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RandomSeed(seed)
 ```
+
 ---

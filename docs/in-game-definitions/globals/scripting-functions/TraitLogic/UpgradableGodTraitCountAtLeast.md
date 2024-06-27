@@ -1,11 +1,21 @@
 # UpgradableGodTraitCountAtLeast
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`num`
+
+| Name | Description |
+| ---- | ----------- |
+| num  |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 UpgradableGodTraitCountAtLeast(num)
 ```
+
 ---

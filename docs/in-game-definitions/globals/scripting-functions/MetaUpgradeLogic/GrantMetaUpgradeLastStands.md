@@ -1,11 +1,22 @@
 # GrantMetaUpgradeLastStands
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`traitName`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+| args      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GrantMetaUpgradeLastStands(traitName, args)
 ```
+
 ---

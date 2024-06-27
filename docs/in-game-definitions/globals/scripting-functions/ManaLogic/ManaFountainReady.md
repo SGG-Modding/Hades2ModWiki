@@ -1,11 +1,21 @@
 # ManaFountainReady
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`fountain`
+
+| Name     | Description |
+| -------- | ----------- |
+| fountain |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ManaFountainReady(fountain)
 ```
+
 ---

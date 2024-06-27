@@ -1,11 +1,22 @@
 # AreTraitsIdentical
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`traitA`, `traitB`
+
+| Name   | Description |
+| ------ | ----------- |
+| traitA |             |
+| traitB |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 AreTraitsIdentical(traitA, traitB)
 ```
+
 ---

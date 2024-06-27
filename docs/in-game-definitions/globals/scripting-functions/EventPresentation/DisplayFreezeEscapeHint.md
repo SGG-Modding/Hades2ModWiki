@@ -1,11 +1,21 @@
 # DisplayFreezeEscapeHint
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`victim`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DisplayFreezeEscapeHint(victim)
 ```
+
 ---

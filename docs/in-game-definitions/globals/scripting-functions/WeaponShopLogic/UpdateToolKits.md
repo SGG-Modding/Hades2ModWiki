@@ -1,11 +1,21 @@
 # UpdateToolKits
+
 Function name in WeaponShopLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateToolKits(args)
 ```
+
 ---

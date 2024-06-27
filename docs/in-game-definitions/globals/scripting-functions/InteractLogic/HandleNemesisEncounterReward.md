@@ -1,11 +1,22 @@
 # HandleNemesisEncounterReward
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HandleNemesisEncounterReward(eventSource, args)
 ```
+
 ---

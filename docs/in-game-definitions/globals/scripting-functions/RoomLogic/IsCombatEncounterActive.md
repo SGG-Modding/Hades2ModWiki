@@ -1,11 +1,22 @@
 # IsCombatEncounterActive
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`currentRun`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+| args       |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsCombatEncounterActive(currentRun, args)
 ```
+
 ---

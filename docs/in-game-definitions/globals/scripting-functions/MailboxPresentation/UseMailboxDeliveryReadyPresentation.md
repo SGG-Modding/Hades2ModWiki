@@ -1,11 +1,22 @@
 # UseMailboxDeliveryReadyPresentation
+
 Function name in MailboxPresentation.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseMailboxDeliveryReadyPresentation(usee, args)
 ```
+
 ---

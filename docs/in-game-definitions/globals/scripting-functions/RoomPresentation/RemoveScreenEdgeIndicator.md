@@ -1,11 +1,21 @@
 # RemoveScreenEdgeIndicator
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`source`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveScreenEdgeIndicator(source)
 ```
+
 ---

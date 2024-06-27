@@ -1,11 +1,22 @@
 # HandleSpecialTriggerLockClear
+
 Function name in EffectLogic.lua
+
 ## Parameters
-`weaponName`, `triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| weaponName  |             |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HandleSpecialTriggerLockClear(weaponName, triggerArgs)
 ```
+
 ---

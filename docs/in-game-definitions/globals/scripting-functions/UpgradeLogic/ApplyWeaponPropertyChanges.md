@@ -1,11 +1,22 @@
 # ApplyWeaponPropertyChanges
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`weaponNames`, `propertyName`
+
+| Name         | Description |
+| ------------ | ----------- |
+| weaponNames  |             |
+| propertyName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ApplyWeaponPropertyChanges(weaponNames, propertyName)
 ```
+
 ---

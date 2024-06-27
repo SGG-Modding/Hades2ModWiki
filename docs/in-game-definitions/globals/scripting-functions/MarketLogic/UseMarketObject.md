@@ -1,11 +1,22 @@
 # UseMarketObject
+
 Function name in MarketLogic.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseMarketObject(usee, args)
 ```
+
 ---

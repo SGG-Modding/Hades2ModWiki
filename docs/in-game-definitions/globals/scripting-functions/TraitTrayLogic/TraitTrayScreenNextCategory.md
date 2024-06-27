@@ -1,11 +1,22 @@
 # TraitTrayScreenNextCategory
+
 Function name in TraitTrayLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitTrayScreenNextCategory(screen, button)
 ```
+
 ---

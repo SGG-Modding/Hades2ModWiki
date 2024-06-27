@@ -1,11 +1,21 @@
 # AddRandomHammer
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `traitData`
+
 ## Usage
+
 ```lua
 AddRandomHammer(args)
 ```
+
 ---

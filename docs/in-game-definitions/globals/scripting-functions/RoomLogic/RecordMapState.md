@@ -1,11 +1,24 @@
 # RecordMapState
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`mapName`, `id`, `property`, `value`
+
+| Name     | Description |
+| -------- | ----------- |
+| mapName  |             |
+| id       |             |
+| property |             |
+| value    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RecordMapState(mapName, id, property, value)
 ```
+
 ---

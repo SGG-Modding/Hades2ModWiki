@@ -1,11 +1,22 @@
 # ProcessPickup
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemy`, `pickupTarget`
+
+| Name         | Description |
+| ------------ | ----------- |
+| enemy        |             |
+| pickupTarget |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ProcessPickup(enemy, pickupTarget)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # ApplyLinkedTraitPropertyChanges
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`unit`, `newTraitData`
+
+| Name         | Description |
+| ------------ | ----------- |
+| unit         |             |
+| newTraitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ApplyLinkedTraitPropertyChanges(unit, newTraitData)
 ```
+
 ---

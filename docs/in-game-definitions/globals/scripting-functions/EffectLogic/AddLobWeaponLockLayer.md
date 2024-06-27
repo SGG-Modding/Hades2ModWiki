@@ -1,11 +1,21 @@
 # AddLobWeaponLockLayer
+
 Function name in EffectLogic.lua
+
 ## Parameters
-`tag`
+
+| Name | Description |
+| ---- | ----------- |
+| tag  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddLobWeaponLockLayer(tag)
 ```
+
 ---

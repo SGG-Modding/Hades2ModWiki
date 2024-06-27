@@ -1,11 +1,22 @@
 # WeaponShopCloseCategory
+
 Function name in WeaponShopPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WeaponShopCloseCategory(screen, button)
 ```
+
 ---

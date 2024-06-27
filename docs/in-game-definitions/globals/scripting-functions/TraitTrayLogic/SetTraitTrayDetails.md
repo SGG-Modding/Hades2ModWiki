@@ -1,11 +1,21 @@
 # SetTraitTrayDetails
+
 Function name in TraitTrayLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetTraitTrayDetails(args)
 ```
+
 ---

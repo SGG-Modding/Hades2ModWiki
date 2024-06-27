@@ -1,11 +1,22 @@
 # draw
+
 Function name in Main.lua
+
 ## Parameters
-`time`, `unmodifiedTime`
+
+| Name           | Description |
+| -------------- | ----------- |
+| time           |             |
+| unmodifiedTime |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 draw(time, unmodifiedTime)
 ```
+
 ---

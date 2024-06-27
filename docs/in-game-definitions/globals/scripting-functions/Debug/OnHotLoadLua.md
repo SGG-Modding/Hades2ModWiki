@@ -1,11 +1,21 @@
 # OnHotLoadLua
+
 Function name in Debug.lua
+
 ## Parameters
-`fileName`
+
+| Name     | Description |
+| -------- | ----------- |
+| fileName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OnHotLoadLua(fileName)
 ```
+
 ---

@@ -1,11 +1,23 @@
 # SpawnMovingObstacle
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`obstacleName`, `destinationId`, `spawnData`
+
+| Name          | Description |
+| ------------- | ----------- |
+| obstacleName  |             |
+| destinationId |             |
+| spawnData     |             |
+
 ## Returns
+
 `obstacleId`
+
 ## Usage
+
 ```lua
 SpawnMovingObstacle(obstacleName, destinationId, spawnData)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # HasPinWithResource
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`resourceName`
+
+| Name         | Description |
+| ------------ | ----------- |
+| resourceName |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasPinWithResource(resourceName)
 ```
+
 ---

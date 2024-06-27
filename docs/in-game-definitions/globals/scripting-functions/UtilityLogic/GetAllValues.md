@@ -1,11 +1,21 @@
 # GetAllValues
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableToGather`
+
+| Name          | Description |
+| ------------- | ----------- |
+| tableToGather |             |
+
 ## Returns
+
 `values`
+
 ## Usage
+
 ```lua
 GetAllValues(tableToGather)
 ```
+
 ---

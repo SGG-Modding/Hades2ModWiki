@@ -1,11 +1,22 @@
 # GetShipWheelUseText
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`useTarget`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| useTarget |             |
+| args      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetShipWheelUseText(useTarget, args)
 ```
+
 ---

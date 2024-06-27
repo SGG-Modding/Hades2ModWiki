@@ -1,11 +1,22 @@
 # PlayStatusAnimation
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PlayStatusAnimation(source, args)
 ```
+
 ---

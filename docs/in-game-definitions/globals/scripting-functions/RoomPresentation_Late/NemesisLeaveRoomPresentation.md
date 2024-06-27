@@ -1,11 +1,22 @@
 # NemesisLeaveRoomPresentation
+
 Function name in RoomPresentation_Late.lua
+
 ## Parameters
-`nemesis`, `exitDoor`
+
+| Name     | Description |
+| -------- | ----------- |
+| nemesis  |             |
+| exitDoor |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 NemesisLeaveRoomPresentation(nemesis, exitDoor)
 ```
+
 ---

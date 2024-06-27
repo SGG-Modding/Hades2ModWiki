@@ -1,11 +1,21 @@
 # CheckTriggerAllDamageEcho
+
 Function name in EffectLogic.lua
+
 ## Parameters
-`ignoreUnit`
+
+| Name       | Description |
+| ---------- | ----------- |
+| ignoreUnit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckTriggerAllDamageEcho(ignoreUnit)
 ```
+
 ---

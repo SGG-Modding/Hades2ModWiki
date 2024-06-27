@@ -1,11 +1,22 @@
 # DeleteMatchingPropertyChange
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`array`, `traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| array     |             |
+| traitName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DeleteMatchingPropertyChange(array, traitName)
 ```
+
 ---

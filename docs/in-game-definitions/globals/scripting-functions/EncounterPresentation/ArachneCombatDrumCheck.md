@@ -1,11 +1,21 @@
 # ArachneCombatDrumCheck
+
 Function name in EncounterPresentation.lua
+
 ## Parameters
-`unit`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ArachneCombatDrumCheck(unit)
 ```
+
 ---

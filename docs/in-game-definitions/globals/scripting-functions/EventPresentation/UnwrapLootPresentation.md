@@ -1,11 +1,21 @@
 # UnwrapLootPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`reward`
+
+| Name   | Description |
+| ------ | ----------- |
+| reward |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnwrapLootPresentation(reward)
 ```
+
 ---

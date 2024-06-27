@@ -1,11 +1,21 @@
 # GetBiomeDepth
+
 Function name in RunLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `depth`
+
 ## Usage
+
 ```lua
 GetBiomeDepth(currentRun)
 ```
+
 ---

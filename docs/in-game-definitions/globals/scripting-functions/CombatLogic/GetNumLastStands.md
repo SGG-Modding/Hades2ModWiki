@@ -1,11 +1,21 @@
 # GetNumLastStands
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`unit`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetNumLastStands(unit)
 ```
+
 ---

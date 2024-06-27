@@ -1,11 +1,22 @@
 # PolyphemusInterruptWeaponPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`enemy`, `aiData`
+
+| Name   | Description |
+| ------ | ----------- |
+| enemy  |             |
+| aiData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PolyphemusInterruptWeaponPresentation(enemy, aiData)
 ```
+
 ---

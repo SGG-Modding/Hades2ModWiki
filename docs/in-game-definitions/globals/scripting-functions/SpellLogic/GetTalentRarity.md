@@ -1,11 +1,21 @@
 # GetTalentRarity
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`column`
+
+| Name   | Description |
+| ------ | ----------- |
+| column |             |
+
 ## Returns
+
 `rarityName`
+
 ## Usage
+
 ```lua
 GetTalentRarity(column)
 ```
+
 ---

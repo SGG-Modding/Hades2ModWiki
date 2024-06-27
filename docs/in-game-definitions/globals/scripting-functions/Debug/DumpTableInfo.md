@@ -1,11 +1,21 @@
 # DumpTableInfo
+
 Function name in Debug.lua
+
 ## Parameters
-`object`
+
+| Name   | Description |
+| ------ | ----------- |
+| object |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DumpTableInfo(object)
 ```
+
 ---

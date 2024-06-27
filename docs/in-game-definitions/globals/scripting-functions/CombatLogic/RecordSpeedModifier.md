@@ -1,11 +1,22 @@
 # RecordSpeedModifier
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`modifier`, `duration`
+
+| Name     | Description |
+| -------- | ----------- |
+| modifier |             |
+| duration |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RecordSpeedModifier(modifier, duration)
 ```
+
 ---

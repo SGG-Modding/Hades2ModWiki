@@ -1,11 +1,22 @@
 # ScaleToHealthPercentage
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ScaleToHealthPercentage(source, args)
 ```
+
 ---

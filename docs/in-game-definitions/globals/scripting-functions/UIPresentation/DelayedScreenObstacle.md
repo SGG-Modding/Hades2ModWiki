@@ -1,11 +1,21 @@
 # DelayedScreenObstacle
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`animationData`
+
+| Name          | Description |
+| ------------- | ----------- |
+| animationData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DelayedScreenObstacle(animationData)
 ```
+
 ---

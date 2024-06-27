@@ -1,11 +1,21 @@
 # SpendAmmo
+
 Function name in AmmoLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpendAmmo(weaponName)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # MailboxScreenDisplayCategory
+
 Function name in MailboxLogic.lua
+
 ## Parameters
-`screen`, `categoryIndex`
+
+| Name          | Description |
+| ------------- | ----------- |
+| screen        |             |
+| categoryIndex |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MailboxScreenDisplayCategory(screen, categoryIndex)
 ```
+
 ---

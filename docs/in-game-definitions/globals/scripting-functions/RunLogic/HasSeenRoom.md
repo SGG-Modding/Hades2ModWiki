@@ -1,11 +1,22 @@
 # HasSeenRoom
+
 Function name in RunLogic.lua
+
 ## Parameters
-`roomName`, `excludeThisRun`
+
+| Name           | Description |
+| -------------- | ----------- |
+| roomName       |             |
+| excludeThisRun |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasSeenRoom(roomName, excludeThisRun)
 ```
+
 ---

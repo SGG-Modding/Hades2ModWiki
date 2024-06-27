@@ -1,11 +1,22 @@
 # OnTalentPressed
+
 Function name in TalentScreenLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OnTalentPressed(screen, button)
 ```
+
 ---

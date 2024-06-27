@@ -1,11 +1,21 @@
 # HasMeleeWeapon
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasMeleeWeapon(currentRun)
 ```
+
 ---

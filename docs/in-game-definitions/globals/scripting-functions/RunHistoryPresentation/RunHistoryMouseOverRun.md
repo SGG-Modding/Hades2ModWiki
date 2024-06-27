@@ -1,11 +1,21 @@
 # RunHistoryMouseOverRun
+
 Function name in RunHistoryPresentation.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RunHistoryMouseOverRun(button)
 ```
+
 ---

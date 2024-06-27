@@ -1,11 +1,21 @@
 # CalcMetaProgressRatio
+
 Function name in RewardLogic.lua
+
 ## Parameters
-`run`
+
+| Name | Description |
+| ---- | ----------- |
+| run  |             |
+
 ## Returns
+
 `nil`, `ratio`
+
 ## Usage
+
 ```lua
 CalcMetaProgressRatio(run)
 ```
+
 ---

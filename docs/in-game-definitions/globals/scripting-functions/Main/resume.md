@@ -1,11 +1,22 @@
 # resume
+
 Function name in Main.lua
+
 ## Parameters
-`thread`, `threadTable`
+
+| Name        | Description |
+| ----------- | ----------- |
+| thread      |             |
+| threadTable |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 resume(thread, threadTable)
 ```
+
 ---

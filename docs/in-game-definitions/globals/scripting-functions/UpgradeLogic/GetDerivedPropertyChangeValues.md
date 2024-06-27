@@ -1,11 +1,21 @@
 # GetDerivedPropertyChangeValues
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `derivedValue`
+
 ## Usage
+
 ```lua
 GetDerivedPropertyChangeValues(args)
 ```
+
 ---

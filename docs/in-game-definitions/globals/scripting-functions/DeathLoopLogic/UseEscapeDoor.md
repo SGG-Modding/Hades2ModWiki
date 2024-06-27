@@ -1,11 +1,22 @@
 # UseEscapeDoor
+
 Function name in DeathLoopLogic.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseEscapeDoor(usee, args)
 ```
+
 ---

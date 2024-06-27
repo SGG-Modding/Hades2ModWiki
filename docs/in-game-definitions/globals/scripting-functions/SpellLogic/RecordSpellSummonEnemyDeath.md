@@ -1,11 +1,22 @@
 # RecordSpellSummonEnemyDeath
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`enemy`, `args`
+
+| Name  | Description |
+| ----- | ----------- |
+| enemy |             |
+| args  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RecordSpellSummonEnemyDeath(enemy, args)
 ```
+
 ---

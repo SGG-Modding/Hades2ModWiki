@@ -1,11 +1,22 @@
 # DebugLoad
+
 Function name in Main.lua
+
 ## Parameters
-`key`, `value`
+
+| Name  | Description |
+| ----- | ----------- |
+| key   |             |
+| value |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DebugLoad(key, value)
 ```
+
 ---

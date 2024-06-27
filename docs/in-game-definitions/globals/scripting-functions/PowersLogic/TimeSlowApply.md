@@ -1,11 +1,21 @@
 # TimeSlowApply
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TimeSlowApply(triggerArgs)
 ```
+
 ---

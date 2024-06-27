@@ -1,11 +1,21 @@
 # GetMetaUpgradeCardCoords
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`metaUpgradeName`
+
+| Name            | Description |
+| --------------- | ----------- |
+| metaUpgradeName |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 GetMetaUpgradeCardCoords(metaUpgradeName)
 ```
+
 ---

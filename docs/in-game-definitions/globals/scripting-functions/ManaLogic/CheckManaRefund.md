@@ -1,11 +1,22 @@
 # CheckManaRefund
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`weaponData`, `functionArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| weaponData   |             |
+| functionArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckManaRefund(weaponData, functionArgs)
 ```
+
 ---

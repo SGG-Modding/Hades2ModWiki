@@ -1,11 +1,21 @@
 # GetStackLevel
+
 Function name in Main.lua
+
 ## Parameters
-`startingLevel`
+
+| Name          | Description |
+| ------------- | ----------- |
+| startingLevel |             |
+
 ## Returns
+
 `level`
+
 ## Usage
+
 ```lua
 GetStackLevel(startingLevel)
 ```
+
 ---

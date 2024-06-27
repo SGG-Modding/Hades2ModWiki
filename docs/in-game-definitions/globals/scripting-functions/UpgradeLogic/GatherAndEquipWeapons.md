@@ -1,11 +1,21 @@
 # GatherAndEquipWeapons
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GatherAndEquipWeapons(currentRun)
 ```
+
 ---

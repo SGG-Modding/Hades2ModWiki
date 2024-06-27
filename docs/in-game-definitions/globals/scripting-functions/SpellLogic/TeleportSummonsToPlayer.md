@@ -1,11 +1,21 @@
 # TeleportSummonsToPlayer
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`teleports`
+
+| Name      | Description |
+| --------- | ----------- |
+| teleports |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TeleportSummonsToPlayer(teleports)
 ```
+
 ---

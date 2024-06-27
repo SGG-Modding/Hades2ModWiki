@@ -1,11 +1,22 @@
 # CharonPointsGrantedPresentation
+
 Function name in MailboxPresentation.lua
+
 ## Parameters
-`amount`, `sourceName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| amount     |             |
+| sourceName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CharonPointsGrantedPresentation(amount, sourceName)
 ```
+
 ---

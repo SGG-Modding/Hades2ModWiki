@@ -1,11 +1,21 @@
 # TraitTrayGetUniqueName
+
 Function name in TraitTrayLogic.lua
+
 ## Parameters
-`traitComponent`
+
+| Name           | Description |
+| -------------- | ----------- |
+| traitComponent |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitTrayGetUniqueName(traitComponent)
 ```
+
 ---

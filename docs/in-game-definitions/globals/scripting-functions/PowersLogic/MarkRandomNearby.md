@@ -1,11 +1,22 @@
 # MarkRandomNearby
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`victim`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MarkRandomNearby(victim, args)
 ```
+
 ---

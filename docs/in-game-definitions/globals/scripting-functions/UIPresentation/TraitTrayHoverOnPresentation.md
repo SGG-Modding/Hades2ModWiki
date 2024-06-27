@@ -1,11 +1,22 @@
 # TraitTrayHoverOnPresentation
+
 Function name in UIPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitTrayHoverOnPresentation(screen, button)
 ```
+
 ---

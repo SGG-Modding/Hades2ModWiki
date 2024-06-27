@@ -1,11 +1,21 @@
 # HandleCardSwapInput
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HandleCardSwapInput(screen)
 ```
+
 ---

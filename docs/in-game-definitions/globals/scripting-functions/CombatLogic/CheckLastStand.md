@@ -1,11 +1,22 @@
 # CheckLastStand
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`victim`, `triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| victim      |             |
+| triggerArgs |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 CheckLastStand(victim, triggerArgs)
 ```
+
 ---

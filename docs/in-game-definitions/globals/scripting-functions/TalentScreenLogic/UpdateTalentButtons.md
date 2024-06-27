@@ -1,11 +1,21 @@
 # UpdateTalentButtons
+
 Function name in TalentScreenLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateTalentButtons(screen)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # HadesVoicelineBlur
+
 Function name in EncounterPresentation_Late.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HadesVoicelineBlur(args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # CheckDaggerBlockRecharge
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`traitData`, `reloadTime`
+
+| Name       | Description |
+| ---------- | ----------- |
+| traitData  |             |
+| reloadTime |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckDaggerBlockRecharge(traitData, reloadTime)
 ```
+
 ---

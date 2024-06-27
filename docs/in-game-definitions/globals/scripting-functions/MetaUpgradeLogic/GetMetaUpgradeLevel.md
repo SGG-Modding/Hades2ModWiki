@@ -1,11 +1,21 @@
 # GetMetaUpgradeLevel
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`metaUpgradeName`
+
+| Name            | Description |
+| --------------- | ----------- |
+| metaUpgradeName |             |
+
 ## Returns
+
 `1`
+
 ## Usage
+
 ```lua
 GetMetaUpgradeLevel(metaUpgradeName)
 ```
+
 ---

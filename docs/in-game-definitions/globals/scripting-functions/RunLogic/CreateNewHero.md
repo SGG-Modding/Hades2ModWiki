@@ -1,11 +1,22 @@
 # CreateNewHero
+
 Function name in RunLogic.lua
+
 ## Parameters
-`prevRun`, `args`
+
+| Name    | Description |
+| ------- | ----------- |
+| prevRun |             |
+| args    |             |
+
 ## Returns
+
 `newHero`
+
 ## Usage
+
 ```lua
 CreateNewHero(prevRun, args)
 ```
+
 ---

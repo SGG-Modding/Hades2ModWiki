@@ -1,11 +1,21 @@
 # GetEncounterActiveEnemyCount
+
 Function name in EncounterLogic.lua
+
 ## Parameters
-`encounter`
+
+| Name      | Description |
+| --------- | ----------- |
+| encounter |             |
+
 ## Returns
+
 `count`
+
 ## Usage
+
 ```lua
 GetEncounterActiveEnemyCount(encounter)
 ```
+
 ---

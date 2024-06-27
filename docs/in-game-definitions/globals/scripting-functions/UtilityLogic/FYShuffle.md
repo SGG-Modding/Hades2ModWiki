@@ -1,11 +1,21 @@
 # FYShuffle
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tInput`
+
+| Name   | Description |
+| ------ | ----------- |
+| tInput |             |
+
 ## Returns
+
 `tReturn`
+
 ## Usage
+
 ```lua
 FYShuffle(tInput)
 ```
+
 ---

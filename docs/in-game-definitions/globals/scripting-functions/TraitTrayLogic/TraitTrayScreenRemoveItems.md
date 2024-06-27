@@ -1,11 +1,21 @@
 # TraitTrayScreenRemoveItems
+
 Function name in TraitTrayLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitTrayScreenRemoveItems(screen)
 ```
+
 ---

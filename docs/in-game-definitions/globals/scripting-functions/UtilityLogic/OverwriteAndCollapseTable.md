@@ -1,11 +1,21 @@
 # OverwriteAndCollapseTable
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`tableArg`
+
+| Name     | Description |
+| -------- | ----------- |
+| tableArg |             |
+
 ## Returns
+
 `tableArg`
+
 ## Usage
+
 ```lua
 OverwriteAndCollapseTable(tableArg)
 ```
+
 ---

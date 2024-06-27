@@ -1,11 +1,22 @@
 # DestroyScreenDataComponents
+
 Function name in UILogic.lua
+
 ## Parameters
-`screen`, `componentData`
+
+| Name          | Description |
+| ------------- | ----------- |
+| screen        |             |
+| componentData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DestroyScreenDataComponents(screen, componentData)
 ```
+
 ---

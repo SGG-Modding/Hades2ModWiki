@@ -1,11 +1,21 @@
 # PlayerUseBiomeGDoorPresentation
+
 Function name in RoomPresentation_Late.lua
+
 ## Parameters
-`exitDoor`
+
+| Name     | Description |
+| -------- | ----------- |
+| exitDoor |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PlayerUseBiomeGDoorPresentation(exitDoor)
 ```
+
 ---

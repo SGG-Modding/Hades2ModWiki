@@ -1,11 +1,21 @@
 # GetFastestRunClearTime
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `fastestTime`
+
 ## Usage
+
 ```lua
 GetFastestRunClearTime(currentRun)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # HasSeenEncounter
+
 Function name in RunLogic.lua
+
 ## Parameters
-`encounterName`
+
+| Name          | Description |
+| ------------- | ----------- |
+| encounterName |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasSeenEncounter(encounterName)
 ```
+
 ---

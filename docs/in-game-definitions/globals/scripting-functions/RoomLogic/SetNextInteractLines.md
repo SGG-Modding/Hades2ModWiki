@@ -1,11 +1,22 @@
 # SetNextInteractLines
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`source`, `textLines`
+
+| Name      | Description |
+| --------- | ----------- |
+| source    |             |
+| textLines |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetNextInteractLines(source, textLines)
 ```
+
 ---

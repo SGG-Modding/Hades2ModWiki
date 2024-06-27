@@ -1,11 +1,22 @@
 # SpawnStoreItemInWorld
+
 Function name in StoreLogic.lua
+
 ## Parameters
-`itemData`, `kitId`
+
+| Name     | Description |
+| -------- | ----------- |
+| itemData |             |
+| kitId    |             |
+
 ## Returns
+
 `spawnedItem`
+
 ## Usage
+
 ```lua
 SpawnStoreItemInWorld(itemData, kitId)
 ```
+
 ---

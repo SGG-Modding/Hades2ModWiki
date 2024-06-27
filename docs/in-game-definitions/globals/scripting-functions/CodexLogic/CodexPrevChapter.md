@@ -1,11 +1,22 @@
 # CodexPrevChapter
+
 Function name in CodexLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CodexPrevChapter(screen, button)
 ```
+
 ---

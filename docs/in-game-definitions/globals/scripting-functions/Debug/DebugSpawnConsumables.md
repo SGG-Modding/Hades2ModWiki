@@ -1,11 +1,22 @@
 # DebugSpawnConsumables
+
 Function name in Debug.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DebugSpawnConsumables(eventSource, args)
 ```
+
 ---

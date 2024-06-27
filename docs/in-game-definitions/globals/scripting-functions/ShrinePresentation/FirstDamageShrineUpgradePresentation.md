@@ -1,11 +1,22 @@
 # FirstDamageShrineUpgradePresentation
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`victim`, `attacker`
+
+| Name     | Description |
+| -------- | ----------- |
+| victim   |             |
+| attacker |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FirstDamageShrineUpgradePresentation(victim, attacker)
 ```
+
 ---

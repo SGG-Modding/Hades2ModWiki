@@ -1,11 +1,21 @@
 # HitBySmokeTrapWeaponPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`victim`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HitBySmokeTrapWeaponPresentation(victim)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # ToggleConfigOption
+
 Function name in Debug.lua
+
 ## Parameters
-`name`
+
+| Name | Description |
+| ---- | ----------- |
+| name |             |
+
 ## Returns
+
 `newValue`
+
 ## Usage
+
 ```lua
 ToggleConfigOption(name)
 ```
+
 ---

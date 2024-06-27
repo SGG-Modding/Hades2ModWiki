@@ -1,11 +1,22 @@
 # GameStatScreenClosePresentation
+
 Function name in GameStatsPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GameStatScreenClosePresentation(screen, button)
 ```
+
 ---

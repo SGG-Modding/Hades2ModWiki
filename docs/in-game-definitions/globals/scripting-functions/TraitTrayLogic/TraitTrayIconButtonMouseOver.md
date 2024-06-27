@@ -1,11 +1,21 @@
 # TraitTrayIconButtonMouseOver
+
 Function name in TraitTrayLogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitTrayIconButtonMouseOver(button)
 ```
+
 ---

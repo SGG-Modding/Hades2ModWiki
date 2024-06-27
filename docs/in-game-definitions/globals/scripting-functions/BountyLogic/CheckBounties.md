@@ -1,11 +1,22 @@
 # CheckBounties
+
 Function name in BountyLogic.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `endingRun`
+
 ## Usage
+
 ```lua
 CheckBounties(source, args)
 ```
+
 ---

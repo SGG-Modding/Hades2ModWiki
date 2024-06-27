@@ -1,11 +1,22 @@
 # UpdateLobWeaponProjectileNum
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`triggerArgs`, `weaponData`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+| weaponData  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateLobWeaponProjectileNum(triggerArgs, weaponData)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # MetaUpgradeCardRevealComplete
+
 Function name in MetaUpgradeCardScreenPresentation.lua
+
 ## Parameters
-`button`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MetaUpgradeCardRevealComplete(button, args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # QuestCashedOutPresentation
+
 Function name in QuestPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `o`
+
 ## Usage
+
 ```lua
 QuestCashedOutPresentation(screen, button)
 ```
+
 ---

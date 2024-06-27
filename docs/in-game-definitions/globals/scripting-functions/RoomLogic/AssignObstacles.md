@@ -1,11 +1,21 @@
 # AssignObstacles
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`eventSource`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AssignObstacles(eventSource)
 ```
+
 ---

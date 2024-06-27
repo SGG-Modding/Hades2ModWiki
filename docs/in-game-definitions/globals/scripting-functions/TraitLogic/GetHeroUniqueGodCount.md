@@ -1,11 +1,21 @@
 # GetHeroUniqueGodCount
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`hero`
+
+| Name | Description |
+| ---- | ----------- |
+| hero |             |
+
 ## Returns
+
 `0`
+
 ## Usage
+
 ```lua
 GetHeroUniqueGodCount(hero)
 ```
+
 ---

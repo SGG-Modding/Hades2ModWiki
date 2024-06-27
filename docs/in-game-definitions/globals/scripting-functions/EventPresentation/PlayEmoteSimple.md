@@ -1,11 +1,23 @@
 # PlayEmoteSimple
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`source`, `args`, `originalArgs`
+
+| Name         | Description |
+| ------------ | ----------- |
+| source       |             |
+| args         |             |
+| originalArgs |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 PlayEmoteSimple(source, args, originalArgs)
 ```
+
 ---

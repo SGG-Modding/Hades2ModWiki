@@ -1,11 +1,22 @@
 # InitClockworkGoalReward
+
 Function name in RewardLogic.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 InitClockworkGoalReward(source, args)
 ```
+
 ---

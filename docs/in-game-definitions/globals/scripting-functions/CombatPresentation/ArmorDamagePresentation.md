@@ -1,11 +1,22 @@
 # ArmorDamagePresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`victim`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| victim |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ArmorDamagePresentation(victim, args)
 ```
+
 ---

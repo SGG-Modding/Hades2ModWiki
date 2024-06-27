@@ -1,11 +1,21 @@
 # GetLuaWeaponSpeedMultiplier
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `speedMultiplier`
+
 ## Usage
+
 ```lua
 GetLuaWeaponSpeedMultiplier(weaponName)
 ```
+
 ---

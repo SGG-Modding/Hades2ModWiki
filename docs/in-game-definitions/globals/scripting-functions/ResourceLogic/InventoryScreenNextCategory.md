@@ -1,11 +1,22 @@
 # InventoryScreenNextCategory
+
 Function name in ResourceLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 InventoryScreenNextCategory(screen, button)
 ```
+
 ---

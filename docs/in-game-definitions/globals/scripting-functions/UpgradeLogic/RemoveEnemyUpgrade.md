@@ -1,11 +1,21 @@
 # RemoveEnemyUpgrade
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`upgradeName`
+
+| Name        | Description |
+| ----------- | ----------- |
+| upgradeName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveEnemyUpgrade(upgradeName)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # OpenRunHistoryScreen
+
 Function name in RunHistoryLogic.lua
+
 ## Parameters
-`openedFrom`
+
+| Name       | Description |
+| ---------- | ----------- |
+| openedFrom |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OpenRunHistoryScreen(openedFrom)
 ```
+
 ---

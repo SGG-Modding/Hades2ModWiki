@@ -1,11 +1,22 @@
 # ValidateLinesFormats
+
 Function name in RunData.lua
+
 ## Parameters
-`line`, `name`
+
+| Name | Description |
+| ---- | ----------- |
+| line |             |
+| name |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ValidateLinesFormats(line, name)
 ```
+
 ---

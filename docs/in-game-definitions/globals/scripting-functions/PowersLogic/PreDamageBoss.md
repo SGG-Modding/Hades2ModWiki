@@ -1,11 +1,23 @@
 # PreDamageBoss
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`enemy`, `damageAmount`, `damageData`
+
+| Name         | Description |
+| ------------ | ----------- |
+| enemy        |             |
+| damageAmount |             |
+| damageData   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PreDamageBoss(enemy, damageAmount, damageData)
 ```
+
 ---

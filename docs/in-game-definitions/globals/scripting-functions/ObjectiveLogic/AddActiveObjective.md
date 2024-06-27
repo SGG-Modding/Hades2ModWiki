@@ -1,11 +1,22 @@
 # AddActiveObjective
+
 Function name in ObjectiveLogic.lua
+
 ## Parameters
-`objectiveName`, `objectiveSetName`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| objectiveName    |             |
+| objectiveSetName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddActiveObjective(objectiveName, objectiveSetName)
 ```
+
 ---

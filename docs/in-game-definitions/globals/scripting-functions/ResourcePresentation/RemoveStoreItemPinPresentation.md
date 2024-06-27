@@ -1,11 +1,21 @@
 # RemoveStoreItemPinPresentation
+
 Function name in ResourcePresentation.lua
+
 ## Parameters
-`selectedItem`
+
+| Name         | Description |
+| ------------ | ----------- |
+| selectedItem |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveStoreItemPinPresentation(selectedItem)
 ```
+
 ---

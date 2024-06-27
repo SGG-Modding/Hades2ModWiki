@@ -1,11 +1,21 @@
 # CleanupRaiseDeadEncounter
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`currentRoom`
+
+| Name        | Description |
+| ----------- | ----------- |
+| currentRoom |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CleanupRaiseDeadEncounter(currentRoom)
 ```
+
 ---

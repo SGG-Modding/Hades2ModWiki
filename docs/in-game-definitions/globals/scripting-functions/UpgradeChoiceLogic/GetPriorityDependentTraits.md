@@ -1,11 +1,21 @@
 # GetPriorityDependentTraits
+
 Function name in UpgradeChoiceLogic.lua
+
 ## Parameters
-`lootData`
+
+| Name     | Description |
+| -------- | ----------- |
+| lootData |             |
+
 ## Returns
+
 `linkedTraits`
+
 ## Usage
+
 ```lua
 GetPriorityDependentTraits(lootData)
 ```
+
 ---

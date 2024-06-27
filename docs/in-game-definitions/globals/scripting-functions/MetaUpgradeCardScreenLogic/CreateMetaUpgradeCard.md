@@ -1,11 +1,25 @@
 # CreateMetaUpgradeCard
+
 Function name in MetaUpgradeCardScreenLogic.lua
+
 ## Parameters
-`screen`, `row`, `column`, `cardName`, `args`
+
+| Name     | Description |
+| -------- | ----------- |
+| screen   |             |
+| row      |             |
+| column   |             |
+| cardName |             |
+| args     |             |
+
 ## Returns
+
 `newObstacle`
+
 ## Usage
+
 ```lua
 CreateMetaUpgradeCard(screen, row, column, cardName, args)
 ```
+
 ---

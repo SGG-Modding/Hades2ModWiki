@@ -1,11 +1,21 @@
 # ReplaceDerivedValues
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitData |             |
+
 ## Returns
+
 `traitData`
+
 ## Usage
+
 ```lua
 ReplaceDerivedValues(traitData)
 ```
+
 ---

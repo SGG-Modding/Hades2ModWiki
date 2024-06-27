@@ -1,11 +1,22 @@
 # GetTimerStringHours
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`totalSeconds`, `args`
+
+| Name         | Description |
+| ------------ | ----------- |
+| totalSeconds |             |
+| args         |             |
+
 ## Returns
+
 `str`
+
 ## Usage
+
 ```lua
 GetTimerStringHours(totalSeconds, args)
 ```
+
 ---

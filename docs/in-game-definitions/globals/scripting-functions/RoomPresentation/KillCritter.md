@@ -1,11 +1,22 @@
 # KillCritter
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`objectId`, `killWait`
+
+| Name     | Description |
+| -------- | ----------- |
+| objectId |             |
+| killWait |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 KillCritter(objectId, killWait)
 ```
+
 ---

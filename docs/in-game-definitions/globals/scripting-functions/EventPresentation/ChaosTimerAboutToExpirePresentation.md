@@ -1,11 +1,21 @@
 # ChaosTimerAboutToExpirePresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`threshold`
+
+| Name      | Description |
+| --------- | ----------- |
+| threshold |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ChaosTimerAboutToExpirePresentation(threshold)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # PauseMusic
+
 Function name in AudioLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PauseMusic(args)
 ```
+
 ---

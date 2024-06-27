@@ -1,11 +1,21 @@
 # TriggerCooldown
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`name`
+
+| Name | Description |
+| ---- | ----------- |
+| name |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TriggerCooldown(name)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # AssistFailedPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`attacker`
+
+| Name     | Description |
+| -------- | ----------- |
+| attacker |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AssistFailedPresentation(attacker)
 ```
+
 ---

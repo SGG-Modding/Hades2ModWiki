@@ -1,11 +1,21 @@
 # SpellHasNoMana
+
 Function name in SpellLogic.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpellHasNoMana(weaponData)
 ```
+
 ---

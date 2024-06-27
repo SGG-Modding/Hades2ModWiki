@@ -1,11 +1,22 @@
 # HandleChallengeLootDecay
+
 Function name in EventLogic.lua
+
 ## Parameters
-`challengeSwitch`, `challengeEncounter`
+
+| Name               | Description |
+| ------------------ | ----------- |
+| challengeSwitch    |             |
+| challengeEncounter |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 HandleChallengeLootDecay(challengeSwitch, challengeEncounter)
 ```
+
 ---

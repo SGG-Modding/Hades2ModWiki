@@ -1,11 +1,22 @@
 # AddAmmo
+
 Function name in AmmoLogic.lua
+
 ## Parameters
-`weaponName`, `value`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+| value      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddAmmo(weaponName, value)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # GetHighestPrevRunRepth
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`currentRun`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+
 ## Returns
+
 `highestRunDepth`
+
 ## Usage
+
 ```lua
 GetHighestPrevRunRepth(currentRun)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # DebugWriteCsvRow
+
 Function name in Debug.lua
+
 ## Parameters
-`buffer`, `row`
+
+| Name   | Description |
+| ------ | ----------- |
+| buffer |             |
+| row    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DebugWriteCsvRow(buffer, row)
 ```
+
 ---

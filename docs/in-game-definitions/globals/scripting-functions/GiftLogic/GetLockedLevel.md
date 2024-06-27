@@ -1,11 +1,21 @@
 # GetLockedLevel
+
 Function name in GiftLogic.lua
+
 ## Parameters
-`npcName`
+
+| Name    | Description |
+| ------- | ----------- |
+| npcName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetLockedLevel(npcName)
 ```
+
 ---

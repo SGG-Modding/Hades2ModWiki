@@ -1,11 +1,21 @@
 # RandomStoreItemPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`itemData`
+
+| Name     | Description |
+| -------- | ----------- |
+| itemData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RandomStoreItemPresentation(itemData)
 ```
+
 ---

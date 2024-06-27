@@ -1,11 +1,22 @@
 # notify
+
 Function name in Main.lua
+
 ## Parameters
-`event`, `wasTimeout`
+
+| Name       | Description |
+| ---------- | ----------- |
+| event      |             |
+| wasTimeout |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 notify(event, wasTimeout)
 ```
+
 ---

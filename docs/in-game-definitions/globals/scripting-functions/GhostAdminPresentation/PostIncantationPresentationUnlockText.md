@@ -1,11 +1,21 @@
 # PostIncantationPresentationUnlockText
+
 Function name in GhostAdminPresentation.lua
+
 ## Parameters
-`saleData`
+
+| Name     | Description |
+| -------- | ----------- |
+| saleData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PostIncantationPresentationUnlockText(saleData)
 ```
+
 ---

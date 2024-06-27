@@ -1,11 +1,21 @@
 # SetupResourceText
+
 Function name in InteractLogic.lua
+
 ## Parameters
-`consumable`
+
+| Name       | Description |
+| ---------- | ----------- |
+| consumable |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetupResourceText(consumable)
 ```
+
 ---

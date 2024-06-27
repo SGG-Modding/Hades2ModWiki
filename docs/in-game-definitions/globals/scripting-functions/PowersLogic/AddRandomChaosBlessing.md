@@ -1,11 +1,21 @@
 # AddRandomChaosBlessing
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`rarityName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| rarityName |             |
+
 ## Returns
+
 `traitData`
+
 ## Usage
+
 ```lua
 AddRandomChaosBlessing(rarityName)
 ```
+
 ---

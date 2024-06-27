@@ -1,11 +1,21 @@
 # CodexScreenCreateChapters
+
 Function name in CodexLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CodexScreenCreateChapters(screen)
 ```
+
 ---

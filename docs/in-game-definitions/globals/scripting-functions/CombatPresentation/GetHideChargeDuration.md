@@ -1,11 +1,21 @@
 # GetHideChargeDuration
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `0`, `chargeTime`
+
 ## Usage
+
 ```lua
 GetHideChargeDuration(weaponData)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # WanderToId
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`destinationId`, `projectileData`
+
+| Name           | Description |
+| -------------- | ----------- |
+| destinationId  |             |
+| projectileData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WanderToId(destinationId, projectileData)
 ```
+
 ---

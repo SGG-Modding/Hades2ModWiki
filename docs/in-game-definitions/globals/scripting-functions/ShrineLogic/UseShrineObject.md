@@ -1,11 +1,22 @@
 # UseShrineObject
+
 Function name in ShrineLogic.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseShrineObject(usee, args)
 ```
+
 ---

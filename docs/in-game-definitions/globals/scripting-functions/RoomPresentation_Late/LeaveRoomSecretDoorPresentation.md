@@ -1,11 +1,22 @@
 # LeaveRoomSecretDoorPresentation
+
 Function name in RoomPresentation_Late.lua
+
 ## Parameters
-`currentRun`, `secretDoor`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+| secretDoor |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 LeaveRoomSecretDoorPresentation(currentRun, secretDoor)
 ```
+
 ---

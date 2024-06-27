@@ -1,11 +1,21 @@
 # OnLanguageChanged
+
 Function name in UILogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OnLanguageChanged(args)
 ```
+
 ---

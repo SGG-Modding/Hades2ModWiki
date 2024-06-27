@@ -1,11 +1,21 @@
 # UnwrapRandomLoot
+
 Function name in StoreLogic.lua
+
 ## Parameters
-`spawnId`
+
+| Name    | Description |
+| ------- | ----------- |
+| spawnId |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UnwrapRandomLoot(spawnId)
 ```
+
 ---

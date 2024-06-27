@@ -1,11 +1,22 @@
 # CalculateManaGain
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`triggerArgs`, `weaponData`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+| weaponData  |             |
+
 ## Returns
+
 `0`
+
 ## Usage
+
 ```lua
 CalculateManaGain(triggerArgs, weaponData)
 ```
+
 ---

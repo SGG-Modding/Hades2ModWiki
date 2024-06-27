@@ -1,11 +1,21 @@
 # ErisTakeOff
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`eris`
+
+| Name | Description |
+| ---- | ----------- |
+| eris |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ErisTakeOff(eris)
 ```
+
 ---

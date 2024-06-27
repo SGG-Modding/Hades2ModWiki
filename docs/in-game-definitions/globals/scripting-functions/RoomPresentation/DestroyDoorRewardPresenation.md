@@ -1,11 +1,21 @@
 # DestroyDoorRewardPresenation
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`door`
+
+| Name | Description |
+| ---- | ----------- |
+| door |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DestroyDoorRewardPresenation(door)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # MouseOverSurfaceShopButton
+
 Function name in SurfaceShopLogic.lua
+
 ## Parameters
-`component`
+
+| Name      | Description |
+| --------- | ----------- |
+| component |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MouseOverSurfaceShopButton(component)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # RunEvents
+
 Function name in EventLogic.lua
+
 ## Parameters
-`eventSource`, `events`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| events      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RunEvents(eventSource, events)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # SetHeroAngleWithMoveOrder
+
 Function name in EncounterPresentation.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetHeroAngleWithMoveOrder(args)
 ```
+
 ---

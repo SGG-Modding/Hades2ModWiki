@@ -1,11 +1,22 @@
 # DestroyBoonLootButtons
+
 Function name in UpgradeChoiceLogic.lua
+
 ## Parameters
-`screen`, `lootData`
+
+| Name     | Description |
+| -------- | ----------- |
+| screen   |             |
+| lootData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DestroyBoonLootButtons(screen, lootData)
 ```
+
 ---

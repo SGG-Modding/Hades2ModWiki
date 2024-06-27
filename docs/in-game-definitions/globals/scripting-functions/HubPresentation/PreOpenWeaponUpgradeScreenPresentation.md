@@ -1,11 +1,21 @@
 # PreOpenWeaponUpgradeScreenPresentation
+
 Function name in HubPresentation.lua
+
 ## Parameters
-`usee`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 PreOpenWeaponUpgradeScreenPresentation(usee)
 ```
+
 ---

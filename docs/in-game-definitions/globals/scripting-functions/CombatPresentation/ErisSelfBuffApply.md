@@ -1,11 +1,21 @@
 # ErisSelfBuffApply
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ErisSelfBuffApply(triggerArgs)
 ```
+
 ---

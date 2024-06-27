@@ -1,11 +1,21 @@
 # ExorcismPointGetUseText
+
 Function name in HarvestPresentation.lua
+
 ## Parameters
-`useTarget`
+
+| Name      | Description |
+| --------- | ----------- |
+| useTarget |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ExorcismPointGetUseText(useTarget)
 ```
+
 ---

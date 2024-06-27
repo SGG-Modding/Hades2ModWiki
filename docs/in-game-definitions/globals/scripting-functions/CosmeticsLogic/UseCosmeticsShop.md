@@ -1,11 +1,22 @@
 # UseCosmeticsShop
+
 Function name in CosmeticsLogic.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UseCosmeticsShop(usee, args)
 ```
+
 ---

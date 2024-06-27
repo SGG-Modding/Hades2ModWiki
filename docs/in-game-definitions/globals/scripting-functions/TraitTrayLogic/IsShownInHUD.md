@@ -1,11 +1,21 @@
 # IsShownInHUD
+
 Function name in TraitTrayLogic.lua
+
 ## Parameters
-`trait`
+
+| Name  | Description |
+| ----- | ----------- |
+| trait |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsShownInHUD(trait)
 ```
+
 ---

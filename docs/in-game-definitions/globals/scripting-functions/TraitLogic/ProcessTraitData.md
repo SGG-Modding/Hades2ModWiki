@@ -1,11 +1,21 @@
 # ProcessTraitData
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `traitData`
+
 ## Usage
+
 ```lua
 ProcessTraitData(args)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # DisplayGhostQuote
+
 Function name in GhostLogic.lua
+
 ## Parameters
-`ghost`
+
+| Name  | Description |
+| ----- | ----------- |
+| ghost |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DisplayGhostQuote(ghost)
 ```
+
 ---

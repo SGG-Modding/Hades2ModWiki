@@ -1,11 +1,22 @@
 # MailboxScreenClosePresentation
+
 Function name in MailboxPresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MailboxScreenClosePresentation(screen, button)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # CosmeticShopPostDisplayCategoryPresentation
+
 Function name in CosmeticsPresentation.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CosmeticShopPostDisplayCategoryPresentation(screen)
 ```
+
 ---

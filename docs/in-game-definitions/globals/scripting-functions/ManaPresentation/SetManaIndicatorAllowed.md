@@ -1,11 +1,21 @@
 # SetManaIndicatorAllowed
+
 Function name in ManaPresentation.lua
+
 ## Parameters
-`weaponName`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetManaIndicatorAllowed(weaponName)
 ```
+
 ---

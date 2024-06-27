@@ -1,11 +1,22 @@
 # HasTraitsOnLoot
+
 Function name in RoomLogic.lua
+
 ## Parameters
-`loot`, `traitNames`
+
+| Name       | Description |
+| ---------- | ----------- |
+| loot       |             |
+| traitNames |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 HasTraitsOnLoot(loot, traitNames)
 ```
+
 ---

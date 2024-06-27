@@ -1,11 +1,21 @@
 # CleanUpUpgradeSparkles
+
 Function name in FamiliarShopPresentation.lua
+
 ## Parameters
-`familiar`
+
+| Name     | Description |
+| -------- | ----------- |
+| familiar |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CleanUpUpgradeSparkles(familiar)
 ```
+
 ---

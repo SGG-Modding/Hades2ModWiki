@@ -1,11 +1,21 @@
 # UpdateTimers
+
 Function name in RunLogic.lua
+
 ## Parameters
-`elapsed`
+
+| Name    | Description |
+| ------- | ----------- |
+| elapsed |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateTimers(elapsed)
 ```
+
 ---

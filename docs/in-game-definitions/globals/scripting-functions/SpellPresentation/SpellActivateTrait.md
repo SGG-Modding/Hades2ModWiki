@@ -1,11 +1,21 @@
 # SpellActivateTrait
+
 Function name in SpellPresentation.lua
+
 ## Parameters
-`traitData`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpellActivateTrait(traitData)
 ```
+
 ---

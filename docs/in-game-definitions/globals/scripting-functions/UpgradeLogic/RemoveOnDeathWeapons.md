@@ -1,11 +1,21 @@
 # RemoveOnDeathWeapons
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`unit`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveOnDeathWeapons(unit)
 ```
+
 ---

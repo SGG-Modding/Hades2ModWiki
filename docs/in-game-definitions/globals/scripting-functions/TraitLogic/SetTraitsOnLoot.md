@@ -1,11 +1,22 @@
 # SetTraitsOnLoot
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`lootData`, `args`
+
+| Name     | Description |
+| -------- | ----------- |
+| lootData |             |
+| args     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SetTraitsOnLoot(lootData, args)
 ```
+
 ---

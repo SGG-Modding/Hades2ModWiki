@@ -1,11 +1,22 @@
 # StaffChargeStage
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponName`, `stageData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponName |             |
+| stageData  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 StaffChargeStage(weaponName, stageData)
 ```
+
 ---

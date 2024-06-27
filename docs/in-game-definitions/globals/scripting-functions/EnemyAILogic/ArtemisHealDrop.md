@@ -1,11 +1,22 @@
 # ArtemisHealDrop
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`projectileData`, `args`
+
+| Name           | Description |
+| -------------- | ----------- |
+| projectileData |             |
+| args           |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ArtemisHealDrop(projectileData, args)
 ```
+
 ---

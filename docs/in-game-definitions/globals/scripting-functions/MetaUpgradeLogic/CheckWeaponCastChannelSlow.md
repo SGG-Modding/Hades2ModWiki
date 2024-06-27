@@ -1,11 +1,22 @@
 # CheckWeaponCastChannelSlow
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`weaponData`, `args`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+| args       |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckWeaponCastChannelSlow(weaponData, args)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # FastClearTraitStartPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`clearTimeThreshold`, `traitData`
+
+| Name               | Description |
+| ------------------ | ----------- |
+| clearTimeThreshold |             |
+| traitData          |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 FastClearTraitStartPresentation(clearTimeThreshold, traitData)
 ```
+
 ---

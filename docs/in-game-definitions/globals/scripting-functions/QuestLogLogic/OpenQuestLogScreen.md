@@ -1,11 +1,21 @@
 # OpenQuestLogScreen
+
 Function name in QuestLogLogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 OpenQuestLogScreen(args)
 ```
+
 ---

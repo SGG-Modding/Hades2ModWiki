@@ -1,11 +1,22 @@
 # AIFireWeapon
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemy`, `aiData`
+
+| Name   | Description |
+| ------ | ----------- |
+| enemy  |             |
+| aiData |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 AIFireWeapon(enemy, aiData)
 ```
+
 ---

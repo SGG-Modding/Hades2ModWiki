@@ -1,11 +1,22 @@
 # GetPropertyOrderingValue
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`propertyNameA`, `propertyNameB`
+
+| Name          | Description |
+| ------------- | ----------- |
+| propertyNameA |             |
+| propertyNameB |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetPropertyOrderingValue(propertyNameA, propertyNameB)
 ```
+
 ---

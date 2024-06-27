@@ -1,11 +1,22 @@
 # MovingManaRegenSetup
+
 Function name in ManaLogic.lua
+
 ## Parameters
-`hero`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| hero |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 MovingManaRegenSetup(hero, args)
 ```
+
 ---

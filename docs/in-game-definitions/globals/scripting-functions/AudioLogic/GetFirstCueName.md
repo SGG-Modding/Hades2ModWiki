@@ -1,11 +1,21 @@
 # GetFirstCueName
+
 Function name in AudioLogic.lua
+
 ## Parameters
-`voiceLines`
+
+| Name       | Description |
+| ---------- | ----------- |
+| voiceLines |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 GetFirstCueName(voiceLines)
 ```
+
 ---

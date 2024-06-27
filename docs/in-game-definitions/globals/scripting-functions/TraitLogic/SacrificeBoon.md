@@ -1,11 +1,22 @@
 # SacrificeBoon
+
 Function name in TraitLogic.lua
+
 ## Parameters
-`args`, `sourceTraitData`
+
+| Name            | Description |
+| --------------- | ----------- |
+| args            |             |
+| sourceTraitData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SacrificeBoon(args, sourceTraitData)
 ```
+
 ---

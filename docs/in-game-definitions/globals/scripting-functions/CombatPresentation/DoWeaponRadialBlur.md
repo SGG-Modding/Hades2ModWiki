@@ -1,11 +1,21 @@
 # DoWeaponRadialBlur
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`blurInfo`
+
+| Name     | Description |
+| -------- | ----------- |
+| blurInfo |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoWeaponRadialBlur(blurInfo)
 ```
+
 ---

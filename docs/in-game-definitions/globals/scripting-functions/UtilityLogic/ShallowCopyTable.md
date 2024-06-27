@@ -1,11 +1,21 @@
 # ShallowCopyTable
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`table`
+
+| Name  | Description |
+| ----- | ----------- |
+| table |             |
+
 ## Returns
+
 `copy`
+
 ## Usage
+
 ```lua
 ShallowCopyTable(table)
 ```
+
 ---

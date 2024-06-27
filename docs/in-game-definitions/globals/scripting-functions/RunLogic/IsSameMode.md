@@ -1,11 +1,21 @@
 # IsSameMode
+
 Function name in RunLogic.lua
+
 ## Parameters
-`run`
+
+| Name | Description |
+| ---- | ----------- |
+| run  |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsSameMode(run)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # ShowWeaponStats
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShowWeaponStats(screen)
 ```
+
 ---

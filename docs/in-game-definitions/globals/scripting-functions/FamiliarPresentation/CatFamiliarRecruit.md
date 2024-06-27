@@ -1,11 +1,22 @@
 # CatFamiliarRecruit
+
 Function name in FamiliarPresentation.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CatFamiliarRecruit(usee, args)
 ```
+
 ---

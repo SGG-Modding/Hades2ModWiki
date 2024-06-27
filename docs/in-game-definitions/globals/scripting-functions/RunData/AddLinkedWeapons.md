@@ -1,11 +1,21 @@
 # AddLinkedWeapons
+
 Function name in RunData.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddLinkedWeapons(weaponData)
 ```
+
 ---

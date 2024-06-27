@@ -1,11 +1,21 @@
 # ScyllaArmorBreak
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`unit`
+
+| Name | Description |
+| ---- | ----------- |
+| unit |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ScyllaArmorBreak(unit)
 ```
+
 ---

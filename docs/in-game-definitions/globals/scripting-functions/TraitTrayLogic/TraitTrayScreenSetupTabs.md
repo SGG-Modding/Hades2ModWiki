@@ -1,11 +1,22 @@
 # TraitTrayScreenSetupTabs
+
 Function name in TraitTrayLogic.lua
+
 ## Parameters
-`screen`, `data`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| data   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 TraitTrayScreenSetupTabs(screen, data)
 ```
+
 ---

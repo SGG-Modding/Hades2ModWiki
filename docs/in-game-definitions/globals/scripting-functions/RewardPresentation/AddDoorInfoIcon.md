@@ -1,11 +1,21 @@
 # AddDoorInfoIcon
+
 Function name in RewardPresentation.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddDoorInfoIcon(args)
 ```
+
 ---

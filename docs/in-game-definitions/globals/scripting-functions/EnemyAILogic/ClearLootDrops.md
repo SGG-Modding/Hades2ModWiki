@@ -1,11 +1,21 @@
 # ClearLootDrops
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemyData`
+
+| Name      | Description |
+| --------- | ----------- |
+| enemyData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ClearLootDrops(enemyData)
 ```
+
 ---

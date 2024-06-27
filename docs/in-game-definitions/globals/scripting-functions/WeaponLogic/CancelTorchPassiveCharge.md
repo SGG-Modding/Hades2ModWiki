@@ -1,11 +1,21 @@
 # CancelTorchPassiveCharge
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CancelTorchPassiveCharge(weaponData)
 ```
+
 ---

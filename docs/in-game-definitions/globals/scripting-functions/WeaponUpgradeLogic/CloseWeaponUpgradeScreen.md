@@ -1,11 +1,21 @@
 # CloseWeaponUpgradeScreen
+
 Function name in WeaponUpgradeLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CloseWeaponUpgradeScreen(screen)
 ```
+
 ---

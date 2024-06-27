@@ -1,11 +1,22 @@
 # GetTraitWithSlot
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`traits`, `slot`
+
+| Name   | Description |
+| ------ | ----------- |
+| traits |             |
+| slot   |             |
+
 ## Returns
+
 `trait`, `nil`
+
 ## Usage
+
 ```lua
 GetTraitWithSlot(traits, slot)
 ```
+
 ---

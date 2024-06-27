@@ -1,11 +1,22 @@
 # ApplyMetaUpgrades
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`hero`, `applyLuaUpgrades`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| hero             |             |
+| applyLuaUpgrades |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ApplyMetaUpgrades(hero, applyLuaUpgrades)
 ```
+
 ---

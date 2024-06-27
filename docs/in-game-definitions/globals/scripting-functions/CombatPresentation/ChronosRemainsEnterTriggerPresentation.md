@@ -1,11 +1,22 @@
 # ChronosRemainsEnterTriggerPresentation
+
 Function name in CombatPresentation.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ChronosRemainsEnterTriggerPresentation(source, args)
 ```
+
 ---

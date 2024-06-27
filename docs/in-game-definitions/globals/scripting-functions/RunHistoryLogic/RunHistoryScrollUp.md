@@ -1,11 +1,22 @@
 # RunHistoryScrollUp
+
 Function name in RunHistoryLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RunHistoryScrollUp(screen, button)
 ```
+
 ---

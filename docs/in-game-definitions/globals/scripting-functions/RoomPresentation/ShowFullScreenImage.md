@@ -1,11 +1,23 @@
 # ShowFullScreenImage
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`image`, `imageData`, `duration`
+
+| Name      | Description |
+| --------- | ----------- |
+| image     |             |
+| imageData |             |
+| duration  |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShowFullScreenImage(image, imageData, duration)
 ```
+
 ---

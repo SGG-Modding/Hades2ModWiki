@@ -1,11 +1,23 @@
 # DoPickup
+
 Function name in EnemyAILogic.lua
+
 ## Parameters
-`enemy`, `aiData`, `pickupTarget`
+
+| Name         | Description |
+| ------------ | ----------- |
+| enemy        |             |
+| aiData       |             |
+| pickupTarget |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 DoPickup(enemy, aiData, pickupTarget)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # AddRandomMetaUpgrades
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`numCards`, `args`
+
+| Name     | Description |
+| -------- | ----------- |
+| numCards |             |
+| args     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 AddRandomMetaUpgrades(numCards, args)
 ```
+
 ---

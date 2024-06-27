@@ -1,11 +1,23 @@
 # ZeusManaPickup
+
 Function name in PowersLogic.lua
+
 ## Parameters
-`interactableObject`, `functionArgs`, `user`
+
+| Name               | Description |
+| ------------------ | ----------- |
+| interactableObject |             |
+| functionArgs       |             |
+| user               |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ZeusManaPickup(interactableObject, functionArgs, user)
 ```
+
 ---

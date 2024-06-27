@@ -1,11 +1,22 @@
 # SpecialInteractSalute
+
 Function name in InteractPresentation.lua
+
 ## Parameters
-`usee`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| usee |             |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SpecialInteractSalute(usee, args)
 ```
+
 ---

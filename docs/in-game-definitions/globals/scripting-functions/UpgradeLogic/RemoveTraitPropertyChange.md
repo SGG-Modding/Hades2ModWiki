@@ -1,11 +1,23 @@
 # RemoveTraitPropertyChange
+
 Function name in UpgradeLogic.lua
+
 ## Parameters
-`traitName`, `propertyChange`, `weaponName`
+
+| Name           | Description |
+| -------------- | ----------- |
+| traitName      |             |
+| propertyChange |             |
+| weaponName     |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 RemoveTraitPropertyChange(traitName, propertyChange, weaponName)
 ```
+
 ---

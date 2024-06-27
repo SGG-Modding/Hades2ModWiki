@@ -1,11 +1,22 @@
 # ShrineScreenRankUpPresentation
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ShrineScreenRankUpPresentation(screen, button)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # CreateTextBoxWithFormat
+
 Function name in UILogic.lua
+
 ## Parameters
-`args`
+
+| Name | Description |
+| ---- | ----------- |
+| args |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CreateTextBoxWithFormat(args)
 ```
+
 ---

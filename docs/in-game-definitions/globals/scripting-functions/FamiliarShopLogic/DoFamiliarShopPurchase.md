@@ -1,11 +1,22 @@
 # DoFamiliarShopPurchase
+
 Function name in FamiliarShopLogic.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 DoFamiliarShopPurchase(screen, button)
 ```
+
 ---

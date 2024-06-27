@@ -1,11 +1,21 @@
 # CheckSprintBoons
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 CheckSprintBoons(triggerArgs)
 ```
+
 ---

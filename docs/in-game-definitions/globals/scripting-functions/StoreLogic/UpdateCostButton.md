@@ -1,11 +1,21 @@
 # UpdateCostButton
+
 Function name in StoreLogic.lua
+
 ## Parameters
-`button`
+
+| Name   | Description |
+| ------ | ----------- |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpdateCostButton(button)
 ```
+
 ---

@@ -1,11 +1,22 @@
 # GetReplacementTraits
+
 Function name in UpgradeChoiceLogic.lua
+
 ## Parameters
-`traitNames`, `onlyFromLootName`
+
+| Name             | Description |
+| ---------------- | ----------- |
+| traitNames       |             |
+| onlyFromLootName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GetReplacementTraits(traitNames, onlyFromLootName)
 ```
+
 ---

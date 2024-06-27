@@ -1,11 +1,21 @@
 # ManaTraitGainedPresentation
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ManaTraitGainedPresentation(traitName)
 ```
+
 ---

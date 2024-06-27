@@ -1,11 +1,22 @@
 # IsTraitEligible
+
 Function name in RunLogic.lua
+
 ## Parameters
-`currentRun`, `traitData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+| traitData  |             |
+
 ## Returns
+
 `bool`
+
 ## Usage
+
 ```lua
 IsTraitEligible(currentRun, traitData)
 ```
+
 ---

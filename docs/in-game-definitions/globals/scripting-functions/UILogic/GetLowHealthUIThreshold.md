@@ -1,11 +1,21 @@
 # GetLowHealthUIThreshold
+
 Function name in UILogic.lua
+
 ## Parameters
-`maxHealth`
+
+| Name      | Description |
+| --------- | ----------- |
+| maxHealth |             |
+
 ## Returns
+
 `healthThreshold`
+
 ## Usage
+
 ```lua
 GetLowHealthUIThreshold(maxHealth)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # ExitDoorUnlockedPresentation
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`exitDoor`
+
+| Name     | Description |
+| -------- | ----------- |
+| exitDoor |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ExitDoorUnlockedPresentation(exitDoor)
 ```
+
 ---

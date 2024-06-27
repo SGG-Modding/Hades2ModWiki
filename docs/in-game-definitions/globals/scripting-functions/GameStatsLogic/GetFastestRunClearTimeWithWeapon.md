@@ -1,11 +1,22 @@
 # GetFastestRunClearTimeWithWeapon
+
 Function name in GameStatsLogic.lua
+
 ## Parameters
-`currentRun`, `weapon`
+
+| Name       | Description |
+| ---------- | ----------- |
+| currentRun |             |
+| weapon     |             |
+
 ## Returns
+
 `fastestTime`
+
 ## Usage
+
 ```lua
 GetFastestRunClearTimeWithWeapon(currentRun, weapon)
 ```
+
 ---

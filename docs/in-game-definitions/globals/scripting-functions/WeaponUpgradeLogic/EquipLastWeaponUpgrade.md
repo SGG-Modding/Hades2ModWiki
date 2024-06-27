@@ -1,11 +1,22 @@
 # EquipLastWeaponUpgrade
+
 Function name in WeaponUpgradeLogic.lua
+
 ## Parameters
-`eventSource`, `args`
+
+| Name        | Description |
+| ----------- | ----------- |
+| eventSource |             |
+| args        |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 EquipLastWeaponUpgrade(eventSource, args)
 ```
+
 ---

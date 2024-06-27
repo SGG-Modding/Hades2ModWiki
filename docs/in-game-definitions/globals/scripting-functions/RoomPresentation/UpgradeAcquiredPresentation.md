@@ -1,11 +1,22 @@
 # UpgradeAcquiredPresentation
+
 Function name in RoomPresentation.lua
+
 ## Parameters
-`screen`, `upgradeData`
+
+| Name        | Description |
+| ----------- | ----------- |
+| screen      |             |
+| upgradeData |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 UpgradeAcquiredPresentation(screen, upgradeData)
 ```
+
 ---

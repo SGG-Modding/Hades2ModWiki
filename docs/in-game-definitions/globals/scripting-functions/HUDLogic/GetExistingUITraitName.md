@@ -1,11 +1,21 @@
 # GetExistingUITraitName
+
 Function name in HUDLogic.lua
+
 ## Parameters
-`traitName`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+
 ## Returns
+
 `existingTrait`, `nil`
+
 ## Usage
+
 ```lua
 GetExistingUITraitName(traitName)
 ```
+
 ---

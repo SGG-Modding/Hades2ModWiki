@@ -1,11 +1,23 @@
 # WipeSpawnsOnKill
+
 Function name in CombatLogic.lua
+
 ## Parameters
-`victim`, `args`, `triggerArgs`
+
+| Name        | Description |
+| ----------- | ----------- |
+| victim      |             |
+| args        |             |
+| triggerArgs |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WipeSpawnsOnKill(victim, args, triggerArgs)
 ```
+
 ---

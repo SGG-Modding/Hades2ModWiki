@@ -1,11 +1,22 @@
 # ToggleDebugEnemySpawnIdle
+
 Function name in Debug.lua
+
 ## Parameters
-`screen`, `button`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+| button |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 ToggleDebugEnemySpawnIdle(screen, button)
 ```
+
 ---

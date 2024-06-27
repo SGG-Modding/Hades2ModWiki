@@ -1,11 +1,21 @@
 # SelectCodexEntry
+
 Function name in CodexLogic.lua
+
 ## Parameters
-`selectedEntryName`
+
+| Name              | Description |
+| ----------------- | ----------- |
+| selectedEntryName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SelectCodexEntry(selectedEntryName)
 ```
+
 ---

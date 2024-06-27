@@ -1,11 +1,22 @@
 # GrantMetaUpgradeRerolls
+
 Function name in MetaUpgradeLogic.lua
+
 ## Parameters
-`traitName`, `args`
+
+| Name      | Description |
+| --------- | ----------- |
+| traitName |             |
+| args      |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 GrantMetaUpgradeRerolls(traitName, args)
 ```
+
 ---

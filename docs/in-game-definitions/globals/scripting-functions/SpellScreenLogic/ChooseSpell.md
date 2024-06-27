@@ -1,11 +1,22 @@
 # ChooseSpell
+
 Function name in SpellScreenLogic.lua
+
 ## Parameters
-`room`, `args`
+
+| Name | Description |
+| ---- | ----------- |
+| room |             |
+| args |             |
+
 ## Returns
+
 `spellData`
+
 ## Usage
+
 ```lua
 ChooseSpell(room, args)
 ```
+
 ---

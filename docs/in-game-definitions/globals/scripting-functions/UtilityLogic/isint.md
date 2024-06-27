@@ -1,11 +1,21 @@
 # isint
+
 Function name in UtilityLogic.lua
+
 ## Parameters
-`n`
+
+| Name | Description |
+| ---- | ----------- |
+| n    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 isint(n)
 ```
+
 ---

@@ -1,11 +1,21 @@
 # unpackTableArgs
+
 Function name in Main.lua
+
 ## Parameters
-`tbl`
+
+| Name | Description |
+| ---- | ----------- |
+| tbl  |             |
+
 ## Returns
+
 `nil`
+
 ## Usage
+
 ```lua
 unpackTableArgs(tbl)
 ```
+
 ---

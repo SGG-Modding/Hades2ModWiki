@@ -1,11 +1,21 @@
 # GetWeaponChargeStages
+
 Function name in WeaponLogic.lua
+
 ## Parameters
-`weaponData`
+
+| Name       | Description |
+| ---------- | ----------- |
+| weaponData |             |
+
 ## Returns
+
 `chargeStages`
+
 ## Usage
+
 ```lua
 GetWeaponChargeStages(weaponData)
 ```
+
 ---

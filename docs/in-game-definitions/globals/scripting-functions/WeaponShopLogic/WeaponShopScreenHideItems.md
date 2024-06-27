@@ -1,11 +1,21 @@
 # WeaponShopScreenHideItems
+
 Function name in WeaponShopLogic.lua
+
 ## Parameters
-`screen`
+
+| Name   | Description |
+| ------ | ----------- |
+| screen |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 WeaponShopScreenHideItems(screen)
 ```
+
 ---

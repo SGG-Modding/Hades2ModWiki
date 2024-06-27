@@ -1,11 +1,21 @@
 # IsGiftBarCompletelyUnlocked
+
 Function name in GiftLogic.lua
+
 ## Parameters
-`entryName`
+
+| Name      | Description |
+| --------- | ----------- |
+| entryName |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 IsGiftBarCompletelyUnlocked(entryName)
 ```
+
 ---

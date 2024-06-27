@@ -1,11 +1,22 @@
 # SkellyStatueAdmire
+
 Function name in ShrinePresentation.lua
+
 ## Parameters
-`source`, `args`
+
+| Name   | Description |
+| ------ | ----------- |
+| source |             |
+| args   |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 SkellyStatueAdmire(source, args)
 ```
+
 ---

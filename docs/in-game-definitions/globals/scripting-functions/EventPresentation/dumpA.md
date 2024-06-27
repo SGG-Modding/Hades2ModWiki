@@ -1,11 +1,21 @@
 # dumpA
+
 Function name in EventPresentation.lua
+
 ## Parameters
-`o`
+
+| Name | Description |
+| ---- | ----------- |
+| o    |             |
+
 ## Returns
+
 `none`
+
 ## Usage
+
 ```lua
 dumpA(o)
 ```
+
 ---
