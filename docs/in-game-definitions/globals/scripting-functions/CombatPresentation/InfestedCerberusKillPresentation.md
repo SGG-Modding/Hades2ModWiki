@@ -1,0 +1,11 @@
+# InfestedCerberusKillPresentation
+Function name in CombatPresentation.lua
+## Parameters
+`unit`, `args`
+## Returns
+`none`
+## Usage
+```lua
+function InfestedCerberusKillPresentation(unit, args)
+```
+---

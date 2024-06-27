@@ -1,0 +1,11 @@
+# UpdateEnemyHealthBarFalloff
+Function name in CombatPresentation.lua
+## Parameters
+`enemy`
+## Returns
+`none`
+## Usage
+```lua
+function UpdateEnemyHealthBarFalloff(enemy)
+```
+---

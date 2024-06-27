@@ -1,0 +1,11 @@
+# Load
+Function name in Main.lua
+## Parameters
+`data`
+## Returns
+`none`
+## Usage
+```lua
+function Load(data)
+```
+---

@@ -1,0 +1,11 @@
+# GushMoney
+Function name in InteractLogic.lua
+## Parameters
+`args`
+## Returns
+`none`
+## Usage
+```lua
+function GushMoney(args)
+```
+---

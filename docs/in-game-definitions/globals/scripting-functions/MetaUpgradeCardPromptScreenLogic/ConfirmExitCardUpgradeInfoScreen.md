@@ -1,0 +1,11 @@
+# ConfirmExitCardUpgradeInfoScreen
+Function name in MetaUpgradeCardPromptScreenLogic.lua
+## Parameters
+`screen`
+## Returns
+`none`
+## Usage
+```lua
+function ConfirmExitCardUpgradeInfoScreen(screen)
+```
+---

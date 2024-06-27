@@ -1,0 +1,11 @@
+# IcarusPreSpawnPresentation
+Function name in EncounterPresentation_Late.lua
+## Parameters
+`icarus`, `eventSource`, `args`
+## Returns
+`none`
+## Usage
+```lua
+function IcarusPreSpawnPresentation(icarus, eventSource, args)
+```
+---
