@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function OnAllEnemiesDead(currentRoom, currentEncounter)
+OnAllEnemiesDead(currentRoom, currentEncounter)
 ```
 ---

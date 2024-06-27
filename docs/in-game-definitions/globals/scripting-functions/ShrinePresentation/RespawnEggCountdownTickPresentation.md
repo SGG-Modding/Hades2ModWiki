@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function RespawnEggCountdownTickPresentation(egg, args)
+RespawnEggCountdownTickPresentation(egg, args)
 ```
 ---

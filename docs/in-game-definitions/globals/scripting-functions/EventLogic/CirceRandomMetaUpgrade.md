@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function CirceRandomMetaUpgrade(args)
+CirceRandomMetaUpgrade(args)
 ```
 ---

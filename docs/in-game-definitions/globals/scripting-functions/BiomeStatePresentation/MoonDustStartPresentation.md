@@ -6,6 +6,6 @@ Function name in BiomeStatePresentation.lua
 `none`
 ## Usage
 ```lua
-function MoonDustStartPresentation()
+MoonDustStartPresentation()
 ```
 ---

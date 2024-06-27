@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ErisCurseRewardTaken(source, args)
+ErisCurseRewardTaken(source, args)
 ```
 ---

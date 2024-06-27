@@ -6,6 +6,6 @@ Function name in EncounterPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function WrapObstacle(id, obstacleWrapData, encounter, resetTargetId)
+WrapObstacle(id, obstacleWrapData, encounter, resetTargetId)
 ```
 ---

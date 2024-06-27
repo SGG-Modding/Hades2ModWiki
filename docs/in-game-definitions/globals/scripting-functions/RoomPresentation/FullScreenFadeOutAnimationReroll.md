@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function FullScreenFadeOutAnimationReroll(color, args)
+FullScreenFadeOutAnimationReroll(color, args)
 ```
 ---

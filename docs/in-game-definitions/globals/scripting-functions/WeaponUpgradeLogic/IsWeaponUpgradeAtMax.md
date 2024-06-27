@@ -6,6 +6,6 @@ Function name in WeaponUpgradeLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsWeaponUpgradeAtMax(traitName)
+IsWeaponUpgradeAtMax(traitName)
 ```
 ---

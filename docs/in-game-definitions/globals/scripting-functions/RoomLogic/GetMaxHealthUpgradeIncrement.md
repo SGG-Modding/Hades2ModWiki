@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function GetMaxHealthUpgradeIncrement(value, ignoreCap)
+GetMaxHealthUpgradeIncrement(value, ignoreCap)
 ```
 ---

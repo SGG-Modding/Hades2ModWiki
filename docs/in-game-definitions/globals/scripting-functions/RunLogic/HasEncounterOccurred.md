@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasEncounterOccurred(currentRun, encounterName, requireCompleted)
+HasEncounterOccurred(currentRun, encounterName, requireCompleted)
 ```
 ---

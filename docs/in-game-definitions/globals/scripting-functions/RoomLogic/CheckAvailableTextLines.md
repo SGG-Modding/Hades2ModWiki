@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckAvailableTextLines(source, args)
+CheckAvailableTextLines(source, args)
 ```
 ---

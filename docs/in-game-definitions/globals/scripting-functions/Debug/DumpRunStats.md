@@ -6,6 +6,6 @@ Function name in Debug.lua
 `outFile`
 ## Usage
 ```lua
-function DumpRunStats(currentRun, runIndex, outFile)
+DumpRunStats(currentRun, runIndex, outFile)
 ```
 ---

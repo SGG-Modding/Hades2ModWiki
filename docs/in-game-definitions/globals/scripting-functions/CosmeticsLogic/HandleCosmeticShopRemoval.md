@@ -6,6 +6,6 @@ Function name in CosmeticsLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleCosmeticShopRemoval(screen, button)
+HandleCosmeticShopRemoval(screen, button)
 ```
 ---

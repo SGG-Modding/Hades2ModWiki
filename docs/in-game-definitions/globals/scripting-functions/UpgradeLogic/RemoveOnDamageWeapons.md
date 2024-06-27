@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function RemoveOnDamageWeapons(hero, weaponName, upgradeData)
+RemoveOnDamageWeapons(hero, weaponName, upgradeData)
 ```
 ---

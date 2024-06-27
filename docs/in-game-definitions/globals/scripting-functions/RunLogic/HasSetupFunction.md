@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasSetupFunction(object, functionName)
+HasSetupFunction(object, functionName)
 ```
 ---

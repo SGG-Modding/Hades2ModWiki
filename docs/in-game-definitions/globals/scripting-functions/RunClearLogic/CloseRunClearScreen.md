@@ -6,6 +6,6 @@ Function name in RunClearLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseRunClearScreen(screen)
+CloseRunClearScreen(screen)
 ```
 ---

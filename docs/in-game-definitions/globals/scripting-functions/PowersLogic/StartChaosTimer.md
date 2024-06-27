@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function StartChaosTimer(args, traitData)
+StartChaosTimer(args, traitData)
 ```
 ---

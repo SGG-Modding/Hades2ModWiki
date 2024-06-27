@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function RespawnVictim(victimName, location, delay, args)
+RespawnVictim(victimName, location, delay, args)
 ```
 ---

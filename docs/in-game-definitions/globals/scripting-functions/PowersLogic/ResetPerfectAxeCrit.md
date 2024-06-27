@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ResetPerfectAxeCrit(attacker, args, triggerArgs)
+ResetPerfectAxeCrit(attacker, args, triggerArgs)
 ```
 ---

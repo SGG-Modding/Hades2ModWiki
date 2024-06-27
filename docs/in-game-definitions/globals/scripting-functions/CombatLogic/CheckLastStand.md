@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckLastStand(victim, triggerArgs)
+CheckLastStand(victim, triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in WeaponPresentation.lua
 `none`
 ## Usage
 ```lua
-function StartPlayerBlinkAlpha()
+StartPlayerBlinkAlpha()
 ```
 ---

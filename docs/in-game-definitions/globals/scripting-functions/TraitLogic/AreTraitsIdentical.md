@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `bool`
 ## Usage
 ```lua
-function AreTraitsIdentical(traitA, traitB)
+AreTraitsIdentical(traitA, traitB)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function NemesisTradeChoice(source, args, screen)
+NemesisTradeChoice(source, args, screen)
 ```
 ---

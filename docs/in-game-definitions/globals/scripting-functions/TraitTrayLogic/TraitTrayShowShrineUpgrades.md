@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayShowShrineUpgrades(screen, activeCategory, args)
+TraitTrayShowShrineUpgrades(screen, activeCategory, args)
 ```
 ---

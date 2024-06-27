@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function OnGiftPointsAdded(name, amount, source, args)
+OnGiftPointsAdded(name, amount, source, args)
 ```
 ---

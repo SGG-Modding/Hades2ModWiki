@@ -6,6 +6,6 @@ Function name in MailboxPresentation.lua
 `none`
 ## Usage
 ```lua
-function MailboxScreenMouseOverItem(button)
+MailboxScreenMouseOverItem(button)
 ```
 ---

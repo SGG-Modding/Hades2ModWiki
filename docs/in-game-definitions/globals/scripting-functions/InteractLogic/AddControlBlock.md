@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function AddControlBlock(controlName, flag)
+AddControlBlock(controlName, flag)
 ```
 ---

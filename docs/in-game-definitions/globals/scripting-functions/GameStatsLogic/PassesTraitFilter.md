@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `bool`
 ## Usage
 ```lua
-function PassesTraitFilter(filterName, traitName)
+PassesTraitFilter(filterName, traitName)
 ```
 ---

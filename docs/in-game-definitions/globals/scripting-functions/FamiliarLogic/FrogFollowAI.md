@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function FrogFollowAI(familiar, followId)
+FrogFollowAI(familiar, followId)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function GhostFollowers(source, args)
+GhostFollowers(source, args)
 ```
 ---

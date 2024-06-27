@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function SpellSummonCheckCharges(unit, args, roomArgs)
+SpellSummonCheckCharges(unit, args, roomArgs)
 ```
 ---

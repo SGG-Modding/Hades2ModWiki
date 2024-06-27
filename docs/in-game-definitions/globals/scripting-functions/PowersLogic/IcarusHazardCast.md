@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function IcarusHazardCast(weaponData, traitArgs, triggerArgs)
+IcarusHazardCast(weaponData, traitArgs, triggerArgs)
 ```
 ---

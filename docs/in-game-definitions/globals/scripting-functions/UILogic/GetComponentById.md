@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `component`, `nil`
 ## Usage
 ```lua
-function GetComponentById(components, id)
+GetComponentById(components, id)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in Main.lua
 `lookup`
 ## Usage
 ```lua
-function ToLookup(table)
+ToLookup(table)
 ```
 ---

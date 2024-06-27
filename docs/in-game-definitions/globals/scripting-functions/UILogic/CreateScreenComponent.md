@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `component`
 ## Usage
 ```lua
-function CreateScreenComponent(params)
+CreateScreenComponent(params)
 ```
 ---

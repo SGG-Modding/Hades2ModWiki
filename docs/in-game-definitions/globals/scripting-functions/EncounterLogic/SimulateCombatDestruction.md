@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function SimulateCombatDestruction(source, args)
+SimulateCombatDestruction(source, args)
 ```
 ---

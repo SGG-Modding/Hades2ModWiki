@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyMetaUpgrade(upgradeData, applyLuaUpgrade, firstApplied, reverse)
+ApplyMetaUpgrade(upgradeData, applyLuaUpgrade, firstApplied, reverse)
 ```
 ---

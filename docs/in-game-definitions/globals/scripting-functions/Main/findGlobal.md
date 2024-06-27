@@ -6,6 +6,6 @@ Function name in Main.lua
 `k`
 ## Usage
 ```lua
-function findGlobal(f)
+findGlobal(f)
 ```
 ---

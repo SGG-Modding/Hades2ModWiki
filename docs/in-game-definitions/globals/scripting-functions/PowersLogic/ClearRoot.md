@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ClearRoot(victim, functionArgs, triggerArgs)
+ClearRoot(victim, functionArgs, triggerArgs)
 ```
 ---

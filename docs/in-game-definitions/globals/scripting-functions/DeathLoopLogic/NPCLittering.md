@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function NPCLittering(source, args)
+NPCLittering(source, args)
 ```
 ---

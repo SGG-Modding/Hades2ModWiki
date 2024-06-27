@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function AddEnemyUpgrade(upgradeName)
+AddEnemyUpgrade(upgradeName)
 ```
 ---

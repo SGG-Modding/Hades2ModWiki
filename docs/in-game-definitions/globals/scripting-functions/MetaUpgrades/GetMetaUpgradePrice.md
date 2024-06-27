@@ -6,6 +6,6 @@ Function name in MetaUpgrades.lua
 `nil`
 ## Usage
 ```lua
-function GetMetaUpgradePrice(metaUpgrade, index)
+GetMetaUpgradePrice(metaUpgrade, index)
 ```
 ---

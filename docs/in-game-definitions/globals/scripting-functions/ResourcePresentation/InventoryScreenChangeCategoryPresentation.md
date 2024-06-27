@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function InventoryScreenChangeCategoryPresentation(screen, categoryIndex)
+InventoryScreenChangeCategoryPresentation(screen, categoryIndex)
 ```
 ---

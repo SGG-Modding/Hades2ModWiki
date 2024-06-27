@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `speedMultiplier`
 ## Usage
 ```lua
-function GetLuaWeaponSpeedMultiplier(weaponName)
+GetLuaWeaponSpeedMultiplier(weaponName)
 ```
 ---

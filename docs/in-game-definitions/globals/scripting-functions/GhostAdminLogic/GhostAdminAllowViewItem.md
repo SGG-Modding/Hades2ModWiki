@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `bool`
 ## Usage
 ```lua
-function GhostAdminAllowViewItem(screen, category, cosmeticData)
+GhostAdminAllowViewItem(screen, category, cosmeticData)
 ```
 ---

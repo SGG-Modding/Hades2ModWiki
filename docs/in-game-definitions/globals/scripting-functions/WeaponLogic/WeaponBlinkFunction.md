@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function WeaponBlinkFunction(triggerArgs, weaponData, args)
+WeaponBlinkFunction(triggerArgs, weaponData, args)
 ```
 ---

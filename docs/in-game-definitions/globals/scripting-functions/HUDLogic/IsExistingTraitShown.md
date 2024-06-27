@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsExistingTraitShown(trait)
+IsExistingTraitShown(trait)
 ```
 ---

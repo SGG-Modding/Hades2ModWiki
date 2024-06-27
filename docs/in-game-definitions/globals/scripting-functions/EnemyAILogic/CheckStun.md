@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckStun(enemy, aiData)
+CheckStun(enemy, aiData)
 ```
 ---

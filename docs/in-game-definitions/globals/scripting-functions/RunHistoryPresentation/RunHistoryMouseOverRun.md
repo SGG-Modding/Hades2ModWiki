@@ -6,6 +6,6 @@ Function name in RunHistoryPresentation.lua
 `none`
 ## Usage
 ```lua
-function RunHistoryMouseOverRun(button)
+RunHistoryMouseOverRun(button)
 ```
 ---

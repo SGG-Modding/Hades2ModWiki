@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function WeaponKitSpecialInteractPresentation(user, weaponKit, args)
+WeaponKitSpecialInteractPresentation(user, weaponKit, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GiftLogic.lua
 `none`
 ## Usage
 ```lua
-function GetLockedLevel(npcName)
+GetLockedLevel(npcName)
 ```
 ---

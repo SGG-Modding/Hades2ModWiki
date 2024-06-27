@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function ContinuousRarifyPresentation(button, baseColor)
+ContinuousRarifyPresentation(button, baseColor)
 ```
 ---

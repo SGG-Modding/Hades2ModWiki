@@ -6,6 +6,6 @@ Function name in BountyLogic.lua
 `endingRun`
 ## Usage
 ```lua
-function CheckBounties(source, args)
+CheckBounties(source, args)
 ```
 ---

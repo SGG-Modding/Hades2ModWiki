@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function DaggerSpecialTriggerLockClear(triggerArgs)
+DaggerSpecialTriggerLockClear(triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function AddBlockEmpower(victim, args, triggerArgs)
+AddBlockEmpower(victim, args, triggerArgs)
 ```
 ---

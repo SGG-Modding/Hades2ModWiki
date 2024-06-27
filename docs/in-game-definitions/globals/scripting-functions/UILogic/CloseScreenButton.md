@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function CloseScreenButton(screen, button)
+CloseScreenButton(screen, button)
 ```
 ---

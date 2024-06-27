@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayScreenShowCategory(screen, categoryIndex, args)
+TraitTrayScreenShowCategory(screen, categoryIndex, args)
 ```
 ---

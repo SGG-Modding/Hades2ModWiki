@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `value`
 ## Usage
 ```lua
-function RemoveValue(tableArg, value)
+RemoveValue(tableArg, value)
 ```
 ---

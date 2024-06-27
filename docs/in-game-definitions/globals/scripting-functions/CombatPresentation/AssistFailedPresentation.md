@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function AssistFailedPresentation(attacker)
+AssistFailedPresentation(attacker)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MarketLogic.lua
 `none`
 ## Usage
 ```lua
-function MarketScreenPrevCategory(screen, button)
+MarketScreenPrevCategory(screen, button)
 ```
 ---

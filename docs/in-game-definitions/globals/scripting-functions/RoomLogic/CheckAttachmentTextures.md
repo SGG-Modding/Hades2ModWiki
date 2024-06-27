@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckAttachmentTextures(source, args)
+CheckAttachmentTextures(source, args)
 ```
 ---

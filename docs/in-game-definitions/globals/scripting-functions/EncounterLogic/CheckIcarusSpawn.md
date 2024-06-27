@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckIcarusSpawn(encounter, args)
+CheckIcarusSpawn(encounter, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in BoonInfoLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateTraitRequirements(screen, traitName)
+CreateTraitRequirements(screen, traitName)
 ```
 ---

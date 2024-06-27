@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenPresentation.lua
 `none`
 ## Usage
 ```lua
-function CannotAffordMetaUpgradeLimitPresentation(screen, button)
+CannotAffordMetaUpgradeLimitPresentation(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `0`, `chargeTime`
 ## Usage
 ```lua
-function GetHideChargeDuration(weaponData)
+GetHideChargeDuration(weaponData)
 ```
 ---

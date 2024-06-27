@@ -6,6 +6,6 @@ Function name in Debug.lua
 `nil`
 ## Usage
 ```lua
-function AnimTest3(usee, args, user)
+AnimTest3(usee, args, user)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckClearCastCount(victim, functionArgs, triggerArgs)
+CheckClearCastCount(victim, functionArgs, triggerArgs)
 ```
 ---

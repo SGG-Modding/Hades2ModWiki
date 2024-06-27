@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function FinishedEndVoiceLines(source, args, contextArgs)
+FinishedEndVoiceLines(source, args, contextArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function UseCauldronCookComplete(source, args)
+UseCauldronCookComplete(source, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `highestPoints`
 ## Usage
 ```lua
-function GetHighestShrinePointRunClearWithWeapon(currentRun, weapon)
+GetHighestShrinePointRunClearWithWeapon(currentRun, weapon)
 ```
 ---

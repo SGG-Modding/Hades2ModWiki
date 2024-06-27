@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function NPCFollowPath(source, args)
+NPCFollowPath(source, args)
 ```
 ---

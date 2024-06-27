@@ -6,6 +6,6 @@ Function name in RunData.lua
 `none`
 ## Usage
 ```lua
-function ValidateLinesFormats(line, name)
+ValidateLinesFormats(line, name)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function DelayedKill(victim, triggerArgs, delay)
+DelayedKill(victim, triggerArgs, delay)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in BountyLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseBountyBoardScreen(screen, button)
+CloseBountyBoardScreen(screen, button)
 ```
 ---

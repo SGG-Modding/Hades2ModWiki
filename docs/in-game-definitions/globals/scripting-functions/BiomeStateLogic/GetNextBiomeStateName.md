@@ -6,6 +6,6 @@ Function name in BiomeStateLogic.lua
 `nextBiomeStateName`
 ## Usage
 ```lua
-function GetNextBiomeStateName()
+GetNextBiomeStateName()
 ```
 ---

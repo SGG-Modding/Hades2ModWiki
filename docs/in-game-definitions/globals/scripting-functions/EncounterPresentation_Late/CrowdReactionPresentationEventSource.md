@@ -6,6 +6,6 @@ Function name in EncounterPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function CrowdReactionPresentationEventSource(eventSource, args)
+CrowdReactionPresentationEventSource(eventSource, args)
 ```
 ---

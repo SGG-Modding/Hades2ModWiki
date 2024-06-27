@@ -6,6 +6,6 @@ Function name in AmmoLogic.lua
 `none`
 ## Usage
 ```lua
-function SpendAmmo(weaponName)
+SpendAmmo(weaponName)
 ```
 ---

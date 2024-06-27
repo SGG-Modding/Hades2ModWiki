@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `rampedData`
 ## Usage
 ```lua
-function GetRampedConsumableData(consumableData, rarity, args)
+GetRampedConsumableData(consumableData, rarity, args)
 ```
 ---

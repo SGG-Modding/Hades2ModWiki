@@ -6,6 +6,6 @@ Function name in WeaponUpgradeLogic.lua
 `numRanks`
 ## Usage
 ```lua
-function GetWeaponUpgradeLevel(traitName)
+GetWeaponUpgradeLevel(traitName)
 ```
 ---

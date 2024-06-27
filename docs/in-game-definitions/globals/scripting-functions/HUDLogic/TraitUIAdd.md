@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitUIAdd(trait, args)
+TraitUIAdd(trait, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyLeapSprint(victim, functionArgs, triggerArgs)
+ApplyLeapSprint(victim, functionArgs, triggerArgs)
 ```
 ---

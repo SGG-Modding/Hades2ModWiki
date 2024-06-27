@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function StartTriggers(triggerSource, triggers)
+StartTriggers(triggerSource, triggers)
 ```
 ---

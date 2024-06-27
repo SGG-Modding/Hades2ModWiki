@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `linkedTraits`
 ## Usage
 ```lua
-function GetPriorityDependentTraits(lootData)
+GetPriorityDependentTraits(lootData)
 ```
 ---

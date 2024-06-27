@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `manaCost`
 ## Usage
 ```lua
-function GetManaReservationCost(weaponData)
+GetManaReservationCost(weaponData)
 ```
 ---

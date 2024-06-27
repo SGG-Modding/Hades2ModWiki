@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `nextRoomData`
 ## Usage
 ```lua
-function ChooseNextRoomData(currentRun, args, otherDoors)
+ChooseNextRoomData(currentRun, args, otherDoors)
 ```
 ---

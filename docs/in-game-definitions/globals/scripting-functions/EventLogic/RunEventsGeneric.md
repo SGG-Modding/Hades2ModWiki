@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function RunEventsGeneric(events, eventSource, contextArgs)
+RunEventsGeneric(events, eventSource, contextArgs)
 ```
 ---

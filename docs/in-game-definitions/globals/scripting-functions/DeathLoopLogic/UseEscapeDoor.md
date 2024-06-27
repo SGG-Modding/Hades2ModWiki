@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function UseEscapeDoor(usee, args)
+UseEscapeDoor(usee, args)
 ```
 ---

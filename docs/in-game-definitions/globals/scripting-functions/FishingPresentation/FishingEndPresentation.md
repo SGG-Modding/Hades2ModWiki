@@ -6,6 +6,6 @@ Function name in FishingPresentation.lua
 `none`
 ## Usage
 ```lua
-function FishingEndPresentation(fishData, fishingAnimationPointId, args)
+FishingEndPresentation(fishData, fishingAnimationPointId, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in AmmoLogic.lua
 `none`
 ## Usage
 ```lua
-function GetCurrentAmmo(weaponName)
+GetCurrentAmmo(weaponName)
 ```
 ---

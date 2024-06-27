@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function DebugNPCSpawn(usee, args, user)
+DebugNPCSpawn(usee, args, user)
 ```
 ---

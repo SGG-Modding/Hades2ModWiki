@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function RemoveTraitData(unit, trait, args)
+RemoveTraitData(unit, trait, args)
 ```
 ---

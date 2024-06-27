@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function OdysseusArriveAtTable(source, args, node)
+OdysseusArriveAtTable(source, args, node)
 ```
 ---

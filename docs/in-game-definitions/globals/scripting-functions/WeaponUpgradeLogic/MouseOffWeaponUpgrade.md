@@ -6,6 +6,6 @@ Function name in WeaponUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function MouseOffWeaponUpgrade(button)
+MouseOffWeaponUpgrade(button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in SurfaceShopLogic.lua
 `none`
 ## Usage
 ```lua
-function MouseOverSurfaceShopButton(component)
+MouseOverSurfaceShopButton(component)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function HealthTickDecrementPresentation(victim, args)
+HealthTickDecrementPresentation(victim, args)
 ```
 ---

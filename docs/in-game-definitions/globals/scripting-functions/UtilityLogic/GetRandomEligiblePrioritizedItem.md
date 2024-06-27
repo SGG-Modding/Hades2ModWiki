@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `nil`, `randomItem`
 ## Usage
 ```lua
-function GetRandomEligiblePrioritizedItem(items, priorities, playedStore, randomRemainingStore, args)
+GetRandomEligiblePrioritizedItem(items, priorities, playedStore, randomRemainingStore, args)
 ```
 ---

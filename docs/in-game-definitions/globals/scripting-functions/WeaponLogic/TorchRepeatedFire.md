@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function TorchRepeatedFire(unit, weaponData, functionArgs, triggerArgs)
+TorchRepeatedFire(unit, weaponData, functionArgs, triggerArgs)
 ```
 ---

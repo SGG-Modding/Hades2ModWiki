@@ -6,6 +6,6 @@ Function name in FlashbackPresentation.lua
 `none`
 ## Usage
 ```lua
-function HecateHideAndSeekHint(source, args)
+HecateHideAndSeekHint(source, args)
 ```
 ---

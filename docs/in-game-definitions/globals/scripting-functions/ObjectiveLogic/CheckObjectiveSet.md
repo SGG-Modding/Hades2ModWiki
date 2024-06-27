@@ -6,6 +6,6 @@ Function name in ObjectiveLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckObjectiveSet(objectiveSetName, checkTrigger, extraDelay)
+CheckObjectiveSet(objectiveSetName, checkTrigger, extraDelay)
 ```
 ---

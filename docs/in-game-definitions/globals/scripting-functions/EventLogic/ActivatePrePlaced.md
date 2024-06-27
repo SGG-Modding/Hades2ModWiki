@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `activatedUnits`
 ## Usage
 ```lua
-function ActivatePrePlaced(eventSource, args)
+ActivatePrePlaced(eventSource, args)
 ```
 ---

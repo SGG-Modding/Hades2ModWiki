@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckExitPreUnlock(door, args)
+CheckExitPreUnlock(door, args)
 ```
 ---

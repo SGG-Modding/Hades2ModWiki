@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnArachneCocoons(eventSource, args)
+SpawnArachneCocoons(eventSource, args)
 ```
 ---

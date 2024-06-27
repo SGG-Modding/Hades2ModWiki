@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function NemesisDamageContestTimer(source, args)
+NemesisDamageContestTimer(source, args)
 ```
 ---

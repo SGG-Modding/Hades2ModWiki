@@ -6,6 +6,6 @@ Function name in GiftPresentation.lua
 `name`
 ## Usage
 ```lua
-function GetGiftIcon(entryName, index, args)
+GetGiftIcon(entryName, index, args)
 ```
 ---

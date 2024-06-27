@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `0`, `num`
 ## Usage
 ```lua
-function GetTotalTraitCount(unit)
+GetTotalTraitCount(unit)
 ```
 ---

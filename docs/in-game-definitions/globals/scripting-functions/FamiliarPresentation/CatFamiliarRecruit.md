@@ -6,6 +6,6 @@ Function name in FamiliarPresentation.lua
 `none`
 ## Usage
 ```lua
-function CatFamiliarRecruit(usee, args)
+CatFamiliarRecruit(usee, args)
 ```
 ---

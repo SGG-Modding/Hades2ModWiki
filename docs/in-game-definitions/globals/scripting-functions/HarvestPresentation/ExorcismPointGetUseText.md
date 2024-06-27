@@ -6,6 +6,6 @@ Function name in HarvestPresentation.lua
 `none`
 ## Usage
 ```lua
-function ExorcismPointGetUseText(useTarget)
+ExorcismPointGetUseText(useTarget)
 ```
 ---

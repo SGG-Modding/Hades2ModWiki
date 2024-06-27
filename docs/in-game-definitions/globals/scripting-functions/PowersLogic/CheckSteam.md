@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckSteam(victim, functionArgs, triggerArgs)
+CheckSteam(victim, functionArgs, triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `retVal`
 ## Usage
 ```lua
-function RemoveRandomValue(tableArg, rng)
+RemoveRandomValue(tableArg, rng)
 ```
 ---

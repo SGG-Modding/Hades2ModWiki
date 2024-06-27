@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function SpellTransform(user, weaponData, functionArgs, triggerArgs)
+SpellTransform(user, weaponData, functionArgs, triggerArgs)
 ```
 ---

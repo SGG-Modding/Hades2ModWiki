@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `none`
 ## Usage
 ```lua
-function KeepsakeScreenUpdateActionBar(screen, button)
+KeepsakeScreenUpdateActionBar(screen, button)
 ```
 ---

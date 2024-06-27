@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckPartnerConversations(unit, textLines)
+CheckPartnerConversations(unit, textLines)
 ```
 ---

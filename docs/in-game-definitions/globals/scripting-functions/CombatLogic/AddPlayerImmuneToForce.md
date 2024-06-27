@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function AddPlayerImmuneToForce(flag)
+AddPlayerImmuneToForce(flag)
 ```
 ---

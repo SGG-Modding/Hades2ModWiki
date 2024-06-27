@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function RemoveWeaponFullManaFire(triggerArgs)
+RemoveWeaponFullManaFire(triggerArgs)
 ```
 ---

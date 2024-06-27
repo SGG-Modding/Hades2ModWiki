@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function ShrinePointRefundPresentation(screen, refund, buttonId)
+ShrinePointRefundPresentation(screen, refund, buttonId)
 ```
 ---

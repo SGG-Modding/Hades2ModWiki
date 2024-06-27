@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function CloseScreen(componentIds, delay, screen)
+CloseScreen(componentIds, delay, screen)
 ```
 ---

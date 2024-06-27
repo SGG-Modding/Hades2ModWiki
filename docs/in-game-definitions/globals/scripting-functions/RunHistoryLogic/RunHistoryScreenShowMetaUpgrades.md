@@ -6,6 +6,6 @@ Function name in RunHistoryLogic.lua
 `none`
 ## Usage
 ```lua
-function RunHistoryScreenShowMetaUpgrades(screen, button)
+RunHistoryScreenShowMetaUpgrades(screen, button)
 ```
 ---

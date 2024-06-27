@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function AddArmor(armorGained, args)
+AddArmor(armorGained, args)
 ```
 ---

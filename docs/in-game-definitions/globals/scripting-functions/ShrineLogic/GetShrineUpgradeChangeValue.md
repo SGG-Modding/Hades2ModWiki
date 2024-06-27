@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function GetShrineUpgradeChangeValue(upgradeName)
+GetShrineUpgradeChangeValue(upgradeName)
 ```
 ---

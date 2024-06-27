@@ -6,6 +6,6 @@ Function name in RunHistoryLogic.lua
 `none`
 ## Usage
 ```lua
-function RunHistoryScreenNextCategory(screen, button)
+RunHistoryScreenNextCategory(screen, button)
 ```
 ---

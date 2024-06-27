@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `numAttacks`
 ## Usage
 ```lua
-function NumAttacksSinceWeapon(enemy, weaponName)
+NumAttacksSinceWeapon(enemy, weaponName)
 ```
 ---

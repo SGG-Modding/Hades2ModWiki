@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function ReleaseDamageInWindow(delay, damage)
+ReleaseDamageInWindow(delay, damage)
 ```
 ---

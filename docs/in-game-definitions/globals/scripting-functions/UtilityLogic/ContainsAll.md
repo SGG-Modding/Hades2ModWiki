@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `bool`
 ## Usage
 ```lua
-function ContainsAll(tableToSearch, tableOfValues)
+ContainsAll(tableToSearch, tableOfValues)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function DamageEchoTrigger(enemy, effectName, damageMultiplier, cooldown)
+DamageEchoTrigger(enemy, effectName, damageMultiplier, cooldown)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `none`
 ## Usage
 ```lua
-function AttemptOpenUpgradeChoiceBoonInfo(screen, button)
+AttemptOpenUpgradeChoiceBoonInfo(screen, button)
 ```
 ---

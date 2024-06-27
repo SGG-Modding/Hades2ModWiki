@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `none`
 ## Usage
 ```lua
-function AutoAdvanceNarration(screen, source, cue)
+AutoAdvanceNarration(screen, source, cue)
 ```
 ---

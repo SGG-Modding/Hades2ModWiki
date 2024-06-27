@@ -6,6 +6,6 @@ Function name in HarvestPresentation.lua
 `none`
 ## Usage
 ```lua
-function ShovelEndPresentation(source, args, user)
+ShovelEndPresentation(source, args, user)
 ```
 ---

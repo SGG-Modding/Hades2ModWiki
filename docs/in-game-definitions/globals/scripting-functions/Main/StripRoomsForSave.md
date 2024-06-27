@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function StripRoomsForSave(run)
+StripRoomsForSave(run)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ClearOriginMarker(triggerArgs, functionArgs)
+ClearOriginMarker(triggerArgs, functionArgs)
 ```
 ---

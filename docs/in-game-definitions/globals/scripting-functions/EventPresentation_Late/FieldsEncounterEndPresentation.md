@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function FieldsEncounterEndPresentation(encounter, currentRun)
+FieldsEncounterEndPresentation(encounter, currentRun)
 ```
 ---

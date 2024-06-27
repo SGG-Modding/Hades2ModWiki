@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `matchingPair`
 ## Usage
 ```lua
-function FindMatchingPair(searchId, pairsTable)
+FindMatchingPair(searchId, pairsTable)
 ```
 ---

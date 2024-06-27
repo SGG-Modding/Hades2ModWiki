@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ErisCurseBackCompatSpawnDrops(source, args)
+ErisCurseBackCompatSpawnDrops(source, args)
 ```
 ---

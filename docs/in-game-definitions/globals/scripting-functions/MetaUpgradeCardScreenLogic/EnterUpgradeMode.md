@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function EnterUpgradeMode(screen, button)
+EnterUpgradeMode(screen, button)
 ```
 ---

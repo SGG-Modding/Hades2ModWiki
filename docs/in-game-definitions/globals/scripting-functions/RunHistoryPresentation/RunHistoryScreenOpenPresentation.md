@@ -6,6 +6,6 @@ Function name in RunHistoryPresentation.lua
 `none`
 ## Usage
 ```lua
-function RunHistoryScreenOpenPresentation(screen)
+RunHistoryScreenOpenPresentation(screen)
 ```
 ---

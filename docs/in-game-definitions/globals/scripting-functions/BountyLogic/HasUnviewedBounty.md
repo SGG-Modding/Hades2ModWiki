@@ -6,6 +6,6 @@ Function name in BountyLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasUnviewedBounty(source, args)
+HasUnviewedBounty(source, args)
 ```
 ---

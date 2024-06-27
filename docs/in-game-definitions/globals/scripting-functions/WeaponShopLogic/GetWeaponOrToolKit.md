@@ -6,6 +6,6 @@ Function name in WeaponShopLogic.lua
 `weaponKit`, `toolKit`, `nil`
 ## Usage
 ```lua
-function GetWeaponOrToolKit(weaponName)
+GetWeaponOrToolKit(weaponName)
 ```
 ---

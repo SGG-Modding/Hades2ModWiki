@@ -6,6 +6,6 @@ Function name in QuestLogLogic.lua
 `none`
 ## Usage
 ```lua
-function CashOutQuest(screen, button)
+CashOutQuest(screen, button)
 ```
 ---

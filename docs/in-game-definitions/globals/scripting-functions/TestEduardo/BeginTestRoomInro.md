@@ -6,6 +6,6 @@ Function name in TestEduardo.lua
 `none`
 ## Usage
 ```lua
-function BeginTestRoomInro()
+BeginTestRoomInro()
 ```
 ---

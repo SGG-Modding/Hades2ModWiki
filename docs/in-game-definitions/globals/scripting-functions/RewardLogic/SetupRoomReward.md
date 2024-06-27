@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupRoomReward(currentRun, room, previouslyChosenRewards, args)
+SetupRoomReward(currentRun, room, previouslyChosenRewards, args)
 ```
 ---

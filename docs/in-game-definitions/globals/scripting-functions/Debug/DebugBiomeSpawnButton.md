@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function DebugBiomeSpawnButton(screen, button)
+DebugBiomeSpawnButton(screen, button)
 ```
 ---

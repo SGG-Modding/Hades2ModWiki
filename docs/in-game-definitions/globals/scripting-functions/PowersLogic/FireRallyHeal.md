@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function FireRallyHeal(attacker, functionArgs, triggerArgs)
+FireRallyHeal(attacker, functionArgs, triggerArgs)
 ```
 ---

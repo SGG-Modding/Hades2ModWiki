@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ZeusManaPickup(interactableObject, functionArgs, user)
+ZeusManaPickup(interactableObject, functionArgs, user)
 ```
 ---

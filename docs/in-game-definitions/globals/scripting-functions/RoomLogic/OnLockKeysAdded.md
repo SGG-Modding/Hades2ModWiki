@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function OnLockKeysAdded(name, amount, source, args)
+OnLockKeysAdded(name, amount, source, args)
 ```
 ---

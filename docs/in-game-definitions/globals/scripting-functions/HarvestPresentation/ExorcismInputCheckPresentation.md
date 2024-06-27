@@ -6,6 +6,6 @@ Function name in HarvestPresentation.lua
 `none`
 ## Usage
 ```lua
-function ExorcismInputCheckPresentation(source, args, user, move, isLeftCorrect, isRightCorrect, isLeftDown, isRightDown, consecutiveCheckFails, exorcismData)
+ExorcismInputCheckPresentation(source, args, user, move, isLeftCorrect, isRightCorrect, isLeftDown, isRightDown, consecutiveCheckFails, exorcismData)
 ```
 ---

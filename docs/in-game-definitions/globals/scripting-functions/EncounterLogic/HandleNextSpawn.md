@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `nil`, `1`
 ## Usage
 ```lua
-function HandleNextSpawn(encounter, ignoreSpawnPreferences, spawnInfo, overrides, args)
+HandleNextSpawn(encounter, ignoreSpawnPreferences, spawnInfo, overrides, args)
 ```
 ---

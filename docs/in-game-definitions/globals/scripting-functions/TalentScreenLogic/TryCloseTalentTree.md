@@ -6,6 +6,6 @@ Function name in TalentScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function TryCloseTalentTree(screen, button)
+TryCloseTalentTree(screen, button)
 ```
 ---

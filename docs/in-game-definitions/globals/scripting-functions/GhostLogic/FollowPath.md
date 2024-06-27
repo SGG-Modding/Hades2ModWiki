@@ -6,6 +6,6 @@ Function name in GhostLogic.lua
 `none`
 ## Usage
 ```lua
-function FollowPath(mover, path, args)
+FollowPath(mover, path, args)
 ```
 ---

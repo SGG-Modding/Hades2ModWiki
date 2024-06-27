@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `bool`, `hasAggro`
 ## Usage
 ```lua
-function CanChargeSpell()
+CanChargeSpell()
 ```
 ---

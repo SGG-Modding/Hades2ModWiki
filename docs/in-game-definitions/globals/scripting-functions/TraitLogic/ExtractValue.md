@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function ExtractValue(unit, extractToTable, table, extractData)
+ExtractValue(unit, extractToTable, table, extractData)
 ```
 ---

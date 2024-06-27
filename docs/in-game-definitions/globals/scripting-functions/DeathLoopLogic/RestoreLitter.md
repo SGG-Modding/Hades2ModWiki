@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function RestoreLitter(eventSource, args)
+RestoreLitter(eventSource, args)
 ```
 ---

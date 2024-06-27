@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasSeenEncounter(encounterName)
+HasSeenEncounter(encounterName)
 ```
 ---

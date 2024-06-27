@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function FirstHealHitSetup(unit, args)
+FirstHealHitSetup(unit, args)
 ```
 ---

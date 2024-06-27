@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ChaosManaDrain(weaponData, traitArgs, triggerArgs)
+ChaosManaDrain(weaponData, traitArgs, triggerArgs)
 ```
 ---

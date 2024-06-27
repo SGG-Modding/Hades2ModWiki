@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function DebugUnlockMetaUpgrades(source, args)
+DebugUnlockMetaUpgrades(source, args)
 ```
 ---

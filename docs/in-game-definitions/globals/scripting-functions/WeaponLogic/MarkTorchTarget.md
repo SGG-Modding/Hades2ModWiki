@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function MarkTorchTarget(triggerArgs, weaponData, args)
+MarkTorchTarget(triggerArgs, weaponData, args)
 ```
 ---

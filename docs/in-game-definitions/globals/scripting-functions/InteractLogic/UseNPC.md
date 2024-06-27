@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function UseNPC(npc, args, user)
+UseNPC(npc, args, user)
 ```
 ---

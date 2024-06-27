@@ -6,6 +6,6 @@ Function name in WeaponShopLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateWeaponKitUpgrade(weaponName, traitName)
+UpdateWeaponKitUpgrade(weaponName, traitName)
 ```
 ---

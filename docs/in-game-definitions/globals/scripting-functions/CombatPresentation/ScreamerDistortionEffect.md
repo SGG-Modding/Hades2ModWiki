@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function ScreamerDistortionEffect(victim, attacker, triggerArgs)
+ScreamerDistortionEffect(victim, attacker, triggerArgs)
 ```
 ---

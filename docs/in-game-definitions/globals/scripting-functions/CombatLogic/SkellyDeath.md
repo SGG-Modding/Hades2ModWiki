@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function SkellyDeath(victim, args)
+SkellyDeath(victim, args)
 ```
 ---

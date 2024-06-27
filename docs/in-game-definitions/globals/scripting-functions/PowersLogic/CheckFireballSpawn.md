@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckFireballSpawn(weaponData, functionArgs, triggerArgs)
+CheckFireballSpawn(weaponData, functionArgs, triggerArgs)
 ```
 ---

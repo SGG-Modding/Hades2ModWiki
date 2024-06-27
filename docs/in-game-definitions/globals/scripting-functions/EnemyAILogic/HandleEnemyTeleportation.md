@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function HandleEnemyTeleportation(enemy, aiData, teleportToId)
+HandleEnemyTeleportation(enemy, aiData, teleportToId)
 ```
 ---

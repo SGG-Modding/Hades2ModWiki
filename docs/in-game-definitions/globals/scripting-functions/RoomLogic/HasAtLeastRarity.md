@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasAtLeastRarity(loot, baseRarity)
+HasAtLeastRarity(loot, baseRarity)
 ```
 ---

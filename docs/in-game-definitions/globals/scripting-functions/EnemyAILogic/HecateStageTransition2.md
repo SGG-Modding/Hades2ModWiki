@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function HecateStageTransition2(enemy, CurrentRun, aiStage)
+HecateStageTransition2(enemy, CurrentRun, aiStage)
 ```
 ---

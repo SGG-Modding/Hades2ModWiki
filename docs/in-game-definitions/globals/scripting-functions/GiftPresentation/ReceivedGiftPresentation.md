@@ -6,6 +6,6 @@ Function name in GiftPresentation.lua
 `none`
 ## Usage
 ```lua
-function ReceivedGiftPresentation(npc, giftAnimation)
+ReceivedGiftPresentation(npc, giftAnimation)
 ```
 ---

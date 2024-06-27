@@ -6,6 +6,6 @@ Function name in BountyPresentation.lua
 `none`
 ## Usage
 ```lua
-function BountyBoardOpenedPresentation(screen)
+BountyBoardOpenedPresentation(screen)
 ```
 ---

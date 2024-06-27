@@ -6,6 +6,6 @@ Function name in BoonInfoLogic.lua
 `startY`
 ## Usage
 ```lua
-function CreateTraitRequirementList(screen, headerTextArgs, traitList, startY, metRequirement)
+CreateTraitRequirementList(screen, headerTextArgs, traitList, startY, metRequirement)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `bool`
 ## Usage
 ```lua
-function ShouldIncreasePlayerHitPause(args)
+ShouldIncreasePlayerHitPause(args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoAssistPresentation(assistData)
+DoAssistPresentation(assistData)
 ```
 ---

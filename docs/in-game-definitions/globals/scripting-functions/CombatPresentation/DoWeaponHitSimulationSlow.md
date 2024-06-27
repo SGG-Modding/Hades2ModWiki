@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoWeaponHitSimulationSlow(victim, args, sourceSimData)
+DoWeaponHitSimulationSlow(victim, args, sourceSimData)
 ```
 ---

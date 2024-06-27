@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `forcedSpawn`, `randomSpawnInfo`
 ## Usage
 ```lua
-function GetNextSpawn(currentEncounter)
+GetNextSpawn(currentEncounter)
 ```
 ---

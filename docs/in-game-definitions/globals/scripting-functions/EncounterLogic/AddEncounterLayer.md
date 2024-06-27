@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function AddEncounterLayer(currentRun, currentRoom, currentEncounter, layerData)
+AddEncounterLayer(currentRun, currentRoom, currentEncounter, layerData)
 ```
 ---

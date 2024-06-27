@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupPauseMenuTakeover(source, args)
+SetupPauseMenuTakeover(source, args)
 ```
 ---

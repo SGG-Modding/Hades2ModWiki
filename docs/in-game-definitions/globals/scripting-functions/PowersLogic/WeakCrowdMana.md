@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function WeakCrowdMana(hero, args)
+WeakCrowdMana(hero, args)
 ```
 ---

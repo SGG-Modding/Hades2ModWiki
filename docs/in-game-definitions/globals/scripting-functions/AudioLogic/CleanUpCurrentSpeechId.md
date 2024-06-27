@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `none`
 ## Usage
 ```lua
-function CleanUpCurrentSpeechId(cue, speechId, source, animation)
+CleanUpCurrentSpeechId(cue, speechId, source, animation)
 ```
 ---

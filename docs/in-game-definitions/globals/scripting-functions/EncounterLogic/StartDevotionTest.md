@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function StartDevotionTest(currentEncounter, args)
+StartDevotionTest(currentEncounter, args)
 ```
 ---

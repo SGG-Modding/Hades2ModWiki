@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `screen`
 ## Usage
 ```lua
-function OpenGhostAdminScreen(openedFrom, defaultCategoryIndex)
+OpenGhostAdminScreen(openedFrom, defaultCategoryIndex)
 ```
 ---

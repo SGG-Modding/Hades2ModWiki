@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function AnimateOnDistance(eventSource, args)
+AnimateOnDistance(eventSource, args)
 ```
 ---

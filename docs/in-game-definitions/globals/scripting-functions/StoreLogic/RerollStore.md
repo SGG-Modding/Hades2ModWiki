@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `none`
 ## Usage
 ```lua
-function RerollStore(screen, button)
+RerollStore(screen, button)
 ```
 ---

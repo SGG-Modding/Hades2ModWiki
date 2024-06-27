@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function TorchRingReturn(unit, weaponData, args, triggerArgs)
+TorchRingReturn(unit, weaponData, args, triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in Main.lua
 `tableName`
 ## Usage
 ```lua
-function GetRecursiveTableString(object)
+GetRecursiveTableString(object)
 ```
 ---

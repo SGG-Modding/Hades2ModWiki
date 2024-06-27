@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function DemeterSprintStormDetach(args)
+DemeterSprintStormDetach(args)
 ```
 ---

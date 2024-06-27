@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `tReturn`
 ## Usage
 ```lua
-function FYShuffle(tInput)
+FYShuffle(tInput)
 ```
 ---

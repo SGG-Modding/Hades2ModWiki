@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `tableArg`
 ## Usage
 ```lua
-function OverwriteAndCollapseTable(tableArg)
+OverwriteAndCollapseTable(tableArg)
 ```
 ---

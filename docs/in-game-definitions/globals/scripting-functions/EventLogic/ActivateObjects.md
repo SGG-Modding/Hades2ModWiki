@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `nil`
 ## Usage
 ```lua
-function ActivateObjects(eventSource, args)
+ActivateObjects(eventSource, args)
 ```
 ---

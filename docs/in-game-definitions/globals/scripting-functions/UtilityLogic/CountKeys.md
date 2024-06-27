@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `count`
 ## Usage
 ```lua
-function CountKeys(tableArg, key)
+CountKeys(tableArg, key)
 ```
 ---

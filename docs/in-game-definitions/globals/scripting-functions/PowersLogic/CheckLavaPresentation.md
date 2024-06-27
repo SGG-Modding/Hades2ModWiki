@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckLavaPresentation(victim, victimId, triggerArgs)
+CheckLavaPresentation(victim, victimId, triggerArgs)
 ```
 ---

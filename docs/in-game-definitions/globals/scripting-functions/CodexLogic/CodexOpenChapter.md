@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function CodexOpenChapter(screen, button, args)
+CodexOpenChapter(screen, button, args)
 ```
 ---

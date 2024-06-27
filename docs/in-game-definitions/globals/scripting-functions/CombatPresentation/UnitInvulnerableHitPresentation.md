@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function UnitInvulnerableHitPresentation(blocker, args)
+UnitInvulnerableHitPresentation(blocker, args)
 ```
 ---

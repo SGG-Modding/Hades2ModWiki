@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function PowerWordPresentation(source, args, screen, line)
+PowerWordPresentation(source, args, screen, line)
 ```
 ---

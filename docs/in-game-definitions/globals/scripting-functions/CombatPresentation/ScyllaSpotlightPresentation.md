@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function ScyllaSpotlightPresentation(flagData, scylla)
+ScyllaSpotlightPresentation(flagData, scylla)
 ```
 ---

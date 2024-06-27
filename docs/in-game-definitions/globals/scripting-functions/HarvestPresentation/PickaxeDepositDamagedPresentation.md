@@ -6,6 +6,6 @@ Function name in HarvestPresentation.lua
 `none`
 ## Usage
 ```lua
-function PickaxeDepositDamagedPresentation(source, args, user)
+PickaxeDepositDamagedPresentation(source, args, user)
 ```
 ---

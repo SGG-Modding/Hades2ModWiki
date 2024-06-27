@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `derivedValue`
 ## Usage
 ```lua
-function GetDerivedPropertyChangeValues(args)
+GetDerivedPropertyChangeValues(args)
 ```
 ---

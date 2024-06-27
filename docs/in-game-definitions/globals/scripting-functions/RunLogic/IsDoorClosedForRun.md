@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsDoorClosedForRun(run, obstacle)
+IsDoorClosedForRun(run, obstacle)
 ```
 ---

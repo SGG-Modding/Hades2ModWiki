@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function EnterHubRoomPresentation(currentRun, currentRoom)
+EnterHubRoomPresentation(currentRun, currentRoom)
 ```
 ---

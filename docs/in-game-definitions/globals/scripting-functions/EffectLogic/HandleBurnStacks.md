@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleBurnStacks(victim, args)
+HandleBurnStacks(victim, args)
 ```
 ---

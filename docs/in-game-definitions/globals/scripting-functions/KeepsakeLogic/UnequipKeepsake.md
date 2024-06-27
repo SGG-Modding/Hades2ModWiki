@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `none`
 ## Usage
 ```lua
-function UnequipKeepsake(heroUnit, traitName)
+UnequipKeepsake(heroUnit, traitName)
 ```
 ---

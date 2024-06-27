@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function AddContextualAction(screen, textData, args)
+AddContextualAction(screen, textData, args)
 ```
 ---

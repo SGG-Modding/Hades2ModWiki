@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `none`
 ## Usage
 ```lua
-function MovingManaRegenSetup(hero, args)
+MovingManaRegenSetup(hero, args)
 ```
 ---

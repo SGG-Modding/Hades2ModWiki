@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function SpellPolymorphFire(owner, weaponData, functionArgs, triggerArgs)
+SpellPolymorphFire(owner, weaponData, functionArgs, triggerArgs)
 ```
 ---

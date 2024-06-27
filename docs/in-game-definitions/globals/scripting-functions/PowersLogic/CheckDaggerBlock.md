@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDaggerBlock(weaponData, functionArgs)
+CheckDaggerBlock(weaponData, functionArgs)
 ```
 ---

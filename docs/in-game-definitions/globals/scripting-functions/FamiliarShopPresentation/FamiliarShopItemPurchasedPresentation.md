@@ -6,6 +6,6 @@ Function name in FamiliarShopPresentation.lua
 `none`
 ## Usage
 ```lua
-function FamiliarShopItemPurchasedPresentation(button, upgradeData, args)
+FamiliarShopItemPurchasedPresentation(button, upgradeData, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GardenPresentation.lua
 `none`
 ## Usage
 ```lua
-function GardenHarvestEndPresentation(source, args, user)
+GardenHarvestEndPresentation(source, args, user)
 ```
 ---

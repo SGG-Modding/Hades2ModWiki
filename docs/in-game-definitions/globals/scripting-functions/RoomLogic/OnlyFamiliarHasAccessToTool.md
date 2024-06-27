@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `bool`
 ## Usage
 ```lua
-function OnlyFamiliarHasAccessToTool(toolName)
+OnlyFamiliarHasAccessToTool(toolName)
 ```
 ---

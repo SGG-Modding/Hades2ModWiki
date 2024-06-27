@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function PoseidonSprintBall(weaponData, traitArgs, triggerArgs)
+PoseidonSprintBall(weaponData, traitArgs, triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in QuestPresentation.lua
 `none`
 ## Usage
 ```lua
-function QuestLogNextProgressPage(screen, button)
+QuestLogNextProgressPage(screen, button)
 ```
 ---

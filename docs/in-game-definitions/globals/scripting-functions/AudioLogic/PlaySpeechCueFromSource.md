@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `0`
 ## Usage
 ```lua
-function PlaySpeechCueFromSource(cue, source, queue, useSubtitles, subtitleColor, args)
+PlaySpeechCueFromSource(cue, source, queue, useSubtitles, subtitleColor, args)
 ```
 ---

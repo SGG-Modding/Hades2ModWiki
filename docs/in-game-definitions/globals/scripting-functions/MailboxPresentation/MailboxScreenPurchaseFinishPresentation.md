@@ -6,6 +6,6 @@ Function name in MailboxPresentation.lua
 `none`
 ## Usage
 ```lua
-function MailboxScreenPurchaseFinishPresentation(screen, button, item)
+MailboxScreenPurchaseFinishPresentation(screen, button, item)
 ```
 ---

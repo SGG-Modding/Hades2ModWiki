@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `bool`
 ## Usage
 ```lua
-function PlayEmoteSimple(source, args, originalArgs)
+PlayEmoteSimple(source, args, originalArgs)
 ```
 ---

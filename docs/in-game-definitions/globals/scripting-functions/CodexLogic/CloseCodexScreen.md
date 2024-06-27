@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseCodexScreen(screen, button)
+CloseCodexScreen(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MarketLogic.lua
 `marketItems`
 ## Usage
 ```lua
-function GenerateMarketItems()
+GenerateMarketItems()
 ```
 ---

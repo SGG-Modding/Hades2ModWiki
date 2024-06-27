@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyMetaModifierHeroUpgrades(hero, applyLuaUpgrades)
+ApplyMetaModifierHeroUpgrades(hero, applyLuaUpgrades)
 ```
 ---

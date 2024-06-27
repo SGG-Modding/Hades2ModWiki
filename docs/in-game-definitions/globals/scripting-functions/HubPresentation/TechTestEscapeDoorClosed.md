@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function TechTestEscapeDoorClosed(usee, args)
+TechTestEscapeDoorClosed(usee, args)
 ```
 ---

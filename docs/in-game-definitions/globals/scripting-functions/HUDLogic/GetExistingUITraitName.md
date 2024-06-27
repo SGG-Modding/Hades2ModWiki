@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `existingTrait`, `nil`
 ## Usage
 ```lua
-function GetExistingUITraitName(traitName)
+GetExistingUITraitName(traitName)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function DaggerFinalHitIncrease(unit, traitArgs, triggerArgs)
+DaggerFinalHitIncrease(unit, traitArgs, triggerArgs)
 ```
 ---

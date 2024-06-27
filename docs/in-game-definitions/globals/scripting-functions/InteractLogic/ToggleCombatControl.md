@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function ToggleCombatControl(controlNames, enabled, flag)
+ToggleCombatControl(controlNames, enabled, flag)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `healAmount`
 ## Usage
 ```lua
-function GetDoorHealAmount(currentRun)
+GetDoorHealAmount(currentRun)
 ```
 ---

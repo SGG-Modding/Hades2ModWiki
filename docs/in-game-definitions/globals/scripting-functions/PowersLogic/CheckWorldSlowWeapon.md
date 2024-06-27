@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckWorldSlowWeapon(triggerArgs, args)
+CheckWorldSlowWeapon(triggerArgs, args)
 ```
 ---

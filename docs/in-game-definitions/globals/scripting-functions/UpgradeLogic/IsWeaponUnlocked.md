@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function IsWeaponUnlocked(weaponName)
+IsWeaponUnlocked(weaponName)
 ```
 ---

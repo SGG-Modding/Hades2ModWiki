@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function AssignRoomToExitDoor(door, room)
+AssignRoomToExitDoor(door, room)
 ```
 ---

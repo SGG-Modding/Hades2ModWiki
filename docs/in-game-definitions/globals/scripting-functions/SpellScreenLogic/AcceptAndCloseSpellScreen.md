@@ -6,6 +6,6 @@ Function name in SpellScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function AcceptAndCloseSpellScreen(screen, button)
+AcceptAndCloseSpellScreen(screen, button)
 ```
 ---

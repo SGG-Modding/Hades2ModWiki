@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckOverTimeManaRefund(functionArgs, manaDelta)
+CheckOverTimeManaRefund(functionArgs, manaDelta)
 ```
 ---

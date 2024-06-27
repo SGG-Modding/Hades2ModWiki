@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `interactedGods`
 ## Usage
 ```lua
-function GetInteractedGodsThisRun(ignoredGod)
+GetInteractedGodsThisRun(ignoredGod)
 ```
 ---

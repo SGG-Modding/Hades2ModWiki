@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function SetupDebugConversationsTextLinesButton(screen, unitButton, textLinesData, count, args)
+SetupDebugConversationsTextLinesButton(screen, unitButton, textLinesData, count, args)
 ```
 ---

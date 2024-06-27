@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function MoneyGainPresentation(amount, delta)
+MoneyGainPresentation(amount, delta)
 ```
 ---

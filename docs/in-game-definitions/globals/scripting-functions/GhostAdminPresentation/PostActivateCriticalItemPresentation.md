@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function PostActivateCriticalItemPresentation(button, saleData)
+PostActivateCriticalItemPresentation(button, saleData)
 ```
 ---

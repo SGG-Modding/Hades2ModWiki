@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ShrineEliteAttributeManaDrain(enemy, args)
+ShrineEliteAttributeManaDrain(enemy, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in Main.lua
 `nil`
 ## Usage
 ```lua
-function unpackTableArgs(tbl)
+unpackTableArgs(tbl)
 ```
 ---

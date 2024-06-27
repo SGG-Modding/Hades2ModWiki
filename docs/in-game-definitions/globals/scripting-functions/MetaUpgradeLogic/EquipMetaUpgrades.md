@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function EquipMetaUpgrades(hero, args)
+EquipMetaUpgrades(hero, args)
 ```
 ---

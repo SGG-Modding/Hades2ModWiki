@@ -6,6 +6,6 @@ Function name in RoomPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function LeaveRoomHPostBossPresentation(currentRun, exitDoor, args)
+LeaveRoomHPostBossPresentation(currentRun, exitDoor, args)
 ```
 ---

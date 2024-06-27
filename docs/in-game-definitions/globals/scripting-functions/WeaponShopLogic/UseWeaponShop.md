@@ -6,6 +6,6 @@ Function name in WeaponShopLogic.lua
 `none`
 ## Usage
 ```lua
-function UseWeaponShop(usee, args)
+UseWeaponShop(usee, args)
 ```
 ---

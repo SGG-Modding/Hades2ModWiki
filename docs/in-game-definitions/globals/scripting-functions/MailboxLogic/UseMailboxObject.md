@@ -6,6 +6,6 @@ Function name in MailboxLogic.lua
 `none`
 ## Usage
 ```lua
-function UseMailboxObject(usee, args)
+UseMailboxObject(usee, args)
 ```
 ---

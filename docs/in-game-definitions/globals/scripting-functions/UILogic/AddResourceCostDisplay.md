@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function AddResourceCostDisplay(screen, resourceCostData, args, source)
+AddResourceCostDisplay(screen, resourceCostData, args, source)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function ValidateIdLeaks(trace, tableToCheck)
+ValidateIdLeaks(trace, tableToCheck)
 ```
 ---

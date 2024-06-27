@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardPromptScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function OpenCardUpgradeInfoScreen(parentScreen)
+OpenCardUpgradeInfoScreen(parentScreen)
 ```
 ---

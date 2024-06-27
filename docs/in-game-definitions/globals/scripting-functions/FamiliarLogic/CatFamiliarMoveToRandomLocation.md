@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function CatFamiliarMoveToRandomLocation(familiar, aiData, args)
+CatFamiliarMoveToRandomLocation(familiar, aiData, args)
 ```
 ---

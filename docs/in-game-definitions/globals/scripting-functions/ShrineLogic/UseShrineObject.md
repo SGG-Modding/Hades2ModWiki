@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function UseShrineObject(usee, args)
+UseShrineObject(usee, args)
 ```
 ---

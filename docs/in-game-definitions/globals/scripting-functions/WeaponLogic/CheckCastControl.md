@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckCastControl(unit, weaponData, triggerArgs)
+CheckCastControl(unit, weaponData, triggerArgs)
 ```
 ---

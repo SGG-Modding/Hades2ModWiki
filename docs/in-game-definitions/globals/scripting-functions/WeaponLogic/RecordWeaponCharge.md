@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function RecordWeaponCharge(unit, weaponData, args, triggerArgs)
+RecordWeaponCharge(unit, weaponData, args, triggerArgs)
 ```
 ---

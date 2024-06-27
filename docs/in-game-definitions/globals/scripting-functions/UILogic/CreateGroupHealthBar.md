@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function CreateGroupHealthBar(encounter)
+CreateGroupHealthBar(encounter)
 ```
 ---

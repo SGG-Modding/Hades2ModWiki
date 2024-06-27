@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnImpactReactionObstacles(victim, reaction)
+SpawnImpactReactionObstacles(victim, reaction)
 ```
 ---

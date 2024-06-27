@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `bool`
 ## Usage
 ```lua
-function StoreItemEligible(itemData, args)
+StoreItemEligible(itemData, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MetaUpgrades.lua
 `bool`
 ## Usage
 ```lua
-function IsMetaUpgradeActive(upgradeName, args)
+IsMetaUpgradeActive(upgradeName, args)
 ```
 ---

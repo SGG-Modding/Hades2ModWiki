@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function UseInspectPoint(inspectPoint, args, user)
+UseInspectPoint(inspectPoint, args, user)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in TradeLogic.lua
 `none`
 ## Usage
 ```lua
-function TradeDoExchange(screen, args)
+TradeDoExchange(screen, args)
 ```
 ---

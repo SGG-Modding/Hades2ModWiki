@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function EnemyInvisibility(enemy, aiData, args)
+EnemyInvisibility(enemy, aiData, args)
 ```
 ---

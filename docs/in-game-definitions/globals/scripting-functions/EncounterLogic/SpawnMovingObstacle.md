@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `obstacleId`
 ## Usage
 ```lua
-function SpawnMovingObstacle(obstacleName, destinationId, spawnData)
+SpawnMovingObstacle(obstacleName, destinationId, spawnData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `none`
 ## Usage
 ```lua
-function GameStatsPrevCategory(screen, button)
+GameStatsPrevCategory(screen, button)
 ```
 ---

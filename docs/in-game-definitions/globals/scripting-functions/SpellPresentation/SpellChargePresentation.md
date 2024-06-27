@@ -6,6 +6,6 @@ Function name in SpellPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpellChargePresentation(triggerArgs, weaponData, args)
+SpellChargePresentation(triggerArgs, weaponData, args)
 ```
 ---

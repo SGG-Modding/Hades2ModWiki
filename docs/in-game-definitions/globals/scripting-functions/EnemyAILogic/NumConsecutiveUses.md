@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `numAttacks`
 ## Usage
 ```lua
-function NumConsecutiveUses(enemy, weaponName)
+NumConsecutiveUses(enemy, weaponName)
 ```
 ---

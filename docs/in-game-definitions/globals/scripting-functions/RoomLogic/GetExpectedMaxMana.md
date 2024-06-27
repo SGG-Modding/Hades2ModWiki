@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `expectedMaxMana`
 ## Usage
 ```lua
-function GetExpectedMaxMana()
+GetExpectedMaxMana()
 ```
 ---

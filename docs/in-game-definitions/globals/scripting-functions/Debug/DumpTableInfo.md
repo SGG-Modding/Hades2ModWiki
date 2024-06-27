@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function DumpTableInfo(object)
+DumpTableInfo(object)
 ```
 ---

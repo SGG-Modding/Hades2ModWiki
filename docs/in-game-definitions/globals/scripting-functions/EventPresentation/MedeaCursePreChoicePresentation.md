@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function MedeaCursePreChoicePresentation(source, args)
+MedeaCursePreChoicePresentation(source, args)
 ```
 ---

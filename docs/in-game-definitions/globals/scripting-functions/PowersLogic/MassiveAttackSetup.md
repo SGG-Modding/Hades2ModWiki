@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function MassiveAttackSetup(hero, traitArgs, args)
+MassiveAttackSetup(hero, traitArgs, args)
 ```
 ---

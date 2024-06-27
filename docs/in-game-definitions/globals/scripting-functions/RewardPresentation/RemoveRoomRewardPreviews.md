@@ -6,6 +6,6 @@ Function name in RewardPresentation.lua
 `none`
 ## Usage
 ```lua
-function RemoveRoomRewardPreviews()
+RemoveRoomRewardPreviews()
 ```
 ---

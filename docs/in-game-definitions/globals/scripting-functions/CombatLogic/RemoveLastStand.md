@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function RemoveLastStand(heroUnit, name)
+RemoveLastStand(heroUnit, name)
 ```
 ---

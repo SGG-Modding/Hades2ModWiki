@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `0`, `1`
 ## Usage
 ```lua
-function GetKeepsakeProgress(traitName)
+GetKeepsakeProgress(traitName)
 ```
 ---

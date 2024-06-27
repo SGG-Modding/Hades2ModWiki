@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function CodexScrollDown(screen, button)
+CodexScrollDown(screen, button)
 ```
 ---

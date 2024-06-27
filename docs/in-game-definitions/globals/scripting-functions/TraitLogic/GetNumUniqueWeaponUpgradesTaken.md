@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `weaponUpgradesTaken`
 ## Usage
 ```lua
-function GetNumUniqueWeaponUpgradesTaken()
+GetNumUniqueWeaponUpgradesTaken()
 ```
 ---

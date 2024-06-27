@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckWeaponFullManaFire(weaponData, functionArgs, triggerArgs)
+CheckWeaponFullManaFire(weaponData, functionArgs, triggerArgs)
 ```
 ---

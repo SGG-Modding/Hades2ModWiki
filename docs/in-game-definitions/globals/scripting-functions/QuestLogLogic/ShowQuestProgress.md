@@ -6,6 +6,6 @@ Function name in QuestLogLogic.lua
 `none`
 ## Usage
 ```lua
-function ShowQuestProgress(screen, questData, requirements)
+ShowQuestProgress(screen, questData, requirements)
 ```
 ---

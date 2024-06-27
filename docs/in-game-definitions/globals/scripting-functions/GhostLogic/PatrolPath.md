@@ -6,6 +6,6 @@ Function name in GhostLogic.lua
 `none`
 ## Usage
 ```lua
-function PatrolPath(source, args)
+PatrolPath(source, args)
 ```
 ---

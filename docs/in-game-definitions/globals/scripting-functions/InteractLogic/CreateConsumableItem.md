@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateConsumableItem(consumableId, consumableName, costOverride, args)
+CreateConsumableItem(consumableId, consumableName, costOverride, args)
 ```
 ---

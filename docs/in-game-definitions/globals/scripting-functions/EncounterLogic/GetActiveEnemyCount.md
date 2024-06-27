@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `count`
 ## Usage
 ```lua
-function GetActiveEnemyCount(encounter)
+GetActiveEnemyCount(encounter)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckProjectilePull(weaponData, traitArgs, triggerArgs)
+CheckProjectilePull(weaponData, traitArgs, triggerArgs)
 ```
 ---

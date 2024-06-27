@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function FishingPierEndPresentation(source, args)
+FishingPierEndPresentation(source, args)
 ```
 ---

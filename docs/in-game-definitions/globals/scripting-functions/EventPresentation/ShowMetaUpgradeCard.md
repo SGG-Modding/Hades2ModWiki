@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function ShowMetaUpgradeCard(metaUpgradeName, x, y)
+ShowMetaUpgradeCard(metaUpgradeName, x, y)
 ```
 ---

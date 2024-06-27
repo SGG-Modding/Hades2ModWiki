@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `newlootData`
 ## Usage
 ```lua
-function ChooseLoot(excludeLootNames, forceLootName)
+ChooseLoot(excludeLootNames, forceLootName)
 ```
 ---

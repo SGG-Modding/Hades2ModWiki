@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function DoCurseDamage(enemy, traitArgs, damageAmount)
+DoCurseDamage(enemy, traitArgs, damageAmount)
 ```
 ---

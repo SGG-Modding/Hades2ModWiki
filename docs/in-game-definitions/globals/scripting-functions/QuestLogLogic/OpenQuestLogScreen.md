@@ -6,6 +6,6 @@ Function name in QuestLogLogic.lua
 `none`
 ## Usage
 ```lua
-function OpenQuestLogScreen(args)
+OpenQuestLogScreen(args)
 ```
 ---

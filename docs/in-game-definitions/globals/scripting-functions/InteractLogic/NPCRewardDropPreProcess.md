@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function NPCRewardDropPreProcess(source, args, line)
+NPCRewardDropPreProcess(source, args, line)
 ```
 ---

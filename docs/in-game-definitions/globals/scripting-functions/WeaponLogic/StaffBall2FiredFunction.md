@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function StaffBall2FiredFunction(unit, weaponData, functionArgs, triggerArgs)
+StaffBall2FiredFunction(unit, weaponData, functionArgs, triggerArgs)
 ```
 ---

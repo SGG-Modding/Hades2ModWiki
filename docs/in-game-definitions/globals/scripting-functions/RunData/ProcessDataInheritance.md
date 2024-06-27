@@ -6,6 +6,6 @@ Function name in RunData.lua
 `none`
 ## Usage
 ```lua
-function ProcessDataInheritance(data, dataStore)
+ProcessDataInheritance(data, dataStore)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function ClearMapBlockers(eventSource, args)
+ClearMapBlockers(eventSource, args)
 ```
 ---

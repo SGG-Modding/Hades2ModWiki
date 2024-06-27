@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenPresentation.lua
 `none`
 ## Usage
 ```lua
-function PulseMetaUpgradeMemCostDisplay(screen, button)
+PulseMetaUpgradeMemCostDisplay(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `difficultyRating`
 ## Usage
 ```lua
-function CalculateEnemyDifficultyRating(enemyName, room)
+CalculateEnemyDifficultyRating(enemyName, room)
 ```
 ---

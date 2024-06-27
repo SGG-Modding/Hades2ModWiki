@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function InventoryScreenScrollUp(screen, button)
+InventoryScreenScrollUp(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in SpellPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpellMeteorPresentationThreaded(owner, weaponData)
+SpellMeteorPresentationThreaded(owner, weaponData)
 ```
 ---

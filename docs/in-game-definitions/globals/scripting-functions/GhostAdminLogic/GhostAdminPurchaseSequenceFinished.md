@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function GhostAdminPurchaseSequenceFinished(source, args)
+GhostAdminPurchaseSequenceFinished(source, args)
 ```
 ---

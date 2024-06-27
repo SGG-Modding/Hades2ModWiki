@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `bool`
 ## Usage
 ```lua
-function ProcessHealthBuffer(enemy, damageEventArgs)
+ProcessHealthBuffer(enemy, damageEventArgs)
 ```
 ---

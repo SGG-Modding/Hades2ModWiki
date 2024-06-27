@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function SheepHit(enemy, attacker, triggerArgs)
+SheepHit(enemy, attacker, triggerArgs)
 ```
 ---

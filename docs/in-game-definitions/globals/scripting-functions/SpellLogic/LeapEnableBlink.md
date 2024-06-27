@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function LeapEnableBlink(weaponData, functionArgs, triggerArgs)
+LeapEnableBlink(weaponData, functionArgs, triggerArgs)
 ```
 ---

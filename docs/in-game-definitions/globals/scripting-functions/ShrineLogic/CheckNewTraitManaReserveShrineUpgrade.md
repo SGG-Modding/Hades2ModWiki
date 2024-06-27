@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckNewTraitManaReserveShrineUpgrade(newTrait, args)
+CheckNewTraitManaReserveShrineUpgrade(newTrait, args)
 ```
 ---

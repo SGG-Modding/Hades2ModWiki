@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupGroupHealthBar(encounter, args)
+SetupGroupHealthBar(encounter, args)
 ```
 ---

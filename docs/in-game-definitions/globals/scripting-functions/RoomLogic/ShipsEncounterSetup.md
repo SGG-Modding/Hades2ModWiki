@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function ShipsEncounterSetup(encounter, args)
+ShipsEncounterSetup(encounter, args)
 ```
 ---

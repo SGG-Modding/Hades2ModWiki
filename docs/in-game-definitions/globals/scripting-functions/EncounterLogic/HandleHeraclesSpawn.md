@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleHeraclesSpawn(eventSource)
+HandleHeraclesSpawn(eventSource)
 ```
 ---

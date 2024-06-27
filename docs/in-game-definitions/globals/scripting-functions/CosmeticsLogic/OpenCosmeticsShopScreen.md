@@ -6,6 +6,6 @@ Function name in CosmeticsLogic.lua
 `screen`
 ## Usage
 ```lua
-function OpenCosmeticsShopScreen(openedFrom, defaultCategoryIndex)
+OpenCosmeticsShopScreen(openedFrom, defaultCategoryIndex)
 ```
 ---

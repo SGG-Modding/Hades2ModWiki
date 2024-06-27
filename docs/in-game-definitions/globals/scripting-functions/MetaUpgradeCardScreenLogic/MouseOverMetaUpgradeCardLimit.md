@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function MouseOverMetaUpgradeCardLimit(button)
+MouseOverMetaUpgradeCardLimit(button)
 ```
 ---

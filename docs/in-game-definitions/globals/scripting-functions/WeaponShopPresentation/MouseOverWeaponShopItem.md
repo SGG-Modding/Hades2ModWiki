@@ -6,6 +6,6 @@ Function name in WeaponShopPresentation.lua
 `none`
 ## Usage
 ```lua
-function MouseOverWeaponShopItem(button)
+MouseOverWeaponShopItem(button)
 ```
 ---

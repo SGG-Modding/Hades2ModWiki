@@ -6,6 +6,6 @@ Function name in RandomLogic.lua
 `none`
 ## Usage
 ```lua
-function CoinFlip(rng)
+CoinFlip(rng)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ZeusSprintSpend(args)
+ZeusSprintSpend(args)
 ```
 ---

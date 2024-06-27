@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function SturdySetup(unit, args)
+SturdySetup(unit, args)
 ```
 ---

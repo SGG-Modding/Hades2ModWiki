@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function StatueUnlockedPresentation(source, args, screen, line)
+StatueUnlockedPresentation(source, args, screen, line)
 ```
 ---

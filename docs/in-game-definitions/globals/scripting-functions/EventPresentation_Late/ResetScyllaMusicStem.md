@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function ResetScyllaMusicStem(scylla, args)
+ResetScyllaMusicStem(scylla, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in QuestLogLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasAllQuestsWithStatus(status)
+HasAllQuestsWithStatus(status)
 ```
 ---

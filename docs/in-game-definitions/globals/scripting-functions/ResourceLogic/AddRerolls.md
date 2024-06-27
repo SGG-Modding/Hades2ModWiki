@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function AddRerolls(source, args)
+AddRerolls(source, args)
 ```
 ---

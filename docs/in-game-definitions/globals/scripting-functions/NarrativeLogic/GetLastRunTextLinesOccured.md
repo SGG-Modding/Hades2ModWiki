@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `runNum`
 ## Usage
 ```lua
-function GetLastRunTextLinesOccured(textLinesName)
+GetLastRunTextLinesOccured(textLinesName)
 ```
 ---

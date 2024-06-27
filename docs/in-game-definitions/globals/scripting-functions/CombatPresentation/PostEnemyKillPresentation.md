@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function PostEnemyKillPresentation(victim, triggerArgs)
+PostEnemyKillPresentation(victim, triggerArgs)
 ```
 ---

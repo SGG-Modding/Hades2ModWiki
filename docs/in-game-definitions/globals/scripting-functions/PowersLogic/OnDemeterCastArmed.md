@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function OnDemeterCastArmed(triggerArgs, functionArgs)
+OnDemeterCastArmed(triggerArgs, functionArgs)
 ```
 ---

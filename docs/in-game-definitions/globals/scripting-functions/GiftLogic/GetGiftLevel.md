@@ -6,6 +6,6 @@ Function name in GiftLogic.lua
 `0`
 ## Usage
 ```lua
-function GetGiftLevel(npcName)
+GetGiftLevel(npcName)
 ```
 ---

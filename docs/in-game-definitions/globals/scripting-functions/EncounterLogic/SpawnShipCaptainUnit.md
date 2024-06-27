@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnShipCaptainUnit(encounter, args)
+SpawnShipCaptainUnit(encounter, args)
 ```
 ---

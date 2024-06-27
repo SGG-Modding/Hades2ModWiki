@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function UseWeaponKit(weaponKit, args, user)
+UseWeaponKit(weaponKit, args, user)
 ```
 ---

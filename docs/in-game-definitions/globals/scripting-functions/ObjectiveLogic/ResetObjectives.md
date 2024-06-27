@@ -6,6 +6,6 @@ Function name in ObjectiveLogic.lua
 `none`
 ## Usage
 ```lua
-function ResetObjectives()
+ResetObjectives()
 ```
 ---

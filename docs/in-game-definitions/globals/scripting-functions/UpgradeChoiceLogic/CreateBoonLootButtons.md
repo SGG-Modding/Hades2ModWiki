@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `0`, `1`, `2`, `3`, `4`, `99`
 ## Usage
 ```lua
-function CreateBoonLootButtons(screen, lootData, reroll)
+CreateBoonLootButtons(screen, lootData, reroll)
 ```
 ---

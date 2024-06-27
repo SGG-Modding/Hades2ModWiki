@@ -6,6 +6,6 @@ Function name in Main.lua
 `nil`
 ## Usage
 ```lua
-function unpackTableArgsInternal(tbl, index, accumulator, tbl_count)
+unpackTableArgsInternal(tbl, index, accumulator, tbl_count)
 ```
 ---

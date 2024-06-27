@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnNemesisForRandomEvents(eventSource, args)
+SpawnNemesisForRandomEvents(eventSource, args)
 ```
 ---

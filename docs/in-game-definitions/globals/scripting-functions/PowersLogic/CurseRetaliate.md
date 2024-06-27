@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CurseRetaliate(functionArgs, triggerArgs)
+CurseRetaliate(functionArgs, triggerArgs)
 ```
 ---

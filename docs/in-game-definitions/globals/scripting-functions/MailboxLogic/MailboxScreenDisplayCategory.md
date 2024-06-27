@@ -6,6 +6,6 @@ Function name in MailboxLogic.lua
 `none`
 ## Usage
 ```lua
-function MailboxScreenDisplayCategory(screen, categoryIndex)
+MailboxScreenDisplayCategory(screen, categoryIndex)
 ```
 ---

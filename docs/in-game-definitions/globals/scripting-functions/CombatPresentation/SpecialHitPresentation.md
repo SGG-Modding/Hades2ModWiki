@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpecialHitPresentation(unit, triggerArgs)
+SpecialHitPresentation(unit, triggerArgs)
 ```
 ---

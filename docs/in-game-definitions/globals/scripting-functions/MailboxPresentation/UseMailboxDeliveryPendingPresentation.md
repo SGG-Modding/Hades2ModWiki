@@ -6,6 +6,6 @@ Function name in MailboxPresentation.lua
 `none`
 ## Usage
 ```lua
-function UseMailboxDeliveryPendingPresentation(usee, args)
+UseMailboxDeliveryPendingPresentation(usee, args)
 ```
 ---

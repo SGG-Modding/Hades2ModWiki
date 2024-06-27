@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function RespawnEggCountdown(egg, args)
+RespawnEggCountdown(egg, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function OnionTransformation(source, args, user)
+OnionTransformation(source, args, user)
 ```
 ---

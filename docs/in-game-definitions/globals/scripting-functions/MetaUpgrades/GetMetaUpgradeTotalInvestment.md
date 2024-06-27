@@ -6,6 +6,6 @@ Function name in MetaUpgrades.lua
 `total`
 ## Usage
 ```lua
-function GetMetaUpgradeTotalInvestment(metaUpgrade)
+GetMetaUpgradeTotalInvestment(metaUpgrade)
 ```
 ---

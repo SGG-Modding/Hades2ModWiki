@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenPresentation.lua
 `none`
 ## Usage
 ```lua
-function MetaUpgradeCardRevealComplete(button, args)
+MetaUpgradeCardRevealComplete(button, args)
 ```
 ---

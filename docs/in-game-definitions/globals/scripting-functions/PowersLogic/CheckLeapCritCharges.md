@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckLeapCritCharges(weaponData, functionArgs, triggerArgs)
+CheckLeapCritCharges(weaponData, functionArgs, triggerArgs)
 ```
 ---

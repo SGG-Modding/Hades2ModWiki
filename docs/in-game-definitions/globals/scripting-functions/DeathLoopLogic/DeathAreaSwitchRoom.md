@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function DeathAreaSwitchRoom(source, args)
+DeathAreaSwitchRoom(source, args)
 ```
 ---

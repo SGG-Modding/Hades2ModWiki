@@ -6,6 +6,6 @@ Function name in GardenLogic.lua
 `none`
 ## Usage
 ```lua
-function GardenTimeTick(args)
+GardenTimeTick(args)
 ```
 ---

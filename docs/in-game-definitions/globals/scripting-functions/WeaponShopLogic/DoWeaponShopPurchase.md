@@ -6,6 +6,6 @@ Function name in WeaponShopLogic.lua
 `none`
 ## Usage
 ```lua
-function DoWeaponShopPurchase(screen, button)
+DoWeaponShopPurchase(screen, button)
 ```
 ---

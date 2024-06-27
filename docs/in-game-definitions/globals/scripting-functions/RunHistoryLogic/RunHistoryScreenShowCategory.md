@@ -6,6 +6,6 @@ Function name in RunHistoryLogic.lua
 `none`
 ## Usage
 ```lua
-function RunHistoryScreenShowCategory(screen, categoryIndex, args)
+RunHistoryScreenShowCategory(screen, categoryIndex, args)
 ```
 ---

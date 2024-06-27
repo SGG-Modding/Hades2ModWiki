@@ -6,6 +6,6 @@ Function name in WeaponShopPresentation.lua
 `none`
 ## Usage
 ```lua
-function UpdateWeaponShopInteractionText(screen, button)
+UpdateWeaponShopInteractionText(screen, button)
 ```
 ---

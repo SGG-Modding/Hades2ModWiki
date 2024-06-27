@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function AttemptUseChallengeSwitch(challengeSwitch, args, user)
+AttemptUseChallengeSwitch(challengeSwitch, args, user)
 ```
 ---

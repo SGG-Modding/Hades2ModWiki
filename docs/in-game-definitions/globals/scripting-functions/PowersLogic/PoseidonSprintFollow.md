@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function PoseidonSprintFollow(functionArgs)
+PoseidonSprintFollow(functionArgs)
 ```
 ---

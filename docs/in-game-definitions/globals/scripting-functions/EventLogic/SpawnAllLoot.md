@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnAllLoot(eventSource, args)
+SpawnAllLoot(eventSource, args)
 ```
 ---

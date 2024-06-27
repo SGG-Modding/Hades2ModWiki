@@ -6,6 +6,6 @@ Function name in EncounterPresentation.lua
 `none`
 ## Usage
 ```lua
-function ShoppingSuccessNemesisPresentation(unit, args)
+ShoppingSuccessNemesisPresentation(unit, args)
 ```
 ---

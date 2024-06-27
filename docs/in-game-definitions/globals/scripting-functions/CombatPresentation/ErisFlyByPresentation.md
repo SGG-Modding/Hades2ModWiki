@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function ErisFlyByPresentation(enemy, aiData, CurrentRun, args)
+ErisFlyByPresentation(enemy, aiData, CurrentRun, args)
 ```
 ---

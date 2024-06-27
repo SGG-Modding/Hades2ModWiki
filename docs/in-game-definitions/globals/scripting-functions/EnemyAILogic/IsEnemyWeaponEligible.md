@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`
 ## Usage
 ```lua
-function IsEnemyWeaponEligible(enemy, weaponData, requirements)
+IsEnemyWeaponEligible(enemy, weaponData, requirements)
 ```
 ---

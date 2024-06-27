@@ -6,6 +6,6 @@ Function name in MailboxLogic.lua
 `none`
 ## Usage
 ```lua
-function MailboxScreenSelectCategory(screen, button)
+MailboxScreenSelectCategory(screen, button)
 ```
 ---

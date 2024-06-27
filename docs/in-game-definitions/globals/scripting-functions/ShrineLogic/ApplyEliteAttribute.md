@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyEliteAttribute(enemy, attributeName)
+ApplyEliteAttribute(enemy, attributeName)
 ```
 ---

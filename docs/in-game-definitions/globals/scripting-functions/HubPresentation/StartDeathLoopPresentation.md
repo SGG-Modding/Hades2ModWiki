@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function StartDeathLoopPresentation(currentRun)
+StartDeathLoopPresentation(currentRun)
 ```
 ---

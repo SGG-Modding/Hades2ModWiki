@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function cmp_multitype(op1, op2)
+cmp_multitype(op1, op2)
 ```
 ---

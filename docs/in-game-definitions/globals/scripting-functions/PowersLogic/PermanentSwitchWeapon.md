@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function PermanentSwitchWeapon(unit, args)
+PermanentSwitchWeapon(unit, args)
 ```
 ---

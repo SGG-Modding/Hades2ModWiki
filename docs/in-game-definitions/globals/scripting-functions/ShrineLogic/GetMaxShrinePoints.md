@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `total`
 ## Usage
 ```lua
-function GetMaxShrinePoints()
+GetMaxShrinePoints()
 ```
 ---

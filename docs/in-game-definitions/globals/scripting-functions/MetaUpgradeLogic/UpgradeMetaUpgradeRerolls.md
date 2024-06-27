@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function UpgradeMetaUpgradeRerolls(oldTrait, newTrait)
+UpgradeMetaUpgradeRerolls(oldTrait, newTrait)
 ```
 ---

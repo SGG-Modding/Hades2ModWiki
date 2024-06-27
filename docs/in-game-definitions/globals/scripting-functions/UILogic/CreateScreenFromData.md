@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function CreateScreenFromData(screen, componentData, args)
+CreateScreenFromData(screen, componentData, args)
 ```
 ---

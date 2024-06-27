@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ShrineEliteAttributeHitStun(victim, attacker, triggerArgs, args)
+ShrineEliteAttributeHitStun(victim, attacker, triggerArgs, args)
 ```
 ---

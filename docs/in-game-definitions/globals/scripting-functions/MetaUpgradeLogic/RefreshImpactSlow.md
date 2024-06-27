@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function RefreshImpactSlow(victim, victimId, triggerArgs)
+RefreshImpactSlow(victim, victimId, triggerArgs)
 ```
 ---

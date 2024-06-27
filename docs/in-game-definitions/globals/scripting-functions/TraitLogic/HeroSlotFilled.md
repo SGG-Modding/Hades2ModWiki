@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `bool`
 ## Usage
 ```lua
-function HeroSlotFilled(slotName)
+HeroSlotFilled(slotName)
 ```
 ---

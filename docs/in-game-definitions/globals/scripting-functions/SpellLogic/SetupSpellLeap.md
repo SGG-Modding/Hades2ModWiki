@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupSpellLeap(owner, weaponData, functionArgs, triggerArgs)
+SetupSpellLeap(owner, weaponData, functionArgs, triggerArgs)
 ```
 ---

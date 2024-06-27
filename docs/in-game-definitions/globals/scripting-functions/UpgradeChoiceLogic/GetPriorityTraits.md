@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `priorityOptions`
 ## Usage
 ```lua
-function GetPriorityTraits(traitNames, lootData, args)
+GetPriorityTraits(traitNames, lootData, args)
 ```
 ---

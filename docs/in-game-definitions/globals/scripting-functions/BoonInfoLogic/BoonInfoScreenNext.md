@@ -6,6 +6,6 @@ Function name in BoonInfoLogic.lua
 `none`
 ## Usage
 ```lua
-function BoonInfoScreenNext(screen, button)
+BoonInfoScreenNext(screen, button)
 ```
 ---

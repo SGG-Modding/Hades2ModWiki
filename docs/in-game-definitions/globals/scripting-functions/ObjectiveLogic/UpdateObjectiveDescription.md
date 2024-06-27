@@ -6,6 +6,6 @@ Function name in ObjectiveLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateObjectiveDescription(objectiveName, newDescription, luaKey, luaValue)
+UpdateObjectiveDescription(objectiveName, newDescription, luaKey, luaValue)
 ```
 ---

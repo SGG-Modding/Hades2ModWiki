@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `nil`
 ## Usage
 ```lua
-function GetEquippedWeaponValue(key)
+GetEquippedWeaponValue(key)
 ```
 ---

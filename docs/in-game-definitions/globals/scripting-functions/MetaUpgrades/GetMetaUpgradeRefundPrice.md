@@ -6,6 +6,6 @@ Function name in MetaUpgrades.lua
 `refund`
 ## Usage
 ```lua
-function GetMetaUpgradeRefundPrice(metaUpgrade, args)
+GetMetaUpgradeRefundPrice(metaUpgrade, args)
 ```
 ---

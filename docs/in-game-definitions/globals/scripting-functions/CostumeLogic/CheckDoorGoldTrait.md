@@ -6,6 +6,6 @@ Function name in CostumeLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDoorGoldTrait()
+CheckDoorGoldTrait()
 ```
 ---

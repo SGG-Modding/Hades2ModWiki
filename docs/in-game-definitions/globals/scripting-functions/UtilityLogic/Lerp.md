@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function Lerp(start, finish, fraction)
+Lerp(start, finish, fraction)
 ```
 ---

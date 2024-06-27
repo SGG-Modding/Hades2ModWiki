@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckOnManaSpendPowers(delta, args)
+CheckOnManaSpendPowers(delta, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GiftLogic.lua
 `none`
 ## Usage
 ```lua
-function SelectGift(target)
+SelectGift(target)
 ```
 ---

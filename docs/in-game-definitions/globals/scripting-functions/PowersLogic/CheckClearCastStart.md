@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckClearCastStart(weaponData, functionArgs, triggerArgs)
+CheckClearCastStart(weaponData, functionArgs, triggerArgs)
 ```
 ---

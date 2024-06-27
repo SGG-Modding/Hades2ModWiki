@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `newObstacle`
 ## Usage
 ```lua
-function CreateMetaUpgradeCard(screen, row, column, cardName, args)
+CreateMetaUpgradeCard(screen, row, column, cardName, args)
 ```
 ---

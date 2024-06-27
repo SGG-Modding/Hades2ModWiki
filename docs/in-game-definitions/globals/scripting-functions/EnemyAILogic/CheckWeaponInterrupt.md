@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function CheckWeaponInterrupt(enemy)
+CheckWeaponInterrupt(enemy)
 ```
 ---

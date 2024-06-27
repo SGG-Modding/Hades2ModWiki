@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsRoomEligible(currentRun, currentRoom, nextRoomData, args)
+IsRoomEligible(currentRun, currentRoom, nextRoomData, args)
 ```
 ---

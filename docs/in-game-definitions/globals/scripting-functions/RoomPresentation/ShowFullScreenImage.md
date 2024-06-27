@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function ShowFullScreenImage(image, imageData, duration)
+ShowFullScreenImage(image, imageData, duration)
 ```
 ---

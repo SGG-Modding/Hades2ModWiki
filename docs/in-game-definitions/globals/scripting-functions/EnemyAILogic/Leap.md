@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`
 ## Usage
 ```lua
-function Leap(enemy, aiData, leapType)
+Leap(enemy, aiData, leapType)
 ```
 ---

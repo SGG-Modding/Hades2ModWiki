@@ -6,6 +6,6 @@ Function name in FishingLogic.lua
 `none`
 ## Usage
 ```lua
-function WaitForFishingInput(args)
+WaitForFishingInput(args)
 ```
 ---

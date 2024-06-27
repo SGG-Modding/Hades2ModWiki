@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `bool`
 ## Usage
 ```lua
-function RunHasOneOfTraits(run, traits)
+RunHasOneOfTraits(run, traits)
 ```
 ---

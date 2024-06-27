@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `aiData`
 ## Usage
 ```lua
-function GetWeaponAIData(enemy, weaponName)
+GetWeaponAIData(enemy, weaponName)
 ```
 ---

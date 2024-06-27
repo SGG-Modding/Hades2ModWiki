@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function OnPoseidonCastArmed(triggerArgs, functionArgs)
+OnPoseidonCastArmed(triggerArgs, functionArgs)
 ```
 ---

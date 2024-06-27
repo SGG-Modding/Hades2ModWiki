@@ -6,6 +6,6 @@ Function name in WeaponShopLogic.lua
 `none`
 ## Usage
 ```lua
-function AssignWeaponKits(eventSource, args)
+AssignWeaponKits(eventSource, args)
 ```
 ---

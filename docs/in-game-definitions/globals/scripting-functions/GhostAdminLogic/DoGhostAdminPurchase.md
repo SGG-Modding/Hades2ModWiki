@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function DoGhostAdminPurchase(screen, button)
+DoGhostAdminPurchase(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function CreateTextBoxWithScreenFormat(screen, component, formatName, dynamicValues)
+CreateTextBoxWithScreenFormat(screen, component, formatName, dynamicValues)
 ```
 ---

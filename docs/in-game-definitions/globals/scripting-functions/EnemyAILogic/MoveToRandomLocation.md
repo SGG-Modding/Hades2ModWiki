@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function MoveToRandomLocation(enemy, originId, radius, radiusMin, timeout)
+MoveToRandomLocation(enemy, originId, radius, radiusMin, timeout)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function CreateDebugEnemySpawnPage(screen, page)
+CreateDebugEnemySpawnPage(screen, page)
 ```
 ---

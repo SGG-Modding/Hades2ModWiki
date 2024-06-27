@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckSpeedKeepsakeTrigger(unit, functionArgs)
+CheckSpeedKeepsakeTrigger(unit, functionArgs)
 ```
 ---

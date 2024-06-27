@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `level`
 ## Usage
 ```lua
-function GetAssistKeepsakeLevel(giftName)
+GetAssistKeepsakeLevel(giftName)
 ```
 ---

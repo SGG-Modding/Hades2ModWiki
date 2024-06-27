@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `collapsed`
 ## Usage
 ```lua
-function CollapseTableOrdered(tableArg)
+CollapseTableOrdered(tableArg)
 ```
 ---

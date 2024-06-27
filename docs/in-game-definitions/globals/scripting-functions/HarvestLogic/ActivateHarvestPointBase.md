@@ -6,6 +6,6 @@ Function name in HarvestLogic.lua
 `none`
 ## Usage
 ```lua
-function ActivateHarvestPointBase(source)
+ActivateHarvestPointBase(source)
 ```
 ---

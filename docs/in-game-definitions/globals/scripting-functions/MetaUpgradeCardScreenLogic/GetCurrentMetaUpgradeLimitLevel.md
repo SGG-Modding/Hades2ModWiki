@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `0`
 ## Usage
 ```lua
-function GetCurrentMetaUpgradeLimitLevel()
+GetCurrentMetaUpgradeLimitLevel()
 ```
 ---

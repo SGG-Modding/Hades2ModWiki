@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function MeteorPreattackThread(destinationId, weaponData, args)
+MeteorPreattackThread(destinationId, weaponData, args)
 ```
 ---

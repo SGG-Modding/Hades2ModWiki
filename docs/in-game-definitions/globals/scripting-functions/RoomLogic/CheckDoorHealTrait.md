@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDoorHealTrait(currentRun, door)
+CheckDoorHealTrait(currentRun, door)
 ```
 ---

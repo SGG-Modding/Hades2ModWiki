@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function PerfectDashEndPresentation(triggerArgs, text)
+PerfectDashEndPresentation(triggerArgs, text)
 ```
 ---

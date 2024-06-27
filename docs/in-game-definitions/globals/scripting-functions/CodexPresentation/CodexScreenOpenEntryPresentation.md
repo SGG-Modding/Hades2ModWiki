@@ -6,6 +6,6 @@ Function name in CodexPresentation.lua
 `outColor`
 ## Usage
 ```lua
-function CodexScreenOpenEntryPresentation(screen, button, args)
+CodexScreenOpenEntryPresentation(screen, button, args)
 ```
 ---

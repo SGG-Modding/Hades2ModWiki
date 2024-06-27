@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function UpdateHealthBar(enemy, damageAmount, damageEventArgs)
+UpdateHealthBar(enemy, damageAmount, damageEventArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `output`
 ## Usage
 ```lua
-function GetEligibleTransformingTrait(traitNames)
+GetEligibleTransformingTrait(traitNames)
 ```
 ---

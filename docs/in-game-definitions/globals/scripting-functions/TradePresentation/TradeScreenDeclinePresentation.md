@@ -6,6 +6,6 @@ Function name in TradePresentation.lua
 `none`
 ## Usage
 ```lua
-function TradeScreenDeclinePresentation(screen, button)
+TradeScreenDeclinePresentation(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in BiomeStateLogic.lua
 `none`
 ## Usage
 ```lua
-function GoldStateRewardChange(unit, args)
+GoldStateRewardChange(unit, args)
 ```
 ---

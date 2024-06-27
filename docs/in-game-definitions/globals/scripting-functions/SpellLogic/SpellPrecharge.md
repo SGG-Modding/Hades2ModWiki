@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function SpellPrecharge(spellTrait, weaponName)
+SpellPrecharge(spellTrait, weaponName)
 ```
 ---

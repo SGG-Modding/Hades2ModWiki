@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function FireAphroditeSprintProjectile(args, triggerArgs)
+FireAphroditeSprintProjectile(args, triggerArgs)
 ```
 ---

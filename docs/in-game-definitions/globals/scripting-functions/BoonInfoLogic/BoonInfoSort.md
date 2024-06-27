@@ -6,6 +6,6 @@ Function name in BoonInfoLogic.lua
 `bool`, `0`, `1`, `2`, `3`, `4`, `99`, `5`, `value`, `90`
 ## Usage
 ```lua
-function BoonInfoSort(itemA, itemB)
+BoonInfoSort(itemA, itemB)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function PolyphemusPlayerGrabClearPresentation(triggerArgs, args)
+PolyphemusPlayerGrabClearPresentation(triggerArgs, args)
 ```
 ---

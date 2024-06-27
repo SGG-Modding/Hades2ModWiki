@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `treeStructure`
 ## Usage
 ```lua
-function StatueHitPresentation(source, triggerArgs, args)
+StatueHitPresentation(source, triggerArgs, args)
 ```
 ---

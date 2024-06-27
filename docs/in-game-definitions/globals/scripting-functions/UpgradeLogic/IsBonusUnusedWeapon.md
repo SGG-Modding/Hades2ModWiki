@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsBonusUnusedWeapon(weaponName)
+IsBonusUnusedWeapon(weaponName)
 ```
 ---

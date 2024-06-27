@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function DisableBiomeSpeedShrineUpgrade(source, args)
+DisableBiomeSpeedShrineUpgrade(source, args)
 ```
 ---

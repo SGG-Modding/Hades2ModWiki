@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `encounter`
 ## Usage
 ```lua
-function ChooseChallengeEncounter(room, encounterOptions)
+ChooseChallengeEncounter(room, encounterOptions)
 ```
 ---

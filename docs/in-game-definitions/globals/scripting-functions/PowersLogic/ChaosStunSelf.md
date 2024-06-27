@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ChaosStunSelf(attacker, traitArgs, triggerArgs)
+ChaosStunSelf(attacker, traitArgs, triggerArgs)
 ```
 ---

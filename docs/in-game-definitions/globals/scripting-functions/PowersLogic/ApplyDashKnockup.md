@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyDashKnockup(victim, functionArgs, triggerArgs)
+ApplyDashKnockup(victim, functionArgs, triggerArgs)
 ```
 ---

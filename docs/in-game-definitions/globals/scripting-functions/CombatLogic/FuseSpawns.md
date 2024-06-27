@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function FuseSpawns(killedUnit, args, triggerArgs)
+FuseSpawns(killedUnit, args, triggerArgs)
 ```
 ---

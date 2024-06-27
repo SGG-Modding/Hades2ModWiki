@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function RemoveArcana(args, traitData)
+RemoveArcana(args, traitData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsEliteAttributeEligible(enemy, attributeName)
+IsEliteAttributeEligible(enemy, attributeName)
 ```
 ---

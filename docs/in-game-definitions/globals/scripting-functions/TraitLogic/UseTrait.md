@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `nil`
 ## Usage
 ```lua
-function UseTrait(unit, traitName)
+UseTrait(unit, traitName)
 ```
 ---

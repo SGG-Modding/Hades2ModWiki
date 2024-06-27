@@ -6,6 +6,6 @@ Function name in ManaPresentation.lua
 `none`
 ## Usage
 ```lua
-function SetManaIndicatorDisallowed(weaponName, onCreation, manaValue)
+SetManaIndicatorDisallowed(weaponName, onCreation, manaValue)
 ```
 ---

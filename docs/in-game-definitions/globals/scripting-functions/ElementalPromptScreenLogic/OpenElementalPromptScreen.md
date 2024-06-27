@@ -6,6 +6,6 @@ Function name in ElementalPromptScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function OpenElementalPromptScreen(parentScreen)
+OpenElementalPromptScreen(parentScreen)
 ```
 ---

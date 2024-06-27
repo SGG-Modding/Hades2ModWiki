@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `none`
 ## Usage
 ```lua
-function SetManaRegenUnique(args, traitData)
+SetManaRegenUnique(args, traitData)
 ```
 ---

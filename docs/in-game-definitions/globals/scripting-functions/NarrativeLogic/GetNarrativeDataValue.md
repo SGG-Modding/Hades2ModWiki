@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `nil`
 ## Usage
 ```lua
-function GetNarrativeDataValue(source, key)
+GetNarrativeDataValue(source, key)
 ```
 ---

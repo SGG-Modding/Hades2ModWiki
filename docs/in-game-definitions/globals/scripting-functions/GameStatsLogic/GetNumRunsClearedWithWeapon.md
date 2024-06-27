@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `runsCleared`
 ## Usage
 ```lua
-function GetNumRunsClearedWithWeapon(weaponName)
+GetNumRunsClearedWithWeapon(weaponName)
 ```
 ---

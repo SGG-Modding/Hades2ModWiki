@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function OverwriteSelf(source, args)
+OverwriteSelf(source, args)
 ```
 ---

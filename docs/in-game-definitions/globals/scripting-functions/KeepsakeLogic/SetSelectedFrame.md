@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `none`
 ## Usage
 ```lua
-function SetSelectedFrame(screen, button)
+SetSelectedFrame(screen, button)
 ```
 ---

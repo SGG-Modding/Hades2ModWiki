@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `PreviousDeathAreaRoom`
 ## Usage
 ```lua
-function GetPreviousRoom(currentRun)
+GetPreviousRoom(currentRun)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in AssistLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckAssistHint(source, args)
+CheckAssistHint(source, args)
 ```
 ---

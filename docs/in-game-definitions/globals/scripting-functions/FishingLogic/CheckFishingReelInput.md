@@ -6,6 +6,6 @@ Function name in FishingLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckFishingReelInput(source, args, fishData)
+CheckFishingReelInput(source, args, fishData)
 ```
 ---

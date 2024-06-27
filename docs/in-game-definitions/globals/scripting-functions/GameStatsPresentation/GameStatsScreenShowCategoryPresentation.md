@@ -6,6 +6,6 @@ Function name in GameStatsPresentation.lua
 `none`
 ## Usage
 ```lua
-function GameStatsScreenShowCategoryPresentation(screen)
+GameStatsScreenShowCategoryPresentation(screen)
 ```
 ---

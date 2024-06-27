@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function HestiaSprintFlames(functionArgs, triggerArgs)
+HestiaSprintFlames(functionArgs, triggerArgs)
 ```
 ---

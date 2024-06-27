@@ -6,6 +6,6 @@ Function name in SurfaceShopLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateSurfaceShopButtons(screen)
+CreateSurfaceShopButtons(screen)
 ```
 ---

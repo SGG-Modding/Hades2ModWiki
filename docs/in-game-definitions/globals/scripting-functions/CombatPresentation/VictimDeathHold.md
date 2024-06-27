@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function VictimDeathHold(victimId, startDelay, endDelay)
+VictimDeathHold(victimId, startDelay, endDelay)
 ```
 ---

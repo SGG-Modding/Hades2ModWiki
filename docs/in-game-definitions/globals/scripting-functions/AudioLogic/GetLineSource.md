@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `nil`, `source`
 ## Usage
 ```lua
-function GetLineSource(line, source, args)
+GetLineSource(line, source, args)
 ```
 ---

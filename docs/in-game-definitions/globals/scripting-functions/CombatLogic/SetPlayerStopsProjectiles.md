@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function SetPlayerStopsProjectiles(flag)
+SetPlayerStopsProjectiles(flag)
 ```
 ---

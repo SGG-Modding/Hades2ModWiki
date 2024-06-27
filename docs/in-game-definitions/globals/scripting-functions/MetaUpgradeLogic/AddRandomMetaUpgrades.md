@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function AddRandomMetaUpgrades(numCards, args)
+AddRandomMetaUpgrades(numCards, args)
 ```
 ---

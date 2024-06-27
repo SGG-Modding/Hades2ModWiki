@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function OutOfCombatRegenSetup(hero, args)
+OutOfCombatRegenSetup(hero, args)
 ```
 ---

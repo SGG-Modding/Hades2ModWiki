@@ -6,6 +6,6 @@ Function name in CostumeLogic.lua
 `none`
 ## Usage
 ```lua
-function OnHealthBufferDamage(hero, damageTaken)
+OnHealthBufferDamage(hero, damageTaken)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function UseCauldronJoinWitchcraft(usee, args, user)
+UseCauldronJoinWitchcraft(usee, args, user)
 ```
 ---

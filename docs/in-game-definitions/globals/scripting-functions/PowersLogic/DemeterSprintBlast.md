@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function DemeterSprintBlast(weaponData, traitArgs, triggerArgs)
+DemeterSprintBlast(weaponData, traitArgs, triggerArgs)
 ```
 ---

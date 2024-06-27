@@ -6,6 +6,6 @@ Function name in QuestPresentation.lua
 `none`
 ## Usage
 ```lua
-function QuestAddedPresentation(questData, threadName)
+QuestAddedPresentation(questData, threadName)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoWeaponScreenshake(sourceData, key, args)
+DoWeaponScreenshake(sourceData, key, args)
 ```
 ---

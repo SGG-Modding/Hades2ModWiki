@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `legalBreakables`
 ## Usage
 ```lua
-function FindAllSwappableBreakables()
+FindAllSwappableBreakables()
 ```
 ---

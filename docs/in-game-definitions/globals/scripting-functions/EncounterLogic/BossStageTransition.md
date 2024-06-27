@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function BossStageTransition(boss, currentRun, aiStage)
+BossStageTransition(boss, currentRun, aiStage)
 ```
 ---

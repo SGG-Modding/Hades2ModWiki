@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CleanupRaiseDeadEncounter(currentRoom)
+CleanupRaiseDeadEncounter(currentRoom)
 ```
 ---

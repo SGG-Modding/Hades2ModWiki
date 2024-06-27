@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckCastVolley(victim, functionArgs, triggerArgs)
+CheckCastVolley(victim, functionArgs, triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function SorceryChargeSetup(hero, args)
+SorceryChargeSetup(hero, args)
 ```
 ---

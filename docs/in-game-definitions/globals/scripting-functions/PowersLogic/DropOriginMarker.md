@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function DropOriginMarker(weaponData, functionArgs, triggerArgs)
+DropOriginMarker(weaponData, functionArgs, triggerArgs)
 ```
 ---

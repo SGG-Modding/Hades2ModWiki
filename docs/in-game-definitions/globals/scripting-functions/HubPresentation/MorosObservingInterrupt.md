@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function MorosObservingInterrupt(source, args, textLines)
+MorosObservingInterrupt(source, args, textLines)
 ```
 ---

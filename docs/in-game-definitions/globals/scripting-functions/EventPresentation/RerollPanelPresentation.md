@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function RerollPanelPresentation(screen, button)
+RerollPanelPresentation(screen, button)
 ```
 ---

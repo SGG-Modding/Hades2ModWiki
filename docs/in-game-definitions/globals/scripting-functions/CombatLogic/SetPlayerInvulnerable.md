@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function SetPlayerInvulnerable(flag)
+SetPlayerInvulnerable(flag)
 ```
 ---

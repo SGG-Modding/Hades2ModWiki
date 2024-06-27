@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `bonusChance`
 ## Usage
 ```lua
-function GetFamiliarBonusResourceSpawnChance(familiarName)
+GetFamiliarBonusResourceSpawnChance(familiarName)
 ```
 ---

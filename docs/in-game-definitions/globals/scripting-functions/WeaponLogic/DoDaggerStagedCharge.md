@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function DoDaggerStagedCharge(triggerArgs, weaponData, args)
+DoDaggerStagedCharge(triggerArgs, weaponData, args)
 ```
 ---

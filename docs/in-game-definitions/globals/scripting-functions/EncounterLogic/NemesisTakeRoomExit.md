@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function NemesisTakeRoomExit(eventSource, args)
+NemesisTakeRoomExit(eventSource, args)
 ```
 ---

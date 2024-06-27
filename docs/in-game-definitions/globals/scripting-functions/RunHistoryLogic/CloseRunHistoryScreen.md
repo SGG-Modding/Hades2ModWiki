@@ -6,6 +6,6 @@ Function name in RunHistoryLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseRunHistoryScreen(screen, button)
+CloseRunHistoryScreen(screen, button)
 ```
 ---

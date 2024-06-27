@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function GhostAdminUpdateVisibility(screen, args)
+GhostAdminUpdateVisibility(screen, args)
 ```
 ---

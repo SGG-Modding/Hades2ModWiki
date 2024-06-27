@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function CalcArcDistance(angle1, angle2)
+CalcArcDistance(angle1, angle2)
 ```
 ---

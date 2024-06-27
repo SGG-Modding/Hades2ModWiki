@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function AddEnemyHitShield(unit)
+AddEnemyHitShield(unit)
 ```
 ---

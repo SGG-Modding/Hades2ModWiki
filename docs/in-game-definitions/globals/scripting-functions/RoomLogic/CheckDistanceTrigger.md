@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDistanceTrigger(trigger, triggerSource, id)
+CheckDistanceTrigger(trigger, triggerSource, id)
 ```
 ---

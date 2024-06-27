@@ -6,6 +6,6 @@ Function name in BadgePresentation.lua
 `none`
 ## Usage
 ```lua
-function BadgeCannotAffordPresentation(usee, nextBadgeData)
+BadgeCannotAffordPresentation(usee, nextBadgeData)
 ```
 ---

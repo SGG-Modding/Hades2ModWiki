@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `none`
 ## Usage
 ```lua
-function PlayInteractAnimation(interactableObjectId, args)
+PlayInteractAnimation(interactableObjectId, args)
 ```
 ---

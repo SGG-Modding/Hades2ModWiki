@@ -6,6 +6,6 @@ Function name in MarketPresentation.lua
 `none`
 ## Usage
 ```lua
-function MarketSessionCompletePresentation(usee, screen)
+MarketSessionCompletePresentation(usee, screen)
 ```
 ---

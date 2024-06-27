@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function IcarusBenefitChoice(source, args, screen)
+IcarusBenefitChoice(source, args, screen)
 ```
 ---

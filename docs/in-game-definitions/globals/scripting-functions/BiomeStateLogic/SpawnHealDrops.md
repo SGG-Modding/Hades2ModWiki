@@ -6,6 +6,6 @@ Function name in BiomeStateLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnHealDrops(unit, args)
+SpawnHealDrops(unit, args)
 ```
 ---

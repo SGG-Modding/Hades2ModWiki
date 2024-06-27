@@ -6,6 +6,6 @@ Function name in EncounterPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function HeraclesExit(source, args)
+HeraclesExit(source, args)
 ```
 ---

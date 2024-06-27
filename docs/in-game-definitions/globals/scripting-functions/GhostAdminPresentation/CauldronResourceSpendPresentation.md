@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function CauldronResourceSpendPresentation(screen, button, saleData, args, focusId)
+CauldronResourceSpendPresentation(screen, button, saleData, args, focusId)
 ```
 ---

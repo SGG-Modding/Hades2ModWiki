@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `reward`, `nil`
 ## Usage
 ```lua
-function CheckBoonSkipShrineUpgrade(source, args)
+CheckBoonSkipShrineUpgrade(source, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ZeusSprintZap(weaponData, functionArgs, triggerArgs)
+ZeusSprintZap(weaponData, functionArgs, triggerArgs)
 ```
 ---

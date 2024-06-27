@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `highestRunDepth`
 ## Usage
 ```lua
-function GetHighestPrevRunRepth(currentRun)
+GetHighestPrevRunRepth(currentRun)
 ```
 ---

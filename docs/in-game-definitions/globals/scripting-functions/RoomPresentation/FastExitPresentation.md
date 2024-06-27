@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function FastExitPresentation(currentRun, exitDoor)
+FastExitPresentation(currentRun, exitDoor)
 ```
 ---

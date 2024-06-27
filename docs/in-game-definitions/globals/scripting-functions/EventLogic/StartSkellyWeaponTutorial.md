@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function StartSkellyWeaponTutorial(eventSource, args)
+StartSkellyWeaponTutorial(eventSource, args)
 ```
 ---

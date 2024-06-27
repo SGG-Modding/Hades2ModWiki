@@ -6,6 +6,6 @@ Function name in GardenLogic.lua
 `none`
 ## Usage
 ```lua
-function UseGardenPlot(plot, args, user)
+UseGardenPlot(plot, args, user)
 ```
 ---

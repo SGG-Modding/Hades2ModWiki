@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `sacrificeTrait`
 ## Usage
 ```lua
-function GetRandomSacrificeTraitData()
+GetRandomSacrificeTraitData()
 ```
 ---

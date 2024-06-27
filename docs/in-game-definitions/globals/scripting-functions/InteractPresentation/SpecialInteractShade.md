@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpecialInteractShade(usee, args)
+SpecialInteractShade(usee, args)
 ```
 ---

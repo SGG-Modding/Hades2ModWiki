@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `lootName`, `nil`
 ## Usage
 ```lua
-function GetLootSourceName(traitName)
+GetLootSourceName(traitName)
 ```
 ---

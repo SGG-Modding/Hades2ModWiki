@@ -6,6 +6,6 @@ Function name in SurfaceShopLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleSurfaceShopAction(screen, button)
+HandleSurfaceShopAction(screen, button)
 ```
 ---

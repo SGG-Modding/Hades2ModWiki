@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function StopWeaponSounds(soundEvent, soundData, parentTable)
+StopWeaponSounds(soundEvent, soundData, parentTable)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckExProjectileSpawn(weaponData, functionArgs, triggerArgs)
+CheckExProjectileSpawn(weaponData, functionArgs, triggerArgs)
 ```
 ---

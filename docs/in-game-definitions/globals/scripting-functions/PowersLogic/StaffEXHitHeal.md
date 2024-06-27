@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function StaffEXHitHeal(unit, traitArgs, triggerArgs)
+StaffEXHitHeal(unit, traitArgs, triggerArgs)
 ```
 ---

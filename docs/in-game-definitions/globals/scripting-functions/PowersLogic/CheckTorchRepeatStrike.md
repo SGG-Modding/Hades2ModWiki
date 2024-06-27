@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckTorchRepeatStrike(triggerArgs, functionArgs)
+CheckTorchRepeatStrike(triggerArgs, functionArgs)
 ```
 ---

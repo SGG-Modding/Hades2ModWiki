@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `none`
 ## Usage
 ```lua
-function PostWeaponKitUnlockPresentation(weaponKit)
+PostWeaponKitUnlockPresentation(weaponKit)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `none`
 ## Usage
 ```lua
-function DestroyBoonLootButtons(screen, lootData)
+DestroyBoonLootButtons(screen, lootData)
 ```
 ---

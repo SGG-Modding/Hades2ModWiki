@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `unlockCount`
 ## Usage
 ```lua
-function CalcNumCodexEntriesUnlocked()
+CalcNumCodexEntriesUnlocked()
 ```
 ---

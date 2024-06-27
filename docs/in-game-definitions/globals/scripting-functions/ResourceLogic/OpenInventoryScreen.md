@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `screen`
 ## Usage
 ```lua
-function OpenInventoryScreen(args)
+OpenInventoryScreen(args)
 ```
 ---

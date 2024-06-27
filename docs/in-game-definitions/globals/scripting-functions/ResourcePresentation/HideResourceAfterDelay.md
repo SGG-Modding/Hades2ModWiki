@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function HideResourceAfterDelay(resourceName)
+HideResourceAfterDelay(resourceName)
 ```
 ---

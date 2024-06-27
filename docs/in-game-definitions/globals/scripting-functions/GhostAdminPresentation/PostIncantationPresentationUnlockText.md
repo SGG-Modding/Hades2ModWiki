@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function PostIncantationPresentationUnlockText(saleData)
+PostIncantationPresentationUnlockText(saleData)
 ```
 ---

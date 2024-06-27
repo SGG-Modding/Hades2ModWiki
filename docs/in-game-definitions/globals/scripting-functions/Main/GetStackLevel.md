@@ -6,6 +6,6 @@ Function name in Main.lua
 `level`
 ## Usage
 ```lua
-function GetStackLevel(startingLevel)
+GetStackLevel(startingLevel)
 ```
 ---

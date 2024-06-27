@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function ShowInvincibubbleOnObject(object, args)
+ShowInvincibubbleOnObject(object, args)
 ```
 ---

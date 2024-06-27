@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `rarityChances`
 ## Usage
 ```lua
-function GetRarityChances(loot)
+GetRarityChances(loot)
 ```
 ---

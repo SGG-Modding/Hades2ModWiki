@@ -6,6 +6,6 @@ Function name in Main.lua
 `fields`, `t2`
 ## Usage
 ```lua
-function test()
+test()
 ```
 ---

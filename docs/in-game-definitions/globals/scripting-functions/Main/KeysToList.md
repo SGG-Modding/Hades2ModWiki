@@ -6,6 +6,6 @@ Function name in Main.lua
 `list`
 ## Usage
 ```lua
-function KeysToList(keysTable)
+KeysToList(keysTable)
 ```
 ---

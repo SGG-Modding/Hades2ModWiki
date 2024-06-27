@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function Damage(victim, triggerArgs)
+Damage(victim, triggerArgs)
 ```
 ---

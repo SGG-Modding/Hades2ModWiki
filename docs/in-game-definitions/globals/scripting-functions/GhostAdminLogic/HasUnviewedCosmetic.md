@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasUnviewedCosmetic(slotName)
+HasUnviewedCosmetic(slotName)
 ```
 ---

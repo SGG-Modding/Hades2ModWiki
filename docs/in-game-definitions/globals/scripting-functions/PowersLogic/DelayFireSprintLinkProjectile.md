@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function DelayFireSprintLinkProjectile(enemyId, functionArgs)
+DelayFireSprintLinkProjectile(enemyId, functionArgs)
 ```
 ---

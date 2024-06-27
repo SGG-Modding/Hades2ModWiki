@@ -6,6 +6,6 @@ Function name in GardenPresentation.lua
 `bool`
 ## Usage
 ```lua
-function HasSeeds(neededCount)
+HasSeeds(neededCount)
 ```
 ---

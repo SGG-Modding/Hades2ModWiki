@@ -6,6 +6,6 @@ Function name in RunData.lua
 `none`
 ## Usage
 ```lua
-function ProcessDirecetInheritance(data, parentData)
+ProcessDirecetInheritance(data, parentData)
 ```
 ---

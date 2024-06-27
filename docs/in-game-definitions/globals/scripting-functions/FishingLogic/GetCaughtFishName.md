@@ -6,6 +6,6 @@ Function name in FishingLogic.lua
 `fishName`
 ## Usage
 ```lua
-function GetCaughtFishName(biome)
+GetCaughtFishName(biome)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckManaOnHit(victim, functionArgs, triggerArgs)
+CheckManaOnHit(victim, functionArgs, triggerArgs)
 ```
 ---

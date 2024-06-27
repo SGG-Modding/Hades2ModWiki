@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckBurnDeathExplosion(enemy, args)
+CheckBurnDeathExplosion(enemy, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MailboxLogic.lua
 `none`
 ## Usage
 ```lua
-function GenerateMailboxItems(args)
+GenerateMailboxItems(args)
 ```
 ---

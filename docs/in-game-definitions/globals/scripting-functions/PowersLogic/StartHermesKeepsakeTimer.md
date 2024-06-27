@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function StartHermesKeepsakeTimer(args, traitData)
+StartHermesKeepsakeTimer(args, traitData)
 ```
 ---

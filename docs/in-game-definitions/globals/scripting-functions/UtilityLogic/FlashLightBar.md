@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function FlashLightBar(playerIndex, color, duration, frequency)
+FlashLightBar(playerIndex, color, duration, frequency)
 ```
 ---

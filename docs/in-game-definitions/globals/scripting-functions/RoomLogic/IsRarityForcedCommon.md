@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsRarityForcedCommon(name, args)
+IsRarityForcedCommon(name, args)
 ```
 ---

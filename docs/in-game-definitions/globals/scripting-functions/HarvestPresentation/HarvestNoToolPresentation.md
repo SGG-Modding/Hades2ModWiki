@@ -6,6 +6,6 @@ Function name in HarvestPresentation.lua
 `none`
 ## Usage
 ```lua
-function HarvestNoToolPresentation(source, args, user, toolName)
+HarvestNoToolPresentation(source, args, user, toolName)
 ```
 ---

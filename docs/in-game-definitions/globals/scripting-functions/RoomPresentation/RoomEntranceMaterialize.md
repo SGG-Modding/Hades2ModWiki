@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function RoomEntranceMaterialize(currentRun, currentRoom, args)
+RoomEntranceMaterialize(currentRun, currentRoom, args)
 ```
 ---

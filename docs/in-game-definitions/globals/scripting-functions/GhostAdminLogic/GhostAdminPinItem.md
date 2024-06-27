@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function GhostAdminPinItem(screen, button)
+GhostAdminPinItem(screen, button)
 ```
 ---

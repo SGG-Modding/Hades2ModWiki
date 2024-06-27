@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function CauldronSceneSetup(focusId, reagentCount)
+CauldronSceneSetup(focusId, reagentCount)
 ```
 ---

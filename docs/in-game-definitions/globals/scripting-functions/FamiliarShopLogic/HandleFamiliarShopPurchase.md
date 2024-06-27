@@ -6,6 +6,6 @@ Function name in FamiliarShopLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleFamiliarShopPurchase(screen, button)
+HandleFamiliarShopPurchase(screen, button)
 ```
 ---

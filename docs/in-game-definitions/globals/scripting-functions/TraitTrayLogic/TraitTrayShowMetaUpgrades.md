@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayShowMetaUpgrades(screen, activeCategory, args)
+TraitTrayShowMetaUpgrades(screen, activeCategory, args)
 ```
 ---

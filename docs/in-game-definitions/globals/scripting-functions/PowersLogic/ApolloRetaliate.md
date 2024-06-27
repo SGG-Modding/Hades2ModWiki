@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ApolloRetaliate(unit, args)
+ApolloRetaliate(unit, args)
 ```
 ---

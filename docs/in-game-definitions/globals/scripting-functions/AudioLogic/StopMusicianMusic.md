@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `none`
 ## Usage
 ```lua
-function StopMusicianMusic(source, args)
+StopMusicianMusic(source, args)
 ```
 ---

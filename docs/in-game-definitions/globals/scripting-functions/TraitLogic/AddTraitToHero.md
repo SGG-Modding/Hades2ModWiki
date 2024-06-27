@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `newTrait`
 ## Usage
 ```lua
-function AddTraitToHero(args)
+AddTraitToHero(args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ChargeSkullImpulse(victim, args, triggerArgs)
+ChargeSkullImpulse(victim, args, triggerArgs)
 ```
 ---

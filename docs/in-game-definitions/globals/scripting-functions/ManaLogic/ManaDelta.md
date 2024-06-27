@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `none`
 ## Usage
 ```lua
-function ManaDelta(delta, args)
+ManaDelta(delta, args)
 ```
 ---

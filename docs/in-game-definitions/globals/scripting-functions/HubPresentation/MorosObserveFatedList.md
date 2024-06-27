@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function MorosObserveFatedList(source, args, node)
+MorosObserveFatedList(source, args, node)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `encounter`
 ## Usage
 ```lua
-function SetupEncounter(encounterData, room)
+SetupEncounter(encounterData, room)
 ```
 ---

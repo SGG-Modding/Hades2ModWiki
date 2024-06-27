@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function RecordObjectState(room, id, property, value)
+RecordObjectState(room, id, property, value)
 ```
 ---

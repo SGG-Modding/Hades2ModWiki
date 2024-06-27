@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleTimedSpawns(eventSource, args)
+HandleTimedSpawns(eventSource, args)
 ```
 ---

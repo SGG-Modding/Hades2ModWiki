@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsTextLineEligible(currentRun, source, line, prevLine, parentLine, args)
+IsTextLineEligible(currentRun, source, line, prevLine, parentLine, args)
 ```
 ---

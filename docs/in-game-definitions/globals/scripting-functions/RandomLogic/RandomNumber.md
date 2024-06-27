@@ -6,6 +6,6 @@ Function name in RandomLogic.lua
 `none`
 ## Usage
 ```lua
-function RandomNumber(number, rng)
+RandomNumber(number, rng)
 ```
 ---

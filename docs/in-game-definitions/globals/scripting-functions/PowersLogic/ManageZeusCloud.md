@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ManageZeusCloud(functionArgs, tempObstacleId, projectileId)
+ManageZeusCloud(functionArgs, tempObstacleId, projectileId)
 ```
 ---

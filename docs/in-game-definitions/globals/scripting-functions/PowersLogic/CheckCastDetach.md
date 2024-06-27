@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckCastDetach(weaponData, args, triggerArgs)
+CheckCastDetach(weaponData, args, triggerArgs)
 ```
 ---

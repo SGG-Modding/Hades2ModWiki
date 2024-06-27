@@ -6,6 +6,6 @@ Function name in WeaponUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function EquipWeaponUpgrade(hero, args)
+EquipWeaponUpgrade(hero, args)
 ```
 ---

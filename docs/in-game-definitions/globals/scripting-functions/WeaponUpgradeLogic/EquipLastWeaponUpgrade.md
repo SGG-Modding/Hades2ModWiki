@@ -6,6 +6,6 @@ Function name in WeaponUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function EquipLastWeaponUpgrade(eventSource, args)
+EquipLastWeaponUpgrade(eventSource, args)
 ```
 ---

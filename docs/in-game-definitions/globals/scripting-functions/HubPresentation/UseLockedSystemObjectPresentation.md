@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function UseLockedSystemObjectPresentation(usee, args)
+UseLockedSystemObjectPresentation(usee, args)
 ```
 ---

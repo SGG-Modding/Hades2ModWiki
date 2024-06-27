@@ -6,6 +6,6 @@ Function name in EncounterPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function IcarusPreSpawnPresentation(icarus, eventSource, args)
+IcarusPreSpawnPresentation(icarus, eventSource, args)
 ```
 ---

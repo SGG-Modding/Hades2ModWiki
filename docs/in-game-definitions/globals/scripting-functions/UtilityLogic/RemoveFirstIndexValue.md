@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `returnValue`
 ## Usage
 ```lua
-function RemoveFirstIndexValue(tableArg)
+RemoveFirstIndexValue(tableArg)
 ```
 ---

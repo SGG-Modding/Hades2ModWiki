@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function waitUntil(event, tag, persist)
+waitUntil(event, tag, persist)
 ```
 ---

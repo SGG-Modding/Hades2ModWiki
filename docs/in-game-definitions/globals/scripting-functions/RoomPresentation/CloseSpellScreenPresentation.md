@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function CloseSpellScreenPresentation(screen, button)
+CloseSpellScreenPresentation(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `key`
 ## Usage
 ```lua
-function RemoveRandomKey(tableArg, rng)
+RemoveRandomKey(tableArg, rng)
 ```
 ---

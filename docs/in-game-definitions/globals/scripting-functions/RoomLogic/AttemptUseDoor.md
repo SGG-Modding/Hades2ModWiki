@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function AttemptUseDoor(door, args)
+AttemptUseDoor(door, args)
 ```
 ---

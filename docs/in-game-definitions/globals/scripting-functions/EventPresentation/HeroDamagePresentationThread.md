@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function HeroDamagePresentationThread(args, sourceSimData)
+HeroDamagePresentationThread(args, sourceSimData)
 ```
 ---

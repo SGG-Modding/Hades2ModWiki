@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function RemoveInteractBlock(object, flag)
+RemoveInteractBlock(object, flag)
 ```
 ---

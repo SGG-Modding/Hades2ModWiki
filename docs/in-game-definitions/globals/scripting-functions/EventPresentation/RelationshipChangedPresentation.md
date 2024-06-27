@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function RelationshipChangedPresentation(entryName, sourceIds, finalGiftLevel)
+RelationshipChangedPresentation(entryName, sourceIds, finalGiftLevel)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `nil`, `ratio`
 ## Usage
 ```lua
-function CalcMetaProgressRatio(run)
+CalcMetaProgressRatio(run)
 ```
 ---

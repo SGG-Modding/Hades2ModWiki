@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `critChance`
 ## Usage
 ```lua
-function CalculateCritChance(attacker, victim, weaponData, triggerArgs)
+CalculateCritChance(attacker, victim, weaponData, triggerArgs)
 ```
 ---

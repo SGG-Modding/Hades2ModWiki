@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function StartDevotionTestPresentation(currentRoom, alternateLootData, alternateLootId)
+StartDevotionTestPresentation(currentRoom, alternateLootData, alternateLootId)
 ```
 ---

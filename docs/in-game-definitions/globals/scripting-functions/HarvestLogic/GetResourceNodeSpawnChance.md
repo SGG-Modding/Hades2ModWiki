@@ -6,6 +6,6 @@ Function name in HarvestLogic.lua
 `0`
 ## Usage
 ```lua
-function GetResourceNodeSpawnChance(resourceData, roomChance, bonusTraitName)
+GetResourceNodeSpawnChance(resourceData, roomChance, bonusTraitName)
 ```
 ---

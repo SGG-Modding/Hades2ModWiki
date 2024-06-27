@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `bool`
 ## Usage
 ```lua
-function PlayRandomRemainingTextLines(source, textLineSets)
+PlayRandomRemainingTextLines(source, textLineSets)
 ```
 ---

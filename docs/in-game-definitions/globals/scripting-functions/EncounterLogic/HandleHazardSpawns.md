@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleHazardSpawns(currentRoom, currentEncounter)
+HandleHazardSpawns(currentRoom, currentEncounter)
 ```
 ---

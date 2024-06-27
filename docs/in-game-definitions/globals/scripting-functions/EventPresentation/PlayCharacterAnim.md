@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function PlayCharacterAnim(source, args)
+PlayCharacterAnim(source, args)
 ```
 ---

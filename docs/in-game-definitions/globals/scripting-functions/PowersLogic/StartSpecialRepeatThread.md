@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function StartSpecialRepeatThread(startX, startY, angle, functionArgs, triggerArgs)
+StartSpecialRepeatThread(startX, startY, angle, functionArgs, triggerArgs)
 ```
 ---

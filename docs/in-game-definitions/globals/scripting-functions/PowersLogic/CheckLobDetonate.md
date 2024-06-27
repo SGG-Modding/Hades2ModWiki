@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckLobDetonate(victim, args, triggerArgs)
+CheckLobDetonate(victim, args, triggerArgs)
 ```
 ---

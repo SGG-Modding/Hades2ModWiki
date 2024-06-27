@@ -6,6 +6,6 @@ Function name in RunHistoryLogic.lua
 `none`
 ## Usage
 ```lua
-function UseRunHistoryScreenObject(usee, args)
+UseRunHistoryScreenObject(usee, args)
 ```
 ---

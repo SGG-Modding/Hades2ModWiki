@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function GetRewardsOffered(room, rewardsOfferedTotals, sep)
+GetRewardsOffered(room, rewardsOfferedTotals, sep)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckCancelSpawns(room, encounter)
+CheckCancelSpawns(room, encounter)
 ```
 ---

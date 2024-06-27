@@ -6,6 +6,6 @@ Function name in AssistLogic.lua
 `bool`
 ## Usage
 ```lua
-function CanFireAssist()
+CanFireAssist()
 ```
 ---

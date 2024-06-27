@@ -6,6 +6,6 @@ Function name in RoomPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function RoomEntranceBossShips(currentRun, currentRoom, args)
+RoomEntranceBossShips(currentRun, currentRoom, args)
 ```
 ---

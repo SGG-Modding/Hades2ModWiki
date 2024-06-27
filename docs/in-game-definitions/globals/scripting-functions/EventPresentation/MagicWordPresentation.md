@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function MagicWordPresentation(source, args, screen, line)
+MagicWordPresentation(source, args, screen, line)
 ```
 ---

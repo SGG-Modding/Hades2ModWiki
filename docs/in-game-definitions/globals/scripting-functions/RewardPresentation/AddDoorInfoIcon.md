@@ -6,6 +6,6 @@ Function name in RewardPresentation.lua
 `none`
 ## Usage
 ```lua
-function AddDoorInfoIcon(args)
+AddDoorInfoIcon(args)
 ```
 ---

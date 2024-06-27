@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `chargeStages`
 ## Usage
 ```lua
-function GetWeaponChargeStages(weaponData)
+GetWeaponChargeStages(weaponData)
 ```
 ---

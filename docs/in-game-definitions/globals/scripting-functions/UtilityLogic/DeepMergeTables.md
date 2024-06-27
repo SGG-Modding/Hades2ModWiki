@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `returnTable`
 ## Usage
 ```lua
-function DeepMergeTables(baseTable, incomingTable)
+DeepMergeTables(baseTable, incomingTable)
 ```
 ---

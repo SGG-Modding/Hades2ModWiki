@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function StartLobSturdy(weaponData, args, triggerArgs)
+StartLobSturdy(weaponData, args, triggerArgs)
 ```
 ---

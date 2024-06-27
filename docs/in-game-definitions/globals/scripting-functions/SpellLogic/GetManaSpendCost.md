@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `manaCost`
 ## Usage
 ```lua
-function GetManaSpendCost(weaponData)
+GetManaSpendCost(weaponData)
 ```
 ---

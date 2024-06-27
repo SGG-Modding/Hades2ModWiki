@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function ViewPortraitPresentation(eventSource, args)
+ViewPortraitPresentation(eventSource, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function InteractBlockedByEnemiesPresentation(usee, args, user)
+InteractBlockedByEnemiesPresentation(usee, args, user)
 ```
 ---

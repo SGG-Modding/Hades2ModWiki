@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function PoseidonSprintSpend(victim, functionArgs, triggerArgs)
+PoseidonSprintSpend(victim, functionArgs, triggerArgs)
 ```
 ---

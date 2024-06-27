@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function EchoIncreaseStats(args, traitData)
+EchoIncreaseStats(args, traitData)
 ```
 ---

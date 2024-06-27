@@ -6,6 +6,6 @@ Function name in BiomeStateLogic.lua
 `none`
 ## Usage
 ```lua
-function EndAllBiomeStates()
+EndAllBiomeStates()
 ```
 ---

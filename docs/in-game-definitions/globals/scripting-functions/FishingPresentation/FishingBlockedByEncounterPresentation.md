@@ -6,6 +6,6 @@ Function name in FishingPresentation.lua
 `none`
 ## Usage
 ```lua
-function FishingBlockedByEncounterPresentation(fishingPoint, args, user)
+FishingBlockedByEncounterPresentation(fishingPoint, args, user)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CosmeticsLogic.lua
 `none`
 ## Usage
 ```lua
-function ActivateConditionalItem(itemData, args)
+ActivateConditionalItem(itemData, args)
 ```
 ---

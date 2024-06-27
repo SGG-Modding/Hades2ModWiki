@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `healthThreshold`
 ## Usage
 ```lua
-function GetLowHealthUIThreshold(maxHealth)
+GetLowHealthUIThreshold(maxHealth)
 ```
 ---

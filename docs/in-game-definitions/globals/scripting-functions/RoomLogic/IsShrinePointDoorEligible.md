@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsShrinePointDoorEligible(currentRun, currentRoom)
+IsShrinePointDoorEligible(currentRun, currentRoom)
 ```
 ---

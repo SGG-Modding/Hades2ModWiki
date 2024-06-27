@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckZeusManaBolt(unit, functionArgs)
+CheckZeusManaBolt(unit, functionArgs)
 ```
 ---

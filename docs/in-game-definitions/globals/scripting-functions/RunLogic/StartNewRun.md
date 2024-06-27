@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `CurrentRun`
 ## Usage
 ```lua
-function StartNewRun(prevRun, args)
+StartNewRun(prevRun, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleArtemisSpawn(eventSource, args)
+HandleArtemisSpawn(eventSource, args)
 ```
 ---

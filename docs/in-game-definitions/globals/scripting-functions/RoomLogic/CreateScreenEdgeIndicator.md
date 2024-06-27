@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateScreenEdgeIndicator(source, args)
+CreateScreenEdgeIndicator(source, args)
 ```
 ---

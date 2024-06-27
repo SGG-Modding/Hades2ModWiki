@@ -6,6 +6,6 @@ Function name in AudioPresentation.lua
 `none`
 ## Usage
 ```lua
-function StartHeraclesEncounterMusic()
+StartHeraclesEncounterMusic()
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GardenPresentation.lua
 `none`
 ## Usage
 ```lua
-function GardenPlotTimeUpdatePresentation(plot, args)
+GardenPlotTimeUpdatePresentation(plot, args)
 ```
 ---

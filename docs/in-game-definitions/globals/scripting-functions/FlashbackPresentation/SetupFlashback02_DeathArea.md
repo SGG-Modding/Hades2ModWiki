@@ -6,6 +6,6 @@ Function name in FlashbackPresentation.lua
 `none`
 ## Usage
 ```lua
-function SetupFlashback02_DeathArea(source, args)
+SetupFlashback02_DeathArea(source, args)
 ```
 ---

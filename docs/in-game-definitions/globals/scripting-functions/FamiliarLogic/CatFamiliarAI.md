@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function CatFamiliarAI(familiar, args)
+CatFamiliarAI(familiar, args)
 ```
 ---

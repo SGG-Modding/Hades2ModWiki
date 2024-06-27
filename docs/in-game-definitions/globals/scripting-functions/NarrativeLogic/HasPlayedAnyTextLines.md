@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasPlayedAnyTextLines(run, textLineSets)
+HasPlayedAnyTextLines(run, textLineSets)
 ```
 ---

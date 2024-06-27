@@ -6,6 +6,6 @@ Function name in MetaUpgrades.lua
 `0`
 ## Usage
 ```lua
-function GetNulledMetaUpgradeCount()
+GetNulledMetaUpgradeCount()
 ```
 ---

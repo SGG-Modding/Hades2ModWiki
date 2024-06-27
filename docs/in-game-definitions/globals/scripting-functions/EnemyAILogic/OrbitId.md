@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function OrbitId(destinationId, projectileOwnerId, duration, orbitSpeed)
+OrbitId(destinationId, projectileOwnerId, duration, orbitSpeed)
 ```
 ---

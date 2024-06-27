@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function PreActivateCriticalItemPresentation(screen, button, saleData, args)
+PreActivateCriticalItemPresentation(screen, button, saleData, args)
 ```
 ---

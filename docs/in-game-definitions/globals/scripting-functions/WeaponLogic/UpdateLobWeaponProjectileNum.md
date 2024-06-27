@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateLobWeaponProjectileNum(triggerArgs, weaponData)
+UpdateLobWeaponProjectileNum(triggerArgs, weaponData)
 ```
 ---

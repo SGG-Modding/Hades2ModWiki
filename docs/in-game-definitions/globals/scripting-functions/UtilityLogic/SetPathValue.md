@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function SetPathValue(source, args)
+SetPathValue(source, args)
 ```
 ---

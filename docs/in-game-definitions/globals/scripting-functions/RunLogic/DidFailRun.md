@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function DidFailRun(run)
+DidFailRun(run)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleObstacleSpawns(encounter, spawnData)
+HandleObstacleSpawns(encounter, spawnData)
 ```
 ---

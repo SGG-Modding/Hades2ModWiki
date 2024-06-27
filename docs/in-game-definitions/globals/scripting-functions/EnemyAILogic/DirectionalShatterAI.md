@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function DirectionalShatterAI(enemy, attacker, triggerArgs)
+DirectionalShatterAI(enemy, attacker, triggerArgs)
 ```
 ---

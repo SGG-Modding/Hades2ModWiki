@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `none`
 ## Usage
 ```lua
-function GetRewardStoreData(storeName)
+GetRewardStoreData(storeName)
 ```
 ---

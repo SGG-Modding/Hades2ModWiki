@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `targetId`
 ## Usage
 ```lua
-function GetTargetId(enemy, aiData)
+GetTargetId(enemy, aiData)
 ```
 ---

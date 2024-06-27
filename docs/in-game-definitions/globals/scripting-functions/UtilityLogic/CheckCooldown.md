@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckCooldown(name, time, unmodified)
+CheckCooldown(name, time, unmodified)
 ```
 ---

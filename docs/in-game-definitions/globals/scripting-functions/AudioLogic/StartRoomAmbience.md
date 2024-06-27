@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `none`
 ## Usage
 ```lua
-function StartRoomAmbience(currentRun, currentRoom, args)
+StartRoomAmbience(currentRun, currentRoom, args)
 ```
 ---

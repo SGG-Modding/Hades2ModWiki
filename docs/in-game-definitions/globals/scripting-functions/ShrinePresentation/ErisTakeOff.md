@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function ErisTakeOff(eris)
+ErisTakeOff(eris)
 ```
 ---

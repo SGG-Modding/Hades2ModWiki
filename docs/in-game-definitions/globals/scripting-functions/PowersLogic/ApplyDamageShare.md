@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyDamageShare(victim, functionArgs, triggerArgs)
+ApplyDamageShare(victim, functionArgs, triggerArgs)
 ```
 ---

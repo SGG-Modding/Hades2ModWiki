@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function RoomEntrancePortal(currentRun, currentRoom)
+RoomEntrancePortal(currentRun, currentRoom)
 ```
 ---

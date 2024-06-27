@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function H_BossReloadCleanup(room, args)
+H_BossReloadCleanup(room, args)
 ```
 ---

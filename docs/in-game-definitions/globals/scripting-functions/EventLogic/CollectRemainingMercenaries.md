@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function CollectRemainingMercenaries(eventSource, args)
+CollectRemainingMercenaries(eventSource, args)
 ```
 ---

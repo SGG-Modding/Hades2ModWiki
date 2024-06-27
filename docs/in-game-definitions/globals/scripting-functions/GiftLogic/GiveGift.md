@@ -6,6 +6,6 @@ Function name in GiftLogic.lua
 `none`
 ## Usage
 ```lua
-function GiveGift(target, resourceName, resourceQuantity, textLines)
+GiveGift(target, resourceName, resourceQuantity, textLines)
 ```
 ---

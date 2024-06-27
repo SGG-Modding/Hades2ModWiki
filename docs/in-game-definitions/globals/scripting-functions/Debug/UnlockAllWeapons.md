@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function UnlockAllWeapons(eventSource, args)
+UnlockAllWeapons(eventSource, args)
 ```
 ---

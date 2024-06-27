@@ -6,6 +6,6 @@ Function name in FlashbackPresentation.lua
 `none`
 ## Usage
 ```lua
-function SetupFlashbackPlayerUnitHades(source, args)
+SetupFlashbackPlayerUnitHades(source, args)
 ```
 ---

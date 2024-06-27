@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function LeaveCharonFight(eventSource, args)
+LeaveCharonFight(eventSource, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function FlyTextToUI(source, args)
+FlyTextToUI(source, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RoomPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function AnomalyEndPresentation(eventSource, args)
+AnomalyEndPresentation(eventSource, args)
 ```
 ---

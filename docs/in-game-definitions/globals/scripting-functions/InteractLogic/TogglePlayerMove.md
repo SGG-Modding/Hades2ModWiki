@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function TogglePlayerMove(enabled, flag)
+TogglePlayerMove(enabled, flag)
 ```
 ---

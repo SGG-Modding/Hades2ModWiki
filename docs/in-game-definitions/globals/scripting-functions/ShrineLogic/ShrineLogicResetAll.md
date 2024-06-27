@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ShrineLogicResetAll(screen, button)
+ShrineLogicResetAll(screen, button)
 ```
 ---

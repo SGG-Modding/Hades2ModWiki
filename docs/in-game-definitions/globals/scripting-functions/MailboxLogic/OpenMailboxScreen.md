@@ -6,6 +6,6 @@ Function name in MailboxLogic.lua
 `screen`
 ## Usage
 ```lua
-function OpenMailboxScreen(args, openedFrom)
+OpenMailboxScreen(args, openedFrom)
 ```
 ---

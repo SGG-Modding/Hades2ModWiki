@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `none`
 ## Usage
 ```lua
-function ShowWeaponStats(screen)
+ShowWeaponStats(screen)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `none`
 ## Usage
 ```lua
-function AddToSpawnTable(spawnTable, newTypeName)
+AddToSpawnTable(spawnTable, newTypeName)
 ```
 ---

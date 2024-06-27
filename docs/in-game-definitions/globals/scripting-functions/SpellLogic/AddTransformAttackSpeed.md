@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function AddTransformAttackSpeed(functionArgs)
+AddTransformAttackSpeed(functionArgs)
 ```
 ---

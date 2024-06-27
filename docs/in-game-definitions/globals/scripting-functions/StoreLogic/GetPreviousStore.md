@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `nil`
 ## Usage
 ```lua
-function GetPreviousStore(args)
+GetPreviousStore(args)
 ```
 ---

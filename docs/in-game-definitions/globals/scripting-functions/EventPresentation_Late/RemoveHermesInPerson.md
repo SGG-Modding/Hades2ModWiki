@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function RemoveHermesInPerson(source, args)
+RemoveHermesInPerson(source, args)
 ```
 ---

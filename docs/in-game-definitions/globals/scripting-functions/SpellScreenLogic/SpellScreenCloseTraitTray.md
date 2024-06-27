@@ -6,6 +6,6 @@ Function name in SpellScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function SpellScreenCloseTraitTray(screen, args)
+SpellScreenCloseTraitTray(screen, args)
 ```
 ---

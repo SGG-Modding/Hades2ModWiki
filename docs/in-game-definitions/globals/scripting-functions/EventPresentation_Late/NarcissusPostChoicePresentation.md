@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function NarcissusPostChoicePresentation(screen, args)
+NarcissusPostChoicePresentation(screen, args)
 ```
 ---

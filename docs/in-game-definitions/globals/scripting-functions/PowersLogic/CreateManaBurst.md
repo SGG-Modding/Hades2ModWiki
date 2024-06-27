@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateManaBurst(traitArgs, totalBursts)
+CreateManaBurst(traitArgs, totalBursts)
 ```
 ---

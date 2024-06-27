@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckBurnConsumptionDelay(victim, functionArgs, triggerArgs)
+CheckBurnConsumptionDelay(victim, functionArgs, triggerArgs)
 ```
 ---

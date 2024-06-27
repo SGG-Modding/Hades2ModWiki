@@ -6,6 +6,6 @@ Function name in FamiliarShopLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseFamiliarShopScreen(screen, button)
+CloseFamiliarShopScreen(screen, button)
 ```
 ---

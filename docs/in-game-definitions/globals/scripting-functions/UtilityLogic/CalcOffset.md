@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `offset`
 ## Usage
 ```lua
-function CalcOffset(angle, distance)
+CalcOffset(angle, distance)
 ```
 ---

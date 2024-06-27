@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateCodexContextualAction(screen, button)
+UpdateCodexContextualAction(screen, button)
 ```
 ---

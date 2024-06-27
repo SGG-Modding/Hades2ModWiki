@@ -6,6 +6,6 @@ Function name in TalentScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function HighlightTalentButton(button)
+HighlightTalentButton(button)
 ```
 ---

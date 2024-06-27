@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `none`
 ## Usage
 ```lua
-function GetRarityValue(rarity)
+GetRarityValue(rarity)
 ```
 ---

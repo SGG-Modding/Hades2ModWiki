@@ -6,6 +6,6 @@ Function name in FamiliarPresentation.lua
 `none`
 ## Usage
 ```lua
-function FamiliarVictoryPresentation(familiar, args)
+FamiliarVictoryPresentation(familiar, args)
 ```
 ---

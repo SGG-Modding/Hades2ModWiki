@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function ProcessHeroTraitChanges(trait, reverse)
+ProcessHeroTraitChanges(trait, reverse)
 ```
 ---

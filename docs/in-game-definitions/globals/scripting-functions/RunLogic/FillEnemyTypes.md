@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `none`
 ## Usage
 ```lua
-function FillEnemyTypes(encounter, wave, room)
+FillEnemyTypes(encounter, wave, room)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function NemesisDamageContestHitPresentation(source, args)
+NemesisDamageContestHitPresentation(source, args)
 ```
 ---

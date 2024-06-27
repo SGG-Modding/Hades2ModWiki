@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function UnlockWorldUpgrade(name)
+UnlockWorldUpgrade(name)
 ```
 ---

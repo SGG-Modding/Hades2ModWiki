@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckEggRespawn(victim, triggerArgs)
+CheckEggRespawn(victim, triggerArgs)
 ```
 ---

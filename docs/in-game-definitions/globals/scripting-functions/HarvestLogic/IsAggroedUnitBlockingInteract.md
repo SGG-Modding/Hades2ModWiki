@@ -6,6 +6,6 @@ Function name in HarvestLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsAggroedUnitBlockingInteract()
+IsAggroedUnitBlockingInteract()
 ```
 ---

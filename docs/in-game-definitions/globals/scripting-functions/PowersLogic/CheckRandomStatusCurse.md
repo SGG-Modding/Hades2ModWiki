@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckRandomStatusCurse(victim, functionArgs, triggerArgs)
+CheckRandomStatusCurse(victim, functionArgs, triggerArgs)
 ```
 ---

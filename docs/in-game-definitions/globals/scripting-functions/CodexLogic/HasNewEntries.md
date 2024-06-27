@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasNewEntries()
+HasNewEntries()
 ```
 ---

@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckShoppingEventThread(eventSource, args)
+CheckShoppingEventThread(eventSource, args)
 ```
 ---

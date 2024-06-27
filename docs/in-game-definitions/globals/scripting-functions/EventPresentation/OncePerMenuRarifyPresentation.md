@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function OncePerMenuRarifyPresentation(button, baseColor)
+OncePerMenuRarifyPresentation(button, baseColor)
 ```
 ---

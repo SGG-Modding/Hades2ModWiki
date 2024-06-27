@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `runCount`
 ## Usage
 ```lua
-function GetNumRunsWithWeapon(weaponName)
+GetNumRunsWithWeapon(weaponName)
 ```
 ---

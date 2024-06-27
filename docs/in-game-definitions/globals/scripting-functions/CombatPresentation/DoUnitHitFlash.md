@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoUnitHitFlash(victim, args)
+DoUnitHitFlash(victim, args)
 ```
 ---

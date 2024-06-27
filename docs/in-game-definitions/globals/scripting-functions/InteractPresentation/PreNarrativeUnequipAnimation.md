@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `bool`
 ## Usage
 ```lua
-function PreNarrativeUnequipAnimation()
+PreNarrativeUnequipAnimation()
 ```
 ---

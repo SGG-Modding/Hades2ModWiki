@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `createdHealingItem`
 ## Usage
 ```lua
-function CreatePolymorphHealItem(enemy)
+CreatePolymorphHealItem(enemy)
 ```
 ---

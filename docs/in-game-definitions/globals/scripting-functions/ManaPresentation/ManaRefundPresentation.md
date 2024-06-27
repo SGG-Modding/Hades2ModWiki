@@ -6,6 +6,6 @@ Function name in ManaPresentation.lua
 `none`
 ## Usage
 ```lua
-function ManaRefundPresentation(weaponData, functionArgs)
+ManaRefundPresentation(weaponData, functionArgs)
 ```
 ---

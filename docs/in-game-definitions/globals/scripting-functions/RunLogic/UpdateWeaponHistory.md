@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateWeaponHistory(currentRun)
+UpdateWeaponHistory(currentRun)
 ```
 ---

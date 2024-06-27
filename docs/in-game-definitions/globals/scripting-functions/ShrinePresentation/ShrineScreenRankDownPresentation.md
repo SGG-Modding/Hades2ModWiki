@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function ShrineScreenRankDownPresentation(screen, button)
+ShrineScreenRankDownPresentation(screen, button)
 ```
 ---

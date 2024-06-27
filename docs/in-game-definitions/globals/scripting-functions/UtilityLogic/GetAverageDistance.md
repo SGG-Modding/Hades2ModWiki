@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `average`
 ## Usage
 ```lua
-function GetAverageDistance(tableArg)
+GetAverageDistance(tableArg)
 ```
 ---

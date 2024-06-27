@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function ChronosTimeSlow(enemy, aiData, CurrentRun, args)
+ChronosTimeSlow(enemy, aiData, CurrentRun, args)
 ```
 ---

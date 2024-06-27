@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function RecordLastDamaged(attacker, args, triggerArgs)
+RecordLastDamaged(attacker, args, triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function ShrineScreenUpdateActivePoints(screen, button, args)
+ShrineScreenUpdateActivePoints(screen, button, args)
 ```
 ---

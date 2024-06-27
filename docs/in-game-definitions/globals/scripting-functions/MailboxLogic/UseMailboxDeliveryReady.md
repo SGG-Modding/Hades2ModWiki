@@ -6,6 +6,6 @@ Function name in MailboxLogic.lua
 `none`
 ## Usage
 ```lua
-function UseMailboxDeliveryReady(source, args)
+UseMailboxDeliveryReady(source, args)
 ```
 ---

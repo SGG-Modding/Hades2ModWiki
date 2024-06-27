@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function AddResources(eventSource, args)
+AddResources(eventSource, args)
 ```
 ---

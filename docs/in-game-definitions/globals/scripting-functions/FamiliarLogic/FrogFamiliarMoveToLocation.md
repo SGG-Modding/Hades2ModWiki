@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function FrogFamiliarMoveToLocation(familiar, args)
+FrogFamiliarMoveToLocation(familiar, args)
 ```
 ---

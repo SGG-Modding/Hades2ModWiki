@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsDistanceTriggerEligible(currentRun, trigger, requirements)
+IsDistanceTriggerEligible(currentRun, trigger, requirements)
 ```
 ---

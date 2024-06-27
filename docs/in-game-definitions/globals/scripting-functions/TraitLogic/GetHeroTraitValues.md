@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `output`
 ## Usage
 ```lua
-function GetHeroTraitValues(propertyName, args)
+GetHeroTraitValues(propertyName, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `0`, `duration`
 ## Usage
 ```lua
-function CalcEnemyWait(enemy, duration, args)
+CalcEnemyWait(enemy, duration, args)
 ```
 ---

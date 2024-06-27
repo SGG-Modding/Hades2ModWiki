@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function SetTraitsOnLoot(lootData, args)
+SetTraitsOnLoot(lootData, args)
 ```
 ---

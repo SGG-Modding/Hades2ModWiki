@@ -6,6 +6,6 @@ Function name in RequirementsLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsGameStateEligible(currentRun, source, requirements, args)
+IsGameStateEligible(currentRun, source, requirements, args)
 ```
 ---

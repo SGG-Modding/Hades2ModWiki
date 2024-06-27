@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDamageShareJump(victim, functionArgs, triggerArgs)
+CheckDamageShareJump(victim, functionArgs, triggerArgs)
 ```
 ---

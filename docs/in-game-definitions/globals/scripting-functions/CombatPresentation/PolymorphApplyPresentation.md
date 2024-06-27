@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function PolymorphApplyPresentation(triggerArgs, args)
+PolymorphApplyPresentation(triggerArgs, args)
 ```
 ---

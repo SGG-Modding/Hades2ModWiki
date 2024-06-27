@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function GetRandomKey(tableArg, rng)
+GetRandomKey(tableArg, rng)
 ```
 ---

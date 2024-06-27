@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function waitUnmodified(duration, tag, persist)
+waitUnmodified(duration, tag, persist)
 ```
 ---

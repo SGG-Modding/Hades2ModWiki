@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function HeavyArmorSetup(unit, args)
+HeavyArmorSetup(unit, args)
 ```
 ---

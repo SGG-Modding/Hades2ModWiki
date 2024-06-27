@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `screen`
 ## Usage
 ```lua
-function OpenTraitTrayScreen(args)
+OpenTraitTrayScreen(args)
 ```
 ---

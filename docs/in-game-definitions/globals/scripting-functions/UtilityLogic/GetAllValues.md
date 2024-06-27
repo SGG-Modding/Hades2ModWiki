@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `values`
 ## Usage
 ```lua
-function GetAllValues(tableToGather)
+GetAllValues(tableToGather)
 ```
 ---

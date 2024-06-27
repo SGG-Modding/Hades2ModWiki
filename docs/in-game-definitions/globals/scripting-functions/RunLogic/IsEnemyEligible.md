@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsEnemyEligible(enemyName, encounter, wave)
+IsEnemyEligible(enemyName, encounter, wave)
 ```
 ---

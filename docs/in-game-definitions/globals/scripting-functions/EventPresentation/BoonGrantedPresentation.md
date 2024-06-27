@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function BoonGrantedPresentation(traitNamesImproved, delay)
+BoonGrantedPresentation(traitNamesImproved, delay)
 ```
 ---

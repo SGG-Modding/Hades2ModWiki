@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function DumbFireAttack(enemy, weaponData)
+DumbFireAttack(enemy, weaponData)
 ```
 ---

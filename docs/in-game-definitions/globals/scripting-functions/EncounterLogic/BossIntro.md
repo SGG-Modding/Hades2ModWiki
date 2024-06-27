@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function BossIntro(eventSource, args)
+BossIntro(eventSource, args)
 ```
 ---

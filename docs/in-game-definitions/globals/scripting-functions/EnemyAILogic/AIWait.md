@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function AIWait(duration, enemy, threadName, args)
+AIWait(duration, enemy, threadName, args)
 ```
 ---

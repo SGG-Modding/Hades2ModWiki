@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `0`, `remainingSpawns`
 ## Usage
 ```lua
-function GetRemainingSpawns(currentRun, currentRoom, currentEncounter)
+GetRemainingSpawns(currentRun, currentRoom, currentEncounter)
 ```
 ---

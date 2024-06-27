@@ -6,6 +6,6 @@ Function name in WeaponUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function GetWeaponKitAnimation(weaponName, type)
+GetWeaponKitAnimation(weaponName, type)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyErisCurse(source, args)
+ApplyErisCurse(source, args)
 ```
 ---

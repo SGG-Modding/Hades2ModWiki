@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `startingRoom`
 ## Usage
 ```lua
-function ChooseStartingRoom(currentRun, args)
+ChooseStartingRoom(currentRun, args)
 ```
 ---

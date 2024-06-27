@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function AggroSpawns(victim, attacker, triggerArgs)
+AggroSpawns(victim, attacker, triggerArgs)
 ```
 ---

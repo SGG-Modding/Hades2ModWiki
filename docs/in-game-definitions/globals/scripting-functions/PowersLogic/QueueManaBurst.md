@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function QueueManaBurst(triggerArgs, traitArgs)
+QueueManaBurst(triggerArgs, traitArgs)
 ```
 ---

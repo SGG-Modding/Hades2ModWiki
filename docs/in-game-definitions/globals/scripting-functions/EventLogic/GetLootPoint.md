@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function GetLootPoint(lootPointIds, lastLootPointId)
+GetLootPoint(lootPointIds, lastLootPointId)
 ```
 ---

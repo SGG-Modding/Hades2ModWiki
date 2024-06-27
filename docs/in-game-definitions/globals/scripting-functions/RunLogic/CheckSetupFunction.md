@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckSetupFunction(object, functionName)
+CheckSetupFunction(object, functionName)
 ```
 ---

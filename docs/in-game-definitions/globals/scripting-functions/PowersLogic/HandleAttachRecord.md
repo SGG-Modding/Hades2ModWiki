@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleAttachRecord(weaponData, functionArgs, triggerArgs)
+HandleAttachRecord(weaponData, functionArgs, triggerArgs)
 ```
 ---

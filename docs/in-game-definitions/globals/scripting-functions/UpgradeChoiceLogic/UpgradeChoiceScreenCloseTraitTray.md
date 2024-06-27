@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `none`
 ## Usage
 ```lua
-function UpgradeChoiceScreenCloseTraitTray(screen, args)
+UpgradeChoiceScreenCloseTraitTray(screen, args)
 ```
 ---

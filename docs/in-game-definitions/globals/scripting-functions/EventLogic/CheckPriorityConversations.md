@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckPriorityConversations(eventSource, args)
+CheckPriorityConversations(eventSource, args)
 ```
 ---

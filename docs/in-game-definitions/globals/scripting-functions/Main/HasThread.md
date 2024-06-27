@@ -6,6 +6,6 @@ Function name in Main.lua
 `bool`
 ## Usage
 ```lua
-function HasThread(tag)
+HasThread(tag)
 ```
 ---

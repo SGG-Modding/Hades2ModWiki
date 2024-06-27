@@ -6,6 +6,6 @@ Function name in BoonInfoLogic.lua
 `none`
 ## Usage
 ```lua
-function BoonInfoScreenUpdateTooltipToggle(screen, button)
+BoonInfoScreenUpdateTooltipToggle(screen, button)
 ```
 ---

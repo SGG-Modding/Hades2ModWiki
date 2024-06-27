@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `zoomLevel`
 ## Usage
 ```lua
-function GetZoomLevel()
+GetZoomLevel()
 ```
 ---

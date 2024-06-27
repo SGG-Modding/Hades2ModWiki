@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function DoMetaUpgradePatches()
+DoMetaUpgradePatches()
 ```
 ---

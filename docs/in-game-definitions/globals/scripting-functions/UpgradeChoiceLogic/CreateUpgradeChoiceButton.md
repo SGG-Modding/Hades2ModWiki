@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateUpgradeChoiceButton(screen, lootData, itemIndex, itemData)
+CreateUpgradeChoiceButton(screen, lootData, itemIndex, itemData)
 ```
 ---

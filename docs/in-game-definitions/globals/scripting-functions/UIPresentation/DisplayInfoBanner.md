@@ -6,6 +6,6 @@ Function name in UIPresentation.lua
 `none`
 ## Usage
 ```lua
-function DisplayInfoBanner(source, args)
+DisplayInfoBanner(source, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleChronosPreSpawns(room, args)
+HandleChronosPreSpawns(room, args)
 ```
 ---

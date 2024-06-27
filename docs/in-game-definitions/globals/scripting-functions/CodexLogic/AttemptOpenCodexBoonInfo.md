@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function AttemptOpenCodexBoonInfo(codexScreen, button)
+AttemptOpenCodexBoonInfo(codexScreen, button)
 ```
 ---

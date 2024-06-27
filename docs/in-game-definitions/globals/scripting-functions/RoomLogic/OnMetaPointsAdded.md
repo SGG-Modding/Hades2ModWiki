@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function OnMetaPointsAdded(name, amount, source, args)
+OnMetaPointsAdded(name, amount, source, args)
 ```
 ---

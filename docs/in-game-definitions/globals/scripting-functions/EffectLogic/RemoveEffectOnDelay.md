@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function RemoveEffectOnDelay(id, delay, effectName)
+RemoveEffectOnDelay(id, delay, effectName)
 ```
 ---

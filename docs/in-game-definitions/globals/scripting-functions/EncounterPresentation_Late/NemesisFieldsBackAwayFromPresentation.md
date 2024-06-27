@@ -6,6 +6,6 @@ Function name in EncounterPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function NemesisFieldsBackAwayFromPresentation(nemesis, args)
+NemesisFieldsBackAwayFromPresentation(nemesis, args)
 ```
 ---

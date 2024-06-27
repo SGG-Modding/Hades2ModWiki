@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function PlayerBlockDeathVoicelines(args)
+PlayerBlockDeathVoicelines(args)
 ```
 ---

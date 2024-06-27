@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupAI(enemy, args)
+SetupAI(enemy, args)
 ```
 ---

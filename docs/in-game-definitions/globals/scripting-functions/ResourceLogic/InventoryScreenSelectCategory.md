@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function InventoryScreenSelectCategory(screen, button)
+InventoryScreenSelectCategory(screen, button)
 ```
 ---

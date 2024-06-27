@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `0`
 ## Usage
 ```lua
-function GetNumMetaUpgrades(upgradeName, args)
+GetNumMetaUpgrades(upgradeName, args)
 ```
 ---

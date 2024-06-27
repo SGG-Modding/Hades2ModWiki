@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckIcarusExplosion(victim, functionArgs, triggerArgs)
+CheckIcarusExplosion(victim, functionArgs, triggerArgs)
 ```
 ---

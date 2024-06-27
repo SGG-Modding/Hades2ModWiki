@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function RaiseKilledEnemy(enemy, args)
+RaiseKilledEnemy(enemy, args)
 ```
 ---

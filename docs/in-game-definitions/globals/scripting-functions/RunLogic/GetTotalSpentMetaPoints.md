@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `total`
 ## Usage
 ```lua
-function GetTotalSpentMetaPoints()
+GetTotalSpentMetaPoints()
 ```
 ---

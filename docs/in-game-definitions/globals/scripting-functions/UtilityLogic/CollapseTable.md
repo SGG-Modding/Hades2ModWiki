@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `collapsedTable`
 ## Usage
 ```lua
-function CollapseTable(tableArg)
+CollapseTable(tableArg)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function SelectFieldsDoorCageCount(run, room)
+SelectFieldsDoorCageCount(run, room)
 ```
 ---

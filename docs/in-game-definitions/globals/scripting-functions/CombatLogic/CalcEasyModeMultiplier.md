@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `0`, `easyModeMultiplier`
 ## Usage
 ```lua
-function CalcEasyModeMultiplier(level)
+CalcEasyModeMultiplier(level)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in AchievementLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckProgressAchievements(args)
+CheckProgressAchievements(args)
 ```
 ---

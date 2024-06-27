@@ -6,6 +6,6 @@ Function name in BountyLogic.lua
 `none`
 ## Usage
 ```lua
-function UseBountyBoard(usee, args)
+UseBountyBoard(usee, args)
 ```
 ---

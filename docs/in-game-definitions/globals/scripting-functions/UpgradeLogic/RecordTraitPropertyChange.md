@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function RecordTraitPropertyChange(traitName, propertyChange, weaponName)
+RecordTraitPropertyChange(traitName, propertyChange, weaponName)
 ```
 ---

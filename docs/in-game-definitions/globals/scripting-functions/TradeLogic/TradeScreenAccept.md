@@ -6,6 +6,6 @@ Function name in TradeLogic.lua
 `none`
 ## Usage
 ```lua
-function TradeScreenAccept(screen, button)
+TradeScreenAccept(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function EquipDumbFireWeapons(newEnemy, upgradeData)
+EquipDumbFireWeapons(newEnemy, upgradeData)
 ```
 ---

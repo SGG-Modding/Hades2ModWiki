@@ -6,6 +6,6 @@ Function name in AudioPresentation.lua
 `none`
 ## Usage
 ```lua
-function RandomStemMixer(currentRoom, musicId)
+RandomStemMixer(currentRoom, musicId)
 ```
 ---

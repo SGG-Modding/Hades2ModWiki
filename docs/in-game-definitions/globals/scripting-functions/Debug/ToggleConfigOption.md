@@ -6,6 +6,6 @@ Function name in Debug.lua
 `newValue`
 ## Usage
 ```lua
-function ToggleConfigOption(name)
+ToggleConfigOption(name)
 ```
 ---

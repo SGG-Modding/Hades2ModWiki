@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function StartSpellSlow(unit, weaponData, args, triggerArgs)
+StartSpellSlow(unit, weaponData, args, triggerArgs)
 ```
 ---

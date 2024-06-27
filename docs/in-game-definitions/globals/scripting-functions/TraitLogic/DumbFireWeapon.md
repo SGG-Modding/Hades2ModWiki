@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function DumbFireWeapon(source, traitName, args)
+DumbFireWeapon(source, traitName, args)
 ```
 ---

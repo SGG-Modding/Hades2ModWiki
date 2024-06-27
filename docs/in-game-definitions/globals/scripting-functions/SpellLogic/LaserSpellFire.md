@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function LaserSpellFire(unit, weaponData)
+LaserSpellFire(unit, weaponData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `keys`
 ## Usage
 ```lua
-function GetAllKeys(tableToGather)
+GetAllKeys(tableToGather)
 ```
 ---

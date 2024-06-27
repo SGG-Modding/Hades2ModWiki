@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function CauldronIncantationPresentation(screen, button, saleData, args, focusId)
+CauldronIncantationPresentation(screen, button, saleData, args, focusId)
 ```
 ---

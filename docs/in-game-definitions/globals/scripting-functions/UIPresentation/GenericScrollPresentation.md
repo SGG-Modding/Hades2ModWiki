@@ -6,6 +6,6 @@ Function name in UIPresentation.lua
 `none`
 ## Usage
 ```lua
-function GenericScrollPresentation(screen, button)
+GenericScrollPresentation(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ApolloPerfectDash(traitArgs, triggerArgs)
+ApolloPerfectDash(traitArgs, triggerArgs)
 ```
 ---

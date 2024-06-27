@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `none`
 ## Usage
 ```lua
-function HideHealthUI(args)
+HideHealthUI(args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in TradePresentation.lua
 `none`
 ## Usage
 ```lua
-function NemesisTakeDamagePostCostPresentation(screen, args)
+NemesisTakeDamagePostCostPresentation(screen, args)
 ```
 ---

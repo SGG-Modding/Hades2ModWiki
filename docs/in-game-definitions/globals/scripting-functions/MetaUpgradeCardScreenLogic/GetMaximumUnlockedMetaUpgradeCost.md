@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `totalCost`
 ## Usage
 ```lua
-function GetMaximumUnlockedMetaUpgradeCost()
+GetMaximumUnlockedMetaUpgradeCost()
 ```
 ---

@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function ResourceSpendPresentation(resourceName, delta, args)
+ResourceSpendPresentation(resourceName, delta, args)
 ```
 ---

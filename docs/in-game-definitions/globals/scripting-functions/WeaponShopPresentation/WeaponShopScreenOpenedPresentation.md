@@ -6,6 +6,6 @@ Function name in WeaponShopPresentation.lua
 `none`
 ## Usage
 ```lua
-function WeaponShopScreenOpenedPresentation(screen, args)
+WeaponShopScreenOpenedPresentation(screen, args)
 ```
 ---

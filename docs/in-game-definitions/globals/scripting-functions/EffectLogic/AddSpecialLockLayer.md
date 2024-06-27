@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function AddSpecialLockLayer(weaponName, tag)
+AddSpecialLockLayer(weaponName, tag)
 ```
 ---

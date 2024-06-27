@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckArmImput(weaponData, functionArgs, triggerArgs)
+CheckArmImput(weaponData, functionArgs, triggerArgs)
 ```
 ---

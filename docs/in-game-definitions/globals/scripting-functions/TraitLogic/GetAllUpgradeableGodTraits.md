@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `traitNames`
 ## Usage
 ```lua
-function GetAllUpgradeableGodTraits(stackNum)
+GetAllUpgradeableGodTraits(stackNum)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function AssignFamiliarKits(eventSource, args)
+AssignFamiliarKits(eventSource, args)
 ```
 ---

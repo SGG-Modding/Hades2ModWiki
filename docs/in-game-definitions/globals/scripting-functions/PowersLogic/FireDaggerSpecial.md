@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function FireDaggerSpecial(weaponData, traitArgs, triggerArgs)
+FireDaggerSpecial(weaponData, traitArgs, triggerArgs)
 ```
 ---

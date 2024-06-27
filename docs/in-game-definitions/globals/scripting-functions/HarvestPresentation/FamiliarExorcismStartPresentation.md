@@ -6,6 +6,6 @@ Function name in HarvestPresentation.lua
 `none`
 ## Usage
 ```lua
-function FamiliarExorcismStartPresentation(source, args, user)
+FamiliarExorcismStartPresentation(source, args, user)
 ```
 ---

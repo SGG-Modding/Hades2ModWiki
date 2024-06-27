@@ -6,6 +6,6 @@ Function name in EncounterPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoHadesSpeakingPresentation(eventSource, args)
+DoHadesSpeakingPresentation(eventSource, args)
 ```
 ---

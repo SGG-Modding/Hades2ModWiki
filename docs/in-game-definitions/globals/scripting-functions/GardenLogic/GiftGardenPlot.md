@@ -6,6 +6,6 @@ Function name in GardenLogic.lua
 `none`
 ## Usage
 ```lua
-function GiftGardenPlot(target, args, giftName)
+GiftGardenPlot(target, args, giftName)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CosmeticsLogic.lua
 `none`
 ## Usage
 ```lua
-function UseCosmeticsShop(usee, args)
+UseCosmeticsShop(usee, args)
 ```
 ---

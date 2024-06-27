@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `none`
 ## Usage
 ```lua
-function OnPartnerConversationSet(unit, partnerUnit)
+OnPartnerConversationSet(unit, partnerUnit)
 ```
 ---

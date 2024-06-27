@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function AddMaxHealth(healthGained, source, args)
+AddMaxHealth(healthGained, source, args)
 ```
 ---

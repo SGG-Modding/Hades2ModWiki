@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckCountInWindow(name, window, threshold)
+CheckCountInWindow(name, window, threshold)
 ```
 ---

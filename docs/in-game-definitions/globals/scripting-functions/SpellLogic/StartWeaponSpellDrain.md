@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function StartWeaponSpellDrain(triggerArgs, weaponData, args)
+StartWeaponSpellDrain(triggerArgs, weaponData, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitReserveMana(hero, args)
+TraitReserveMana(hero, args)
 ```
 ---

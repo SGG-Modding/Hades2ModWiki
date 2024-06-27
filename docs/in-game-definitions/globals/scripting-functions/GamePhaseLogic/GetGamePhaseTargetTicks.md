@@ -6,6 +6,6 @@ Function name in GamePhaseLogic.lua
 `none`
 ## Usage
 ```lua
-function GetGamePhaseTargetTicks()
+GetGamePhaseTargetTicks()
 ```
 ---

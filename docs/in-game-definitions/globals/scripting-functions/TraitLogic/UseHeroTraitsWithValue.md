@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function UseHeroTraitsWithValue(propertyName, useFirst)
+UseHeroTraitsWithValue(propertyName, useFirst)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseGameStatsScreen(screen, button)
+CloseGameStatsScreen(screen, button)
 ```
 ---

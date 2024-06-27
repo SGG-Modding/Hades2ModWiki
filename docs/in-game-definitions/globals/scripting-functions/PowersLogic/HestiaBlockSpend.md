@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function HestiaBlockSpend(victim, args, triggerArgs)
+HestiaBlockSpend(victim, args, triggerArgs)
 ```
 ---

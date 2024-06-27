@@ -6,6 +6,6 @@ Function name in TalentScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function RecreateTalentTree(screen, button)
+RecreateTalentTree(screen, button)
 ```
 ---

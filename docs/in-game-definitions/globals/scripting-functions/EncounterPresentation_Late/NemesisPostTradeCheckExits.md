@@ -6,6 +6,6 @@ Function name in EncounterPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function NemesisPostTradeCheckExits(nemesis, args)
+NemesisPostTradeCheckExits(nemesis, args)
 ```
 ---

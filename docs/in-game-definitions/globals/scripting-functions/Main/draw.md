@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function draw(time, unmodifiedTime)
+draw(time, unmodifiedTime)
 ```
 ---

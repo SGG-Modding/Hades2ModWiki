@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckLinkDeath(unit, args)
+CheckLinkDeath(unit, args)
 ```
 ---

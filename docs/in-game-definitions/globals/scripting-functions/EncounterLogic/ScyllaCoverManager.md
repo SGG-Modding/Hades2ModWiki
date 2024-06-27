@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function ScyllaCoverManager(encounter, args)
+ScyllaCoverManager(encounter, args)
 ```
 ---

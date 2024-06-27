@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `allyIds`
 ## Usage
 ```lua
-function GetAllAllyIds(unit)
+GetAllAllyIds(unit)
 ```
 ---

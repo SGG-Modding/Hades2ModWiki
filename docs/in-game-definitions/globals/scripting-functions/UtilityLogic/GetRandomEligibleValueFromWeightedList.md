@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function GetRandomEligibleValueFromWeightedList(tableArg, rng)
+GetRandomEligibleValueFromWeightedList(tableArg, rng)
 ```
 ---

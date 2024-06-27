@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function ReenableLaserCharge(triggerArgs, functionArgs)
+ReenableLaserCharge(triggerArgs, functionArgs)
 ```
 ---

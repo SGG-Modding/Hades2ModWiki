@@ -6,6 +6,6 @@ Function name in Main.lua
 `foundThread`
 ## Usage
 ```lua
-function SetThreadWait(tag, duration)
+SetThreadWait(tag, duration)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayScreenSetupTabs(screen, data)
+TraitTrayScreenSetupTabs(screen, data)
 ```
 ---

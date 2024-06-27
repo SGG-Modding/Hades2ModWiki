@@ -6,6 +6,6 @@ Function name in RandomLogic.lua
 `randomInt`
 ## Usage
 ```lua
-function RandomInt(low, high, rng)
+RandomInt(low, high, rng)
 ```
 ---

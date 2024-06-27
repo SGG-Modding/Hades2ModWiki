@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `bool`
 ## Usage
 ```lua
-function MetaUpgradeCardEquipped(metaUpgradeName)
+MetaUpgradeCardEquipped(metaUpgradeName)
 ```
 ---

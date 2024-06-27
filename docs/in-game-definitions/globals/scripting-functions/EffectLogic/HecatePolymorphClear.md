@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function HecatePolymorphClear(triggerArgs)
+HecatePolymorphClear(triggerArgs)
 ```
 ---

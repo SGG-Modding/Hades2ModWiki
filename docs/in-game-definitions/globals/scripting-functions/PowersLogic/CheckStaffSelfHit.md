@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckStaffSelfHit(triggerArgs, args)
+CheckStaffSelfHit(triggerArgs, args)
 ```
 ---

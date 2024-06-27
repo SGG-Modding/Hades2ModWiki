@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsInspectPointEligible(currentRun, source, inspectPointData)
+IsInspectPointEligible(currentRun, source, inspectPointData)
 ```
 ---

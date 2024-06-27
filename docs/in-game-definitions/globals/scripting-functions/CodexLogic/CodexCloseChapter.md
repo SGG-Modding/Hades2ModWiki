@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function CodexCloseChapter(screen, chapterName, chapterData, args)
+CodexCloseChapter(screen, chapterName, chapterData, args)
 ```
 ---

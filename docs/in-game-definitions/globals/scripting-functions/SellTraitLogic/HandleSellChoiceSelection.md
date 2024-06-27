@@ -6,6 +6,6 @@ Function name in SellTraitLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleSellChoiceSelection(screen, button)
+HandleSellChoiceSelection(screen, button)
 ```
 ---

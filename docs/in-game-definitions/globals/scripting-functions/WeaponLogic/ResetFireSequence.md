@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function ResetFireSequence(unit, weaponData)
+ResetFireSequence(unit, weaponData)
 ```
 ---

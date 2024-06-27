@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function UnoccupySpawnPointOnDistance(enemy, spawnPointId, distance)
+UnoccupySpawnPointOnDistance(enemy, spawnPointId, distance)
 ```
 ---

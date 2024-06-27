@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function HideUseButton(objectId, useTarget, fadeDuration)
+HideUseButton(objectId, useTarget, fadeDuration)
 ```
 ---

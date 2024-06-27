@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `orderedIndex`
 ## Usage
 ```lua
-function __genOrderedIndex(t)
+__genOrderedIndex(t)
 ```
 ---

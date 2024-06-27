@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDifferentOmegaCrit(weaponData, functionArgs, triggerArgs)
+CheckDifferentOmegaCrit(weaponData, functionArgs, triggerArgs)
 ```
 ---

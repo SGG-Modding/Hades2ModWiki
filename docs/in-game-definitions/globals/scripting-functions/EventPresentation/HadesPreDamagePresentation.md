@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function HadesPreDamagePresentation(enemy, damageAmount, damageData)
+HadesPreDamagePresentation(enemy, damageAmount, damageData)
 ```
 ---

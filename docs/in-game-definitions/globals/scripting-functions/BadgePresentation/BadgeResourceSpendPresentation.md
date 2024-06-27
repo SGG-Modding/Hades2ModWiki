@@ -6,6 +6,6 @@ Function name in BadgePresentation.lua
 `none`
 ## Usage
 ```lua
-function BadgeResourceSpendPresentation(usee, resourceCost)
+BadgeResourceSpendPresentation(usee, resourceCost)
 ```
 ---

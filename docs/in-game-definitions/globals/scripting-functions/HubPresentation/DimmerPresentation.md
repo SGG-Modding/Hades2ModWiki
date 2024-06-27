@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function DimmerPresentation(eventSource, args)
+DimmerPresentation(eventSource, args)
 ```
 ---

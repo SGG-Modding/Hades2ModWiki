@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function DoReaction(victim, reaction, triggerArgs)
+DoReaction(victim, reaction, triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyWeaponChanges(unit, stageData, weaponData)
+ApplyWeaponChanges(unit, stageData, weaponData)
 ```
 ---

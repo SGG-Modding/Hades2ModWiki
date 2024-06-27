@@ -6,6 +6,6 @@ Function name in SellTraitLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateSellButtons()
+CreateSellButtons()
 ```
 ---

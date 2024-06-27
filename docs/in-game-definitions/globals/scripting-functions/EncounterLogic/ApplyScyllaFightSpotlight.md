@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyScyllaFightSpotlight(scylla, args)
+ApplyScyllaFightSpotlight(scylla, args)
 ```
 ---

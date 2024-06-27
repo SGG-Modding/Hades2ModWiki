@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `bool`
 ## Usage
 ```lua
-function MusicPlayer(trackName, musicInfo, destinationId)
+MusicPlayer(trackName, musicInfo, destinationId)
 ```
 ---

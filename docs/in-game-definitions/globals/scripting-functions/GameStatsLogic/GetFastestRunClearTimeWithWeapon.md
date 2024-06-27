@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `fastestTime`
 ## Usage
 ```lua
-function GetFastestRunClearTimeWithWeapon(currentRun, weapon)
+GetFastestRunClearTimeWithWeapon(currentRun, weapon)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MailboxPresentation.lua
 `none`
 ## Usage
 ```lua
-function MailboxSessionCompletePresentation(usee, screen)
+MailboxSessionCompletePresentation(usee, screen)
 ```
 ---

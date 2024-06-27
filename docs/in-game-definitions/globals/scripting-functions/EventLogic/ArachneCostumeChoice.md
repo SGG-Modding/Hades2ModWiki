@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function ArachneCostumeChoice(source, args, screen)
+ArachneCostumeChoice(source, args, screen)
 ```
 ---

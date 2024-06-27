@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function UnlockRoomExits(run, room, delay)
+UnlockRoomExits(run, room, delay)
 ```
 ---

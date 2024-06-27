@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function DeathPresentation(currentRun, killer, args)
+DeathPresentation(currentRun, killer, args)
 ```
 ---

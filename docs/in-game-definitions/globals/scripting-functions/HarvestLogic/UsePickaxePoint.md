@@ -6,6 +6,6 @@ Function name in HarvestLogic.lua
 `none`
 ## Usage
 ```lua
-function UsePickaxePoint(source, args, user)
+UsePickaxePoint(source, args, user)
 ```
 ---

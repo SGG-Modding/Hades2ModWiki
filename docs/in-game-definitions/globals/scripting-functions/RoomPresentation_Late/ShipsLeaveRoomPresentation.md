@@ -6,6 +6,6 @@ Function name in RoomPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function ShipsLeaveRoomPresentation(currentRun, exitDoor)
+ShipsLeaveRoomPresentation(currentRun, exitDoor)
 ```
 ---

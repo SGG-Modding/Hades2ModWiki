@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckAutoEquipRequirements(requirementData)
+CheckAutoEquipRequirements(requirementData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function CheckInputRepeat(screen, notifyName, hotkeyControls)
+CheckInputRepeat(screen, notifyName, hotkeyControls)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in WeaponShopLogic.lua
 `weaponKit`
 ## Usage
 ```lua
-function ActivateWeaponKit(itemData, args)
+ActivateWeaponKit(itemData, args)
 ```
 ---

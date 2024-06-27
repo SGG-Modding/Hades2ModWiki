@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `bool`
 ## Usage
 ```lua
-function ProjectileHasUnitHit(projectileId, name)
+ProjectileHasUnitHit(projectileId, name)
 ```
 ---

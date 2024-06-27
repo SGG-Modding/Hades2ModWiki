@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function LeaveHubRoomPresentation(currentRun, exitDoor)
+LeaveHubRoomPresentation(currentRun, exitDoor)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function GrantMetaUpgradeLastStands(traitName, args)
+GrantMetaUpgradeLastStands(traitName, args)
 ```
 ---

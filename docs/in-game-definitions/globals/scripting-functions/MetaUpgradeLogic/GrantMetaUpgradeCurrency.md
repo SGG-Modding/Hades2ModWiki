@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function GrantMetaUpgradeCurrency(traitName, args)
+GrantMetaUpgradeCurrency(traitName, args)
 ```
 ---

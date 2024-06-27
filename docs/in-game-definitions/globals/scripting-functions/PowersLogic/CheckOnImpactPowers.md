@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckOnImpactPowers(victim, attacker, args)
+CheckOnImpactPowers(victim, attacker, args)
 ```
 ---

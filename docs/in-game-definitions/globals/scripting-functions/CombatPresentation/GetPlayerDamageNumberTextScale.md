@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `baseTextScale`
 ## Usage
 ```lua
-function GetPlayerDamageNumberTextScale(damageAmount)
+GetPlayerDamageNumberTextScale(damageAmount)
 ```
 ---

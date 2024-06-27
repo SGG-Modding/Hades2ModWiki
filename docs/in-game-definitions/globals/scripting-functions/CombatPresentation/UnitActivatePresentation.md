@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function UnitActivatePresentation(unit, args)
+UnitActivatePresentation(unit, args)
 ```
 ---

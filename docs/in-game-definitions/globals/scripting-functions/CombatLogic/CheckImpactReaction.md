@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `bool`
 ## Usage
 ```lua
-function CheckImpactReaction(attackerWeaponData, sourceProjectileData, victim, triggerArgs)
+CheckImpactReaction(attackerWeaponData, sourceProjectileData, victim, triggerArgs)
 ```
 ---

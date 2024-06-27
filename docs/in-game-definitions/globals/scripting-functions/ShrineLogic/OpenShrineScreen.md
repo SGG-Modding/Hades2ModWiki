@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function OpenShrineScreen(args)
+OpenShrineScreen(args)
 ```
 ---

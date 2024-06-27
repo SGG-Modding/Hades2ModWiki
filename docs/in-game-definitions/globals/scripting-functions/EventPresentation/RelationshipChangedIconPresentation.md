@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function RelationshipChangedIconPresentation(componentId, index, postDivider, isFinal)
+RelationshipChangedIconPresentation(componentId, index, postDivider, isFinal)
 ```
 ---

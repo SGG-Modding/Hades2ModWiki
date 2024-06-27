@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `valueToRamp`
 ## Usage
 ```lua
-function GetProcessedValue(valueToRamp, args)
+GetProcessedValue(valueToRamp, args)
 ```
 ---

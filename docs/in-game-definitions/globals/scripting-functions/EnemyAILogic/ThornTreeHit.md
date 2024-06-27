@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function ThornTreeHit(enemy, attacker, triggerArgs)
+ThornTreeHit(enemy, attacker, triggerArgs)
 ```
 ---

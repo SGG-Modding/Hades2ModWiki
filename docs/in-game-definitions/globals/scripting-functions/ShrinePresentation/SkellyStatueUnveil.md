@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function SkellyStatueUnveil(source, args)
+SkellyStatueUnveil(source, args)
 ```
 ---

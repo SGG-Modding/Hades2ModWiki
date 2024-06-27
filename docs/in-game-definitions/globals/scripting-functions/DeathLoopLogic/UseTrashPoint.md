@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function UseTrashPoint(source, args, user)
+UseTrashPoint(source, args, user)
 ```
 ---

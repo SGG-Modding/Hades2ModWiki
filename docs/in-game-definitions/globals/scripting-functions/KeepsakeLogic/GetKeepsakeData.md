@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `nil`
 ## Usage
 ```lua
-function GetKeepsakeData(keepsakeName)
+GetKeepsakeData(keepsakeName)
 ```
 ---

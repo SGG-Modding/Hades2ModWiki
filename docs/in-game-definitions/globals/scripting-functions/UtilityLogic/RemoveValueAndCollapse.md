@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `bool`, `foundValue`
 ## Usage
 ```lua
-function RemoveValueAndCollapse(tableArg, value)
+RemoveValueAndCollapse(tableArg, value)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function StartEncounter(currentRun, currentRoom, encounter)
+StartEncounter(currentRun, currentRoom, encounter)
 ```
 ---

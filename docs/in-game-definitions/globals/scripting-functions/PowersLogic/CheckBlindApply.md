@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckBlindApply(victim, functionArgs, triggerArgs)
+CheckBlindApply(victim, functionArgs, triggerArgs)
 ```
 ---

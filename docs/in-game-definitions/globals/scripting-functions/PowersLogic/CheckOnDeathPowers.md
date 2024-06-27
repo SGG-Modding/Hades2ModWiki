@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckOnDeathPowers(victim, attacker, weaponName)
+CheckOnDeathPowers(victim, attacker, weaponName)
 ```
 ---

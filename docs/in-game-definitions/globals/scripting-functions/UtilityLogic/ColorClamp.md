@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `0`, `255`, `i`
 ## Usage
 ```lua
-function ColorClamp(i)
+ColorClamp(i)
 ```
 ---

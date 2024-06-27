@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function TimeSlowApply(triggerArgs)
+TimeSlowApply(triggerArgs)
 ```
 ---

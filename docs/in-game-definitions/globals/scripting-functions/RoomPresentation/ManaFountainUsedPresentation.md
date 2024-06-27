@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function ManaFountainUsedPresentation(usee, args)
+ManaFountainUsedPresentation(usee, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `componentIds`
 ## Usage
 ```lua
-function GetAllIds(components)
+GetAllIds(components)
 ```
 ---

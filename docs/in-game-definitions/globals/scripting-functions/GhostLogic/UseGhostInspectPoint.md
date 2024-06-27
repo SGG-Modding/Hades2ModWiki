@@ -6,6 +6,6 @@ Function name in GhostLogic.lua
 `none`
 ## Usage
 ```lua
-function UseGhostInspectPoint(ghostInspectPoint, user)
+UseGhostInspectPoint(ghostInspectPoint, user)
 ```
 ---

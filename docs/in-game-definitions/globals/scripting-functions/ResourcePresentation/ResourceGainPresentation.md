@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function ResourceGainPresentation(resourceName, delta, args)
+ResourceGainPresentation(resourceName, delta, args)
 ```
 ---

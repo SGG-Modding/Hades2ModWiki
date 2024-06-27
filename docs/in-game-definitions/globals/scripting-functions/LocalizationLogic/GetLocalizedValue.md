@@ -6,6 +6,6 @@ Function name in LocalizationLogic.lua
 `default`
 ## Usage
 ```lua
-function GetLocalizedValue(default, tbl)
+GetLocalizedValue(default, tbl)
 ```
 ---

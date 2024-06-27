@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function AddMaxMana(manaGained, source, args)
+AddMaxMana(manaGained, source, args)
 ```
 ---

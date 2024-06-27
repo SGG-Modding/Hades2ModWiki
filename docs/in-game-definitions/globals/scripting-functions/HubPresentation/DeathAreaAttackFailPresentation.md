@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function DeathAreaAttackFailPresentation(weaponData, args)
+DeathAreaAttackFailPresentation(weaponData, args)
 ```
 ---

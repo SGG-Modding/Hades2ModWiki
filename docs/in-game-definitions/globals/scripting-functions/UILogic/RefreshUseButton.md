@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function RefreshUseButton(objectId, useTarget)
+RefreshUseButton(objectId, useTarget)
 ```
 ---

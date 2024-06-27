@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ZeusRetaliate(unit, args)
+ZeusRetaliate(unit, args)
 ```
 ---

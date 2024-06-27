@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function StartRoomMusic(currentRun, currentRoom)
+StartRoomMusic(currentRun, currentRoom)
 ```
 ---

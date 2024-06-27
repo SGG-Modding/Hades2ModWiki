@@ -6,6 +6,6 @@ Function name in LocalizationLogic.lua
 `none`
 ## Usage
 ```lua
-function ValueBetweenIncl(value, a, b)
+ValueBetweenIncl(value, a, b)
 ```
 ---

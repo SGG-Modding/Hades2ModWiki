@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `none`
 ## Usage
 ```lua
-function PlayRandomEligibleVoiceLines(voiceLineSets, neverQueue)
+PlayRandomEligibleVoiceLines(voiceLineSets, neverQueue)
 ```
 ---

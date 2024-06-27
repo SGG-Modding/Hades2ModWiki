@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `copy`
 ## Usage
 ```lua
-function DeepCopyTable(orig)
+DeepCopyTable(orig)
 ```
 ---

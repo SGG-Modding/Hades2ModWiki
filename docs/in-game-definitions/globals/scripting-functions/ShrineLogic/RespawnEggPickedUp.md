@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function RespawnEggPickedUp(usee, args, user)
+RespawnEggPickedUp(usee, args, user)
 ```
 ---

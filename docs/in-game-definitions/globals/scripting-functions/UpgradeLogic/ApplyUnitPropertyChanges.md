@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyUnitPropertyChanges(unit, propertyChanges, applyLuaUpgrades, reverse)
+ApplyUnitPropertyChanges(unit, propertyChanges, applyLuaUpgrades, reverse)
 ```
 ---

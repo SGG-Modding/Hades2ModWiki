@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function SprintShieldSetup(hero, traitArgs, args)
+SprintShieldSetup(hero, traitArgs, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function FamiliarTimeTick(args)
+FamiliarTimeTick(args)
 ```
 ---

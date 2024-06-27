@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `trait`, `nil`
 ## Usage
 ```lua
-function HasHeroTraitValue(propertyName)
+HasHeroTraitValue(propertyName)
 ```
 ---

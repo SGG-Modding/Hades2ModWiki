@@ -6,6 +6,6 @@ Function name in Debug.lua
 `newEnemy`
 ## Usage
 ```lua
-function DebugSpawnEnemy(source, args)
+DebugSpawnEnemy(source, args)
 ```
 ---

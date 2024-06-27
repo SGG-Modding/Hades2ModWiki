@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleBreakableSwap(currentRoom, args)
+HandleBreakableSwap(currentRoom, args)
 ```
 ---

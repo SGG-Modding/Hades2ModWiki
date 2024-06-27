@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ShrineUpgradeExtractValues(upgradeName)
+ShrineUpgradeExtractValues(upgradeName)
 ```
 ---

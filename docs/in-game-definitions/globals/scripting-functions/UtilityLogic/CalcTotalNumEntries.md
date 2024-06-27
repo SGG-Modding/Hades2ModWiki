@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `0`, `count`
 ## Usage
 ```lua
-function CalcTotalNumEntries(table, trace)
+CalcTotalNumEntries(table, trace)
 ```
 ---

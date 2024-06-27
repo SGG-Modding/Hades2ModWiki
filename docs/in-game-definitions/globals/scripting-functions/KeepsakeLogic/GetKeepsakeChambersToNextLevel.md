@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `0`
 ## Usage
 ```lua
-function GetKeepsakeChambersToNextLevel(traitName)
+GetKeepsakeChambersToNextLevel(traitName)
 ```
 ---

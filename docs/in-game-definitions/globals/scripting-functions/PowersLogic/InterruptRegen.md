@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function InterruptRegen(victim, triggerArgs)
+InterruptRegen(victim, triggerArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function MoveHeroAlongPath(path, args)
+MoveHeroAlongPath(path, args)
 ```
 ---

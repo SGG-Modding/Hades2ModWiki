@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyBurn(victim, functionArgs, triggerArgs)
+ApplyBurn(victim, functionArgs, triggerArgs)
 ```
 ---

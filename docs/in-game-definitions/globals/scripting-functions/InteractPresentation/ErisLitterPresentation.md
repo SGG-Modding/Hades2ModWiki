@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `none`
 ## Usage
 ```lua
-function ErisLitterPresentation(source, args)
+ErisLitterPresentation(source, args)
 ```
 ---

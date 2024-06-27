@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function wait(duration, tag, persist)
+wait(duration, tag, persist)
 ```
 ---

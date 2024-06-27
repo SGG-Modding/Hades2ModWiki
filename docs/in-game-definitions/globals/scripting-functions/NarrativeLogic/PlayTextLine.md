@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `playedSomething`
 ## Usage
 ```lua
-function PlayTextLine(screen, textLines, prevLine, parentLine, source, args)
+PlayTextLine(screen, textLines, prevLine, parentLine, source, args)
 ```
 ---

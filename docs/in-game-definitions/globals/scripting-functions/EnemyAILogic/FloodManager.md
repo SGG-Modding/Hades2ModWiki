@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function FloodManager(source, args)
+FloodManager(source, args)
 ```
 ---

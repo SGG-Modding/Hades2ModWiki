@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ResetPerfectDamageBonusBoon(attacker, args, triggerArgs)
+ResetPerfectDamageBonusBoon(attacker, args, triggerArgs)
 ```
 ---

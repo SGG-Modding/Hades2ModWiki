@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsActivationEligible(id, sourceData)
+IsActivationEligible(id, sourceData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function GenericBossKillPresentation(unit, args)
+GenericBossKillPresentation(unit, args)
 ```
 ---

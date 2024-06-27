@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleNemesisEncounterReward(eventSource, args)
+HandleNemesisEncounterReward(eventSource, args)
 ```
 ---

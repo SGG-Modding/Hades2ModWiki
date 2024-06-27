@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `reward`
 ## Usage
 ```lua
-function SpawnRoomReward(eventSource, args)
+SpawnRoomReward(eventSource, args)
 ```
 ---

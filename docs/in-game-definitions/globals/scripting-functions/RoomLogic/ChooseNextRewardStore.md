@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `rewardStoreName`
 ## Usage
 ```lua
-function ChooseNextRewardStore(run)
+ChooseNextRewardStore(run)
 ```
 ---

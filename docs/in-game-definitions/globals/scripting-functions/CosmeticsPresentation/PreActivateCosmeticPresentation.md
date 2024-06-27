@@ -6,6 +6,6 @@ Function name in CosmeticsPresentation.lua
 `none`
 ## Usage
 ```lua
-function PreActivateCosmeticPresentation(screen, button, saleData, args)
+PreActivateCosmeticPresentation(screen, button, saleData, args)
 ```
 ---

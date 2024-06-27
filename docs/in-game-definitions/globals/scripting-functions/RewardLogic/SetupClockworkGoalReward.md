@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupClockworkGoalReward(rewardData, currentRoom, room, previouslyChosenRewards, args, setupFunctionArgs)
+SetupClockworkGoalReward(rewardData, currentRoom, room, previouslyChosenRewards, args, setupFunctionArgs)
 ```
 ---

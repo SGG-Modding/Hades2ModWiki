@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckSpawnCurseDamage(enemy, traitArgs)
+CheckSpawnCurseDamage(enemy, traitArgs)
 ```
 ---

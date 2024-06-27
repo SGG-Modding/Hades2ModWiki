@@ -6,6 +6,6 @@ Function name in UIPresentation.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayHoverOnPresentation(screen, button)
+TraitTrayHoverOnPresentation(screen, button)
 ```
 ---

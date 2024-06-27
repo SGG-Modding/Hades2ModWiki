@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `bool`, `isEx`
 ## Usage
 ```lua
-function IsExWeapon(weaponName, args, triggerArgs)
+IsExWeapon(weaponName, args, triggerArgs)
 ```
 ---

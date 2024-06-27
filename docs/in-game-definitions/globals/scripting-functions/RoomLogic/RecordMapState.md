@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function RecordMapState(mapName, id, property, value)
+RecordMapState(mapName, id, property, value)
 ```
 ---

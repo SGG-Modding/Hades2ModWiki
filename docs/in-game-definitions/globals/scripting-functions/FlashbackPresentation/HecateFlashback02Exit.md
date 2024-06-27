@@ -6,6 +6,6 @@ Function name in FlashbackPresentation.lua
 `none`
 ## Usage
 ```lua
-function HecateFlashback02Exit(source, args)
+HecateFlashback02Exit(source, args)
 ```
 ---

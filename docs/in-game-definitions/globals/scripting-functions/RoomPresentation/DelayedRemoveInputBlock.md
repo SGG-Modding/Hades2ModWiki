@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function DelayedRemoveInputBlock(delay, inputBlockName)
+DelayedRemoveInputBlock(delay, inputBlockName)
 ```
 ---

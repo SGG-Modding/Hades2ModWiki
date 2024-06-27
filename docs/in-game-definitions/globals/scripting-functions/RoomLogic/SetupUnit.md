@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupUnit(unit, currentRun, args)
+SetupUnit(unit, currentRun, args)
 ```
 ---

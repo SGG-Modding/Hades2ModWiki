@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasTraitOnLoot(loot, traitName)
+HasTraitOnLoot(loot, traitName)
 ```
 ---

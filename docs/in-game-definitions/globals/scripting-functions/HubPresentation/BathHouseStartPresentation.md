@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function BathHouseStartPresentation(source, args, line)
+BathHouseStartPresentation(source, args, line)
 ```
 ---

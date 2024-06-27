@@ -6,6 +6,6 @@ Function name in UIPresentation.lua
 `none`
 ## Usage
 ```lua
-function ScreenCantAffordPresentation(screen, button, costData)
+ScreenCantAffordPresentation(screen, button, costData)
 ```
 ---

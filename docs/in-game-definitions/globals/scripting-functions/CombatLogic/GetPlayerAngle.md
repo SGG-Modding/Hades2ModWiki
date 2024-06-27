@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `playerAngleDegrees`
 ## Usage
 ```lua
-function GetPlayerAngle()
+GetPlayerAngle()
 ```
 ---

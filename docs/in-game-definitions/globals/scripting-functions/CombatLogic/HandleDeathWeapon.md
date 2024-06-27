@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleDeathWeapon(victim, weaponName)
+HandleDeathWeapon(victim, weaponName)
 ```
 ---

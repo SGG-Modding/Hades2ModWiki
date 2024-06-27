@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `newTrait`, `traitData`
 ## Usage
 ```lua
-function IncreaseTraitLevel(traitData, stacks)
+IncreaseTraitLevel(traitData, stacks)
 ```
 ---

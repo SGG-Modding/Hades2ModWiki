@@ -6,6 +6,6 @@ Function name in SurfaceShopPresentation.lua
 `none`
 ## Usage
 ```lua
-function SurfaceShopItemSameRoomPresentation(targetId)
+SurfaceShopItemSameRoomPresentation(targetId)
 ```
 ---

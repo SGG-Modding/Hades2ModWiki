@@ -6,6 +6,6 @@ Function name in HarvestLogic.lua
 `bool`
 ## Usage
 ```lua
-function ExorcismSequence(source, exorcismData, args, user)
+ExorcismSequence(source, exorcismData, args, user)
 ```
 ---

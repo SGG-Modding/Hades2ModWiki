@@ -6,6 +6,6 @@ Function name in GiftLogic.lua
 `bool`
 ## Usage
 ```lua
-function CanSpecialInteract(source)
+CanSpecialInteract(source)
 ```
 ---

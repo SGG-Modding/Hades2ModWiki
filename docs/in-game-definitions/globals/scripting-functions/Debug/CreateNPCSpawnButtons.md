@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function CreateNPCSpawnButtons(eventSource, args)
+CreateNPCSpawnButtons(eventSource, args)
 ```
 ---

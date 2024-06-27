@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `consumableItem`
 ## Usage
 ```lua
-function CreateConsumableItemFromData(consumableId, consumableItem, costOverride, args)
+CreateConsumableItemFromData(consumableId, consumableItem, costOverride, args)
 ```
 ---

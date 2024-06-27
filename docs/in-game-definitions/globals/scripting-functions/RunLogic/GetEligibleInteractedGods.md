@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `eligibleGods`, `unionGods`
 ## Usage
 ```lua
-function GetEligibleInteractedGods(ignoredGod)
+GetEligibleInteractedGods(ignoredGod)
 ```
 ---

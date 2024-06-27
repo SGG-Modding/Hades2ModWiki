@@ -6,6 +6,6 @@ Function name in ObjectiveLogic.lua
 `none`
 ## Usage
 ```lua
-function MarkObjectivesComplete(objectiveNames)
+MarkObjectivesComplete(objectiveNames)
 ```
 ---

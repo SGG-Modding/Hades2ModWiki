@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoUnitArmorShake(unit, args)
+DoUnitArmorShake(unit, args)
 ```
 ---

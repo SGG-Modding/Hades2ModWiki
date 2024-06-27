@@ -6,6 +6,6 @@ Function name in FamiliarPresentation.lua
 `none`
 ## Usage
 ```lua
-function CatFamiliarSpecialInteractLockedInRun(usee, args)
+CatFamiliarSpecialInteractLockedInRun(usee, args)
 ```
 ---

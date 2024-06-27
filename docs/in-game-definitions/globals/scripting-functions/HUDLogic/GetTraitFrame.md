@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `nil`
 ## Usage
 ```lua
-function GetTraitFrame(trait)
+GetTraitFrame(trait)
 ```
 ---

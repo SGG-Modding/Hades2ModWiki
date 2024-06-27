@@ -6,6 +6,6 @@ Function name in FishingLogic.lua
 `none`
 ## Usage
 ```lua
-function StartFishing(source, args)
+StartFishing(source, args)
 ```
 ---

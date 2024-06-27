@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `component`
 ## Usage
 ```lua
-function CreateComponentFromData(screenData, data)
+CreateComponentFromData(screenData, data)
 ```
 ---

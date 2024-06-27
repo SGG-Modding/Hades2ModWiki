@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function GhostAdminScreenClosedPresentation(screen, button)
+GhostAdminScreenClosedPresentation(screen, button)
 ```
 ---

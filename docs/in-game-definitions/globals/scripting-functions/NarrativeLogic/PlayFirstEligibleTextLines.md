@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `none`
 ## Usage
 ```lua
-function PlayFirstEligibleTextLines(source, textLineSets)
+PlayFirstEligibleTextLines(source, textLineSets)
 ```
 ---

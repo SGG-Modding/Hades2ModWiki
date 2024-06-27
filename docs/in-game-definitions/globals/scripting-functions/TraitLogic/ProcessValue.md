@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `value`
 ## Usage
 ```lua
-function ProcessValue(value, rampData)
+ProcessValue(value, rampData)
 ```
 ---

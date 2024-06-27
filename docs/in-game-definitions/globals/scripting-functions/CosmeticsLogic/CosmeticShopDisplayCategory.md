@@ -6,6 +6,6 @@ Function name in CosmeticsLogic.lua
 `none`
 ## Usage
 ```lua
-function CosmeticShopDisplayCategory(screen, categoryIndex)
+CosmeticShopDisplayCategory(screen, categoryIndex)
 ```
 ---

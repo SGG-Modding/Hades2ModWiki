@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function SkullImpulseTransform(weaponData, functionArgs, triggerArgs)
+SkullImpulseTransform(weaponData, functionArgs, triggerArgs)
 ```
 ---

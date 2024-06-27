@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `depth`
 ## Usage
 ```lua
-function GetBiomeDepth(currentRun)
+GetBiomeDepth(currentRun)
 ```
 ---

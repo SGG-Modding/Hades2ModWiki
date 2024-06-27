@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ShrineScreenRankDown(screen, button)
+ShrineScreenRankDown(screen, button)
 ```
 ---

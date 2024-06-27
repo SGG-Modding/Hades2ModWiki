@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateGiftTrack(screen, args)
+CreateGiftTrack(screen, args)
 ```
 ---

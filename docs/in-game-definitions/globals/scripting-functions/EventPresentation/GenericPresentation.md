@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function GenericPresentation(source, args)
+GenericPresentation(source, args)
 ```
 ---

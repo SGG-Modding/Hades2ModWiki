@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `0`, `force`
 ## Usage
 ```lua
-function GetRequiredForceToEnemy(nearById, id, distanceScalar, distanceMultiplier)
+GetRequiredForceToEnemy(nearById, id, distanceScalar, distanceMultiplier)
 ```
 ---

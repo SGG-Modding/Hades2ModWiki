@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function StartSkellySprintQuest(eventSource, args)
+StartSkellySprintQuest(eventSource, args)
 ```
 ---

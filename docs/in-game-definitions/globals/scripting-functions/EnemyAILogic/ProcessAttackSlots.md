@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`
 ## Usage
 ```lua
-function ProcessAttackSlots(enemy, aiData)
+ProcessAttackSlots(enemy, aiData)
 ```
 ---

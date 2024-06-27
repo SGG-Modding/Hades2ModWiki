@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function PlayEmoteAnimFromSource(source, args, screen, line)
+PlayEmoteAnimFromSource(source, args, screen, line)
 ```
 ---

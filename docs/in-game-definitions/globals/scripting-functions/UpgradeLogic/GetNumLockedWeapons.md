@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `numLocked`
 ## Usage
 ```lua
-function GetNumLockedWeapons()
+GetNumLockedWeapons()
 ```
 ---

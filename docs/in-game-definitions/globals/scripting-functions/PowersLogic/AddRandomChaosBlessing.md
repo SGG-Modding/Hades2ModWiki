@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `traitData`
 ## Usage
 ```lua
-function AddRandomChaosBlessing(rarityName)
+AddRandomChaosBlessing(rarityName)
 ```
 ---

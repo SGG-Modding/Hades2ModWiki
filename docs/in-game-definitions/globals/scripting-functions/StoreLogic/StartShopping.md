@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `none`
 ## Usage
 ```lua
-function StartShopping(unit, delay)
+StartShopping(unit, delay)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function PolyphemusInterruptWeaponPresentation(enemy, aiData)
+PolyphemusInterruptWeaponPresentation(enemy, aiData)
 ```
 ---

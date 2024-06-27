@@ -6,6 +6,6 @@ Function name in QuestLogLogic.lua
 `none`
 ## Usage
 ```lua
-function QuestLogScrollDown(screen, button)
+QuestLogScrollDown(screen, button)
 ```
 ---

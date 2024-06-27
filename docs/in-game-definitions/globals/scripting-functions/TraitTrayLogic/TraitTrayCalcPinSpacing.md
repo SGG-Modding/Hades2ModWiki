@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `pinSpacing`
 ## Usage
 ```lua
-function TraitTrayCalcPinSpacing(screen)
+TraitTrayCalcPinSpacing(screen)
 ```
 ---

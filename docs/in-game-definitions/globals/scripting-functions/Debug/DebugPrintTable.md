@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function DebugPrintTable(printTable, deepPrint, depth)
+DebugPrintTable(printTable, deepPrint, depth)
 ```
 ---

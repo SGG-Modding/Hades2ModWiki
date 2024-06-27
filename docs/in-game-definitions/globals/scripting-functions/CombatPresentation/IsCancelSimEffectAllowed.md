@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `bool`
 ## Usage
 ```lua
-function IsCancelSimEffectAllowed(cancelingWeaponData, canceledEffectNames)
+IsCancelSimEffectAllowed(cancelingWeaponData, canceledEffectNames)
 ```
 ---

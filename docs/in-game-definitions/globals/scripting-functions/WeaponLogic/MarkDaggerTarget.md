@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function MarkDaggerTarget(triggerArgs, weaponData, args)
+MarkDaggerTarget(triggerArgs, weaponData, args)
 ```
 ---

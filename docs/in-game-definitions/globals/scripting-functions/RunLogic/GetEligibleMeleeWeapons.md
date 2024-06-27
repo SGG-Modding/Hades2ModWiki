@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `eligibleMeleeWeaponData`
 ## Usage
 ```lua
-function GetEligibleMeleeWeapons()
+GetEligibleMeleeWeapons()
 ```
 ---

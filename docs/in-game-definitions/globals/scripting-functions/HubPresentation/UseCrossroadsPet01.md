@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function UseCrossroadsPet01(usee, args)
+UseCrossroadsPet01(usee, args)
 ```
 ---

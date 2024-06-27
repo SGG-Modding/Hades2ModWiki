@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function CauldronCastingJoinInVoiceLines(source, args)
+CauldronCastingJoinInVoiceLines(source, args)
 ```
 ---

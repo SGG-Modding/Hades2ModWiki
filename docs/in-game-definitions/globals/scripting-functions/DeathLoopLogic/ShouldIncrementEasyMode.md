@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `bool`
 ## Usage
 ```lua
-function ShouldIncrementEasyMode()
+ShouldIncrementEasyMode()
 ```
 ---

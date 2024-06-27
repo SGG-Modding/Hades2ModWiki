@@ -6,6 +6,6 @@ Function name in GiftLogic.lua
 `bool`, `hasEligibleTextLines`
 ## Usage
 ```lua
-function CanReceiveGift(target)
+CanReceiveGift(target)
 ```
 ---

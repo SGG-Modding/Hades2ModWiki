@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function FreezePlayerUnit(flag, args)
+FreezePlayerUnit(flag, args)
 ```
 ---

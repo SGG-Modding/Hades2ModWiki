@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupDynamicLitter(litter, args)
+SetupDynamicLitter(litter, args)
 ```
 ---

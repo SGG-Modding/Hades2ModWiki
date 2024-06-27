@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `damageAddition`
 ## Usage
 ```lua
-function CalculateBaseDamageAdditions(attacker, victim, triggerArgs)
+CalculateBaseDamageAdditions(attacker, victim, triggerArgs)
 ```
 ---

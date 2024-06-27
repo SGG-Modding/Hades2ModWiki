@@ -6,6 +6,6 @@ Function name in MetaUpgrades.lua
 `bool`
 ## Usage
 ```lua
-function IsBiomeTimerPaused()
+IsBiomeTimerPaused()
 ```
 ---

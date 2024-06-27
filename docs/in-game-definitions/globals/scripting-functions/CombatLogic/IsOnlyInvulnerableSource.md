@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsOnlyInvulnerableSource(flag)
+IsOnlyInvulnerableSource(flag)
 ```
 ---

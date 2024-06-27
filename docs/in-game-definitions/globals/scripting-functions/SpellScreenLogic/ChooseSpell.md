@@ -6,6 +6,6 @@ Function name in SpellScreenLogic.lua
 `spellData`
 ## Usage
 ```lua
-function ChooseSpell(room, args)
+ChooseSpell(room, args)
 ```
 ---

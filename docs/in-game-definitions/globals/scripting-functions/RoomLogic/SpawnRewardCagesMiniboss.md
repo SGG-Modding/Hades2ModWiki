@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnRewardCagesMiniboss(encounter, args)
+SpawnRewardCagesMiniboss(encounter, args)
 ```
 ---

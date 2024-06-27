@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function CerberusStageExit(enemy, CurrentRun, aiStage)
+CerberusStageExit(enemy, CurrentRun, aiStage)
 ```
 ---

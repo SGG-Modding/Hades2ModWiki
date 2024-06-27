@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function HandlePylonObjective(room, args)
+HandlePylonObjective(room, args)
 ```
 ---

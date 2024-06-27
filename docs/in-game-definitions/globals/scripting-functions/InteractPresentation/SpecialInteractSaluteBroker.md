@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpecialInteractSaluteBroker(usee, args)
+SpecialInteractSaluteBroker(usee, args)
 ```
 ---

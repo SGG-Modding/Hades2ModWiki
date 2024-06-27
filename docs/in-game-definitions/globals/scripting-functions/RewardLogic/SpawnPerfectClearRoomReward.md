@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnPerfectClearRoomReward(eventSource, args)
+SpawnPerfectClearRoomReward(eventSource, args)
 ```
 ---

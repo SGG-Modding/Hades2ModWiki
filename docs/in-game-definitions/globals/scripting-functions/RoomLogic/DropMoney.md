@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function DropMoney(amount, args)
+DropMoney(amount, args)
 ```
 ---

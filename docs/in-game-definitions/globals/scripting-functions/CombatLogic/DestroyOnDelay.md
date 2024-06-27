@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function DestroyOnDelay(ids, delay, args)
+DestroyOnDelay(ids, delay, args)
 ```
 ---

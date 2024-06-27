@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function GrantBoons(args, originalTraitData)
+GrantBoons(args, originalTraitData)
 ```
 ---

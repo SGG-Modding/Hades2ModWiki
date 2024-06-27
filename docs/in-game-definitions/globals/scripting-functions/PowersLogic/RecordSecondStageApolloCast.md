@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function RecordSecondStageApolloCast(victim, functionArgs, triggerArgs)
+RecordSecondStageApolloCast(victim, functionArgs, triggerArgs)
 ```
 ---

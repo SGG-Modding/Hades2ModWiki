@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `bool`
 ## Usage
 ```lua
-function RunHistoryStatsSort(itemA, itemB)
+RunHistoryStatsSort(itemA, itemB)
 ```
 ---

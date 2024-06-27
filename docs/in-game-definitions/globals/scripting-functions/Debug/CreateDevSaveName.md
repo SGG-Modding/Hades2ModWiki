@@ -6,6 +6,6 @@ Function name in Debug.lua
 `name`
 ## Usage
 ```lua
-function CreateDevSaveName(currentRun, args)
+CreateDevSaveName(currentRun, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function DropHealth(healthObjectName, targetId, radius, angle, dropTowardHero)
+DropHealth(healthObjectName, targetId, radius, angle, dropTowardHero)
 ```
 ---

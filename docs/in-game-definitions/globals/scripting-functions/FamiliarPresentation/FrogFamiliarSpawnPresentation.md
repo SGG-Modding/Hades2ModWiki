@@ -6,6 +6,6 @@ Function name in FamiliarPresentation.lua
 `none`
 ## Usage
 ```lua
-function FrogFamiliarSpawnPresentation(familiar, args)
+FrogFamiliarSpawnPresentation(familiar, args)
 ```
 ---

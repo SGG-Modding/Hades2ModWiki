@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `bool`
 ## Usage
 ```lua
-function GetTextLinesUseableStatus(source, textLineSets)
+GetTextLinesUseableStatus(source, textLineSets)
 ```
 ---

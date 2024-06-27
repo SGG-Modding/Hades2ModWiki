@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function MaxedRelationshipPresentation(source, args)
+MaxedRelationshipPresentation(source, args)
 ```
 ---

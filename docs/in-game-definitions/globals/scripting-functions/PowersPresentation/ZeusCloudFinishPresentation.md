@@ -6,6 +6,6 @@ Function name in PowersPresentation.lua
 `none`
 ## Usage
 ```lua
-function ZeusCloudFinishPresentation(functionArgs, tempObstacleId)
+ZeusCloudFinishPresentation(functionArgs, tempObstacleId)
 ```
 ---

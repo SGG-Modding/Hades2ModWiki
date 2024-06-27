@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `spawnPointId`
 ## Usage
 ```lua
-function SelectRoomRewardSpawnPoint(currentRoom, args)
+SelectRoomRewardSpawnPoint(currentRoom, args)
 ```
 ---

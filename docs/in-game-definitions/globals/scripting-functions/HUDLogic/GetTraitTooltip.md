@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `customDesc`
 ## Usage
 ```lua
-function GetTraitTooltip(trait, args)
+GetTraitTooltip(trait, args)
 ```
 ---

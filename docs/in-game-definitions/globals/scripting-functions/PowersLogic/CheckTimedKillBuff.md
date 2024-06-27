@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckTimedKillBuff(enemy, args)
+CheckTimedKillBuff(enemy, args)
 ```
 ---

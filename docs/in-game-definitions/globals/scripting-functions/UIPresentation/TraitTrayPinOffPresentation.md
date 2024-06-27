@@ -6,6 +6,6 @@ Function name in UIPresentation.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayPinOffPresentation(screen, button)
+TraitTrayPinOffPresentation(screen, button)
 ```
 ---

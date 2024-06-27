@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckUnitInvulnerableHit(blocker, args)
+CheckUnitInvulnerableHit(blocker, args)
 ```
 ---

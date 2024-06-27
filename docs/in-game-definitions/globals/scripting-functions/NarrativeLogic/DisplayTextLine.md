@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `bool`
 ## Usage
 ```lua
-function DisplayTextLine(screen, source, line, parentLine, nextLine)
+DisplayTextLine(screen, source, line, parentLine, nextLine)
 ```
 ---

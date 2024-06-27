@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function ArmorDamagePresentation(victim, args)
+ArmorDamagePresentation(victim, args)
 ```
 ---

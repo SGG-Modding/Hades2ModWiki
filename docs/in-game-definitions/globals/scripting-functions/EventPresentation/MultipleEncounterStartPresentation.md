@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function MultipleEncounterStartPresentation(encounter, currentRun)
+MultipleEncounterStartPresentation(encounter, currentRun)
 ```
 ---

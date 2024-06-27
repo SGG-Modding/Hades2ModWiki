@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `nil`
 ## Usage
 ```lua
-function CheckSpecialDoorRequirement(door)
+CheckSpecialDoorRequirement(door)
 ```
 ---

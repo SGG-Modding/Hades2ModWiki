@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckRootStrike(victim, functionArgs, triggerArgs)
+CheckRootStrike(victim, functionArgs, triggerArgs)
 ```
 ---

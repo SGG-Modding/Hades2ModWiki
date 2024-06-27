@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function InventoryScreenMoonPhaseButtonMouseOff(button)
+InventoryScreenMoonPhaseButtonMouseOff(button)
 ```
 ---

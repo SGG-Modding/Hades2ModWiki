@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function update(time, unmodifiedTime)
+update(time, unmodifiedTime)
 ```
 ---

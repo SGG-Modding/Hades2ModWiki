@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardPromptScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function CancelExitNoUpgradeInfoScreen(screen)
+CancelExitNoUpgradeInfoScreen(screen)
 ```
 ---

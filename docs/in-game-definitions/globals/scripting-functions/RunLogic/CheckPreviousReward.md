@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `nil`
 ## Usage
 ```lua
-function CheckPreviousReward(currentRun, room, previouslyChosenRewards, args)
+CheckPreviousReward(currentRun, room, previouslyChosenRewards, args)
 ```
 ---

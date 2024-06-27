@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `store`
 ## Usage
 ```lua
-function FillInShopOptions(args)
+FillInShopOptions(args)
 ```
 ---

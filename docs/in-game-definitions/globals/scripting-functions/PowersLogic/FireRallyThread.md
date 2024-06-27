@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function FireRallyThread(functionArgs, triggerArgs)
+FireRallyThread(functionArgs, triggerArgs)
 ```
 ---

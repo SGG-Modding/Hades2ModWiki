@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDemeterStormSpawn(hero, args)
+CheckDemeterStormSpawn(hero, args)
 ```
 ---

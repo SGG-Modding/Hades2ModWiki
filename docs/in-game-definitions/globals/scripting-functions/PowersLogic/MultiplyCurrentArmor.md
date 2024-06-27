@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function MultiplyCurrentArmor(functionArgs, sourceTrait)
+MultiplyCurrentArmor(functionArgs, sourceTrait)
 ```
 ---

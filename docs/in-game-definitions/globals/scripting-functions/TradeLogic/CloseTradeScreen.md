@@ -6,6 +6,6 @@ Function name in TradeLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseTradeScreen(screen, button)
+CloseTradeScreen(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function CodexPrevChapter(screen, button)
+CodexPrevChapter(screen, button)
 ```
 ---

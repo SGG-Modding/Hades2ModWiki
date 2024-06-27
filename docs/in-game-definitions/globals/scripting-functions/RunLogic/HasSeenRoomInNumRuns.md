@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasSeenRoomInNumRuns(roomName, runCount)
+HasSeenRoomInNumRuns(roomName, runCount)
 ```
 ---

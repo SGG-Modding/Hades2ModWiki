@@ -6,6 +6,6 @@ Function name in WeaponUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleWeaponUpgradeSelection(screen, button)
+HandleWeaponUpgradeSelection(screen, button)
 ```
 ---

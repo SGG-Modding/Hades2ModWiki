@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpellPotionRefillPresentation(fountain, user, potionTrait)
+SpellPotionRefillPresentation(fountain, user, potionTrait)
 ```
 ---

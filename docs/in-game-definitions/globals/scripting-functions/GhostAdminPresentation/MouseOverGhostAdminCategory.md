@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function MouseOverGhostAdminCategory(button)
+MouseOverGhostAdminCategory(button)
 ```
 ---

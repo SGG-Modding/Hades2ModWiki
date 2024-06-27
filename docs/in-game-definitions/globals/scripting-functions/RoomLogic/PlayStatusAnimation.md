@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function PlayStatusAnimation(source, args)
+PlayStatusAnimation(source, args)
 ```
 ---

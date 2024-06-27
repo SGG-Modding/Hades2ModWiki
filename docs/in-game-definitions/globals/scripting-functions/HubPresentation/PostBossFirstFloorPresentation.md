@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function PostBossFirstFloorPresentation(eventSource, args)
+PostBossFirstFloorPresentation(eventSource, args)
 ```
 ---

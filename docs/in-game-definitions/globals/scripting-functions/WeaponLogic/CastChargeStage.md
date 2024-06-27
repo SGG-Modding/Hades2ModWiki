@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function CastChargeStage(weaponName, stageData)
+CastChargeStage(weaponName, stageData)
 ```
 ---

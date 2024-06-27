@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function DecrementTableValue(tableArg, key, amount)
+DecrementTableValue(tableArg, key, amount)
 ```
 ---

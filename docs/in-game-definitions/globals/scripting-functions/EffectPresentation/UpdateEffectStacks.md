@@ -6,6 +6,6 @@ Function name in EffectPresentation.lua
 `none`
 ## Usage
 ```lua
-function UpdateEffectStacks(unit, effectName)
+UpdateEffectStacks(unit, effectName)
 ```
 ---

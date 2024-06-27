@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function DoEnemyHealthBuffered(enemy)
+DoEnemyHealthBuffered(enemy)
 ```
 ---

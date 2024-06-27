@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardUpgradeScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateUpgradeMetaUpgradeCardInteractionText(screen, button)
+UpdateUpgradeMetaUpgradeCardInteractionText(screen, button)
 ```
 ---

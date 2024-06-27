@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `eligibleUpgrades`
 ## Usage
 ```lua
-function GetEligibleUpgrades(upgradeOptions, lootData, upgradeChoiceData)
+GetEligibleUpgrades(upgradeOptions, lootData, upgradeChoiceData)
 ```
 ---

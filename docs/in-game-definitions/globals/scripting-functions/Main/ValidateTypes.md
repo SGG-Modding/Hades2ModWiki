@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function ValidateTypes(table, tableName, depth, trace)
+ValidateTypes(table, tableName, depth, trace)
 ```
 ---

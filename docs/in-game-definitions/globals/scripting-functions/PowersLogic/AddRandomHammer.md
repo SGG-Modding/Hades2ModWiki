@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `traitData`
 ## Usage
 ```lua
-function AddRandomHammer(args)
+AddRandomHammer(args)
 ```
 ---

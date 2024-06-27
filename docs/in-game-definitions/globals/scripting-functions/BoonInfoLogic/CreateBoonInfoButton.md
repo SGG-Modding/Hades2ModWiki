@@ -6,6 +6,6 @@ Function name in BoonInfoLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateBoonInfoButton(screen, traitName, index)
+CreateBoonInfoButton(screen, traitName, index)
 ```
 ---

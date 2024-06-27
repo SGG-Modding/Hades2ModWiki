@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `nil`
 ## Usage
 ```lua
-function GetFirstCueName(voiceLines)
+GetFirstCueName(voiceLines)
 ```
 ---

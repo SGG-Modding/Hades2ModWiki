@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `1`
 ## Usage
 ```lua
-function GetMetaUpgradeLevel(metaUpgradeName)
+GetMetaUpgradeLevel(metaUpgradeName)
 ```
 ---

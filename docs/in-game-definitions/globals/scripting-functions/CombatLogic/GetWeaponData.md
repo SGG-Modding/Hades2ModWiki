@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function GetWeaponData(unit, weaponName)
+GetWeaponData(unit, weaponName)
 ```
 ---

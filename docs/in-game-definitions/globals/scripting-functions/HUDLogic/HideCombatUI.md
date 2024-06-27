@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `none`
 ## Usage
 ```lua
-function HideCombatUI(flag, args)
+HideCombatUI(flag, args)
 ```
 ---

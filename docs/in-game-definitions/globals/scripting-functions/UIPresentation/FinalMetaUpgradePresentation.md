@@ -6,6 +6,6 @@ Function name in UIPresentation.lua
 `none`
 ## Usage
 ```lua
-function FinalMetaUpgradePresentation(button, metaupgradeName)
+FinalMetaUpgradePresentation(button, metaupgradeName)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in SpellPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpellChargeEndPresentation()
+SpellChargeEndPresentation()
 ```
 ---

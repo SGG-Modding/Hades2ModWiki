@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function ClockworkManager(eventSource, args)
+ClockworkManager(eventSource, args)
 ```
 ---

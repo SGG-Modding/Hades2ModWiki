@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function StorePurchasePresentation(screen, button, upgradeData, speedUpDelivery)
+StorePurchasePresentation(screen, button, upgradeData, speedUpDelivery)
 ```
 ---

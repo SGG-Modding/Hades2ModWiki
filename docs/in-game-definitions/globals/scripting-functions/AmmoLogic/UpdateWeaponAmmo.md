@@ -6,6 +6,6 @@ Function name in AmmoLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateWeaponAmmo(weaponName, delta, args)
+UpdateWeaponAmmo(weaponName, delta, args)
 ```
 ---

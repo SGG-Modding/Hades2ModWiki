@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function VulnerableAfterDelay(delay, effectName, invulnerabilityName)
+VulnerableAfterDelay(delay, effectName, invulnerabilityName)
 ```
 ---

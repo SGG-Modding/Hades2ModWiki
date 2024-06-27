@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`
 ## Usage
 ```lua
-function DoPickup(enemy, aiData, pickupTarget)
+DoPickup(enemy, aiData, pickupTarget)
 ```
 ---

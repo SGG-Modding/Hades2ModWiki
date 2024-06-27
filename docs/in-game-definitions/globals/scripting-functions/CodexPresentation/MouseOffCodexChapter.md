@@ -6,6 +6,6 @@ Function name in CodexPresentation.lua
 `none`
 ## Usage
 ```lua
-function MouseOffCodexChapter(button)
+MouseOffCodexChapter(button)
 ```
 ---

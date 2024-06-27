@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `clampIds`
 ## Usage
 ```lua
-function GetDefaultClampIds()
+GetDefaultClampIds()
 ```
 ---

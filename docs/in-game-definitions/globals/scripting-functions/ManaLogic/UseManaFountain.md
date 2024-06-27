@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `none`
 ## Usage
 ```lua
-function UseManaFountain(usee, args)
+UseManaFountain(usee, args)
 ```
 ---

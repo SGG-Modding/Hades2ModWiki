@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpellDropInteractPresentation(source, args, textLines)
+SpellDropInteractPresentation(source, args, textLines)
 ```
 ---

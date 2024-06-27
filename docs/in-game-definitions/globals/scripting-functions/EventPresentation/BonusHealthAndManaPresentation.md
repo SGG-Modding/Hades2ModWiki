@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function BonusHealthAndManaPresentation(bonusHealth, bonusMana)
+BonusHealthAndManaPresentation(bonusHealth, bonusMana)
 ```
 ---

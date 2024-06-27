@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function BountyReadyConfirmPresentation(screen, button)
+BountyReadyConfirmPresentation(screen, button)
 ```
 ---

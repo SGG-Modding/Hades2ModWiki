@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `bool`
 ## Usage
 ```lua
-function UpgradableGodTraitCountAtLeast(num)
+UpgradableGodTraitCountAtLeast(num)
 ```
 ---

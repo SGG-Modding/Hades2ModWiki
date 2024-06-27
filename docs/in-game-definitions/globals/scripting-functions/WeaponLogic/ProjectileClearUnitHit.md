@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function ProjectileClearUnitHit(projectileId, name)
+ProjectileClearUnitHit(projectileId, name)
 ```
 ---

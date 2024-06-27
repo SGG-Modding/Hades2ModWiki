@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoWeaponFireRumble(weaponData, projectileData)
+DoWeaponFireRumble(weaponData, projectileData)
 ```
 ---

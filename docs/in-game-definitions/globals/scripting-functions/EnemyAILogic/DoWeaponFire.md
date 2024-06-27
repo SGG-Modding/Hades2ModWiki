@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`
 ## Usage
 ```lua
-function DoWeaponFire(enemy, aiData)
+DoWeaponFire(enemy, aiData)
 ```
 ---

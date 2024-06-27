@@ -6,6 +6,6 @@ Function name in SpellPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpellTransformStartPresentation(user, weaponData, functionArgs, triggerArgs)
+SpellTransformStartPresentation(user, weaponData, functionArgs, triggerArgs)
 ```
 ---

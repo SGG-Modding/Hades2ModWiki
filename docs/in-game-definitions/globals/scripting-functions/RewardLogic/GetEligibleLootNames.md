@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `output`
 ## Usage
 ```lua
-function GetEligibleLootNames(excludeLootNames)
+GetEligibleLootNames(excludeLootNames)
 ```
 ---

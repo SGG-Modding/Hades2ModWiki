@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoubleBoonPresentation(screen, nextButton)
+DoubleBoonPresentation(screen, nextButton)
 ```
 ---

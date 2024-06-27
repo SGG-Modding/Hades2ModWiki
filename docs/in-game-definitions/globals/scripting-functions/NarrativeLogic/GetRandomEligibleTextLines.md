@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `nil`, `randomConversation`
 ## Usage
 ```lua
-function GetRandomEligibleTextLines(source, textLineSets, priorities, args)
+GetRandomEligibleTextLines(source, textLineSets, priorities, args)
 ```
 ---

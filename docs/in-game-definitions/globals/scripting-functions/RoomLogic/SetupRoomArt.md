@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupRoomArt(currentRun, currentRoom)
+SetupRoomArt(currentRun, currentRoom)
 ```
 ---

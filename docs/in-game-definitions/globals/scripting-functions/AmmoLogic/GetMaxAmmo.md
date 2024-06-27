@@ -6,6 +6,6 @@ Function name in AmmoLogic.lua
 `maxAmmo`
 ## Usage
 ```lua
-function GetMaxAmmo(weaponName)
+GetMaxAmmo(weaponName)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `highest`
 ## Usage
 ```lua
-function GetMaxDistance(tableArg)
+GetMaxDistance(tableArg)
 ```
 ---

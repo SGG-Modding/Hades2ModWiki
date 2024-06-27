@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function SwitchWeaponImage(id, newImageName)
+SwitchWeaponImage(id, newImageName)
 ```
 ---

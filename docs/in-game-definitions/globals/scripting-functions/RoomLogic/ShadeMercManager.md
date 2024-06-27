@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function ShadeMercManager(room, args)
+ShadeMercManager(room, args)
 ```
 ---

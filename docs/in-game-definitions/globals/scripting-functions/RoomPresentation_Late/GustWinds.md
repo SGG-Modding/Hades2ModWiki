@@ -6,6 +6,6 @@ Function name in RoomPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function GustWinds(args)
+GustWinds(args)
 ```
 ---

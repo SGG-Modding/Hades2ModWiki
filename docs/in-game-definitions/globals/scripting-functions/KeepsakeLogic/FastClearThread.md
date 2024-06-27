@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `none`
 ## Usage
 ```lua
-function FastClearThread(clearTimeThreshold, dodgeTraitData)
+FastClearThread(clearTimeThreshold, dodgeTraitData)
 ```
 ---

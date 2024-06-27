@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ClearBlindEffect(victim, functionArgs, triggerArgs)
+ClearBlindEffect(victim, functionArgs, triggerArgs)
 ```
 ---

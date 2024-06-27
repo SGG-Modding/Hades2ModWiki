@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function UpdateShrineRunDoorArrow(source, args)
+UpdateShrineRunDoorArrow(source, args)
 ```
 ---

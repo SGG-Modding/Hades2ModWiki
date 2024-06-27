@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `index`, `0`
 ## Usage
 ```lua
-function GetIndex(tableArg, value)
+GetIndex(tableArg, value)
 ```
 ---

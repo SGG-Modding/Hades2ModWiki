@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `none`
 ## Usage
 ```lua
-function GetManaCost(weaponData, useRequiredMana, args)
+GetManaCost(weaponData, useRequiredMana, args)
 ```
 ---

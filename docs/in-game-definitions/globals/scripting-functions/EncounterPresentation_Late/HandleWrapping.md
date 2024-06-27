@@ -6,6 +6,6 @@ Function name in EncounterPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function HandleWrapping(eventSource)
+HandleWrapping(eventSource)
 ```
 ---

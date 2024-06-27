@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseGhostAdminScreen(screen, button)
+CloseGhostAdminScreen(screen, button)
 ```
 ---

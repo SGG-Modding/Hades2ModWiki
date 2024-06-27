@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyTraitUpgrade(unit, applyLuaUpgrades)
+ApplyTraitUpgrade(unit, applyLuaUpgrades)
 ```
 ---

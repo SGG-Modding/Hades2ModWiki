@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `newHero`
 ## Usage
 ```lua
-function CreateNewHero(prevRun, args)
+CreateNewHero(prevRun, args)
 ```
 ---

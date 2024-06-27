@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `copy`
 ## Usage
 ```lua
-function ShallowCopyTable(table)
+ShallowCopyTable(table)
 ```
 ---

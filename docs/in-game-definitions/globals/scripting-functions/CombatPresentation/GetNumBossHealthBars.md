@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `bars`
 ## Usage
 ```lua
-function GetNumBossHealthBars()
+GetNumBossHealthBars()
 ```
 ---

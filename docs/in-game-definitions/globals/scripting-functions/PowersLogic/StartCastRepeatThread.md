@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function StartCastRepeatThread(startX, startY, functionArgs)
+StartCastRepeatThread(startX, startY, functionArgs)
 ```
 ---

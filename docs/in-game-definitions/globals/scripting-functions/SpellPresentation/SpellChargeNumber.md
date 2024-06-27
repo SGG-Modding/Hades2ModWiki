@@ -6,6 +6,6 @@ Function name in SpellPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpellChargeNumber(traitData, manaSpendCost, remainingSpend)
+SpellChargeNumber(traitData, manaSpendCost, remainingSpend)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `mana`
 ## Usage
 ```lua
-function GetHeroMaxAvailableMana()
+GetHeroMaxAvailableMana()
 ```
 ---

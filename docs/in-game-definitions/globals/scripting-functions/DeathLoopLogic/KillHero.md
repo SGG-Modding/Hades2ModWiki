@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function KillHero(victim, triggerArgs)
+KillHero(victim, triggerArgs)
 ```
 ---

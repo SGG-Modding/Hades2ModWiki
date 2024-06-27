@@ -6,6 +6,6 @@ Function name in RunHistoryLogic.lua
 `none`
 ## Usage
 ```lua
-function RunHistoryUpdateArrows(screen, button)
+RunHistoryUpdateArrows(screen, button)
 ```
 ---

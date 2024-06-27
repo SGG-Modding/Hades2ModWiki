@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function TavernaStartPresentation(source, args)
+TavernaStartPresentation(source, args)
 ```
 ---

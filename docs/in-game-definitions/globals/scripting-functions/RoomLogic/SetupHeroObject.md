@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupHeroObject(room, applyLuaUpgrades)
+SetupHeroObject(room, applyLuaUpgrades)
 ```
 ---

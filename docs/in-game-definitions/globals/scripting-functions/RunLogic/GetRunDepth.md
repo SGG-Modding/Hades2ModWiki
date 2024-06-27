@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `1`, `depth`
 ## Usage
 ```lua
-function GetRunDepth(currentRun)
+GetRunDepth(currentRun)
 ```
 ---

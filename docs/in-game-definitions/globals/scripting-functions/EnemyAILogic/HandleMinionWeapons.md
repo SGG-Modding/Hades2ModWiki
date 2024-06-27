@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function HandleMinionWeapons(leader, aiData)
+HandleMinionWeapons(leader, aiData)
 ```
 ---

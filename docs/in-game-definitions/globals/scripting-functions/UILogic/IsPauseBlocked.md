@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `bool`
 ## Usage
 ```lua
-function IsPauseBlocked()
+IsPauseBlocked()
 ```
 ---

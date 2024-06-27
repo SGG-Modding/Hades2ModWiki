@@ -6,6 +6,6 @@ Function name in UIPresentation.lua
 `none`
 ## Usage
 ```lua
-function UpgradeChoiceScreenOpenStartPresentation(screen, lootData)
+UpgradeChoiceScreenOpenStartPresentation(screen, lootData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function GhostAdminScrollDown(screen, button)
+GhostAdminScrollDown(screen, button)
 ```
 ---

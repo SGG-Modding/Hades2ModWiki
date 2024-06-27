@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `newUnit`
 ## Usage
 ```lua
-function ActivateForPriorityConversation(enemyName, enemyData, conversationName, args)
+ActivateForPriorityConversation(enemyName, enemyData, conversationName, args)
 ```
 ---

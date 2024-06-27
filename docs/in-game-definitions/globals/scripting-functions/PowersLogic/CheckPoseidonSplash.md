@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckPoseidonSplash(victim, functionArgs, triggerArgs)
+CheckPoseidonSplash(victim, functionArgs, triggerArgs)
 ```
 ---

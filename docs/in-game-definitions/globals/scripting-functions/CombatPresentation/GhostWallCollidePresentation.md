@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function GhostWallCollidePresentation(collidee, collider)
+GhostWallCollidePresentation(collidee, collider)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function MedeaCurseChoice(source, args, screen)
+MedeaCurseChoice(source, args, screen)
 ```
 ---

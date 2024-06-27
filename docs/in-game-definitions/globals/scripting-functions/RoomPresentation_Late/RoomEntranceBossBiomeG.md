@@ -6,6 +6,6 @@ Function name in RoomPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function RoomEntranceBossBiomeG(currentRun, currentRoom, args)
+RoomEntranceBossBiomeG(currentRun, currentRoom, args)
 ```
 ---

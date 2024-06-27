@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function StartHitShield(hero, args)
+StartHitShield(hero, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `nil`
 ## Usage
 ```lua
-function GetMetaUpgradeCardCoords(metaUpgradeName)
+GetMetaUpgradeCardCoords(metaUpgradeName)
 ```
 ---

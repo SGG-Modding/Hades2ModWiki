@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckZeusProjectile(victim, functionArgs, triggerArgs)
+CheckZeusProjectile(victim, functionArgs, triggerArgs)
 ```
 ---

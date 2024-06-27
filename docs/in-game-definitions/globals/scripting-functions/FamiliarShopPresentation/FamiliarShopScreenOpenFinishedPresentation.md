@@ -6,6 +6,6 @@ Function name in FamiliarShopPresentation.lua
 `none`
 ## Usage
 ```lua
-function FamiliarShopScreenOpenFinishedPresentation(screen)
+FamiliarShopScreenOpenFinishedPresentation(screen)
 ```
 ---

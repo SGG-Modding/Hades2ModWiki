@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function RoomEntranceDrop(currentRun, currentRoom, args)
+RoomEntranceDrop(currentRun, currentRoom, args)
 ```
 ---

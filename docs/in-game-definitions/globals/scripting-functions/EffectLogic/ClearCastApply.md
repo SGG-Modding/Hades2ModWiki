@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function ClearCastApply(triggerArgs)
+ClearCastApply(triggerArgs)
 ```
 ---

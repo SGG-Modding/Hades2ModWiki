@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `low`, `high`, `number`
 ## Usage
 ```lua
-function Clamp(number, low, high)
+Clamp(number, low, high)
 ```
 ---

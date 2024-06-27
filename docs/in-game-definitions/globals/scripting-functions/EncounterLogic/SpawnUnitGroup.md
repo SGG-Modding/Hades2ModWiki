@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnUnitGroup(unitGroup, encounter, spawnInfo)
+SpawnUnitGroup(unitGroup, encounter, spawnInfo)
 ```
 ---

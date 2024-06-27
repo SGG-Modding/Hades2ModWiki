@@ -6,6 +6,6 @@ Function name in CostumePresentation.lua
 `none`
 ## Usage
 ```lua
-function ArachneCostumeEndPresentation(screen, args)
+ArachneCostumeEndPresentation(screen, args)
 ```
 ---

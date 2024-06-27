@@ -6,6 +6,6 @@ Function name in BiomeStateLogic.lua
 `none`
 ## Usage
 ```lua
-function CinderMeteorWarning(unit, args)
+CinderMeteorWarning(unit, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CostumePresentation.lua
 `none`
 ## Usage
 ```lua
-function DoorGoldCostumePresentation(money)
+DoorGoldCostumePresentation(money)
 ```
 ---

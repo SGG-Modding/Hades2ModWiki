@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleNemesisCombatSpawn(eventSource)
+HandleNemesisCombatSpawn(eventSource)
 ```
 ---

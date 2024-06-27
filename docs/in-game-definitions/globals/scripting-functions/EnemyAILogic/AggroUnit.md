@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function AggroUnit(enemy, hostileAggro)
+AggroUnit(enemy, hostileAggro)
 ```
 ---

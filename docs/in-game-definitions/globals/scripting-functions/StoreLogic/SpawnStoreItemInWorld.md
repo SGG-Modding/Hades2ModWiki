@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `spawnedItem`
 ## Usage
 ```lua
-function SpawnStoreItemInWorld(itemData, kitId)
+SpawnStoreItemInWorld(itemData, kitId)
 ```
 ---

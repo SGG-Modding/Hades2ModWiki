@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function HeroAlphaDelay(currentRun, delay)
+HeroAlphaDelay(currentRun, delay)
 ```
 ---

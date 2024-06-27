@@ -6,6 +6,6 @@ Function name in FamiliarPresentation.lua
 `none`
 ## Usage
 ```lua
-function CatFamiliarSpawnPresentation(familiar, args)
+CatFamiliarSpawnPresentation(familiar, args)
 ```
 ---

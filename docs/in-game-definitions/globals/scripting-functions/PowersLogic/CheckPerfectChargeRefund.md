@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckPerfectChargeRefund(weaponData, args, triggerArgs)
+CheckPerfectChargeRefund(weaponData, args, triggerArgs)
 ```
 ---

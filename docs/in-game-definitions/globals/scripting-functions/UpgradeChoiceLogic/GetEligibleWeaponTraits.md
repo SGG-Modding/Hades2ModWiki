@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `eligibleTraits`
 ## Usage
 ```lua
-function GetEligibleWeaponTraits(traitNames)
+GetEligibleWeaponTraits(traitNames)
 ```
 ---

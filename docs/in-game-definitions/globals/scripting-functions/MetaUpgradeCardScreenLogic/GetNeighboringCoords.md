@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `neighboringNames`
 ## Usage
 ```lua
-function GetNeighboringCoords(row, column, includeDiagonal)
+GetNeighboringCoords(row, column, includeDiagonal)
 ```
 ---

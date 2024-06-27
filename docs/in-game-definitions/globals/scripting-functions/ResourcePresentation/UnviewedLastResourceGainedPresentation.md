@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function UnviewedLastResourceGainedPresentation(screen, button)
+UnviewedLastResourceGainedPresentation(screen, button)
 ```
 ---

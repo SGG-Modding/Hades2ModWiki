@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function EchoChoice(source, args, screen)
+EchoChoice(source, args, screen)
 ```
 ---

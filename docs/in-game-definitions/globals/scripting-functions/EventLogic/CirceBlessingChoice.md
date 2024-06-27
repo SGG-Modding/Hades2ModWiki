@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function CirceBlessingChoice(source, args, screen)
+CirceBlessingChoice(source, args, screen)
 ```
 ---

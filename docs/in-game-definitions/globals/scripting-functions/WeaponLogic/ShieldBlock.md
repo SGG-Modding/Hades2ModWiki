@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function ShieldBlock(triggerArgs, functionArgs)
+ShieldBlock(triggerArgs, functionArgs)
 ```
 ---

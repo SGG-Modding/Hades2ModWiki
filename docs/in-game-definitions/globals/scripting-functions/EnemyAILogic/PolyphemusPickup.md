@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`
 ## Usage
 ```lua
-function PolyphemusPickup(enemy, aiData, args)
+PolyphemusPickup(enemy, aiData, args)
 ```
 ---

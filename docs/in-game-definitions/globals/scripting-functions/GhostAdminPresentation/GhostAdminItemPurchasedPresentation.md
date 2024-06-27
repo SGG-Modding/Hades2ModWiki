@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function GhostAdminItemPurchasedPresentation(button, upgradeData, args)
+GhostAdminItemPurchasedPresentation(button, upgradeData, args)
 ```
 ---

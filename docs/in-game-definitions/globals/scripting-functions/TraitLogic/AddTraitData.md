@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `newTrait`
 ## Usage
 ```lua
-function AddTraitData(unit, traitData, args)
+AddTraitData(unit, traitData, args)
 ```
 ---

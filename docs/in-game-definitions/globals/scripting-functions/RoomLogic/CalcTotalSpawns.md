@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `1`, `0`, `totalSpawns`
 ## Usage
 ```lua
-function CalcTotalSpawns(currentRun, currentRoom, currentEncounter, spawnInfo)
+CalcTotalSpawns(currentRun, currentRoom, currentEncounter, spawnInfo)
 ```
 ---

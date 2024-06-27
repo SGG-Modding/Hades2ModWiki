@@ -6,6 +6,6 @@ Function name in SpellPresentation.lua
 `none`
 ## Usage
 ```lua
-function CheckSpellOutOfManaPresentation(triggerArgs, weaponData, functionArgs)
+CheckSpellOutOfManaPresentation(triggerArgs, weaponData, functionArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in DeathLoopLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupCamera(source, args)
+SetupCamera(source, args)
 ```
 ---

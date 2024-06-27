@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `0`
 ## Usage
 ```lua
-function GetHeroUniqueGodCount(hero)
+GetHeroUniqueGodCount(hero)
 ```
 ---

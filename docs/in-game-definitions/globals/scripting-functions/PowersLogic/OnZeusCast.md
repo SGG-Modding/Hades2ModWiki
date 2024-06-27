@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function OnZeusCast(weaponData, functionArgs, triggerArgs)
+OnZeusCast(weaponData, functionArgs, triggerArgs)
 ```
 ---

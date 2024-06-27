@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `bool`
 ## Usage
 ```lua
-function SpendResource(name, amount, source, args)
+SpendResource(name, amount, source, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MarketLogic.lua
 `screen`
 ## Usage
 ```lua
-function OpenMarketScreen(args)
+OpenMarketScreen(args)
 ```
 ---

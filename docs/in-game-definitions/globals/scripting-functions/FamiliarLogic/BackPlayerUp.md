@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function BackPlayerUp(user, source, args)
+BackPlayerUp(user, source, args)
 ```
 ---

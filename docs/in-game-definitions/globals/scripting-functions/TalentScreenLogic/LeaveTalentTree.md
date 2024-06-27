@@ -6,6 +6,6 @@ Function name in TalentScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function LeaveTalentTree(screen, button)
+LeaveTalentTree(screen, button)
 ```
 ---

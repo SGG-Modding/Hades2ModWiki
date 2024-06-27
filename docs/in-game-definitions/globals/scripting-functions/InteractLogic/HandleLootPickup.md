@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleLootPickup(currentRun, loot, args)
+HandleLootPickup(currentRun, loot, args)
 ```
 ---

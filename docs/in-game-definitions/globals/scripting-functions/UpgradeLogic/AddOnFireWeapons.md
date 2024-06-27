@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function AddOnFireWeapons(hero, weaponName, upgradeData)
+AddOnFireWeapons(hero, weaponName, upgradeData)
 ```
 ---

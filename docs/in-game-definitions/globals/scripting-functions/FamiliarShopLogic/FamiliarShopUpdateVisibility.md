@@ -6,6 +6,6 @@ Function name in FamiliarShopLogic.lua
 `none`
 ## Usage
 ```lua
-function FamiliarShopUpdateVisibility(screen)
+FamiliarShopUpdateVisibility(screen)
 ```
 ---

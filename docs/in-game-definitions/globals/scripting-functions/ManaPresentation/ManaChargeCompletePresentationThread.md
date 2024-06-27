@@ -6,6 +6,6 @@ Function name in ManaPresentation.lua
 `none`
 ## Usage
 ```lua
-function ManaChargeCompletePresentationThread(weaponData, duration)
+ManaChargeCompletePresentationThread(weaponData, duration)
 ```
 ---

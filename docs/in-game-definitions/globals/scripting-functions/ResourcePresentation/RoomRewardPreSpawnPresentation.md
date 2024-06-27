@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function RoomRewardPreSpawnPresentation(source, args)
+RoomRewardPreSpawnPresentation(source, args)
 ```
 ---

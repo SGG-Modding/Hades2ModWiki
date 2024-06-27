@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `outStr`
 ## Usage
 ```lua
-function TableToJSONString(tableArg, keyBlacklist, name, depth, maxDepth)
+TableToJSONString(tableArg, keyBlacklist, name, depth, maxDepth)
 ```
 ---

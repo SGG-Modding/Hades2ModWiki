@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function EndWeaponCastChannelSlow(weaponData, args)
+EndWeaponCastChannelSlow(weaponData, args)
 ```
 ---

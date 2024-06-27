@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function PolyphemusWaitForPlayerAction(enemy, aiData, args)
+PolyphemusWaitForPlayerAction(enemy, aiData, args)
 ```
 ---

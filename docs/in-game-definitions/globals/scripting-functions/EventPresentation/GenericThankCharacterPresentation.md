@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function GenericThankCharacterPresentation(npc, partner, textLinesPlayed, args)
+GenericThankCharacterPresentation(npc, partner, textLinesPlayed, args)
 ```
 ---

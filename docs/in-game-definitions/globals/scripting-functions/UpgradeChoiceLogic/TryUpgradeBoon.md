@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `newButton`
 ## Usage
 ```lua
-function TryUpgradeBoon(lootData, screen, button)
+TryUpgradeBoon(lootData, screen, button)
 ```
 ---

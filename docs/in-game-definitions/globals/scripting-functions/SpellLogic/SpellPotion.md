@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function SpellPotion(owner, weaponData, args)
+SpellPotion(owner, weaponData, args)
 ```
 ---

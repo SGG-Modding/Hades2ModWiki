@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function DestroyObjectNames(source, args)
+DestroyObjectNames(source, args)
 ```
 ---

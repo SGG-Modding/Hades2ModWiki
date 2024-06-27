@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function DebugEnemySpawnPageButton(screen, button)
+DebugEnemySpawnPageButton(screen, button)
 ```
 ---

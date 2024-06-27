@@ -6,6 +6,6 @@ Function name in SpellScreenLogic.lua
 `eligibleSpells`
 ## Usage
 ```lua
-function GetEligibleSpells(screen, args)
+GetEligibleSpells(screen, args)
 ```
 ---

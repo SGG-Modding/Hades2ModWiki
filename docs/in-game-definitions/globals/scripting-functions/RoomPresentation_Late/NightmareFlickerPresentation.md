@@ -6,6 +6,6 @@ Function name in RoomPresentation_Late.lua
 `bool`
 ## Usage
 ```lua
-function NightmareFlickerPresentation(delay)
+NightmareFlickerPresentation(delay)
 ```
 ---

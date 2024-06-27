@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsRoomRewardEligible(run, room, reward, previouslyChosenRewards, args)
+IsRoomRewardEligible(run, room, reward, previouslyChosenRewards, args)
 ```
 ---

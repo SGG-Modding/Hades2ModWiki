@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function PolymorphCopyStatus(victim, functionArgs, triggerArgs)
+PolymorphCopyStatus(victim, functionArgs, triggerArgs)
 ```
 ---

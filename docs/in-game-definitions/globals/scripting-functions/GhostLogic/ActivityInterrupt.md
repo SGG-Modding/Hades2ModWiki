@@ -6,6 +6,6 @@ Function name in GhostLogic.lua
 `none`
 ## Usage
 ```lua
-function ActivityInterrupt(source, args)
+ActivityInterrupt(source, args)
 ```
 ---

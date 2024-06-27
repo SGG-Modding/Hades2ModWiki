@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function CalcAngleDifference(angle1, angle2)
+CalcAngleDifference(angle1, angle2)
 ```
 ---

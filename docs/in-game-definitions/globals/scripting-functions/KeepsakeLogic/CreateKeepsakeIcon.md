@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `none`
 ## Usage
 ```lua
-function CreateKeepsakeIcon(screen, components, args)
+CreateKeepsakeIcon(screen, components, args)
 ```
 ---

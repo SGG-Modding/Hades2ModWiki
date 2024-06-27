@@ -6,6 +6,6 @@ Function name in BountyPresentation.lua
 `none`
 ## Usage
 ```lua
-function BountyTurnInPresentation(source, args)
+BountyTurnInPresentation(source, args)
 ```
 ---

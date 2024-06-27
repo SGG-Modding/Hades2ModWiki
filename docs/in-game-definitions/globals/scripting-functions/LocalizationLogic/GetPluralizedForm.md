@@ -6,6 +6,6 @@ Function name in LocalizationLogic.lua
 `text`
 ## Usage
 ```lua
-function GetPluralizedForm(text, value)
+GetPluralizedForm(text, value)
 ```
 ---

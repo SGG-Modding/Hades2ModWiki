@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function PlayerLastStandHeal(victim, args, lastStandHealth, lastStandFraction)
+PlayerLastStandHeal(victim, args, lastStandHealth, lastStandFraction)
 ```
 ---

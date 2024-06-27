@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function InventoryScreenUpdate(screen, args, elapsed)
+InventoryScreenUpdate(screen, args, elapsed)
 ```
 ---

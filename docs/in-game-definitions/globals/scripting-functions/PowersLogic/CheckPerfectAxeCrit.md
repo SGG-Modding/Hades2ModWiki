@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckPerfectAxeCrit(victim, args, triggerArgs)
+CheckPerfectAxeCrit(victim, args, triggerArgs)
 ```
 ---

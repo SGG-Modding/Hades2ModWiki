@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `none`
 ## Usage
 ```lua
-function SetWeaponManaDisallowedFire(weaponName)
+SetWeaponManaDisallowedFire(weaponName)
 ```
 ---

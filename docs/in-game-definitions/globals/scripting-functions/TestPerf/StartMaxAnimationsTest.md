@@ -6,6 +6,6 @@ Function name in TestPerf.lua
 `none`
 ## Usage
 ```lua
-function StartMaxAnimationsTest()
+StartMaxAnimationsTest()
 ```
 ---

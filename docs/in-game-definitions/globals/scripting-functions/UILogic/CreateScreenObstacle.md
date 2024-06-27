@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `obstacleId`
 ## Usage
 ```lua
-function CreateScreenObstacle(params)
+CreateScreenObstacle(params)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `bool`
 ## Usage
 ```lua
-function ShouldRotatorActivate(id, unitData, numActivations, activationCap)
+ShouldRotatorActivate(id, unitData, numActivations, activationCap)
 ```
 ---

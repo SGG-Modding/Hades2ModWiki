@@ -6,6 +6,6 @@ Function name in RoomPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function ChronosThronePresentation(source, args)
+ChronosThronePresentation(source, args)
 ```
 ---

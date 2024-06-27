@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function StripInteractTextRequirements(eventSource, args)
+StripInteractTextRequirements(eventSource, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayDoAutoPins(screen)
+TraitTrayDoAutoPins(screen)
 ```
 ---

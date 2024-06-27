@@ -6,6 +6,6 @@ Function name in BiomeStateLogic.lua
 `none`
 ## Usage
 ```lua
-function RainEffectApply(unit, args)
+RainEffectApply(unit, args)
 ```
 ---

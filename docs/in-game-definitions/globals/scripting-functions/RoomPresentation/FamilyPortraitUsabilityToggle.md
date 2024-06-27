@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function FamilyPortraitUsabilityToggle(eventSource)
+FamilyPortraitUsabilityToggle(eventSource)
 ```
 ---

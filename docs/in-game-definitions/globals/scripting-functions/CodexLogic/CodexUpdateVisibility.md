@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function CodexUpdateVisibility(screen, args)
+CodexUpdateVisibility(screen, args)
 ```
 ---

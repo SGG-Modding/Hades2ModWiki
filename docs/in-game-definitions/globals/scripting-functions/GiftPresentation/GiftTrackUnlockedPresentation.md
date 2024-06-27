@@ -6,6 +6,6 @@ Function name in GiftPresentation.lua
 `none`
 ## Usage
 ```lua
-function GiftTrackUnlockedPresentation(entryName)
+GiftTrackUnlockedPresentation(entryName)
 ```
 ---

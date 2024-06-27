@@ -6,6 +6,6 @@ Function name in Debug.lua
 `buffer`
 ## Usage
 ```lua
-function DebugWriteLine(buffer, appendString)
+DebugWriteLine(buffer, appendString)
 ```
 ---

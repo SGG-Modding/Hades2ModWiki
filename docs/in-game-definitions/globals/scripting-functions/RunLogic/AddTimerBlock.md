@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `none`
 ## Usage
 ```lua
-function AddTimerBlock(run, flag)
+AddTimerBlock(run, flag)
 ```
 ---

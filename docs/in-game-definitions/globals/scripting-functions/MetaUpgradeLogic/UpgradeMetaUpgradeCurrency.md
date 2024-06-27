@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function UpgradeMetaUpgradeCurrency(oldTrait, newTrait)
+UpgradeMetaUpgradeCurrency(oldTrait, newTrait)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateMetaUpgradeCard(screen, row, column)
+UpdateMetaUpgradeCard(screen, row, column)
 ```
 ---

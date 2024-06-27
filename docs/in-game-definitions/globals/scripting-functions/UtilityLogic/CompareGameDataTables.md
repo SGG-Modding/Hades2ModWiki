@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function CompareGameDataTables(table1, table2)
+CompareGameDataTables(table1, table2)
 ```
 ---

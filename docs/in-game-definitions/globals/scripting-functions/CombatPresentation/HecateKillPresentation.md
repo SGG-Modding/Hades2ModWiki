@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function HecateKillPresentation(unit, args)
+HecateKillPresentation(unit, args)
 ```
 ---

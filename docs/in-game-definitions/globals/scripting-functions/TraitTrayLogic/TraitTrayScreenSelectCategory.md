@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayScreenSelectCategory(screen, button)
+TraitTrayScreenSelectCategory(screen, button)
 ```
 ---

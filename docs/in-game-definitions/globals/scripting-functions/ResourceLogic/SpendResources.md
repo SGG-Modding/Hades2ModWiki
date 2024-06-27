@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function SpendResources(resourceCosts, source, args)
+SpendResources(resourceCosts, source, args)
 ```
 ---

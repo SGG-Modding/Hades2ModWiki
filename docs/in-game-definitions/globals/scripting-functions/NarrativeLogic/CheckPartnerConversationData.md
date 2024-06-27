@@ -6,6 +6,6 @@ Function name in NarrativeLogic.lua
 `textLines`
 ## Usage
 ```lua
-function CheckPartnerConversationData(textLines)
+CheckPartnerConversationData(textLines)
 ```
 ---

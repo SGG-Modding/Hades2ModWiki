@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `numChoices`
 ## Usage
 ```lua
-function CalcNumLootChoices(isGodLoot, treatAsGodLootByShops)
+CalcNumLootChoices(isGodLoot, treatAsGodLootByShops)
 ```
 ---

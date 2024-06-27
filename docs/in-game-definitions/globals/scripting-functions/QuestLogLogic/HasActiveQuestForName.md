@@ -6,6 +6,6 @@ Function name in QuestLogLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasActiveQuestForName(name)
+HasActiveQuestForName(name)
 ```
 ---

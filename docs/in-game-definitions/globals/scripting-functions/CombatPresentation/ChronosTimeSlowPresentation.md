@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function ChronosTimeSlowPresentation(args)
+ChronosTimeSlowPresentation(args)
 ```
 ---

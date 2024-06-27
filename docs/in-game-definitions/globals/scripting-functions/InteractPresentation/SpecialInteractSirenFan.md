@@ -6,6 +6,6 @@ Function name in InteractPresentation.lua
 `none`
 ## Usage
 ```lua
-function SpecialInteractSirenFan(source, args)
+SpecialInteractSirenFan(source, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in SellTraitLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseSellTraitScreen(screen, button)
+CloseSellTraitScreen(screen, button)
 ```
 ---

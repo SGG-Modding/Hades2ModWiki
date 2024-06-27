@@ -6,6 +6,6 @@ Function name in MarketLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseMarketScreen(screen, button)
+CloseMarketScreen(screen, button)
 ```
 ---

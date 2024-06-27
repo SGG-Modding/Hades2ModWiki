@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `id`
 ## Usage
 ```lua
-function SelectSpawnPoint(currentRoom, enemy, encounter, args)
+SelectSpawnPoint(currentRoom, enemy, encounter, args)
 ```
 ---

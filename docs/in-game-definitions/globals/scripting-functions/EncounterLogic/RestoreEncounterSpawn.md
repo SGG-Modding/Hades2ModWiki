@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function RestoreEncounterSpawn(encounter, enemyToRestore)
+RestoreEncounterSpawn(encounter, enemyToRestore)
 ```
 ---

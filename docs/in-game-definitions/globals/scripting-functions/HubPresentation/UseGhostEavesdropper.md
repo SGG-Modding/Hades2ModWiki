@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function UseGhostEavesdropper(usee, args, user)
+UseGhostEavesdropper(usee, args, user)
 ```
 ---

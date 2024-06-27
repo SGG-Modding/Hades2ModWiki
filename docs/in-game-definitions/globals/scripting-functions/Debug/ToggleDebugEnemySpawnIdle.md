@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function ToggleDebugEnemySpawnIdle(screen, button)
+ToggleDebugEnemySpawnIdle(screen, button)
 ```
 ---

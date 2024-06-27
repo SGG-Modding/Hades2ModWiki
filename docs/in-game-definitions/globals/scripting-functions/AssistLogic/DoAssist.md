@@ -6,6 +6,6 @@ Function name in AssistLogic.lua
 `none`
 ## Usage
 ```lua
-function DoAssist(unit)
+DoAssist(unit)
 ```
 ---

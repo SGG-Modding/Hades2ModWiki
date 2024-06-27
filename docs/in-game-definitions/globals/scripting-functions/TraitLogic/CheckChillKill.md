@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckChillKill(args, attacker, victim, triggerArgs)
+CheckChillKill(args, attacker, victim, triggerArgs)
 ```
 ---

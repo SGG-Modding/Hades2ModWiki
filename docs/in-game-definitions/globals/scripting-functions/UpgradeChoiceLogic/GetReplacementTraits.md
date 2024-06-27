@@ -6,6 +6,6 @@ Function name in UpgradeChoiceLogic.lua
 `none`
 ## Usage
 ```lua
-function GetReplacementTraits(traitNames, onlyFromLootName)
+GetReplacementTraits(traitNames, onlyFromLootName)
 ```
 ---

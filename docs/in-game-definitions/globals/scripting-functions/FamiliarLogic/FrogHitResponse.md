@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function FrogHitResponse(unit, triggerArgs)
+FrogHitResponse(unit, triggerArgs)
 ```
 ---

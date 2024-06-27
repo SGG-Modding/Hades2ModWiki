@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function TrackNemesisChallengeProgress(encounter, victim, killer)
+TrackNemesisChallengeProgress(encounter, victim, killer)
 ```
 ---

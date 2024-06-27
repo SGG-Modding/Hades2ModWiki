@@ -6,6 +6,6 @@ Function name in AssistLogic.lua
 `none`
 ## Usage
 ```lua
-function RemoveAssistWeapons(unit, traitData)
+RemoveAssistWeapons(unit, traitData)
 ```
 ---

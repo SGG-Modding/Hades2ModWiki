@@ -6,6 +6,6 @@ Function name in QuestLogLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseQuestLogScreen(screen, button)
+CloseQuestLogScreen(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MarketLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasUnviewedMarketItem(source, args)
+HasUnviewedMarketItem(source, args)
 ```
 ---

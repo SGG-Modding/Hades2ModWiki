@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `none`
 ## Usage
 ```lua
-function InventoryScreenDisplayCategory(screen, categoryIndex, args)
+InventoryScreenDisplayCategory(screen, categoryIndex, args)
 ```
 ---

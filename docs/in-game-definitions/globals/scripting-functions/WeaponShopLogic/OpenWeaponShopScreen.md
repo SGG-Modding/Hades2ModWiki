@@ -6,6 +6,6 @@ Function name in WeaponShopLogic.lua
 `screen`
 ## Usage
 ```lua
-function OpenWeaponShopScreen(openedFrom, args)
+OpenWeaponShopScreen(openedFrom, args)
 ```
 ---

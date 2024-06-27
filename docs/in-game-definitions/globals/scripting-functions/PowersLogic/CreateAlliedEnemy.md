@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `newEnemy`
 ## Usage
 ```lua
-function CreateAlliedEnemy(enemyName, args)
+CreateAlliedEnemy(enemyName, args)
 ```
 ---

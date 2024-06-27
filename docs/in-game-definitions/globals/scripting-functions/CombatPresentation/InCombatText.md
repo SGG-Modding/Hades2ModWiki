@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function InCombatText(targetId, combatText, textDuration, args)
+InCombatText(targetId, combatText, textDuration, args)
 ```
 ---

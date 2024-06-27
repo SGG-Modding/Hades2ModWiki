@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function RemoveSimSpeedChange(name, args)
+RemoveSimSpeedChange(name, args)
 ```
 ---

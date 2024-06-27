@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDoorUnavailable(source, args)
+CheckDoorUnavailable(source, args)
 ```
 ---

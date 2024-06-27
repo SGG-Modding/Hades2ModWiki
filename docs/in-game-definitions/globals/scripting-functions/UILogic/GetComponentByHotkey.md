@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `component`, `nil`
 ## Usage
 ```lua
-function GetComponentByHotkey(components, hotkey)
+GetComponentByHotkey(components, hotkey)
 ```
 ---

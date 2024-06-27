@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `amount`, `0`
 ## Usage
 ```lua
-function GetResourceCost(resourceCosts, resourceName)
+GetResourceCost(resourceCosts, resourceName)
 ```
 ---

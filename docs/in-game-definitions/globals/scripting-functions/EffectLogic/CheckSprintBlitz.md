@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckSprintBlitz(weaponData, functionArgs, triggerArgs)
+CheckSprintBlitz(weaponData, functionArgs, triggerArgs)
 ```
 ---

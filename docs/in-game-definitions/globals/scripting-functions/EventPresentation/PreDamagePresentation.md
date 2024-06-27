@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function PreDamagePresentation(enemy, damageAmount, damageData)
+PreDamagePresentation(enemy, damageAmount, damageData)
 ```
 ---

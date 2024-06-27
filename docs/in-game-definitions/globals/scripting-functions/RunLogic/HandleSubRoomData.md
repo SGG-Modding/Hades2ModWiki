@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `none`
 ## Usage
 ```lua
-function HandleSubRoomData(source, args)
+HandleSubRoomData(source, args)
 ```
 ---

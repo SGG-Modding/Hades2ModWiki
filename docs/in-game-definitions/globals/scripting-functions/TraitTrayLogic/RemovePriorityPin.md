@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `traitButton`
 ## Usage
 ```lua
-function RemovePriorityPin(screen, possiblePins)
+RemovePriorityPin(screen, possiblePins)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsPossibleMetaUpgradeAutoPin(trait)
+IsPossibleMetaUpgradeAutoPin(trait)
 ```
 ---

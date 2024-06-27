@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupWorldShop(source, args)
+SetupWorldShop(source, args)
 ```
 ---

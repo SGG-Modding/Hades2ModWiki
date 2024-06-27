@@ -6,6 +6,6 @@ Function name in BoonInfoLogic.lua
 `none`
 ## Usage
 ```lua
-function CloseBoonInfoScreen(screen, button)
+CloseBoonInfoScreen(screen, button)
 ```
 ---

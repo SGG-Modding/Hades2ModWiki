@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function AddTalentPoints(args, traitData)
+AddTalentPoints(args, traitData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function OrbitAI(enemy, aiData)
+OrbitAI(enemy, aiData)
 ```
 ---

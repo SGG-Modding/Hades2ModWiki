@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckConversations(source, args)
+CheckConversations(source, args)
 ```
 ---

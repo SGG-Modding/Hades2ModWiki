@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function DoWeaponSounds(soundData, parentTable, weaponData)
+DoWeaponSounds(soundData, parentTable, weaponData)
 ```
 ---

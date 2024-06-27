@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function PickEliteAttributes(currentRoom, enemy)
+PickEliteAttributes(currentRoom, enemy)
 ```
 ---

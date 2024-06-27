@@ -6,6 +6,6 @@ Function name in RewardPresentation.lua
 `none`
 ## Usage
 ```lua
-function CreateDoorRewardPreview(exitDoor, chosenRewardType, chosenLootName, index, args)
+CreateDoorRewardPreview(exitDoor, chosenRewardType, chosenLootName, index, args)
 ```
 ---

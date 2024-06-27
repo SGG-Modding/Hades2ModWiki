@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `none`
 ## Usage
 ```lua
-function TraitTrayUpdatePinLocations(screen, args)
+TraitTrayUpdatePinLocations(screen, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function StartSpellCharge(triggerArgs, weaponData, dataArgs)
+StartSpellCharge(triggerArgs, weaponData, dataArgs)
 ```
 ---

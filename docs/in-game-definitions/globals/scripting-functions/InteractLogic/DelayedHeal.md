@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function DelayedHeal(delay, amount, source)
+DelayedHeal(delay, amount, source)
 ```
 ---

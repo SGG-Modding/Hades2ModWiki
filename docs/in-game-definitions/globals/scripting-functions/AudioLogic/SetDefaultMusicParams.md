@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `none`
 ## Usage
 ```lua
-function SetDefaultMusicParams(trackName, musicId, args)
+SetDefaultMusicParams(trackName, musicId, args)
 ```
 ---

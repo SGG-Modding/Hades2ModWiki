@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `bool`
 ## Usage
 ```lua
-function HeraManaRestoreEligible(mana)
+HeraManaRestoreEligible(mana)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `none`
 ## Usage
 ```lua
-function OnLinePlayedSomething(line, source, args, originalArgs)
+OnLinePlayedSomething(line, source, args, originalArgs)
 ```
 ---

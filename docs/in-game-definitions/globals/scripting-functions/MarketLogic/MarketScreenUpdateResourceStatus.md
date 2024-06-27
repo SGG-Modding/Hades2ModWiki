@@ -6,6 +6,6 @@ Function name in MarketLogic.lua
 `none`
 ## Usage
 ```lua
-function MarketScreenUpdateResourceStatus(screen, button)
+MarketScreenUpdateResourceStatus(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `0`, `total`
 ## Usage
 ```lua
-function GetTotalAccumulatedMetaPoints()
+GetTotalAccumulatedMetaPoints()
 ```
 ---

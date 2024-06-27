@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function SirenKillScreenEffects(unit, args)
+SirenKillScreenEffects(unit, args)
 ```
 ---

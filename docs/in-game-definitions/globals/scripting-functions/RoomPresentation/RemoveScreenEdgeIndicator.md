@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function RemoveScreenEdgeIndicator(source)
+RemoveScreenEdgeIndicator(source)
 ```
 ---

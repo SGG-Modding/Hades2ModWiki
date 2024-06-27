@@ -6,6 +6,6 @@ Function name in CostumeLogic.lua
 `bool`
 ## Usage
 ```lua
-function HealthBufferTraitSort(itemA, itemB)
+HealthBufferTraitSort(itemA, itemB)
 ```
 ---

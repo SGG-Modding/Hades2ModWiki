@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `returnTable`
 ## Usage
 ```lua
-function MergeTables(table1, table2)
+MergeTables(table1, table2)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function GhostAdminSelectCategory(screen, button)
+GhostAdminSelectCategory(screen, button)
 ```
 ---

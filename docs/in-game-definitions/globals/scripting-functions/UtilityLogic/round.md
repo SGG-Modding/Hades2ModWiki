@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function round(num, idp)
+round(num, idp)
 ```
 ---

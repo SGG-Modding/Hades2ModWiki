@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasSeenRoom(roomName, excludeThisRun)
+HasSeenRoom(roomName, excludeThisRun)
 ```
 ---

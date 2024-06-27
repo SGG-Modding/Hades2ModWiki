@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasCodexEntryBeenFound(requiredEntryName, requiredEntryIndex)
+HasCodexEntryBeenFound(requiredEntryName, requiredEntryIndex)
 ```
 ---

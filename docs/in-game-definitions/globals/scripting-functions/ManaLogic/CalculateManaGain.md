@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `0`
 ## Usage
 ```lua
-function CalculateManaGain(triggerArgs, weaponData)
+CalculateManaGain(triggerArgs, weaponData)
 ```
 ---

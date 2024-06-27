@@ -6,6 +6,6 @@ Function name in EncounterPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function ChronosPhaseTransition(boss, currentRun, aiStage)
+ChronosPhaseTransition(boss, currentRun, aiStage)
 ```
 ---

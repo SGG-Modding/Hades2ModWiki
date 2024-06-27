@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsEncounterForced(currentRun, room, nextEncounterData)
+IsEncounterForced(currentRun, room, nextEncounterData)
 ```
 ---

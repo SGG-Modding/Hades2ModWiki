@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `none`
 ## Usage
 ```lua
-function BoatRopeSwing(ropeSwing, args, user)
+BoatRopeSwing(ropeSwing, args, user)
 ```
 ---

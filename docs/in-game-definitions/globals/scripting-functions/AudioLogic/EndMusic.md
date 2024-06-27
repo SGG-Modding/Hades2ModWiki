@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `none`
 ## Usage
 ```lua
-function EndMusic(musicId, musicName, hardStopTime)
+EndMusic(musicId, musicName, hardStopTime)
 ```
 ---

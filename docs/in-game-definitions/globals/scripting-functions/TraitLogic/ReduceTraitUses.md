@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function ReduceTraitUses(trait, args)
+ReduceTraitUses(trait, args)
 ```
 ---

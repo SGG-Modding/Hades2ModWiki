@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckBurnConsumption(victim, functionArgs, triggerArgs)
+CheckBurnConsumption(victim, functionArgs, triggerArgs)
 ```
 ---

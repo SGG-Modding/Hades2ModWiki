@@ -6,6 +6,6 @@ Function name in KeepsakeLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsKeepsakeMaxed(traitName)
+IsKeepsakeMaxed(traitName)
 ```
 ---

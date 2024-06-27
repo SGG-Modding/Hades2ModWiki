@@ -6,6 +6,6 @@ Function name in EffectLogic.lua
 `none`
 ## Usage
 ```lua
-function AddLobWeaponLockLayer(tag)
+AddLobWeaponLockLayer(tag)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `bool`
 ## Usage
 ```lua
-function Contains(tableArg, value)
+Contains(tableArg, value)
 ```
 ---

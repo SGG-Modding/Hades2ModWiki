@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `baseTable`
 ## Usage
 ```lua
-function ConcatTableValues(baseTable, tableToAdd)
+ConcatTableValues(baseTable, tableToAdd)
 ```
 ---

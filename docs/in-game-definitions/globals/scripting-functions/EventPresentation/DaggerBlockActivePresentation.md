@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function DaggerBlockActivePresentation(traitData, reloadTime)
+DaggerBlockActivePresentation(traitData, reloadTime)
 ```
 ---

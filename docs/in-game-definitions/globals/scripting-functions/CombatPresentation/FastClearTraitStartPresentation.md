@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function FastClearTraitStartPresentation(clearTimeThreshold, traitData)
+FastClearTraitStartPresentation(clearTimeThreshold, traitData)
 ```
 ---

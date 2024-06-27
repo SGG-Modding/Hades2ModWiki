@@ -6,6 +6,6 @@ Function name in FishingPresentation.lua
 `none`
 ## Usage
 ```lua
-function FishingTargetPulse(source, args, fishData)
+FishingTargetPulse(source, args, fishData)
 ```
 ---

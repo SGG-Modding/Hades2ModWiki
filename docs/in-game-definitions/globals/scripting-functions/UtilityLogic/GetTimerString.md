@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `str`
 ## Usage
 ```lua
-function GetTimerString(totalSeconds, decimals)
+GetTimerString(totalSeconds, decimals)
 ```
 ---

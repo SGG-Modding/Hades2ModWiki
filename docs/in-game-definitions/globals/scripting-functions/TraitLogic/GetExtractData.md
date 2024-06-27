@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `extractedData`
 ## Usage
 ```lua
-function GetExtractData(newTraitData, includeExternal)
+GetExtractData(newTraitData, includeExternal)
 ```
 ---

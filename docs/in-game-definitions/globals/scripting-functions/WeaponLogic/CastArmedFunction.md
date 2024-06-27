@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function CastArmedFunction(unit, weaponData, functionArgs, triggerArgs)
+CastArmedFunction(unit, weaponData, functionArgs, triggerArgs)
 ```
 ---

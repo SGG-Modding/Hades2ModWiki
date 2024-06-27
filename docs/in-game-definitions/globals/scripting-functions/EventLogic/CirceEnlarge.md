@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function CirceEnlarge(unit, args, roomArgs)
+CirceEnlarge(unit, args, roomArgs)
 ```
 ---

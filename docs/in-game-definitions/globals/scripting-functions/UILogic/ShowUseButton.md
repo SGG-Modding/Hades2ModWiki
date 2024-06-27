@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `none`
 ## Usage
 ```lua
-function ShowUseButton(objectId, useTarget)
+ShowUseButton(objectId, useTarget)
 ```
 ---

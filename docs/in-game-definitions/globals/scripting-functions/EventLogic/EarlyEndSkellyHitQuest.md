@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function EarlyEndSkellyHitQuest(victim, args)
+EarlyEndSkellyHitQuest(victim, args)
 ```
 ---

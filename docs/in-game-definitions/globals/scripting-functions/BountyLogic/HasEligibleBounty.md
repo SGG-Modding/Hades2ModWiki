@@ -6,6 +6,6 @@ Function name in BountyLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasEligibleBounty(source, args)
+HasEligibleBounty(source, args)
 ```
 ---

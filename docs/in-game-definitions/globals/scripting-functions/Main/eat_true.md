@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function eat_true(t, ...)
+eat_true(t, ...)
 ```
 ---

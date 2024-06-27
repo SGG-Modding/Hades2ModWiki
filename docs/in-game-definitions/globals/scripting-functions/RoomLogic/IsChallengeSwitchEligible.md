@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsChallengeSwitchEligible(currentRun, numPedestals, chanceSuccess)
+IsChallengeSwitchEligible(currentRun, numPedestals, chanceSuccess)
 ```
 ---

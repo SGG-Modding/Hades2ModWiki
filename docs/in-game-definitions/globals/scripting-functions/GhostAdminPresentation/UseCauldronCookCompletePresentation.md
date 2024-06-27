@@ -6,6 +6,6 @@ Function name in GhostAdminPresentation.lua
 `none`
 ## Usage
 ```lua
-function UseCauldronCookCompletePresentation(usee, args)
+UseCauldronCookCompletePresentation(usee, args)
 ```
 ---

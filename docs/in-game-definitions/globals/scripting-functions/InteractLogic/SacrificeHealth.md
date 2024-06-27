@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `0`, `randomDamageValue`
 ## Usage
 ```lua
-function SacrificeHealth(args)
+SacrificeHealth(args)
 ```
 ---

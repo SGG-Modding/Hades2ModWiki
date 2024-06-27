@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function StartWeaponSlowMotion(triggerArgs, weaponData, args)
+StartWeaponSlowMotion(triggerArgs, weaponData, args)
 ```
 ---

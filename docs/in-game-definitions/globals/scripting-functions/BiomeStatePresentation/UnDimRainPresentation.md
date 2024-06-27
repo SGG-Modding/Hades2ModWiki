@@ -6,6 +6,6 @@ Function name in BiomeStatePresentation.lua
 `none`
 ## Usage
 ```lua
-function UnDimRainPresentation(args)
+UnDimRainPresentation(args)
 ```
 ---

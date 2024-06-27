@@ -6,6 +6,6 @@ Function name in SellTraitLogic.lua
 `none`
 ## Usage
 ```lua
-function GenerateSellTraitShop(currentRun, currentRoom, args)
+GenerateSellTraitShop(currentRun, currentRoom, args)
 ```
 ---

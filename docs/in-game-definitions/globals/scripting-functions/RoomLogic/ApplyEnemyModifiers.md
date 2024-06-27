@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyEnemyModifiers(unit, currentRun, args)
+ApplyEnemyModifiers(unit, currentRun, args)
 ```
 ---

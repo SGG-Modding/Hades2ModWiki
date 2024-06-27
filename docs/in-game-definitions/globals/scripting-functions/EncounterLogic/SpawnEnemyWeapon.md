@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `nil`, `newWeaponId`
 ## Usage
 ```lua
-function SpawnEnemyWeapon(currentRoom, spawnData, useRandomSpawn)
+SpawnEnemyWeapon(currentRoom, spawnData, useRandomSpawn)
 ```
 ---

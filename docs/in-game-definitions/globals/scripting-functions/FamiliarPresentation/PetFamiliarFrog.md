@@ -6,6 +6,6 @@ Function name in FamiliarPresentation.lua
 `none`
 ## Usage
 ```lua
-function PetFamiliarFrog(usee, args)
+PetFamiliarFrog(usee, args)
 ```
 ---

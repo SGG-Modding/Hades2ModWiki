@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function RecordUse(id, name)
+RecordUse(id, name)
 ```
 ---

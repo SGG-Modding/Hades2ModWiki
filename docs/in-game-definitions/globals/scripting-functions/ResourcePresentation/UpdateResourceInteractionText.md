@@ -6,6 +6,6 @@ Function name in ResourcePresentation.lua
 `none`
 ## Usage
 ```lua
-function UpdateResourceInteractionText(screen, button)
+UpdateResourceInteractionText(screen, button)
 ```
 ---

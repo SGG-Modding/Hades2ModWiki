@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function AutoUseFailedPresentation(useTarget, userId)
+AutoUseFailedPresentation(useTarget, userId)
 ```
 ---

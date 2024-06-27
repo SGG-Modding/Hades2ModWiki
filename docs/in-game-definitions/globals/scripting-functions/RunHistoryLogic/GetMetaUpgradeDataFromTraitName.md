@@ -6,6 +6,6 @@ Function name in RunHistoryLogic.lua
 `data`, `nil`
 ## Usage
 ```lua
-function GetMetaUpgradeDataFromTraitName(traitName)
+GetMetaUpgradeDataFromTraitName(traitName)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function SlingshotRepulse(collidee, collider)
+SlingshotRepulse(collidee, collider)
 ```
 ---

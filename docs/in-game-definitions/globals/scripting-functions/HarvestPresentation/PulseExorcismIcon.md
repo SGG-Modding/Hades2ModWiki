@@ -6,6 +6,6 @@ Function name in HarvestPresentation.lua
 `none`
 ## Usage
 ```lua
-function PulseExorcismIcon(sourceId, leftMove)
+PulseExorcismIcon(sourceId, leftMove)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function WipeSpawnsOnKill(victim, args, triggerArgs)
+WipeSpawnsOnKill(victim, args, triggerArgs)
 ```
 ---

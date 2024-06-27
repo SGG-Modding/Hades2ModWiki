@@ -6,6 +6,6 @@ Function name in FamiliarPresentation.lua
 `none`
 ## Usage
 ```lua
-function CatFamiliarFieldsTeleportPresentation(familiar)
+CatFamiliarFieldsTeleportPresentation(familiar)
 ```
 ---

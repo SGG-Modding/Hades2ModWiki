@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`
 ## Usage
 ```lua
-function IsLocationBlockedWithinDistance(source, distance)
+IsLocationBlockedWithinDistance(source, distance)
 ```
 ---

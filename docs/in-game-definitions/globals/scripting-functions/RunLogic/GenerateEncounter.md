@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `none`
 ## Usage
 ```lua
-function GenerateEncounter(currentRun, room, encounter)
+GenerateEncounter(currentRun, room, encounter)
 ```
 ---

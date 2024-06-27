@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function GodLootPickupPresentation(loot, args)
+GodLootPickupPresentation(loot, args)
 ```
 ---

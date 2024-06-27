@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ProcessDashProperties(args)
+ProcessDashProperties(args)
 ```
 ---

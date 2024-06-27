@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `bool`, `didTimeout`
 ## Usage
 ```lua
-function MoveWithinRange(enemy, moveTargetId, aiData)
+MoveWithinRange(enemy, moveTargetId, aiData)
 ```
 ---

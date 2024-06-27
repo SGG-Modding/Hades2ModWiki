@@ -6,6 +6,6 @@ Function name in SpellPresentation.lua
 `none`
 ## Usage
 ```lua
-function CreateSpellHUD(trait, args)
+CreateSpellHUD(trait, args)
 ```
 ---

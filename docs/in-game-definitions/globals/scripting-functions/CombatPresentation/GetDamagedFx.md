@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `nil`
 ## Usage
 ```lua
-function GetDamagedFx(victim, sourceProjectileData)
+GetDamagedFx(victim, sourceProjectileData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CosmeticsPresentation.lua
 `id`
 ## Usage
 ```lua
-function GetCosmeticFocusId(saleData)
+GetCosmeticFocusId(saleData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in ResourceLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasResourceCost(resourceCosts)
+HasResourceCost(resourceCosts)
 ```
 ---

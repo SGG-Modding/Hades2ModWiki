@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function ResetSentry(enemy)
+ResetSentry(enemy)
 ```
 ---

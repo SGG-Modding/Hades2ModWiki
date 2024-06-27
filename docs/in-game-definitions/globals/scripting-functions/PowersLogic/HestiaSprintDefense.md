@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function HestiaSprintDefense(weaponData, traitArgs, triggerArgs)
+HestiaSprintDefense(weaponData, traitArgs, triggerArgs)
 ```
 ---

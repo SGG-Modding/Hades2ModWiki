@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnChronosBanners(enemy, aiData)
+SpawnChronosBanners(enemy, aiData)
 ```
 ---

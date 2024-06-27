@@ -6,6 +6,6 @@ Function name in Main.lua
 `value`, `ref`
 ## Usage
 ```lua
-function pickle(t)
+pickle(t)
 ```
 ---

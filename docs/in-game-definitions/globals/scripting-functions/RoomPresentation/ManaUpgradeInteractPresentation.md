@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function ManaUpgradeInteractPresentation(source, args, textLines)
+ManaUpgradeInteractPresentation(source, args, textLines)
 ```
 ---

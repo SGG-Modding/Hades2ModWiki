@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function SpawnObstaclesOnDeath(victim, triggerArgs)
+SpawnObstaclesOnDeath(victim, triggerArgs)
 ```
 ---

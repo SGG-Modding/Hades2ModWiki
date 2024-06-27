@@ -6,6 +6,6 @@ Function name in EffectPresentation.lua
 `none`
 ## Usage
 ```lua
-function PositionEffectStacks(id)
+PositionEffectStacks(id)
 ```
 ---

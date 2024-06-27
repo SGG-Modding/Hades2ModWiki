@@ -6,6 +6,6 @@ Function name in TraitTrayLogic.lua
 `none`
 ## Usage
 ```lua
-function SetTraitTrayDetails(args)
+SetTraitTrayDetails(args)
 ```
 ---

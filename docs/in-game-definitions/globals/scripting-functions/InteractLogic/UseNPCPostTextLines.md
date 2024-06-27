@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function UseNPCPostTextLines(npc, partner, textLinesPlayed)
+UseNPCPostTextLines(npc, partner, textLinesPlayed)
 ```
 ---

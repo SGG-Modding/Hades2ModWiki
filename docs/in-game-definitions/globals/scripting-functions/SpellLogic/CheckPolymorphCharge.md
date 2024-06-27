@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckPolymorphCharge(triggerArgs, functionArgs)
+CheckPolymorphCharge(triggerArgs, functionArgs)
 ```
 ---

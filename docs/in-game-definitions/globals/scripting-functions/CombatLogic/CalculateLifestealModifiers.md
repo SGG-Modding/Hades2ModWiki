@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function CalculateLifestealModifiers(attacker, victim, weaponData, triggerArgs)
+CalculateLifestealModifiers(attacker, victim, weaponData, triggerArgs)
 ```
 ---

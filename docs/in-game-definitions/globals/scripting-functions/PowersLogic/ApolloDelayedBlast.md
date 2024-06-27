@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function ApolloDelayedBlast(weaponData, traitArgs, triggerArgs)
+ApolloDelayedBlast(weaponData, traitArgs, triggerArgs)
 ```
 ---

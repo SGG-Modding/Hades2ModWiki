@@ -6,6 +6,6 @@ Function name in BountyLogic.lua
 `none`
 ## Usage
 ```lua
-function BountyBoardScreenDisplayCategory(screen, categoryIndex)
+BountyBoardScreenDisplayCategory(screen, categoryIndex)
 ```
 ---

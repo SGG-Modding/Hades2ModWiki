@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplySelfBuff(weaponData, traitArgs, triggerArgs)
+ApplySelfBuff(weaponData, traitArgs, triggerArgs)
 ```
 ---

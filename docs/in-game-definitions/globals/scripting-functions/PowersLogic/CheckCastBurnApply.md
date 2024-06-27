@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckCastBurnApply(victim, functionArgs, triggerArgs)
+CheckCastBurnApply(victim, functionArgs, triggerArgs)
 ```
 ---

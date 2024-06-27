@@ -6,6 +6,6 @@ Function name in EventLogic.lua
 `none`
 ## Usage
 ```lua
-function StartNemesisDamageContest(source, args)
+StartNemesisDamageContest(source, args)
 ```
 ---

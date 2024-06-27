@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `bool`
 ## Usage
 ```lua
-function ShouldDoLastKillPresentation(currentEncounter)
+ShouldDoLastKillPresentation(currentEncounter)
 ```
 ---

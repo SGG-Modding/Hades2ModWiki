@@ -6,6 +6,6 @@ Function name in UpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function ApplyEnemyTraits(currentRun, enemy)
+ApplyEnemyTraits(currentRun, enemy)
 ```
 ---

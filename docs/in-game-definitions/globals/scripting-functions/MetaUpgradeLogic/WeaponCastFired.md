@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function WeaponCastFired(owner, weaponData, args, triggerArgs)
+WeaponCastFired(owner, weaponData, args, triggerArgs)
 ```
 ---

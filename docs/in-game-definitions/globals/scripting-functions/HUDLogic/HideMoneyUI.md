@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `none`
 ## Usage
 ```lua
-function HideMoneyUI(args)
+HideMoneyUI(args)
 ```
 ---

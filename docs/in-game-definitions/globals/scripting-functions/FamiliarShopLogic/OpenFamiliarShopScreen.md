@@ -6,6 +6,6 @@ Function name in FamiliarShopLogic.lua
 `screen`
 ## Usage
 ```lua
-function OpenFamiliarShopScreen(openedFrom, args)
+OpenFamiliarShopScreen(openedFrom, args)
 ```
 ---

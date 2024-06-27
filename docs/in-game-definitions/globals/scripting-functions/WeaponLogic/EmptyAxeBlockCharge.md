@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function EmptyAxeBlockCharge(weaponName, stageReached, stageData)
+EmptyAxeBlockCharge(weaponName, stageReached, stageData)
 ```
 ---

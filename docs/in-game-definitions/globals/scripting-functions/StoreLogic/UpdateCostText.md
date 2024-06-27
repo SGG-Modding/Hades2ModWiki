@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateCostText(object, textExists)
+UpdateCostText(object, textExists)
 ```
 ---

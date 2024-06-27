@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function HadesRetaliate(unit, args, triggerArgs)
+HadesRetaliate(unit, args, triggerArgs)
 ```
 ---

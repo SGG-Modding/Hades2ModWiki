@@ -6,6 +6,6 @@ Function name in StoreLogic.lua
 `none`
 ## Usage
 ```lua
-function AwardRandomStoreItem(args)
+AwardRandomStoreItem(args)
 ```
 ---

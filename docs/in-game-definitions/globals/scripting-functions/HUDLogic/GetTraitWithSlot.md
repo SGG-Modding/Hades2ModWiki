@@ -6,6 +6,6 @@ Function name in HUDLogic.lua
 `trait`, `nil`
 ## Usage
 ```lua
-function GetTraitWithSlot(traits, slot)
+GetTraitWithSlot(traits, slot)
 ```
 ---

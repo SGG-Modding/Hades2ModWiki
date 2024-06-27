@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `loot`
 ## Usage
 ```lua
-function GiveLoot(args)
+GiveLoot(args)
 ```
 ---

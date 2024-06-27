@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function ValidateOrderData(dataSet, orderData)
+ValidateOrderData(dataSet, orderData)
 ```
 ---

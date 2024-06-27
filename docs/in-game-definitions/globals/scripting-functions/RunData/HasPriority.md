@@ -6,6 +6,6 @@ Function name in RunData.lua
 `bool`
 ## Usage
 ```lua
-function HasPriority(name, piorities)
+HasPriority(name, piorities)
 ```
 ---

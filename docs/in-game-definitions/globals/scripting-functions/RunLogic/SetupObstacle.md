@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `none`
 ## Usage
 ```lua
-function SetupObstacle(obstacle, replaceOnlyNull, args)
+SetupObstacle(obstacle, replaceOnlyNull, args)
 ```
 ---

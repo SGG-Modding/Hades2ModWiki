@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function PreDamageBoss(enemy, damageAmount, damageData)
+PreDamageBoss(enemy, damageAmount, damageData)
 ```
 ---

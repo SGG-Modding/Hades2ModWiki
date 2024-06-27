@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `tableArg`, `value`
 ## Usage
 ```lua
-function GetFirstValue(tableArg)
+GetFirstValue(tableArg)
 ```
 ---

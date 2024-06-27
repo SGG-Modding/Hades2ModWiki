@@ -6,6 +6,6 @@ Function name in RunHistoryLogic.lua
 `none`
 ## Usage
 ```lua
-function RunHistoryScrollDown(screen, button)
+RunHistoryScrollDown(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function EstablishConversationStartingPoint(source, args)
+EstablishConversationStartingPoint(source, args)
 ```
 ---

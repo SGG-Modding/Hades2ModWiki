@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `countValues`
 ## Usage
 ```lua
-function CountValues(tableArg, value)
+CountValues(tableArg, value)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `none`
 ## Usage
 ```lua
-function AddTableKeysCheckDupes(tableToOverwrite, tableToTake)
+AddTableKeysCheckDupes(tableToOverwrite, tableToTake)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in FamiliarShopLogic.lua
 `none`
 ## Usage
 ```lua
-function FamiliarShopScrollDown(screen, button)
+FamiliarShopScrollDown(screen, button)
 ```
 ---

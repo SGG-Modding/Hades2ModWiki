@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function SetNextInteractLines(source, textLines)
+SetNextInteractLines(source, textLines)
 ```
 ---

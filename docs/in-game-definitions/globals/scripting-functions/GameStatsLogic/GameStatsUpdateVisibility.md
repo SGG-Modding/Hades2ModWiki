@@ -6,6 +6,6 @@ Function name in GameStatsLogic.lua
 `none`
 ## Usage
 ```lua
-function GameStatsUpdateVisibility(screen)
+GameStatsUpdateVisibility(screen)
 ```
 ---

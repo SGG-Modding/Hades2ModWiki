@@ -6,6 +6,6 @@ Function name in AudioPresentation.lua
 `none`
 ## Usage
 ```lua
-function SingingPresentation(source, args)
+SingingPresentation(source, args)
 ```
 ---

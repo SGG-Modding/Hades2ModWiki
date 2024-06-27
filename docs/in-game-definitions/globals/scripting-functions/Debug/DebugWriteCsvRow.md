@@ -6,6 +6,6 @@ Function name in Debug.lua
 `none`
 ## Usage
 ```lua
-function DebugWriteCsvRow(buffer, row)
+DebugWriteCsvRow(buffer, row)
 ```
 ---

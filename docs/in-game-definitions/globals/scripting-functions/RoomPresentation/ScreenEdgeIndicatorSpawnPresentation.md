@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function ScreenEdgeIndicatorSpawnPresentation(source, args, indicatorBackingId, indicatorId)
+ScreenEdgeIndicatorSpawnPresentation(source, args, indicatorBackingId, indicatorId)
 ```
 ---

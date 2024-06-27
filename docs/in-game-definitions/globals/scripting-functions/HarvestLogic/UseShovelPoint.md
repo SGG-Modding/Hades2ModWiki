@@ -6,6 +6,6 @@ Function name in HarvestLogic.lua
 `none`
 ## Usage
 ```lua
-function UseShovelPoint(source, args, user)
+UseShovelPoint(source, args, user)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in UIPresentation.lua
 `none`
 ## Usage
 ```lua
-function DelayedScreenObstacle(animationData)
+DelayedScreenObstacle(animationData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in BountyLogic.lua
 `none`
 ## Usage
 ```lua
-function StartPackagedBounty(screen, button)
+StartPackagedBounty(screen, button)
 ```
 ---

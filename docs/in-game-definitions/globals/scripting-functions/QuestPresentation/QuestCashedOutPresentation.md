@@ -6,6 +6,6 @@ Function name in QuestPresentation.lua
 `o`
 ## Usage
 ```lua
-function QuestCashedOutPresentation(screen, button)
+QuestCashedOutPresentation(screen, button)
 ```
 ---

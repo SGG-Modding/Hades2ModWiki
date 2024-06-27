@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function EndEncounterEffects(currentRun, currentRoom, currentEncounter)
+EndEncounterEffects(currentRun, currentRoom, currentEncounter)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GhostAdminLogic.lua
 `none`
 ## Usage
 ```lua
-function GhostAdminDisplayCategory(screen, button)
+GhostAdminDisplayCategory(screen, button)
 ```
 ---

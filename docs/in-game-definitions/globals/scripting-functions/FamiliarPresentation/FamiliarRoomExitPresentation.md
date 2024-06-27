@@ -6,6 +6,6 @@ Function name in FamiliarPresentation.lua
 `none`
 ## Usage
 ```lua
-function FamiliarRoomExitPresentation(usee, args)
+FamiliarRoomExitPresentation(usee, args)
 ```
 ---

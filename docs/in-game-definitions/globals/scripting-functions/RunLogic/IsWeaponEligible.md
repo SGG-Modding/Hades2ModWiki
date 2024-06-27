@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsWeaponEligible(currentRun, weaponData)
+IsWeaponEligible(currentRun, weaponData)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasNeighboringUnlockedCards(row, column)
+HasNeighboringUnlockedCards(row, column)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in RewardLogic.lua
 `nil`, `fallbackRewardName`
 ## Usage
 ```lua
-function ChooseRoomReward(run, room, rewardStoreName, previouslyChosenRewards, args)
+ChooseRoomReward(run, room, rewardStoreName, previouslyChosenRewards, args)
 ```
 ---

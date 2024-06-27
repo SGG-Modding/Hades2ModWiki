@@ -6,6 +6,6 @@ Function name in GiftLogic.lua
 `none`
 ## Usage
 ```lua
-function IsGiftBarCompletelyUnlocked(entryName)
+IsGiftBarCompletelyUnlocked(entryName)
 ```
 ---

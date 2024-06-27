@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function SelectTentacleBurrowPoints(enemy, aiData)
+SelectTentacleBurrowPoints(enemy, aiData)
 ```
 ---

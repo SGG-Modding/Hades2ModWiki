@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function MouseOverMetaUpgrade(button, screenFirstOpen)
+MouseOverMetaUpgrade(button, screenFirstOpen)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function UseLoot(usee, args, user)
+UseLoot(usee, args, user)
 ```
 ---

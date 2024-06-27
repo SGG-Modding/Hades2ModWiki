@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function HandleSpawnerBurst(enemy, aiData)
+HandleSpawnerBurst(enemy, aiData)
 ```
 ---

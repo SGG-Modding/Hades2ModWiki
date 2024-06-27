@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `bool`
 ## Usage
 ```lua
-function CatFamiliarShouldAlert(familiar, args)
+CatFamiliarShouldAlert(familiar, args)
 ```
 ---

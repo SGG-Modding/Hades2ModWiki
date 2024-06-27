@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `playedSomething`, `nil`
 ## Usage
 ```lua
-function PlayVoiceLine(line, prevLine, parentLine, source, args, originalArgs)
+PlayVoiceLine(line, prevLine, parentLine, source, args, originalArgs)
 ```
 ---

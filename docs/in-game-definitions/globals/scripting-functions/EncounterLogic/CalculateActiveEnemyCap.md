@@ -6,6 +6,6 @@ Function name in EncounterLogic.lua
 `enemyCap`
 ## Usage
 ```lua
-function CalculateActiveEnemyCap(currentRun, currentRoom, currentEncounter)
+CalculateActiveEnemyCap(currentRun, currentRoom, currentEncounter)
 ```
 ---

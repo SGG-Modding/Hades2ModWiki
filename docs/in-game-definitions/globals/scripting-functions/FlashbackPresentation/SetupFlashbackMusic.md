@@ -6,6 +6,6 @@ Function name in FlashbackPresentation.lua
 `none`
 ## Usage
 ```lua
-function SetupFlashbackMusic(source, args)
+SetupFlashbackMusic(source, args)
 ```
 ---

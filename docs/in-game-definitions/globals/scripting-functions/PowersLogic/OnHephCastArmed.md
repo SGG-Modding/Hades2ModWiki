@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function OnHephCastArmed(triggerArgs, functionArgs)
+OnHephCastArmed(triggerArgs, functionArgs)
 ```
 ---

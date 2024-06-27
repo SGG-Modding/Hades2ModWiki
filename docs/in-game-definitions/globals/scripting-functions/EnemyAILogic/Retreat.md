@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function Retreat(enemy, aiData, retreatFromId)
+Retreat(enemy, aiData, retreatFromId)
 ```
 ---

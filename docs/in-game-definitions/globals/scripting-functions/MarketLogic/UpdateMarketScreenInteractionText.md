@@ -6,6 +6,6 @@ Function name in MarketLogic.lua
 `none`
 ## Usage
 ```lua
-function UpdateMarketScreenInteractionText(screen, button)
+UpdateMarketScreenInteractionText(screen, button)
 ```
 ---

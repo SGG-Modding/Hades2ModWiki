@@ -6,6 +6,6 @@ Function name in WeaponUpgradeLogic.lua
 `weaponName`
 ## Usage
 ```lua
-function GetEquippedWeapon()
+GetEquippedWeapon()
 ```
 ---

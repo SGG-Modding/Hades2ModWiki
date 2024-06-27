@@ -6,6 +6,6 @@ Function name in InteractLogic.lua
 `none`
 ## Usage
 ```lua
-function SacrificeHealthAndHeal(args)
+SacrificeHealthAndHeal(args)
 ```
 ---

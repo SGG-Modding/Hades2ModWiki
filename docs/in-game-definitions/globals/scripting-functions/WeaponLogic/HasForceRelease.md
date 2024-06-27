@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `bool`
 ## Usage
 ```lua
-function HasForceRelease(weaponData, stageData)
+HasForceRelease(weaponData, stageData)
 ```
 ---

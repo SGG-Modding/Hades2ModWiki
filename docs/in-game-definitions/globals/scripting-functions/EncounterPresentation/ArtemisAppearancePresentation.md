@@ -6,6 +6,6 @@ Function name in EncounterPresentation.lua
 `none`
 ## Usage
 ```lua
-function ArtemisAppearancePresentation(artemis)
+ArtemisAppearancePresentation(artemis)
 ```
 ---

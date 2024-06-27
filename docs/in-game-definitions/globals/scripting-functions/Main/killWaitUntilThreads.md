@@ -6,6 +6,6 @@ Function name in Main.lua
 `none`
 ## Usage
 ```lua
-function killWaitUntilThreads(event)
+killWaitUntilThreads(event)
 ```
 ---

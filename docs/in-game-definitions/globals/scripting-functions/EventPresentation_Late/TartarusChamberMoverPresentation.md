@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function TartarusChamberMoverPresentation(usee, args, user)
+TartarusChamberMoverPresentation(usee, args, user)
 ```
 ---

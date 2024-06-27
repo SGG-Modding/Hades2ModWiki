@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function SetTraitTextData(traitData, args)
+SetTraitTextData(traitData, args)
 ```
 ---

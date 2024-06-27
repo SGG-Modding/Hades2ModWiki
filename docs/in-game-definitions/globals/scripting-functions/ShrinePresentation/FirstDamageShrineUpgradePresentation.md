@@ -6,6 +6,6 @@ Function name in ShrinePresentation.lua
 `none`
 ## Usage
 ```lua
-function FirstDamageShrineUpgradePresentation(victim, attacker)
+FirstDamageShrineUpgradePresentation(victim, attacker)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in GhostLogic.lua
 `none`
 ## Usage
 ```lua
-function GhostRecruitsPreRun(source, args)
+GhostRecruitsPreRun(source, args)
 ```
 ---

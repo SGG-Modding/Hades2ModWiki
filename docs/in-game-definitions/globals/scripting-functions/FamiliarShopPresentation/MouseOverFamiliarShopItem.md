@@ -6,6 +6,6 @@ Function name in FamiliarShopPresentation.lua
 `none`
 ## Usage
 ```lua
-function MouseOverFamiliarShopItem(button)
+MouseOverFamiliarShopItem(button)
 ```
 ---

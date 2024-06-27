@@ -6,6 +6,6 @@ Function name in EnemyAILogic.lua
 `none`
 ## Usage
 ```lua
-function SetAI(newAIName, enemy, args)
+SetAI(newAIName, enemy, args)
 ```
 ---

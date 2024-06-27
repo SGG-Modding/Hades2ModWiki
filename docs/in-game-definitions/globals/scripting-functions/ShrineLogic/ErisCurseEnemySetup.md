@@ -6,6 +6,6 @@ Function name in ShrineLogic.lua
 `none`
 ## Usage
 ```lua
-function ErisCurseEnemySetup(trait, unit, args)
+ErisCurseEnemySetup(trait, unit, args)
 ```
 ---

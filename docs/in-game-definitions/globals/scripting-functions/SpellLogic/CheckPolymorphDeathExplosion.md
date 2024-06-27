@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckPolymorphDeathExplosion(enemy, args)
+CheckPolymorphDeathExplosion(enemy, args)
 ```
 ---

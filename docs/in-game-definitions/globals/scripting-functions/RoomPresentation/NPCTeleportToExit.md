@@ -6,6 +6,6 @@ Function name in RoomPresentation.lua
 `none`
 ## Usage
 ```lua
-function NPCTeleportToExit(enemy, exitId, delay)
+NPCTeleportToExit(enemy, exitId, delay)
 ```
 ---

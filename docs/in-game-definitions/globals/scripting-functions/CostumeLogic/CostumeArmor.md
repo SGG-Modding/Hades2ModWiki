@@ -6,6 +6,6 @@ Function name in CostumeLogic.lua
 `none`
 ## Usage
 ```lua
-function CostumeArmor(hero, args, roomArgs)
+CostumeArmor(hero, args, roomArgs)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function SetTransformingTraitsOnLoot(lootData, upgradeChoiceData)
+SetTransformingTraitsOnLoot(lootData, upgradeChoiceData)
 ```
 ---

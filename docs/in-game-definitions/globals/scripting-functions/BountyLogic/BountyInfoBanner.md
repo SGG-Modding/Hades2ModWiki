@@ -6,6 +6,6 @@ Function name in BountyLogic.lua
 `none`
 ## Usage
 ```lua
-function BountyInfoBanner(source, args)
+BountyInfoBanner(source, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function AltarExitPresentation(eventSource, args)
+AltarExitPresentation(eventSource, args)
 ```
 ---

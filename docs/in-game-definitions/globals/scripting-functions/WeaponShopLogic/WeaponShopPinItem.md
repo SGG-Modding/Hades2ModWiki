@@ -6,6 +6,6 @@ Function name in WeaponShopLogic.lua
 `none`
 ## Usage
 ```lua
-function WeaponShopPinItem(screen, button)
+WeaponShopPinItem(screen, button)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function AddOutgoingCritModifier(unit, data)
+AddOutgoingCritModifier(unit, data)
 ```
 ---

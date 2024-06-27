@@ -6,6 +6,6 @@ Function name in FamiliarLogic.lua
 `none`
 ## Usage
 ```lua
-function UseFamiliarUnequip(button, args, user)
+UseFamiliarUnequip(button, args, user)
 ```
 ---

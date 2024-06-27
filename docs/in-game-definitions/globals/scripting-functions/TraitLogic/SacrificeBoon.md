@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `none`
 ## Usage
 ```lua
-function SacrificeBoon(args, sourceTraitData)
+SacrificeBoon(args, sourceTraitData)
 ```
 ---

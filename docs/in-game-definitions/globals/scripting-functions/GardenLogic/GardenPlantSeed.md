@@ -6,6 +6,6 @@ Function name in GardenLogic.lua
 `none`
 ## Usage
 ```lua
-function GardenPlantSeed(screen, button)
+GardenPlantSeed(screen, button)
 ```
 ---

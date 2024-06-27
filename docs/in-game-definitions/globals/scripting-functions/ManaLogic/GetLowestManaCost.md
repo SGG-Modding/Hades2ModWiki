@@ -6,6 +6,6 @@ Function name in ManaLogic.lua
 `lowestManaCost`
 ## Usage
 ```lua
-function GetLowestManaCost()
+GetLowestManaCost()
 ```
 ---

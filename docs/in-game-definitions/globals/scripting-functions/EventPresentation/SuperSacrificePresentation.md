@@ -6,6 +6,6 @@ Function name in EventPresentation.lua
 `none`
 ## Usage
 ```lua
-function SuperSacrificePresentation(sacrificedGod, buffedGod, totalLevels)
+SuperSacrificePresentation(sacrificedGod, buffedGod, totalLevels)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in SpellLogic.lua
 `rarityName`
 ## Usage
 ```lua
-function GetTalentRarity(column)
+GetTalentRarity(column)
 ```
 ---

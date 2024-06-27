@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `highestIndex`
 ## Usage
 ```lua
-function GetHighestIndex(tableArg)
+GetHighestIndex(tableArg)
 ```
 ---

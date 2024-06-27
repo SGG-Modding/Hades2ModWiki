@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckMassiveAttack(victim, functionArgs, triggerArgs)
+CheckMassiveAttack(victim, functionArgs, triggerArgs)
 ```
 ---

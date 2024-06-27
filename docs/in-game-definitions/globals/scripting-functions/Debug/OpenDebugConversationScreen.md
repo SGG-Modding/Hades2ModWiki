@@ -6,6 +6,6 @@ Function name in Debug.lua
 `screen`
 ## Usage
 ```lua
-function OpenDebugConversationScreen()
+OpenDebugConversationScreen()
 ```
 ---

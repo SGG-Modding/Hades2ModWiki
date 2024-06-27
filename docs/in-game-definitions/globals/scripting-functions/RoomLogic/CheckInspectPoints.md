@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckInspectPoints(currentRun, source)
+CheckInspectPoints(currentRun, source)
 ```
 ---

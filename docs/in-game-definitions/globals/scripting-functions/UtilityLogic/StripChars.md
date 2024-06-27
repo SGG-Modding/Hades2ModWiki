@@ -6,6 +6,6 @@ Function name in UtilityLogic.lua
 `s`
 ## Usage
 ```lua
-function StripChars(str, chrs)
+StripChars(str, chrs)
 ```
 ---

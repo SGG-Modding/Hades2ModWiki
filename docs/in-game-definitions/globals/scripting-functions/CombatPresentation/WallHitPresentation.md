@@ -6,6 +6,6 @@ Function name in CombatPresentation.lua
 `none`
 ## Usage
 ```lua
-function WallHitPresentation(victim, triggerArgs)
+WallHitPresentation(victim, triggerArgs)
 ```
 ---

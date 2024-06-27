@@ -6,6 +6,6 @@ Function name in HubPresentation.lua
 `none`
 ## Usage
 ```lua
-function TentExitPresentation(eventSource, args)
+TentExitPresentation(eventSource, args)
 ```
 ---

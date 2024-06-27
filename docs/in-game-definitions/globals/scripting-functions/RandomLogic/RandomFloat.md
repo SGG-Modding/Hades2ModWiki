@@ -6,6 +6,6 @@ Function name in RandomLogic.lua
 `randomFloat`
 ## Usage
 ```lua
-function RandomFloat(low, high, rng)
+RandomFloat(low, high, rng)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in WeaponLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckAxeSpinDisable(unit, weaponData, args, triggerArgs)
+CheckAxeSpinDisable(unit, weaponData, args, triggerArgs)
 ```
 ---

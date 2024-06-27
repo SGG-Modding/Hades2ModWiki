@@ -6,6 +6,6 @@ Function name in MarketLogic.lua
 `none`
 ## Usage
 ```lua
-function UseMarketObject(usee, args)
+UseMarketObject(usee, args)
 ```
 ---

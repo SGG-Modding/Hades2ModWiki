@@ -6,6 +6,6 @@ Function name in RoomLogic.lua
 `none`
 ## Usage
 ```lua
-function ValidateLoops(trace, tableToCheck)
+ValidateLoops(trace, tableToCheck)
 ```
 ---

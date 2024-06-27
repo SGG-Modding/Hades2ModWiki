@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function SetCardOnDelay(id, delay)
+SetCardOnDelay(id, delay)
 ```
 ---

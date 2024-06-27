@@ -6,6 +6,6 @@ Function name in PowersLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckDaggerBlockRecharge(traitData, reloadTime)
+CheckDaggerBlockRecharge(traitData, reloadTime)
 ```
 ---

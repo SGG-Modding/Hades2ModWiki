@@ -6,6 +6,6 @@ Function name in CombatLogic.lua
 `none`
 ## Usage
 ```lua
-function EquipPlayerWeapon(weaponData, args)
+EquipPlayerWeapon(weaponData, args)
 ```
 ---

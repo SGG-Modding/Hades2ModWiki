@@ -6,6 +6,6 @@ Function name in CodexLogic.lua
 `none`
 ## Usage
 ```lua
-function CheckCodexUnlock(chapterName, entryName, args)
+CheckCodexUnlock(chapterName, entryName, args)
 ```
 ---

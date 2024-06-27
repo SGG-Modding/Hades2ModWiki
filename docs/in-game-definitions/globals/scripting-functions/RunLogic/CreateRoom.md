@@ -6,6 +6,6 @@ Function name in RunLogic.lua
 `room`
 ## Usage
 ```lua
-function CreateRoom(roomData, args)
+CreateRoom(roomData, args)
 ```
 ---

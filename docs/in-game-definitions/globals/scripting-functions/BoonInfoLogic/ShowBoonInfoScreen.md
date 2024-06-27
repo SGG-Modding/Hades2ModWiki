@@ -6,6 +6,6 @@ Function name in BoonInfoLogic.lua
 `none`
 ## Usage
 ```lua
-function ShowBoonInfoScreen(lootName, codexScreen, codexEntryName, codexEntryData)
+ShowBoonInfoScreen(lootName, codexScreen, codexEntryName, codexEntryData)
 ```
 ---

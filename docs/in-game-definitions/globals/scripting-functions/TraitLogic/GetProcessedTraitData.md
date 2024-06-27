@@ -6,6 +6,6 @@ Function name in TraitLogic.lua
 `traitData`
 ## Usage
 ```lua
-function GetProcessedTraitData(args)
+GetProcessedTraitData(args)
 ```
 ---

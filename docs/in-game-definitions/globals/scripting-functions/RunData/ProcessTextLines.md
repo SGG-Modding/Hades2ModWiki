@@ -6,6 +6,6 @@ Function name in RunData.lua
 `none`
 ## Usage
 ```lua
-function ProcessTextLines(source, textLineSet, prioritiesName, args)
+ProcessTextLines(source, textLineSet, prioritiesName, args)
 ```
 ---

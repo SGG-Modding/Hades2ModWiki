@@ -6,6 +6,6 @@ Function name in UILogic.lua
 `nil`
 ## Usage
 ```lua
-function GetUseText(useTarget)
+GetUseText(useTarget)
 ```
 ---

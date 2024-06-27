@@ -6,6 +6,6 @@ Function name in EventPresentation_Late.lua
 `none`
 ## Usage
 ```lua
-function CirceBlessingPostChoicePresentation(screen, args)
+CirceBlessingPostChoicePresentation(screen, args)
 ```
 ---

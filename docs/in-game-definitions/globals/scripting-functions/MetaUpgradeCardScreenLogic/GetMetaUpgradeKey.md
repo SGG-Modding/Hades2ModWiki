@@ -6,6 +6,6 @@ Function name in MetaUpgradeCardScreenLogic.lua
 `none`
 ## Usage
 ```lua
-function GetMetaUpgradeKey(row, column)
+GetMetaUpgradeKey(row, column)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in WeaponPresentation.lua
 `none`
 ## Usage
 ```lua
-function WeaponChargeStageStartPresentation(triggerArgs, weaponData, args, stageData)
+WeaponChargeStageStartPresentation(triggerArgs, weaponData, args, stageData)
 ```
 ---

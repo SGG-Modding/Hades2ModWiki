@@ -6,6 +6,6 @@ Function name in AudioLogic.lua
 `bool`
 ## Usage
 ```lua
-function IsVoiceLineEligible(line, prevLine, parentLine, source, args)
+IsVoiceLineEligible(line, prevLine, parentLine, source, args)
 ```
 ---

@@ -6,6 +6,6 @@ Function name in MetaUpgradeLogic.lua
 `none`
 ## Usage
 ```lua
-function RunLastStandTimeSlow(unit, args)
+RunLastStandTimeSlow(unit, args)
 ```
 ---
