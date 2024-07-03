@@ -66,10 +66,10 @@
 <p>This problem could be resolved by firing a custom signal in a very cautious <code>OnUsed</code> engine hook and spawning a thread in <code>SpawnRoomReward()</code> which reacted to the custom event. This spawns the rewards one after another without blocking the game logic and was exactly what I was looking for. If you are interested in the details, just check out the <a href="https://github.com/abevol/MultiReward" target="_blank" rel="noopener noreferrer">source code</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="final-notes">Final notes<a class="hash-link" aria-label="Direct link to Final notes" title="Direct link to Final notes" href="https://sgg-modding.github.io/Hades2ModWiki/blog/multithreading#final-notes">​</a></h2>
 <p>Thank you for making it this far! I hope you are as excited about the potential of this concept as I am. I am looking forward to seeing what you can build with this.</p>]]></content:encoded>
-            <category>multithreading</category>
-            <category>signal</category>
-            <category>processing</category>
-            <category>asynchronous</category>
+            <category>Multithreading</category>
+            <category>Signal</category>
+            <category>Processing</category>
+            <category>Asynchronous</category>
         </item>
     </channel>
 </rss>

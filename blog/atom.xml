@@ -69,9 +69,9 @@
             <name>Siuhnexus</name>
             <uri>https://github.com/Siuhnexus</uri>
         </author>
-        <category label="multithreading" term="multithreading"/>
-        <category label="signal" term="signal"/>
-        <category label="processing" term="processing"/>
-        <category label="asynchronous" term="asynchronous"/>
+        <category label="Multithreading" term="Multithreading"/>
+        <category label="Signal" term="Signal"/>
+        <category label="Processing" term="Processing"/>
+        <category label="Asynchronous" term="Asynchronous"/>
     </entry>
 </feed>
