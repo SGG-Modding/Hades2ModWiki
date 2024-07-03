@@ -1,11 +1,12 @@
 # SpellChargeTimeSlowPresentation
 Function name in CombatPresentation.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 SpellChargeTimeSlowPresentation()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

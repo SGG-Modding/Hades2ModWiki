@@ -1,11 +1,12 @@
 # GetMetaUpgradePrice
 Function name in MetaUpgrades.lua
-## Parameters
-`metaUpgrade`, `index`
-## Returns
-`nil`
 ## Usage
 ```lua
 GetMetaUpgradePrice(metaUpgrade, index)
 ```
+## Parameters
+`metaUpgrade`, `index`
+## Returns
+`any`|`nil`
+
 ---

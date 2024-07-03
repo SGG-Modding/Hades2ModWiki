@@ -1,11 +1,12 @@
 # SheepAI
 Function name in EnemyAILogic.lua
-## Parameters
-`enemy`
-## Returns
-`none`
 ## Usage
 ```lua
 SheepAI(enemy)
 ```
+## Parameters
+`enemy`
+## Returns
+`none`
+
 ---

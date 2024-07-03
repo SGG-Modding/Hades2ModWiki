@@ -1,11 +1,12 @@
 # OnPlayerArmorGain
 Function name in EventPresentation.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 OnPlayerArmorGain(args)
 ```
+## Parameters
+`args`
+## Returns
+`none`
+
 ---

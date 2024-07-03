@@ -1,11 +1,12 @@
 # FamiliarSetup
 Function name in FamiliarLogic.lua
-## Parameters
-`source`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 FamiliarSetup(source, args)
 ```
+## Parameters
+`source`, `args`
+## Returns
+`nil`
+
 ---

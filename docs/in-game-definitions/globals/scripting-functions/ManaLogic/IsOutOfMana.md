@@ -1,11 +1,12 @@
 # IsOutOfMana
 Function name in ManaLogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 IsOutOfMana()
 ```
+## Parameters
+
+## Returns
+`any`
+
 ---

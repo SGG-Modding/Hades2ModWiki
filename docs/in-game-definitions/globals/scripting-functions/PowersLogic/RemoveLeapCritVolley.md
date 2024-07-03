@@ -1,11 +1,12 @@
 # RemoveLeapCritVolley
 Function name in PowersLogic.lua
-## Parameters
-`triggerArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 RemoveLeapCritVolley(triggerArgs)
 ```
+## Parameters
+`triggerArgs`
+## Returns
+`none`
+
 ---

@@ -1,11 +1,12 @@
 # TraitUIDeactivateTrait
 Function name in HUDLogic.lua
-## Parameters
-`trait`
-## Returns
-`none`
 ## Usage
 ```lua
 TraitUIDeactivateTrait(trait)
 ```
+## Parameters
+`trait`
+## Returns
+`none`
+
 ---

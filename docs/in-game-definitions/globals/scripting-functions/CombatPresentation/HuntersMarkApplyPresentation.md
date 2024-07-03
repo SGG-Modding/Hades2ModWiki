@@ -1,11 +1,12 @@
 # HuntersMarkApplyPresentation
 Function name in CombatPresentation.lua
-## Parameters
-`triggerArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 HuntersMarkApplyPresentation(triggerArgs)
 ```
+## Parameters
+`triggerArgs`
+## Returns
+`none`
+
 ---

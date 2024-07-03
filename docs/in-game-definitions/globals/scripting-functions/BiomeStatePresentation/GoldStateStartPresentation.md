@@ -1,11 +1,12 @@
 # GoldStateStartPresentation
 Function name in BiomeStatePresentation.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 GoldStateStartPresentation()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

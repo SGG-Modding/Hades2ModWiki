@@ -1,11 +1,12 @@
 # SetAvailableUseText
 Function name in RoomLogic.lua
-## Parameters
-`source`
-## Returns
-`none`
 ## Usage
 ```lua
 SetAvailableUseText(source)
 ```
+## Parameters
+`source`
+## Returns
+`none`
+
 ---

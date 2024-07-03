@@ -1,11 +1,12 @@
 # TimePassesFishingSFX
 Function name in EventPresentation.lua
-## Parameters
-`source`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 TimePassesFishingSFX(source, args)
 ```
+## Parameters
+`source`, `args`
+## Returns
+`none`
+
 ---

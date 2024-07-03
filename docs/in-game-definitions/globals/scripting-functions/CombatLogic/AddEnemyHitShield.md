@@ -1,11 +1,12 @@
 # AddEnemyHitShield
 Function name in CombatLogic.lua
-## Parameters
-`unit`
-## Returns
-`none`
 ## Usage
 ```lua
 AddEnemyHitShield(unit)
 ```
+## Parameters
+`unit`
+## Returns
+`nil`
+
 ---

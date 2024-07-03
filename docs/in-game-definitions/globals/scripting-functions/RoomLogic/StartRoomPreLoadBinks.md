@@ -1,11 +1,12 @@
 # StartRoomPreLoadBinks
 Function name in RoomLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 StartRoomPreLoadBinks(args)
 ```
+## Parameters
+`args`
+## Returns
+`none`
+
 ---

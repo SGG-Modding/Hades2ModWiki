@@ -1,11 +1,12 @@
 # CalculateEnemyDifficultyRating
 Function name in RunLogic.lua
-## Parameters
-`enemyName`, `room`
-## Returns
-`difficultyRating`
 ## Usage
 ```lua
 CalculateEnemyDifficultyRating(enemyName, room)
 ```
+## Parameters
+`enemyName`, `room`
+## Returns
+`any`
+
 ---

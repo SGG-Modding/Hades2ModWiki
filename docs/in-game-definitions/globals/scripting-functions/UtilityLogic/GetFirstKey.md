@@ -1,11 +1,12 @@
 # GetFirstKey
 Function name in UtilityLogic.lua
-## Parameters
-`tableArg`
-## Returns
-`tableArg`, `key`
 ## Usage
 ```lua
 GetFirstKey(tableArg)
 ```
+## Parameters
+`tableArg`
+## Returns
+`any`|`nil`
+
 ---

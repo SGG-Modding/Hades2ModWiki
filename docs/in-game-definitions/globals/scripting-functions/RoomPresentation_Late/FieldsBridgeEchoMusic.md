@@ -1,11 +1,12 @@
 # FieldsBridgeEchoMusic
 Function name in RoomPresentation_Late.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 FieldsBridgeEchoMusic()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

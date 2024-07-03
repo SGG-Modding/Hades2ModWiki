@@ -1,11 +1,12 @@
 # InsideCastBuffApply
 Function name in PowersLogic.lua
-## Parameters
-`triggerArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 InsideCastBuffApply(triggerArgs)
 ```
+## Parameters
+`triggerArgs`
+## Returns
+`none`
+
 ---

@@ -1,11 +1,12 @@
 # MetaUpgradeCardScreenPinItem
 Function name in MetaUpgradeCardScreenLogic.lua
-## Parameters
-`screen`, `button`
-## Returns
-`none`
 ## Usage
 ```lua
 MetaUpgradeCardScreenPinItem(screen, button)
 ```
+## Parameters
+`screen`, `button`
+## Returns
+`nil`
+
 ---

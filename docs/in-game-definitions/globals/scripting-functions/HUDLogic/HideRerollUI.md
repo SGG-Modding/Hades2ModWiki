@@ -1,11 +1,12 @@
 # HideRerollUI
 Function name in HUDLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 HideRerollUI(args)
 ```
+## Parameters
+`args`
+## Returns
+`none`
+
 ---

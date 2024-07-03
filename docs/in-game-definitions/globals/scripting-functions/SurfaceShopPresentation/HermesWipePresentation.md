@@ -1,11 +1,12 @@
 # HermesWipePresentation
 Function name in SurfaceShopPresentation.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 HermesWipePresentation()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

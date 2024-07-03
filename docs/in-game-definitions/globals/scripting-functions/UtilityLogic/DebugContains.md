@@ -1,11 +1,12 @@
 # DebugContains
 Function name in UtilityLogic.lua
-## Parameters
-`tableArg`, `value`
-## Returns
-`bool`
 ## Usage
 ```lua
 DebugContains(tableArg, value)
 ```
+## Parameters
+`tableArg`, `value`
+## Returns
+`nil`|`bool`
+
 ---

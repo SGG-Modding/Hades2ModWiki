@@ -1,11 +1,12 @@
 # ActivateNemesisPostRandomEventCombat
 Function name in EncounterLogic.lua
-## Parameters
-`eventSource`
-## Returns
-`none`
 ## Usage
 ```lua
 ActivateNemesisPostRandomEventCombat(eventSource)
 ```
+## Parameters
+`eventSource`
+## Returns
+`nil`
+
 ---

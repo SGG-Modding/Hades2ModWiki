@@ -1,11 +1,12 @@
 # CirceRandomMetaUpgrade
 Function name in EventLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 CirceRandomMetaUpgrade(args)
 ```
+## Parameters
+`args`
+## Returns
+`none`
+
 ---

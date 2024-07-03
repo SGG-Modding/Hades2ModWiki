@@ -1,11 +1,12 @@
 # ArtemisExitPresentation
 Function name in EncounterPresentation.lua
-## Parameters
-`source`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 ArtemisExitPresentation(source, args)
 ```
+## Parameters
+`source`, `args`
+## Returns
+`nil`
+
 ---

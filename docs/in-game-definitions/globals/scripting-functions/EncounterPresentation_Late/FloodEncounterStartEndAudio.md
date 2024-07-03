@@ -1,11 +1,12 @@
 # FloodEncounterStartEndAudio
 Function name in EncounterPresentation_Late.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 FloodEncounterStartEndAudio()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

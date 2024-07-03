@@ -1,11 +1,12 @@
 # CloseGameStatsScreen
 Function name in GameStatsLogic.lua
-## Parameters
-`screen`, `button`
-## Returns
-`none`
 ## Usage
 ```lua
 CloseGameStatsScreen(screen, button)
 ```
+## Parameters
+`screen`, `button`
+## Returns
+`none`
+
 ---

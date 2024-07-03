@@ -1,11 +1,12 @@
 # CollapseTableAsKeyValuePairs
 Function name in UtilityLogic.lua
-## Parameters
-`tableArg`
-## Returns
-`collapsedTable`
 ## Usage
 ```lua
 CollapseTableAsKeyValuePairs(tableArg)
 ```
+## Parameters
+`tableArg`
+## Returns
+`nil`|`any`
+
 ---

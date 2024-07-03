@@ -1,11 +1,12 @@
 # RemoteAI
 Function name in EnemyAILogic.lua
-## Parameters
-`enemy`
-## Returns
-`none`
 ## Usage
 ```lua
 RemoteAI(enemy)
 ```
+## Parameters
+`enemy`
+## Returns
+`nil`
+
 ---

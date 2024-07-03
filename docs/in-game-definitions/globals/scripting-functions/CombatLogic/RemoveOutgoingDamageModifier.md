@@ -1,11 +1,12 @@
 # RemoveOutgoingDamageModifier
 Function name in CombatLogic.lua
-## Parameters
-`unit`, `name`
-## Returns
-`none`
 ## Usage
 ```lua
 RemoveOutgoingDamageModifier(unit, name)
 ```
+## Parameters
+`unit`, `name`
+## Returns
+`nil`
+
 ---

@@ -1,11 +1,12 @@
 # PerfectDamageBoonRenewed
 Function name in EventPresentation.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 PerfectDamageBoonRenewed()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

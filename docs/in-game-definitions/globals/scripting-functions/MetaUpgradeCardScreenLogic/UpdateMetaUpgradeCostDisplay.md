@@ -1,11 +1,12 @@
 # UpdateMetaUpgradeCostDisplay
 Function name in MetaUpgradeCardScreenLogic.lua
-## Parameters
-`screen`, `button`
-## Returns
-`none`
 ## Usage
 ```lua
 UpdateMetaUpgradeCostDisplay(screen, button)
 ```
+## Parameters
+`screen`, `button`
+## Returns
+`none`
+
 ---

@@ -1,11 +1,12 @@
 # WeaponShopScrollUp
 Function name in WeaponShopLogic.lua
-## Parameters
-`screen`, `button`
-## Returns
-`none`
 ## Usage
 ```lua
 WeaponShopScrollUp(screen, button)
 ```
+## Parameters
+`screen`, `button`
+## Returns
+`nil`
+
 ---

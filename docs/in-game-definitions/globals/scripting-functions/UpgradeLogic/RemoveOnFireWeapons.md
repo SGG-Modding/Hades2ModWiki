@@ -1,11 +1,12 @@
 # RemoveOnFireWeapons
 Function name in UpgradeLogic.lua
-## Parameters
-`hero`, `upgradeData`
-## Returns
-`none`
 ## Usage
 ```lua
 RemoveOnFireWeapons(hero, upgradeData)
 ```
+## Parameters
+`hero`, `upgradeData`
+## Returns
+`nil`
+
 ---

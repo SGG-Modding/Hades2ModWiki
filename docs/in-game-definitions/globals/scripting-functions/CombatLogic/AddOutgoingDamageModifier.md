@@ -1,11 +1,12 @@
 # AddOutgoingDamageModifier
 Function name in CombatLogic.lua
-## Parameters
-`unit`, `data`
-## Returns
-`none`
 ## Usage
 ```lua
 AddOutgoingDamageModifier(unit, data)
 ```
+## Parameters
+`unit`, `data`
+## Returns
+`nil`
+
 ---

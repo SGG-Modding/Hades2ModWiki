@@ -1,11 +1,12 @@
 # DisableCastArm
 Function name in SpellLogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 DisableCastArm()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

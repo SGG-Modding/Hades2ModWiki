@@ -1,11 +1,12 @@
 # DelayedKnockbackEffectApply
 Function name in EffectLogic.lua
-## Parameters
-`triggerArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 DelayedKnockbackEffectApply(triggerArgs)
 ```
+## Parameters
+`triggerArgs`
+## Returns
+`none`
+
 ---

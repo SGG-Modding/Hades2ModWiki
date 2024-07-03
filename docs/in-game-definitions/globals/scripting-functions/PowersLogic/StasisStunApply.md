@@ -1,11 +1,12 @@
 # StasisStunApply
 Function name in PowersLogic.lua
-## Parameters
-`triggerArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 StasisStunApply(triggerArgs)
 ```
+## Parameters
+`triggerArgs`
+## Returns
+`nil`
+
 ---

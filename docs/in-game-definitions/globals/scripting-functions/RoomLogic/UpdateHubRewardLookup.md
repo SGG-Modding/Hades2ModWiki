@@ -1,11 +1,12 @@
 # UpdateHubRewardLookup
 Function name in RoomLogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 UpdateHubRewardLookup()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

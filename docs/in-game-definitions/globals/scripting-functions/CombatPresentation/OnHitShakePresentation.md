@@ -1,11 +1,12 @@
 # OnHitShakePresentation
 Function name in CombatPresentation.lua
-## Parameters
-`shakeArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 OnHitShakePresentation(shakeArgs)
 ```
+## Parameters
+`shakeArgs`
+## Returns
+`none`
+
 ---

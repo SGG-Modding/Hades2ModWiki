@@ -1,11 +1,12 @@
 # UseTrait
 Function name in TraitLogic.lua
-## Parameters
-`unit`, `traitName`
-## Returns
-`nil`
 ## Usage
 ```lua
 UseTrait(unit, traitName)
 ```
+## Parameters
+`unit`, `traitName`
+## Returns
+`any`|`nil`
+
 ---

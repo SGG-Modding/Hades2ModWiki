@@ -1,11 +1,12 @@
 # CheckUnusedWeaponBonusTrait
 Function name in RoomLogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 CheckUnusedWeaponBonusTrait()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

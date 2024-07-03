@@ -1,11 +1,12 @@
 # EchoLastReward
 Function name in EventLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 EchoLastReward(args)
 ```
+## Parameters
+`args`
+## Returns
+`none`
+
 ---

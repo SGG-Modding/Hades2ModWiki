@@ -1,11 +1,12 @@
 # OpenMarketScreen
 Function name in MarketLogic.lua
-## Parameters
-`args`
-## Returns
-`screen`
 ## Usage
 ```lua
 OpenMarketScreen(args)
 ```
+## Parameters
+`args`
+## Returns
+`nil`|`any`
+
 ---

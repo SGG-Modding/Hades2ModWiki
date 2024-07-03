@@ -1,11 +1,12 @@
 # GetDefaultClampIds
 Function name in RoomPresentation.lua
-## Parameters
-
-## Returns
-`clampIds`
 ## Usage
 ```lua
 GetDefaultClampIds()
 ```
+## Parameters
+
+## Returns
+`any`
+
 ---

@@ -1,11 +1,12 @@
 # LiveFillInShopOptions
 Function name in Debug.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 LiveFillInShopOptions()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

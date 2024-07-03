@@ -1,11 +1,12 @@
 # DeferredUIScripts
 Function name in UILogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 DeferredUIScripts()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

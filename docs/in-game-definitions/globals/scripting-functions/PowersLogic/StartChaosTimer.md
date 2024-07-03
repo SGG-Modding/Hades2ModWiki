@@ -1,11 +1,12 @@
 # StartChaosTimer
 Function name in PowersLogic.lua
-## Parameters
-`args`, `traitData`
-## Returns
-`none`
 ## Usage
 ```lua
 StartChaosTimer(args, traitData)
 ```
+## Parameters
+`args`, `traitData`
+## Returns
+`none`
+
 ---

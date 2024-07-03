@@ -1,11 +1,12 @@
 # ValueBetweenIncl
 Function name in LocalizationLogic.lua
-## Parameters
-`value`, `a`, `b`
-## Returns
-`none`
 ## Usage
 ```lua
 ValueBetweenIncl(value, a, b)
 ```
+## Parameters
+`value`, `a`, `b`
+## Returns
+`any`
+
 ---

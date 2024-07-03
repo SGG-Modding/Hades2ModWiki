@@ -1,11 +1,12 @@
 # GetPreviousStore
 Function name in StoreLogic.lua
-## Parameters
-`args`
-## Returns
-`nil`
 ## Usage
 ```lua
 GetPreviousStore(args)
 ```
+## Parameters
+`args`
+## Returns
+`nil`|`any`
+
 ---

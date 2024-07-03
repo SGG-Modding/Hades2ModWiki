@@ -1,11 +1,12 @@
 # CreateSpellHUD
 Function name in SpellPresentation.lua
-## Parameters
-`trait`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 CreateSpellHUD(trait, args)
 ```
+## Parameters
+`trait`, `args`
+## Returns
+`nil`
+
 ---

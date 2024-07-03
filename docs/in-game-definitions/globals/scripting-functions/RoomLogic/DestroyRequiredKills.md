@@ -1,11 +1,12 @@
 # DestroyRequiredKills
 Function name in RoomLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 DestroyRequiredKills(args)
 ```
+## Parameters
+`args`
+## Returns
+`none`
+
 ---

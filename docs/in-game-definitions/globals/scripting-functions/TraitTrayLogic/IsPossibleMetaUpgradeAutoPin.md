@@ -1,11 +1,12 @@
 # IsPossibleMetaUpgradeAutoPin
 Function name in TraitTrayLogic.lua
-## Parameters
-`trait`
-## Returns
-`bool`
 ## Usage
 ```lua
 IsPossibleMetaUpgradeAutoPin(trait)
 ```
+## Parameters
+`trait`
+## Returns
+`bool`
+
 ---

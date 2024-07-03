@@ -1,11 +1,12 @@
 # SpellMeteorFire
 Function name in SpellLogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 SpellMeteorFire()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

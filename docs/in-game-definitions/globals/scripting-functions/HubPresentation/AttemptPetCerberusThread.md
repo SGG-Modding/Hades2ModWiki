@@ -1,11 +1,12 @@
 # AttemptPetCerberusThread
 Function name in HubPresentation.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 AttemptPetCerberusThread()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

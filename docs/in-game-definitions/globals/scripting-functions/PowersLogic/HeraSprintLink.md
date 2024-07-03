@@ -1,11 +1,12 @@
 # HeraSprintLink
 Function name in PowersLogic.lua
-## Parameters
-`functionArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 HeraSprintLink(functionArgs)
 ```
+## Parameters
+`functionArgs`
+## Returns
+`nil`
+
 ---

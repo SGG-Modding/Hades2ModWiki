@@ -1,11 +1,12 @@
 # CheckClearCastManaRefund
 Function name in PowersLogic.lua
-## Parameters
-`functionArgs`, `manaDelta`
-## Returns
-`none`
 ## Usage
 ```lua
 CheckClearCastManaRefund(functionArgs, manaDelta)
 ```
+## Parameters
+`functionArgs`, `manaDelta`
+## Returns
+`nil`
+
 ---

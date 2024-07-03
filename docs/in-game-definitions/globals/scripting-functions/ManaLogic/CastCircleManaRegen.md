@@ -1,11 +1,12 @@
 # CastCircleManaRegen
 Function name in ManaLogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 CastCircleManaRegen()
 ```
+## Parameters
+
+## Returns
+`nil`
+
 ---

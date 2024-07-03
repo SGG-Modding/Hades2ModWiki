@@ -1,11 +1,12 @@
 # MusicianMusic
 Function name in AudioLogic.lua
-## Parameters
-`source`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 MusicianMusic(source, args)
 ```
+## Parameters
+`source`, `args`
+## Returns
+`nil`
+
 ---

@@ -1,11 +1,12 @@
 # CreateManaLoot
 Function name in RoomLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 CreateManaLoot(args)
 ```
+## Parameters
+`args`
+## Returns
+`any`
+
 ---

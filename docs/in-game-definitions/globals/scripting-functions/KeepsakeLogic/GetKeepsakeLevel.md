@@ -1,11 +1,12 @@
 # GetKeepsakeLevel
 Function name in KeepsakeLogic.lua
-## Parameters
-`traitName`, `unmodified`
-## Returns
-`level`
 ## Usage
 ```lua
 GetKeepsakeLevel(traitName, unmodified)
 ```
+## Parameters
+`traitName`, `unmodified`
+## Returns
+`any`
+
 ---

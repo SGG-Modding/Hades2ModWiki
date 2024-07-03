@@ -1,11 +1,12 @@
 # WaitForFishingInput
 Function name in FishingLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 WaitForFishingInput(args)
 ```
+## Parameters
+`args`
+## Returns
+`none`
+
 ---

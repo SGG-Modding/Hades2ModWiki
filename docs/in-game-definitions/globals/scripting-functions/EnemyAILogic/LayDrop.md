@@ -1,11 +1,12 @@
 # LayDrop
 Function name in EnemyAILogic.lua
-## Parameters
-`enemy`, `aiData`
-## Returns
-`none`
 ## Usage
 ```lua
 LayDrop(enemy, aiData)
 ```
+## Parameters
+`enemy`, `aiData`
+## Returns
+`none`
+
 ---

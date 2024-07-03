@@ -1,11 +1,12 @@
 # RemoveValue
 Function name in UtilityLogic.lua
-## Parameters
-`tableArg`, `value`
-## Returns
-`value`
 ## Usage
 ```lua
 RemoveValue(tableArg, value)
 ```
+## Parameters
+`tableArg`, `value`
+## Returns
+`nil`|`any`
+
 ---

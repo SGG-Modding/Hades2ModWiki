@@ -1,11 +1,12 @@
 # AltAspectRatioFramesHide
 Function name in UILogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 AltAspectRatioFramesHide()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

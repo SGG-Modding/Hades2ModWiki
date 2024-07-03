@@ -1,11 +1,12 @@
 # GetSurfaceShopIcon
 Function name in SurfaceShopLogic.lua
-## Parameters
-`upgradeData`
-## Returns
-`none`
 ## Usage
 ```lua
 GetSurfaceShopIcon(upgradeData)
 ```
+## Parameters
+`upgradeData`
+## Returns
+`any`
+
 ---

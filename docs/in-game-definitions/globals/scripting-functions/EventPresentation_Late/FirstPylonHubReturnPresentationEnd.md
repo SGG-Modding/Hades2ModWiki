@@ -1,11 +1,12 @@
 # FirstPylonHubReturnPresentationEnd
 Function name in EventPresentation_Late.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 FirstPylonHubReturnPresentationEnd()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

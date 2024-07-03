@@ -1,11 +1,12 @@
 # StopWeaponSounds
 Function name in CombatPresentation.lua
-## Parameters
-`soundEvent`, `soundData`, `parentTable`
-## Returns
-`none`
 ## Usage
 ```lua
 StopWeaponSounds(soundEvent, soundData, parentTable)
 ```
+## Parameters
+`soundEvent`, `soundData`, `parentTable`
+## Returns
+`nil`
+
 ---

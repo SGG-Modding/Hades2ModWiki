@@ -1,11 +1,12 @@
 # TrackNemesisChallengeProgress
 Function name in EncounterLogic.lua
-## Parameters
-`encounter`, `victim`, `killer`
-## Returns
-`none`
 ## Usage
 ```lua
 TrackNemesisChallengeProgress(encounter, victim, killer)
 ```
+## Parameters
+`encounter`, `victim`, `killer`
+## Returns
+`nil`
+
 ---

@@ -1,11 +1,12 @@
 # MoveHeroToNPCFrontAngle
 Function name in EncounterPresentation.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 MoveHeroToNPCFrontAngle(args)
 ```
+## Parameters
+`args`
+## Returns
+`nil`
+
 ---

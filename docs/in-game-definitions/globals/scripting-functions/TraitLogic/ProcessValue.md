@@ -1,11 +1,12 @@
 # ProcessValue
 Function name in TraitLogic.lua
-## Parameters
-`value`, `rampData`
-## Returns
-`value`
 ## Usage
 ```lua
 ProcessValue(value, rampData)
 ```
+## Parameters
+`value`, `rampData`
+## Returns
+`any`
+
 ---

@@ -1,11 +1,12 @@
 # SetPlayerVulnerable
 Function name in CombatLogic.lua
-## Parameters
-`flag`
-## Returns
-`none`
 ## Usage
 ```lua
 SetPlayerVulnerable(flag)
 ```
+## Parameters
+`flag`
+## Returns
+`none`
+
 ---

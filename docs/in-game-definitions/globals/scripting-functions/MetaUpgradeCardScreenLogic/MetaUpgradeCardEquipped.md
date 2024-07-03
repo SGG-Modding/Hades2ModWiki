@@ -1,11 +1,12 @@
 # MetaUpgradeCardEquipped
 Function name in MetaUpgradeCardScreenLogic.lua
-## Parameters
-`metaUpgradeName`
-## Returns
-`bool`
 ## Usage
 ```lua
 MetaUpgradeCardEquipped(metaUpgradeName)
 ```
+## Parameters
+`metaUpgradeName`
+## Returns
+`bool`
+
 ---

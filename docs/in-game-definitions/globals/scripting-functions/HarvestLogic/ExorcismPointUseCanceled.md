@@ -1,11 +1,12 @@
 # ExorcismPointUseCanceled
 Function name in HarvestLogic.lua
-## Parameters
-`user`
-## Returns
-`none`
 ## Usage
 ```lua
 ExorcismPointUseCanceled(user)
 ```
+## Parameters
+`user`
+## Returns
+`none`
+
 ---

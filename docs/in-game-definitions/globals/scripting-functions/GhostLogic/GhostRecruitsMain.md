@@ -1,11 +1,12 @@
 # GhostRecruitsMain
 Function name in GhostLogic.lua
-## Parameters
-`source`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 GhostRecruitsMain(source, args)
 ```
+## Parameters
+`source`, `args`
+## Returns
+`nil`
+
 ---

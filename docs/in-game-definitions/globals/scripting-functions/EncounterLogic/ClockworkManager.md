@@ -1,11 +1,12 @@
 # ClockworkManager
 Function name in EncounterLogic.lua
-## Parameters
-`eventSource`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 ClockworkManager(eventSource, args)
 ```
+## Parameters
+`eventSource`, `args`
+## Returns
+`nil`
+
 ---

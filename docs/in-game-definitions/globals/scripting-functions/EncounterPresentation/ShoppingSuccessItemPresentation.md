@@ -1,11 +1,12 @@
 # ShoppingSuccessItemPresentation
 Function name in EncounterPresentation.lua
-## Parameters
-`item`
-## Returns
-`none`
 ## Usage
 ```lua
 ShoppingSuccessItemPresentation(item)
 ```
+## Parameters
+`item`
+## Returns
+`nil`
+
 ---

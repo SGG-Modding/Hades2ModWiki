@@ -1,11 +1,12 @@
 # SpellSummon
 Function name in SpellLogic.lua
-## Parameters
-`triggerArgs`, `weaponData`
-## Returns
-`none`
 ## Usage
 ```lua
 SpellSummon(triggerArgs, weaponData)
 ```
+## Parameters
+`triggerArgs`, `weaponData`
+## Returns
+`nil`
+
 ---

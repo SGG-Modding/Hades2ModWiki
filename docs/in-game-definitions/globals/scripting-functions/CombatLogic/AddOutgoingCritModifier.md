@@ -1,11 +1,12 @@
 # AddOutgoingCritModifier
 Function name in CombatLogic.lua
-## Parameters
-`unit`, `data`
-## Returns
-`none`
 ## Usage
 ```lua
 AddOutgoingCritModifier(unit, data)
 ```
+## Parameters
+`unit`, `data`
+## Returns
+`nil`
+
 ---

@@ -1,11 +1,12 @@
 # FireAndQuit
 Function name in EnemyAILogic.lua
-## Parameters
-`enemy`
-## Returns
-`none`
 ## Usage
 ```lua
 FireAndQuit(enemy)
 ```
+## Parameters
+`enemy`
+## Returns
+`none`
+
 ---

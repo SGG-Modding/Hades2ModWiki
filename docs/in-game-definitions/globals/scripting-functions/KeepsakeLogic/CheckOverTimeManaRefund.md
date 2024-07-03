@@ -1,11 +1,12 @@
 # CheckOverTimeManaRefund
 Function name in KeepsakeLogic.lua
-## Parameters
-`functionArgs`, `manaDelta`
-## Returns
-`none`
 ## Usage
 ```lua
 CheckOverTimeManaRefund(functionArgs, manaDelta)
 ```
+## Parameters
+`functionArgs`, `manaDelta`
+## Returns
+`nil`
+
 ---

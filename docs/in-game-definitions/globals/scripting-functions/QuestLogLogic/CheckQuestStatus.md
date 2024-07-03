@@ -1,11 +1,12 @@
 # CheckQuestStatus
 Function name in QuestLogLogic.lua
-## Parameters
-`args`
-## Returns
-`bool`
 ## Usage
 ```lua
 CheckQuestStatus(args)
 ```
+## Parameters
+`args`
+## Returns
+`bool`|`nil`
+
 ---

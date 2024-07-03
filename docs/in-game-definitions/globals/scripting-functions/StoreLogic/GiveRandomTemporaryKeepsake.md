@@ -1,11 +1,12 @@
 # GiveRandomTemporaryKeepsake
 Function name in StoreLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 GiveRandomTemporaryKeepsake(args)
 ```
+## Parameters
+`args`
+## Returns
+`none`
+
 ---

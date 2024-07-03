@@ -1,11 +1,12 @@
 # RootedClear
 Function name in EffectLogic.lua
-## Parameters
-`triggerArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 RootedClear(triggerArgs)
 ```
+## Parameters
+`triggerArgs`
+## Returns
+`none`
+
 ---

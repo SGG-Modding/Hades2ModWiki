@@ -1,11 +1,12 @@
 # GetRandomValueFromWeightedList
 Function name in UtilityLogic.lua
-## Parameters
-`tableArg`, `rng`
-## Returns
-`value`, `nil`
 ## Usage
 ```lua
 GetRandomValueFromWeightedList(tableArg, rng)
 ```
+## Parameters
+`tableArg`, `rng`
+## Returns
+`nil`|`any`
+
 ---

@@ -1,11 +1,12 @@
 # LavaSlowApply
 Function name in PowersLogic.lua
-## Parameters
-`triggerArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 LavaSlowApply(triggerArgs)
 ```
+## Parameters
+`triggerArgs`
+## Returns
+`none`
+
 ---

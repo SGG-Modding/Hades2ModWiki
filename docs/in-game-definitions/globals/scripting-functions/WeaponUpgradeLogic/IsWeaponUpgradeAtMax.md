@@ -1,11 +1,12 @@
 # IsWeaponUpgradeAtMax
 Function name in WeaponUpgradeLogic.lua
-## Parameters
-`traitName`
-## Returns
-`bool`
 ## Usage
 ```lua
 IsWeaponUpgradeAtMax(traitName)
 ```
+## Parameters
+`traitName`
+## Returns
+`bool`
+
 ---

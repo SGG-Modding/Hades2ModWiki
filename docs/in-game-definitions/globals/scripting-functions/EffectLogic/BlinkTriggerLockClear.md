@@ -1,11 +1,12 @@
 # BlinkTriggerLockClear
 Function name in EffectLogic.lua
-## Parameters
-`triggerArgs`
-## Returns
-`none`
 ## Usage
 ```lua
 BlinkTriggerLockClear(triggerArgs)
 ```
+## Parameters
+`triggerArgs`
+## Returns
+`none`
+
 ---

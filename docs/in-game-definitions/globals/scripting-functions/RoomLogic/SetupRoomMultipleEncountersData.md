@@ -1,11 +1,12 @@
 # SetupRoomMultipleEncountersData
 Function name in RoomLogic.lua
-## Parameters
-`room`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 SetupRoomMultipleEncountersData(room, args)
 ```
+## Parameters
+`room`, `args`
+## Returns
+`none`
+
 ---

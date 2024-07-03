@@ -1,11 +1,12 @@
 # RemoveTorchTarget
 Function name in WeaponLogic.lua
-## Parameters
-`notifyName`
-## Returns
-`none`
 ## Usage
 ```lua
 RemoveTorchTarget(notifyName)
 ```
+## Parameters
+`notifyName`
+## Returns
+`none`
+
 ---

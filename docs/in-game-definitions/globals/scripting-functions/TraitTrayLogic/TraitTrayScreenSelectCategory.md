@@ -1,11 +1,12 @@
 # TraitTrayScreenSelectCategory
 Function name in TraitTrayLogic.lua
-## Parameters
-`screen`, `button`
-## Returns
-`none`
 ## Usage
 ```lua
 TraitTrayScreenSelectCategory(screen, button)
 ```
+## Parameters
+`screen`, `button`
+## Returns
+`nil`
+
 ---

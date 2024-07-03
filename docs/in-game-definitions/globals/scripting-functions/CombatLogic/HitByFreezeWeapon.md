@@ -1,11 +1,12 @@
 # HitByFreezeWeapon
 Function name in CombatLogic.lua
-## Parameters
-`victim`
-## Returns
-`none`
 ## Usage
 ```lua
 HitByFreezeWeapon(victim)
 ```
+## Parameters
+`victim`
+## Returns
+`nil`
+
 ---

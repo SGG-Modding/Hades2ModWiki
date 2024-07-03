@@ -1,11 +1,12 @@
 # AttackerAI
 Function name in EnemyAILogic.lua
-## Parameters
-`enemy`
-## Returns
-`none`
 ## Usage
 ```lua
 AttackerAI(enemy)
 ```
+## Parameters
+`enemy`
+## Returns
+`nil`
+
 ---

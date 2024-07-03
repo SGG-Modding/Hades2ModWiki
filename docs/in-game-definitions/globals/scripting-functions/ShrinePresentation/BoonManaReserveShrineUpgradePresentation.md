@@ -1,11 +1,12 @@
 # BoonManaReserveShrineUpgradePresentation
 Function name in ShrinePresentation.lua
-## Parameters
-`source`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 BoonManaReserveShrineUpgradePresentation(source, args)
 ```
+## Parameters
+`source`, `args`
+## Returns
+`none`
+
 ---

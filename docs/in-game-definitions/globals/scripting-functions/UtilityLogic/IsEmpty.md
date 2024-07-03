@@ -1,11 +1,12 @@
 # IsEmpty
 Function name in UtilityLogic.lua
-## Parameters
-`tableArg`
-## Returns
-`bool`
 ## Usage
 ```lua
 IsEmpty(tableArg)
 ```
+## Parameters
+`tableArg`
+## Returns
+`bool`|`any`
+
 ---

@@ -1,11 +1,12 @@
 # GetAverageDistance
 Function name in UtilityLogic.lua
-## Parameters
-`tableArg`
-## Returns
-`average`
 ## Usage
 ```lua
 GetAverageDistance(tableArg)
 ```
+## Parameters
+`tableArg`
+## Returns
+`nil`|`any`
+
 ---

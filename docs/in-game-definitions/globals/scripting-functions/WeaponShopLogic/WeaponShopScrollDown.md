@@ -1,11 +1,12 @@
 # WeaponShopScrollDown
 Function name in WeaponShopLogic.lua
-## Parameters
-`screen`, `button`
-## Returns
-`none`
 ## Usage
 ```lua
 WeaponShopScrollDown(screen, button)
 ```
+## Parameters
+`screen`, `button`
+## Returns
+`nil`
+
 ---

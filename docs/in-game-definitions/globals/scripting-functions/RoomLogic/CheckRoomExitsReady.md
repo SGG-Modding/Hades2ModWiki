@@ -1,11 +1,12 @@
 # CheckRoomExitsReady
 Function name in RoomLogic.lua
-## Parameters
-`currentRoom`
-## Returns
-`bool`
 ## Usage
 ```lua
 CheckRoomExitsReady(currentRoom)
 ```
+## Parameters
+`currentRoom`
+## Returns
+`nil`|`bool`
+
 ---

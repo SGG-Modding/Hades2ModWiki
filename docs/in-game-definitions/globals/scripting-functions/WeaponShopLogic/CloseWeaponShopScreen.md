@@ -1,11 +1,12 @@
 # CloseWeaponShopScreen
 Function name in WeaponShopLogic.lua
-## Parameters
-`screen`, `button`
-## Returns
-`none`
 ## Usage
 ```lua
 CloseWeaponShopScreen(screen, button)
 ```
+## Parameters
+`screen`, `button`
+## Returns
+`none`
+
 ---

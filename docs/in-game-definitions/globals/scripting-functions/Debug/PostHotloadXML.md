@@ -1,11 +1,12 @@
 # PostHotloadXML
 Function name in Debug.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 PostHotloadXML()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

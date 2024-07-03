@@ -1,11 +1,12 @@
 # BeginWrappingEncounter
 Function name in RoomLogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 BeginWrappingEncounter()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

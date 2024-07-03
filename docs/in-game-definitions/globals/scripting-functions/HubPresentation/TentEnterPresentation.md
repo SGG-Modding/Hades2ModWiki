@@ -1,11 +1,12 @@
 # TentEnterPresentation
 Function name in HubPresentation.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 TentEnterPresentation()
 ```
+## Parameters
+
+## Returns
+`nil`
+
 ---

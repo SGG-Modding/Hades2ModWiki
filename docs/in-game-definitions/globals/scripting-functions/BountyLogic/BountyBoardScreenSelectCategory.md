@@ -1,11 +1,12 @@
 # BountyBoardScreenSelectCategory
 Function name in BountyLogic.lua
-## Parameters
-`screen`, `button`
-## Returns
-`none`
 ## Usage
 ```lua
 BountyBoardScreenSelectCategory(screen, button)
 ```
+## Parameters
+`screen`, `button`
+## Returns
+`nil`
+
 ---

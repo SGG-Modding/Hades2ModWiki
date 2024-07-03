@@ -1,11 +1,12 @@
 # TorchRecallResetFireSequence
 Function name in PowersLogic.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 TorchRecallResetFireSequence()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

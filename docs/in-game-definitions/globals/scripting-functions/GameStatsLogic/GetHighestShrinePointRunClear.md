@@ -1,11 +1,12 @@
 # GetHighestShrinePointRunClear
 Function name in GameStatsLogic.lua
-## Parameters
-`currentRun`, `args`
-## Returns
-`highestPoints`
 ## Usage
 ```lua
 GetHighestShrinePointRunClear(currentRun, args)
 ```
+## Parameters
+`currentRun`, `args`
+## Returns
+`any`
+
 ---

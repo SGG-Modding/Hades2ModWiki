@@ -1,11 +1,12 @@
 # EasyModeDisabledPresentation
 Function name in RoomPresentation.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 EasyModeDisabledPresentation()
 ```
+## Parameters
+
+## Returns
+`none`
+
 ---

@@ -1,11 +1,12 @@
 # ErisKillPresentation
 Function name in CombatPresentation.lua
-## Parameters
-`unit`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 ErisKillPresentation(unit, args)
 ```
+## Parameters
+`unit`, `args`
+## Returns
+`nil`
+
 ---

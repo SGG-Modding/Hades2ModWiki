@@ -1,11 +1,12 @@
 # RemoveStoreItem
 Function name in StoreLogic.lua
-## Parameters
-`args`
-## Returns
-`none`
 ## Usage
 ```lua
 RemoveStoreItem(args)
 ```
+## Parameters
+`args`
+## Returns
+`nil`
+
 ---

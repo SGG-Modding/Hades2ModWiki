@@ -1,11 +1,12 @@
 # HeroLowHealthShroudPulseThread
 Function name in EventPresentation.lua
-## Parameters
-
-## Returns
-`none`
 ## Usage
 ```lua
 HeroLowHealthShroudPulseThread()
 ```
+## Parameters
+
+## Returns
+`nil`
+
 ---

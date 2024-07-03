@@ -1,11 +1,12 @@
 # FamiliarRoomExitPresentation
 Function name in FamiliarPresentation.lua
-## Parameters
-`usee`, `args`
-## Returns
-`none`
 ## Usage
 ```lua
 FamiliarRoomExitPresentation(usee, args)
 ```
+## Parameters
+`usee`, `args`
+## Returns
+`none`
+
 ---
