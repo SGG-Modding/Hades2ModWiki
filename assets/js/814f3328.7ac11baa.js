@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhades_2_mod_wiki=self.webpackChunkhades_2_mod_wiki||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Multithreaded modding","permalink":"/Hades2ModWiki/blog/multithreading","unlisted":false}]}')}}]);
