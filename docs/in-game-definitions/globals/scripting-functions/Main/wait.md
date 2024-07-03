@@ -1,15 +1,12 @@
 # wait
-
-Syntactic sugar for `yield`.
-
+Function name in Main.lua
 ## Usage
-
 ```lua
 wait(duration, tag, persist)
 ```
+## Parameters
+`duration`, `tag`, `persist`
+## Returns
+`nil`
 
-### Args
-
-- `duration` float - amount of time to wait, in seconds
-- `tag` string - thread name (optional)
-- `persist` bool
+---
