@@ -9,7 +9,8 @@ Welcome! This guide will help you set up **r2modman** so you can begin downloadi
 All available mods can be viewed in the [Thunderstore Hades II](https://thunderstore.io/c/hades-ii/) community.
 
 ## 1. Remove old mods
-If you were using mods from Nexus, you will need to uninstall them before using r2modman. if you were not using Nexus, skip this step. \
+If you were not previously using mods from Nexus, skip to Step 2! \
+If you were using mods from Nexus, you will need to uninstall them before using r2modman. \
 [How to clean up ModImporter mods](#how-do-i-clean-up-old-modimporter-mods)
 
 :::danger
