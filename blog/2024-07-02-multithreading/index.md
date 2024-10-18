@@ -1,10 +1,7 @@
 ---
-slug: multithreading
 title: Multithreaded modding
-authors:
-  name: Siuhnexus
-  title: Hades 2 modding newbie
-  url: https://github.com/Siuhnexus
+slug: multithreading
+authors: siuhnexus
 tags: [multithreading, signal, processing, asynchronous]
 ---
 
@@ -12,13 +9,15 @@ tags: [multithreading, signal, processing, asynchronous]
 
 Any fun game has to deal with multiple jobs at the same time to provide a good experience. Hades 2 in particular plays Music and sound effects, moves enemies, reacts to the player's input, renders the beautiful scenery, manages game and run state and so on and so forth. For all this to work at the same time, the script and the engine run many functions in parallel. For example, the AI for every enemy gets its own thread to execute in.
 
-On the lua scripting side of things (we don't know much about the engine) this is achieved using lua's built in coroutines. The difference between these coroutines and "real" multithreading is meaningful, but since it is neither relevant to this post's main point nor am I an expert on the topic I will just reference the lua docs on [coroutines vs. threads](https://www.lua.org/pil/9.4.html). Also, I will continue to call the asynchronous workers threads, because Supergiant Games chooses this name aswell in their ``Main.lua`` script.
+<!-- truncate -->
+
+On the lua scripting side of things (we don't know much about the engine) this is achieved using lua's built in coroutines. The difference between these coroutines and "real" multithreading is meaningful, but since it is neither relevant to this post's main point nor am I an expert on the topic I will just reference the lua docs on [coroutines vs. threads](https://www.lua.org/pil/9.4.html). Also, I will continue to call the asynchronous workers threads, because Supergiant Games chooses this name aswell in their `Main.lua` script.
 
 ## Waiting and resuming
 
 Sometimes one of these threads has to wait for something to happen in another thread. This is where the capability for any thread to yield execution while the thing hasn't happened comes in handy. For example, some enemies stand still while the player character is not in range. The enemy AI thread just tells the program to give execution time to other threads until the player character is in range for the AI to start doing something.
 
-Supergiant provides some very useful helper methods to manage these kinds of behaviours in their ``Main.lua`` script. In particular, the method `waitUntil()` is used to yield until a certain condition is met. When you do a quick search through the codebase, you will find many examples of this (not only the one I picked out for this post).
+Supergiant provides some very useful helper methods to manage these kinds of behaviours in their `Main.lua` script. In particular, the method `waitUntil()` is used to yield until a certain condition is met. When you do a quick search through the codebase, you will find many examples of this (not only the one I picked out for this post).
 
 ![image](waitUntilSearch.png)
 
@@ -61,15 +60,16 @@ f.close()
 
 ### Setting up
 
-For this mod I use the [Hades 2 Mod Template](https://github.com/SGG-Modding/Hades2ModTemplate). After cloning (or downloading), we just make one little adjustment. We want every global (or mod-local) variable to be PascalCased. For example, line 28 in `main.lua` becomes `ModUtil = mods['SGG_Modding-ModUtil']` instead of `modutil = mods['SGG_Modding-ModUtil']`. Now the `quotes.lua` file has to be copied into the ``src/`` folder of the mod. After that, the quotes can be imported in `main.lua` like this:
+For this mod I use the [Hades 2 Mod Template](https://github.com/SGG-Modding/Hades2ModTemplate). After cloning (or downloading), we just make one little adjustment. We want every global (or mod-local) variable to be PascalCased. For example, line 28 in `main.lua` becomes `ModUtil = mods['SGG_Modding-ModUtil']` instead of `modutil = mods['SGG_Modding-ModUtil']`. Now the `quotes.lua` file has to be copied into the `src/` folder of the mod. After that, the quotes can be imported in `main.lua` like this:
 
 **`main.lua`**
+
 ```lua
 ...
 local function on_ready()
     -- what to do when we are ready, but not re-do on reload.
     if Config.Enabled == false then return end
-    
+
     import 'ready.lua'
     import 'quotes.lua'
 end
@@ -83,6 +83,7 @@ Next, we need to know when a reward gets spawned, so that we can start listening
 We set up the hook like this:
 
 **`ready.lua`**
+
 ```lua
 ---@meta _
 -- globals we define are private to our plugin!
@@ -101,10 +102,11 @@ end)
 We implement the function like this:
 
 **`reload.lua`**
+
 ```lua
 function patch_SpawnRoomReward(base, event, source)
 	local reward = base(event, source)
-	
+
 	if reward ~= nil and reward.MenuNotify ~= nil then
 		thread(waitingPrinter, Game.UIData.BoonMenuId)
 	end
@@ -124,6 +126,7 @@ Now we spawn a thread every time a reward with an associated boon menu is spawne
 There is a useful function for displaying text near a unit named `InCombatText()` which can be found in `CombatPresentation.lua`. This function needs the object ID of a unit, some text to display and a display duration. We choose a random quote and build a string to display from it (pasting newlines at some places to prevent text overflow), take the object ID from the `Hero` object and display the quote for 15 seconds.
 
 **`reload.lua`**
+
 ```lua
 ...
 function waitingPrinter(signalName)
@@ -152,6 +155,7 @@ Every thread that calls `waitUntil()` can provide an optional tag name as the se
 Setting the additional hook:
 
 **`ready.lua`**
+
 ```lua
 ...
 ModUtil.mod.Path.Wrap("LeaveRoom", function(base, currentRun, door)
@@ -162,6 +166,7 @@ end)
 Implementing tag name and desctruction:
 
 **`reload.lua`**
+
 ```lua
 ...
 function waitingPrinter(signalName)
@@ -178,6 +183,7 @@ end
 Since every tag name has to play nice with the game tags and other mods, it is best practice to prefix every custom tag with your creator name and your mod name. You can write a convenience function in larger projects like this:
 
 **`reload.lua`**
+
 ```lua
 function prefixTag(tagName)
 	return "Siuhnexus-StoicQuotes-"..tagName
@@ -199,6 +205,7 @@ end
 With this system, you can even allow other mods to react to your quotes being printed. Just dispatch a custom signal (prefixed to play nice):
 
 **`reload.lua`**
+
 ```lua
 function prefixTag(tagName)
 	return "Siuhnexus-StoicQuotes-"..tagName
