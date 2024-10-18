@@ -9,7 +9,8 @@ Welcome! This guide will help you set up **r2modman** so you can begin downloadi
 All available mods can be viewed in the [Thunderstore Hades II](https://thunderstore.io/c/hades-ii/) community.
 
 ## 1. Remove old mods
-If you were using mods from Nexus, you will need to uninstall them before using r2modman. if you were not using Nexus, skip this step. \
+If you were not previously using mods from Nexus, skip to Step 2! \
+If you were using mods from Nexus, you will need to uninstall them before using r2modman. \
 [How to clean up ModImporter mods](#how-do-i-clean-up-old-modimporter-mods)
 
 :::danger
@@ -20,18 +21,8 @@ If you were using mods from Nexus, you will need to uninstall them before using 
 
 
 ## 2. Install r2modman
-**TEMPORARY!** \
-The current build of r2modman does NOT have Hades 2 support. Please use our custom release until r2modman is updated.
-
-:::warning[You must use the custom Hades 2 release for r2modman]
-
-Please use the *temporary* 3.1.48 r2modman release with Hades 2 support: \
-[`Direct Download Link for Windows`](https://github.com/xiaoxiao921/r2modmanPlus/releases/download/v3.1.48/r2modman-3.1.48.exe) \
-[GitHub Releases Page](https://github.com/xiaoxiao921/r2modmanPlus/releases/tag/v3.1.48)
-
-:::
-
-Learn more about [why there is a custom release](#why-do-i-have-to-use-an-unofficial-r2modman-release).
+Download *r2modman* from Thunderstore, extract the archive, and run the installer. \
+[r2modman on Thunderstore](https://thunderstore.io/package/ebkr/r2modman/)
 
 ## 3. Start r2modman
 
@@ -56,11 +47,6 @@ ModImporter and Nexus Mods served the community well for the original Hades, and
 
 ### What's the deal with Hell2Modding?
 The new h2m framework has significant benefits over ModImporter. It does not need to touch your game installation files. Additionally, with r2modman there is no need for any manual installation steps. Installing mods with r2modman/h2m is a much more user-friendly, seamless process. It's also convenient for mod developers, as they can publish directly to Thunderstore from GitHub.
-
-### Why do I have to use an unofficial r2modman release?
-**This is temporary, until official Hades II support is merged into r2modman!** \
-The pull request is approved, but still pending! You can watch its status here: \
-https://github.com/ebkr/r2modmanPlus/pull/1348
 
 ### What if I don't want to use r2modman?
 This is not recommended, as manual installation of h2m and its mods is not a straightforward process.

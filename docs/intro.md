@@ -4,4 +4,4 @@ sidebar_position: 1
 
 # Intro
 
-NYI
+Welcome! Check out the available categories on the left.

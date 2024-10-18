@@ -1,28 +1,16 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
 multithreading:
   label: Multithreading
   permalink: /multithreading
+  description: Multithreading
 signal:
   label: Signal
   permalink: /signal
+  description: Signal
 processing:
   label: Processing
   permalink: /processing
+  description: Processing
 asynchronous:
   label: Asynchronous
   permalink: /asynchronous
+  description: Asynchronous

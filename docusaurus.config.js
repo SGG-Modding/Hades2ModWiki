@@ -79,11 +79,26 @@ const config = {
           src: "img/Pom.png",
         },
         items: [
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "tutorialSidebar",
+          //   position: "left",
+          //   label: "Docs",
+          // },
           {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            to: "/docs/category/using-mods",
+            label: "Installing Mods",
             position: "left",
-            label: "Docs",
+          },
+          {
+            to: "/docs/category/in-game-definitions",
+            label: "In-Game Definitions",
+            position: "left",
+          },
+          {
+            to: "/docs/category/glossary",
+            label: "Glossary",
+            position: "left",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
