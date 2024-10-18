@@ -65,7 +65,9 @@ Click on some mods you want to install, always opting to _Download with Dependen
 
 # Gotchas
 
-- The default ImGui keybind is `insert`, which the Steam Deck keyboard doesn't have. You may need to pair a keyboard to your Steam Deck to get past this.
+- The default ImGui keybind is `insert`, which the Steam Deck keyboard doesn't have. There are a few ways past this:
+  - Pair a keyboard.
+  - Manually edit the imgui.cfg file
 
 ### References
 
