@@ -14,3 +14,15 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+multithreading:
+  label: Multithreading
+  permalink: /multithreading
+signal:
+  label: Signal
+  permalink: /signal
+processing:
+  label: Processing
+  permalink: /processing
+asynchronous:
+  label: Asynchronous
+  permalink: /asynchronous
