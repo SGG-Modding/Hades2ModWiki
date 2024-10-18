@@ -2,50 +2,71 @@
 sidebar_position: 2
 ---
 
-https://lethal.wiki/installation/installing-r2modman-linux
+# Steam Deck Installation
 
-* Install Hades II to the internal storage, rather than a MicroSD card.
-* Enter Desktop Mode.
+:::important
+Install Hades II to the internal storage, NOT a MicroSD card.
+:::
 
-Download r2modman from Thunderstore using the Manual Download button.
-Go to your Downloads folder and double click the downloaded .zip file.
-This will open Ark, the archive application. Extract the archive into the Downloads folder.
-In your Downloads folder, navigate into the newly extracted directory.
-Move the .AppImage file to the Applications directory
+## 1. Enter Desktop mode
 
-add non-Steam game - navigate to applications directory and select the .AppImage file
+## 2. Download and install r2modman
 
+[Download r2modman from Thunderstore](https://thunderstore.io/c/hades-ii/p/ebkr/r2modman/) using the Manual Download button.
 
----
+- Go to your Downloads folder and double click the downloaded `.zip` file.
+- This will open **Ark**, the archive application.
+- Extract the archive into the `Downloads` folder.
+- In your `Downloads` folder, navigate into the newly extracted directory.
+- Move the `.AppImage` file to the **Applications** directory.
 
-Open the .AppImage file.
-If you see a Dolphin warning, you may bypass it and allow it to run.
-In r2modman, search for Hades II, then click select game.
+## 3. Add r2modman as a non-Steam game
 
-IGNORE THE TEXT IT TELLS YOU TO COPY
-"/home/deck/.config/r2modmanPlus-local/HadesII/linux_wrapper.sh" %command%
+Navigate to the **Applications** directory and select the `.AppImage` file.
 
-click Continue
-click Select Profile to use the Default profile
+## 4. Run r2modman
 
-IMPORTANT
-in Settings, scroll down to Change Hades II Directory
-this will take you to the Hades II directory, navigate into Ship then select Hades2.exe and Select Executable
+- Open the `.AppImage` file.
+- If you see a **Dolphin** warning, you may bypass it and allow it to run.
+- In **r2modman**, search for Hades II, then click select game.
 
+:::danger[IGNORE THE TEXT IT TELLS YOU TO COPY]
+**r2modman** will tell you to copy the following text - it won't work. \
+`"/home/deck/.config/r2modmanPlus-local/HadesII/linux_wrapper.sh" %command%`
+:::
 
+- Click **Continue**.
+- Click **Select Profile** to use the _Default_ profile.
 
+## 5. Update r2modman settings
 
-find some mods you want to install, opting to Download with Dependencies
-click Start Modded
+- In Settings, scroll down to _Change Hades II Directory_.
+- Navigate into `Ship`.
+- Select `Hades2.exe`.
+- Click **Select Executable**.
 
-Go back to gaming mode, run game
-click the Open Gui Keybind on the touchscreen
-bring up keyboard with Steam+X
-set a bind (Backspace is suggested)
-close the keyboard
-click close button on the touchscreen
+## 6. Go back to Gaming mode
 
-MUST HAVE A KEYBOARD HERE
+Once back in Gaming mode, run the **r2modman** shortcut you added as a Non-Steam game.
 
-click Start Modded again
-set a bind
+## 6. Find some mods
+
+Click on some mods you want to install, always opting to _Download with Dependencies_.
+
+## 7. Starting the game
+
+- Start the game via **r2modman** (click **Start Modded**).
+- Load a save.
+- Click **Open Gui Keybind** on the touchscreen.
+- Bring up keyboard with `Steam+X`.
+- Set a bind. I personally use `backspace` on the Deck.
+- Close the keyboard.
+- Press the `close` button on the touchscreen.
+
+# Gotchas
+
+- The default ImGui keybind is `insert`, which the Steam Deck keyboard doesn't have. You may need to pair a keyboard to your Steam Deck to get past this.
+
+### References
+
+[Lethal Company Wiki - r2modman instructions](https://lethal.wiki/installation/installing-r2modman-linux)
