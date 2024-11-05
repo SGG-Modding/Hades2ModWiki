@@ -6,6 +6,7 @@ const FeatureList = [
   {
     title: "Install",
     img: require("@site/static/img/Crossroads_CardAltar_Terrain01.png").default,
+    url: "docs/category/using-mods",
     adjust: { marginTop: "1rem" },
     description: (
       <>Learn how to use r2modman to install Hades 2 mods from Thunderstore!</>
@@ -14,11 +15,13 @@ const FeatureList = [
   {
     title: "Develop",
     img: require("@site/static/img/Crossroads_Cauldron_01.png").default,
+    url: "docs/category/creating-mods",
     description: <>Learn how to create your own Hades 2 mods!</>,
   },
   {
     title: "Learn",
     img: require("@site/static/img/Crossroads_Books_02.png").default,
+    url: "docs/category/in-game-definitions",
     adjust: { marginTop: "1rem" },
     description: (
       <>
@@ -29,17 +32,19 @@ const FeatureList = [
   },
 ]
 
-function Feature({ img, title, description, adjust = {} }) {
+function Feature({ img, title, description, url = "", adjust = {} }) {
   return (
     <div className={clsx("col col--4")}>
       <div
         className="text--center"
         style={{ height: "11rem" }}
       >
-        <img
-          src={img}
-          style={{ maxHeight: "10rem", maxWidth: "15rem", ...adjust }}
-        />
+        <a href={url}>
+          <img
+            src={img}
+            style={{ maxHeight: "10rem", maxWidth: "15rem", ...adjust }}
+          />
+        </a>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
