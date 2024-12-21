@@ -86,9 +86,24 @@ const config = {
           //   label: "Docs",
           // },
           {
+            to: "/docs/intro",
+            label: "Welcome!",
+            position: "left"
+          },
+          {
             to: "/docs/category/using-mods",
-            label: "Installing Mods",
+            label: "Using Mods",
             position: "left",
+          },
+          {
+            to: "/docs/category/creating-mods",
+            label: "Creating Mods",
+            position: "left",
+          },
+          {
+            to: "/docs/h2m-docs",
+            label: "Hell2Modding Docs",
+            position: "left"
           },
           {
             to: "/docs/category/in-game-definitions",
