@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhades_2_mod_wiki=self.webpackChunkhades_2_mod_wiki||[]).push([[58913],{58913:(e,s,k)=>{k.r(s)}}]);
