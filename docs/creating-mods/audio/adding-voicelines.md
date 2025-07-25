@@ -25,11 +25,15 @@ Voiceover files are stored in the `Content/Audio/Desktop/VO` folder in your Hade
 
 ## Creating voiceover files
 
-:::warning[Not all speakername formats are supported]
-Loading voiceover files is handled in-engine, and not all speaker name (filename) formats work. If it seems the voiceover files for your speaker are not loading correctly, try using a different name.
-An example of a speaker name that does not work is `MegaeraHome`, while `Megaera` and `MegaeraField` do work.
-It's possible that there are still some hardcoded references to speaker names in the engine that prevent custom voiceover files from loading correctly.
-If you use original speaker names (i.e. not referencing existing speakers in Hades or Hades II), you should not run into this problem.
+:::warning[Not all speaker name formats are supported]
+Loading voiceover files is handled in-engine, and not all speaker name (filename) formats work.
+If it seems the voiceover files for your speaker are not loading correctly, try using a different name.
+At the point of writing this, only speaker names that already existed in Hades are known to work, original names have not been able to be loaded.
+At the same time, not all Hades speaker names work either, so there will be some trial and error involved.
+:::
+
+:::warning[Compatibility with other mods]
+If you want to optimize compatibility of your mod with other mods, use speaker names that other authors have not yet used, and load your voiceover files only when necessary.
 :::
 
 :::info[Example speaker name]

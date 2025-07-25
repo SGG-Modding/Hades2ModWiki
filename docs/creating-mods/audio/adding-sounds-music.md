@@ -14,6 +14,14 @@ You should additionally use the following FMOD Studio project as a template for 
 
 [Download the TestHades2FModProject.zip](./files/TestHades2FModProject.zip)
 
+:::warning[Unique Bank GUIDs]
+You'll notice that the template project does not contain a bank.
+This is to ensure each mod's banks have unique GUIDs assigned to them.
+If this template contained a bank, each mod using it would have the same GUID and only the first one loaded would be used by the game.
+Renaming the bank does not change the GUID.
+When using other mods' FMOD projects as a base, make sure to delete and create a new bank to prevent this conflict.
+:::
+
 Some additional information regarding this template from the relevant [Hell2Modding documentation](https://github.com/SGG-Modding/Hell2Modding/blob/master/docs/lua/tables/rom.audio.md):
 
 > The game currently uses FMOD Studio `2.02.23`.
@@ -43,7 +51,7 @@ When previewing the event, the event should loop seamlessly.
 :::
 
 Now, add your events to a new bank, this should be a unique name not used by any other bank in the game, or by another mod.
-It is recommended to use the same name format as for mods, i.e. `AuthorNameModName`, such as `ModsNikkelMUnlockHadesMusic` to prevent clashes.
+It is recommended to use the same name format as for mods, i.e. `AuthorNameModName`, such as `NikkelMUnlockHadesMusic` to prevent clashes.
 
 Next, build your bank by using `File` -> `Build` in FMOD Studio.
 Add the resulting `.bank` file to your mod's `data` folder (which should be added to `plugins_data` when your mod is installed through Thunderstore).
