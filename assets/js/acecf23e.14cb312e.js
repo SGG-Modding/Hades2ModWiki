@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhades_2_mod_wiki=self.webpackChunkhades_2_mod_wiki||[]).push([[81903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/Hades2ModWiki/blog","blogTitle":"Blog","authorsListPath":"/Hades2ModWiki/blog/authors"}')}}]);
