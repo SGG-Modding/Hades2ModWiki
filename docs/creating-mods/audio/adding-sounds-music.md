@@ -43,6 +43,7 @@ These `.bank` files are stored in the `Content/Audio/Desktop` folder in your Had
 ## Creating soundbanks
 
 Use the template FMOD studio project linked above and add your assets to the project.
+For music tracks, you will want to create each event as a `3D Timeline` in most cases.
 
 :::info[Looping]
 If you are adding music or sounds that should loop, select the event in FMOD Studio, right-click the timeline/preview of the event and select `New Loop Region`.
