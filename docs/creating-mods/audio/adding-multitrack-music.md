@@ -39,27 +39,27 @@ The following sections will reference and explain the below screenshot, so refer
 To add additional stems to your music event, create a new track in FMOD Studio for each stem (e.g., vocals, guitar, drums).
 To do so, right-click on the existing track and choose `Add Audio Track`.
 The names of the tracks do not matter.
-Onto these new tracks, import your asset files, these should *not* be their own events.
+Onto these new tracks, import your asset files, these should _not_ be their own events.
 You may freely move the assets on the tracks, e.g. to have one start with a delay.
 
 In the example, two audio tracks `Audio 1` and `Audio 3` were added.
 The first track contains the music played by Eurydice in her Asphodel chamber, while the second track contains her vocals.
 The event is called `EurydiceSong_Baglama3`, which was the asset name of the music track, this can be changed to anything you like.
-The vocal track exists on the `Assets` tab (not visible), but *not* as a separate event.
+The vocal track exists on the `Assets` tab (not visible), but _not_ as a separate event.
 
 For each track/stem that you want to dynamically control via code, you'll need to set up an automation to control when it should play:
 
 1. Right-click the volume knob of the stem track (under the `Solo` and `Mute` buttons) and select `Add Automation`.
 2. Click into the newly created automation track to open the automation panel at the bottom.
 3. Select `Add Curve` and create or select a parameter for this stem.
-	- If you do not see this option, you may need to expand the `Automation & Modulation` section to the right of the Fader.
+   - If you do not see this option, you may need to expand the `Automation & Modulation` section to the right of the Fader.
 4. If this is your first time using the given stem, select `Browse` -> `New Parameter` and follow [Setting up a new automation parameter](#setting-up-a-new-automation-parameter) below, otherwise select an already existing parameter for this stem.
 5. Click on two different points on the red curve to create new reference points.
-	- Drag the left point to the very left bottom corner, so that the volume is at `-infinity` decibels when the parameter is at `0`.
-	- Drag the right point to the top right, so that the volume is at `0` decibels when the parameter is at `1`.
-		- If you want to boost the audio at a value of `1`, you can change the curve to be above the `0` decibel line, but this is not recommended.
-	- To allow you to fade in the stem with floating point values between 0 and 1 via code, you can create additional points and fine-tune theri positions using right-click -> `Edit...` on the points. An initial third point at `0.05` with at least `-10` decibels is recommended, as anything below makes the audio barely audible.
-		- You don't have to add any additional points if you will only ever set the stem to `0` or `1`, but if you do not set any, the volume drop-off will be very sudden. 
+   - Drag the left point to the very left bottom corner, so that the volume is at `-infinity` decibels when the parameter is at `0`.
+   - Drag the right point to the top right, so that the volume is at `0` decibels when the parameter is at `1`.
+     - If you want to boost the audio at a value of `1`, you can change the curve to be above the `0` decibel line, but this is not recommended.
+   - To allow you to fade in the stem with floating point values between 0 and 1 via code, you can create additional points and fine-tune theri positions using right-click -> `Edit...` on the points. An initial third point at `0.05` with at least `-10` decibels is recommended, as anything below makes the audio barely audible.
+     - You don't have to add any additional points if you will only ever set the stem to `0` or `1`, but if you do not set any, the volume drop-off will be very sudden.
 
 That's it - follow the generic guide to learn how to export and play your new multi-track music events in the game.
 Follow the [Turning tracks on and off in the code](#turning-tracks-on-and-off-in-the-code) section below to learn how to control the stems from within your mod.
@@ -84,7 +84,7 @@ You can re-use these if you want to integrate your new event "natively" into exi
 
 ## Turning tracks on and off in the code
 
-A track can be turned on or off by using 
+A track can be turned on or off by using
 
 ```lua
 SetSoundCueValue({ Names = trackNames, Id = musicId, Value = volume, Duration = fadeInOutDuration })
@@ -93,19 +93,20 @@ SetSoundCueValue({ Names = trackNames, Id = musicId, Value = volume, Duration = 
 - `trackNames` is a table of the tracks for which to modify the volume, e.g. `{ "Guitar" }`.
 - `musicId` is the ID of which music event should be modified, e.g. `AudioState.SecretMusicId` or `AudioState.MusicId`.
 - `volume` is a float between 0 and 1, with 0 meaning the track is effectively turned off, and 1 meaning it is at the default volume.
-	- Most times, no values other than 0 and 1 are used. In the Scylla boss fight, non-featured-artist tracks are set to a value of 0.65 during the second phase.
+  - Most times, no values other than 0 and 1 are used. In the Scylla boss fight, non-featured-artist tracks are set to a value of 0.65 during the second phase.
 - `fadeInOutDuration` is the duration in seconds over which the current volume is changed to the new volume. To immediately start or stop the track, set this to 0.
 
 ## Example
 
-<!-- This is an actual import statement and does not appear in the text -->
-<!-- Without the import (using the path directly), the video player doesn't work for some reason -->
-import MultiTrackVideo from './files/MultiTrackAudioExample.mp4';
-
 The following is an in-game example of turning the `Vocals` track off when the player interacts with Eurydice, and turning it back on when the player leaves her boon menu:
 
-<video width="100%" controls>
-  <source src={MultiTrackVideo} type="video/mp4" />
-</video>
-
-Download the example video [here](./files/MultiTrackAudioExample.mp4) if the player does not work for you.
+<!-- Always 16:9 with 100% width -->
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden'}}>
+  <iframe 
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}
+    src="https://www.youtube.com/embed/7vhA-zyHGkc" 
+    title="Hades II Modding Guide - Multi-Track Music demo"
+    frameBorder="0" 
+    allowFullScreen>
+  </iframe>
+</div>
