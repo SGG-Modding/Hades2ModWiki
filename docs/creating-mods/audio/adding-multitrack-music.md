@@ -58,13 +58,13 @@ For each track/stem, you'll need to set up an automation to control when it shou
   - Drag the left point to the very left bottom corner, so that the volume is at `-infinity` decibels when the parameter is at `0`.
 	- Drag the right point to the top right, so that the volume is at `0` decibels when the parameter is at `1`.
 	  - If you want to boost the audio at a value of `1`, you can change the curve to be above the `0` decibel line, but this is not recommended.
+	- Create a third point and right-click -> `Edit...` to set it's position to 0.05, and it's value to something between `-10` and `-1` decibels, to allow you to fade in the stem with floating point values between 0 and 1.
+	  - You don't have to add this third point if you will only ever set the stem to `0` or `1`, but if you do not set it, any values below 0.8 will be as good as muted. 
 
 That's it - follow the generic guide to export and play your music event in the game.
 Follow the [Turning tracks on and off in the code](#turning-tracks-on-and-off-in-the-code) section below to learn how to control the stems from within your mod.
 
 ### Setting up a new automation parameter
-
-![Adding a new parameter in FMOD](./img/fmod_add_parameter.png)
 
 For most use cases, configure your new parameter as follows:
 
