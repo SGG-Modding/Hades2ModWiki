@@ -47,21 +47,21 @@ The first track contains the music played by Eurydice in her Asphodel chamber, w
 The event is called `EurydiceSong_Baglama3`, which was the asset name of the music track, this can be changed to anything you like.
 The vocal track exists on the `Assets` tab (not visible), but *not* as a separate event.
 
-For each track/stem, you'll need to set up an automation to control when it should play:
+For each track/stem that you want to dynamically control via code, you'll need to set up an automation to control when it should play:
 
-1. Right-click the volume knob of the stem track and select `Add Automation`.
+1. Right-click the volume knob of the stem track (under the `Solo` and `Mute` buttons) and select `Add Automation`.
 2. Click into the newly created automation track to open the automation panel at the bottom.
 3. Select `Add Curve` and create or select a parameter for this stem.
-	- If you do not see this option, you may need to expand the `Automation & Modulation` to the right of the Fader.
-4. If this is your first time using the given stem, select `Browse` -> `New Parameter` and follow [Setting up a new automation parameter](#setting-up-a-new-automation-parameter) below, otherwise select the already existing parameter for this stem.
-5. Click on two different points on the curve to create new reference points.
-  - Drag the left point to the very left bottom corner, so that the volume is at `-infinity` decibels when the parameter is at `0`.
+	- If you do not see this option, you may need to expand the `Automation & Modulation` section to the right of the Fader.
+4. If this is your first time using the given stem, select `Browse` -> `New Parameter` and follow [Setting up a new automation parameter](#setting-up-a-new-automation-parameter) below, otherwise select an already existing parameter for this stem.
+5. Click on two different points on the red curve to create new reference points.
+	- Drag the left point to the very left bottom corner, so that the volume is at `-infinity` decibels when the parameter is at `0`.
 	- Drag the right point to the top right, so that the volume is at `0` decibels when the parameter is at `1`.
-	  - If you want to boost the audio at a value of `1`, you can change the curve to be above the `0` decibel line, but this is not recommended.
-	- Create a third point and right-click -> `Edit...` to set it's position to 0.05, and it's value to something between `-10` and `-1` decibels, to allow you to fade in the stem with floating point values between 0 and 1.
-	  - You don't have to add this third point if you will only ever set the stem to `0` or `1`, but if you do not set it, any values below 0.8 will be as good as muted. 
+		- If you want to boost the audio at a value of `1`, you can change the curve to be above the `0` decibel line, but this is not recommended.
+	- To allow you to fade in the stem with floating point values between 0 and 1 via code, you can create additional points and fine-tune theri positions using right-click -> `Edit...` on the points. An initial third point at `0.05` with at least `-10` decibels is recommended, as anything below makes the audio barely audible.
+		- You don't have to add any additional points if you will only ever set the stem to `0` or `1`, but if you do not set any, the volume drop-off will be very sudden. 
 
-That's it - follow the generic guide to export and play your music event in the game.
+That's it - follow the generic guide to learn how to export and play your new multi-track music events in the game.
 Follow the [Turning tracks on and off in the code](#turning-tracks-on-and-off-in-the-code) section below to learn how to control the stems from within your mod.
 
 ### Setting up a new automation parameter
@@ -84,12 +84,17 @@ You can re-use these if you want to integrate your new event "natively" into exi
 
 ## Turning tracks on and off in the code
 
-A track can be turned on or off by using `SetSoundCueValue({ Names = trackNames, Id = musicId, Value = volume, Duration = fadeInOutDuration })`.
+A track can be turned on or off by using 
 
-- `trackNames` is a table of the tracks to be turned on or off, e.g. `{ "Guitar" }`.
+```lua
+SetSoundCueValue({ Names = trackNames, Id = musicId, Value = volume, Duration = fadeInOutDuration })
+```
+
+- `trackNames` is a table of the tracks for which to modify the volume, e.g. `{ "Guitar" }`.
 - `musicId` is the ID of which music event should be modified, e.g. `AudioState.SecretMusicId` or `AudioState.MusicId`.
 - `volume` is a float between 0 and 1, with 0 meaning the track is effectively turned off, and 1 meaning it is at the default volume.
-- `fadeInOutDuration` is the duration of the fade in or out, in seconds. To immediately start or stop the track, set this to `0`.
+	- Most times, no values other than 0 and 1 are used. In the Scylla boss fight, non-featured-artist tracks are set to a value of 0.65 during the second phase.
+- `fadeInOutDuration` is the duration in seconds over which the current volume is changed to the new volume. To immediately start or stop the track, set this to 0.
 
 ## Example
 
