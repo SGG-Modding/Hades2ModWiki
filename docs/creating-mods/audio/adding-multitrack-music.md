@@ -69,25 +69,18 @@ Follow the [Turning tracks on and off in the code](#turning-tracks-on-and-off-in
 For most use cases, configure your new parameter as follows:
 
 - Parameter Type: `User: Continuous`
-- Parameter Name: The name of the stem in the game (see below for a list of all known stems). As of now, custom stem names have not been tested, but may work.
+- Parameter Name: The name of the stem in the game (see below for a list of all known stems), or a custom name of your choice.
 - Range: 0 to 1
 - Initial Value: 1
 - Parameter Scope: Local
 - Additional Options: Leave the defaults of only `Exposed recursively via event instruments` checked.
 
-<!-- :::tip[Custom parameter names]
-You can also create custom parameter names for your mod-specific stems. Just make sure to use these same names when controlling them via code.
-::: -->
+:::tip[Custom parameter names]
+You can also create custom parameter names for your mod-specific stems. Just make sure to use those same names when controlling them via code.
+:::
 
-Known stem names in the game:
-- Vocals
-- Vocals2
-- Guitar
-- Drums
-- Bass
-- ChaosBass
-- Keys
-- Sax
+Known stem names in the game are: `Vocals`, `Vocals2`, `Guitar`, `Drums`, `Bass`, `ChaosBass`, `Keys`, and `Sax`.
+You can re-use these if you want to integrate your new event "natively" into existing game logic.
 
 ## Turning tracks on and off in the code
 
