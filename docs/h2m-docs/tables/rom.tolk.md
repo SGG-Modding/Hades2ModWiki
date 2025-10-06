@@ -38,11 +38,11 @@ rom.tolk.screen_read()
   - `thing_id` (integer): Id of the sgg::Thing.
 
 - **Returns:**
-  - `table<int, string>`: Returns the lines inside a lua table
+  - `table{'<'}int, string>`: Returns the lines inside a lua table
 
 **Example Usage:**
 ```lua
-table<int, string> = rom.tolk.get_lines_from_thing(thing_id)
+table{'<'}int, string> = rom.tolk.get_lines_from_thing(thing_id)
 ```
 
 ### `on_button_hover(function)`

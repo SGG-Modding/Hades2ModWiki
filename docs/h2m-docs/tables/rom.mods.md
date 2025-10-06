@@ -13,11 +13,11 @@ Each mod once loaded will have a key in this table, the key will be their guid s
 ### `loading_order()`
 
 - **Returns:**
-  - `table<int, string>`: Table containing the order in which mods are loaded by the mod loader.
+  - `table{'<'}int, string>`: Table containing the order in which mods are loaded by the mod loader.
 
 **Example Usage:**
 ```lua
-table<int, string> = rom.mods.loading_order()
+table{'<'}int, string> = rom.mods.loading_order()
 ```
 
 ### `on_all_mods_loaded(callback)`
