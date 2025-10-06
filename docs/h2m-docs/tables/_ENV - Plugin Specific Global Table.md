@@ -39,13 +39,13 @@ Version of the mod.
 
 Dependencies of the mod.
 
-- Type: `table<string>`
+- Type: `table{'<'}string>`
 
 ### `_PLUGIN.dependencies_no_version_number`
 
 Dependencies of the mod without the version numbers.
 
-- Type: `table<string>`
+- Type: `table{'<'}string>`
 
 ### `_PLUGIN.config_mod_folder_path`
 
