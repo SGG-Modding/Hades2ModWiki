@@ -1,3 +1,8 @@
+---
+title: rom.lua_patch.lua
+---
+
+```lua
 ---@meta lua_patch
 
 -- Class representing a in-memory patch.
@@ -12,4 +17,4 @@ function lua_patch:apply() end
 -- Restore the original value.
 function lua_patch:restore() end
 
-
+```

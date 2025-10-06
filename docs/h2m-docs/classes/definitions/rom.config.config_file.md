@@ -1,3 +1,8 @@
+---
+title: rom.config.config_file.lua
+---
+
+```lua
 ---@meta config.config_file
 
 -- A helper class to handle persistent data.
@@ -33,4 +38,4 @@ function config.config_file:save() end
 -- Reloads the config from disk. Unsaved changes are lost.
 function config.config_file:reload() end
 
-
+```

@@ -1,3 +1,8 @@
+---
+title: rom.on_import.lua
+---
+
+```lua
 ---@meta on_import
 
 ---@class (exact) rom.on_import
@@ -11,4 +16,4 @@ function on_import.pre(function) end
 ---@param function function signature (string file_name)
 function on_import.post(function) end
 
-
+```

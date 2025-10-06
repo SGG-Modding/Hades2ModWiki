@@ -1,3 +1,8 @@
+---
+title: rom.game.lua
+---
+
+```lua
 ---@meta game
 
 ---@class (exact) rom.game
@@ -11,4 +16,4 @@
 ---@param args table{'<'}string, string> Table contains string key `Name` and its associated `string` value. Associated value should be a full path to the package to load, without the extension. The filename of the .pkg and the .pkg_manifest files should contains the guid of the owning mod. Example `AuthorName-ModName-MyMainPackage`
 function game.LoadPackages(args) end
 
-
+```

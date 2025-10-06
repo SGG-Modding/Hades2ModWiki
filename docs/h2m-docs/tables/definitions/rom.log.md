@@ -1,3 +1,8 @@
+---
+title: rom.log.lua
+---
+
+```lua
 ---@meta log
 
 -- Table containing functions for printing to console / log file.
@@ -23,4 +28,4 @@ function log.error(arg, level) end
 -- Refresh the log filters (Console and File) from the config file.
 function log.refresh_filters() end
 
-
+```

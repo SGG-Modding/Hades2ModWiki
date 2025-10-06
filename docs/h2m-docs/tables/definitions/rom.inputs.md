@@ -1,3 +1,8 @@
+---
+title: rom.inputs.lua
+---
+
+```lua
 ---@meta inputs
 
 ---@class (exact) rom.inputs
@@ -29,4 +34,4 @@ function inputs.let_game_input_go_through_gui_layer(new_value) end
 ---@param new_value bool Optional. Set the backing field to the passed new value.
 function inputs.enable_vanilla_debug_keybinds(new_value) end
 
-
+```

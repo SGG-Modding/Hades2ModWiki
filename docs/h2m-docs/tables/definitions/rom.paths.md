@@ -1,3 +1,8 @@
+---
+title: rom.paths.lua
+---
+
+```lua
 ---@meta paths
 
 -- Table containing helpers for retrieving project related IO file/folder paths.
@@ -21,4 +26,4 @@ function paths.Content() end
 ---@return string # Returns the GameFolder/Ship folder path
 function paths.Ship() end
 
-
+```

@@ -1,3 +1,8 @@
+---
+title: rom.path.lua
+---
+
+```lua
 ---@meta path
 
 -- Table containing helpers for manipulating file or directory paths
@@ -48,4 +53,4 @@ function path.exists(path) end
 ---@param callback function callback that match signature function ( file_name, timestamp ).
 function path.add_file_watcher(path, callback) end
 
-
+```

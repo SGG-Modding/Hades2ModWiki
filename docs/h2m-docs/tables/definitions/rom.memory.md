@@ -1,3 +1,8 @@
+---
+title: rom.memory.lua
+---
+
+```lua
 ---@meta memory
 
 -- Table containing helper functions related to process memory.
@@ -125,4 +130,4 @@ function memory.resolve_pointer_to_type(target_address, target_type) end
 ---@return number # The object address as a lua number.
 function memory.get_usertype_pointer(usertype_object) end
 
-
+```

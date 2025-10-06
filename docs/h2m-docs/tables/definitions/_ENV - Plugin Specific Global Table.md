@@ -1,3 +1,8 @@
+---
+title: _ENV - Plugin Specific Global Table.lua
+---
+
+```lua
 ---@meta _ENV - Plugin Specific Global Table
 
 -- Each mod/plugin have their own global table containing helpers, such as:
@@ -30,3 +35,4 @@
 ---@field _PLUGIN.plugins_mod_folder_path string # Path to the mod folder inside `plugins`
 ---@field _PLUGIN.this lua_module*
 
+```

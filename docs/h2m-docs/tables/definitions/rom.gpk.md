@@ -1,3 +1,8 @@
+---
+title: rom.gpk.lua
+---
+
+```lua
 ---@meta gpk
 
 ---@class (exact) rom.gpk
@@ -10,4 +15,4 @@ function gpk.decompress_folder(input_folder_path, output_folder_path) end
 ---@param output_folder_path string Path to the folder where the decompressed files will be placed. The folder is created if needed.
 function gpk.decompress_file(input_file_path, output_folder_path) end
 
-
+```

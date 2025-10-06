@@ -1,3 +1,8 @@
+---
+title: rom.tolk.lua
+---
+
+```lua
 ---@meta tolk
 
 ---@class (exact) rom.tolk
@@ -29,4 +34,4 @@ function tolk.get_lines_from_thing(thing_id) end
 ---@param function function Function called when a button is hovered. The function must match signature: (table of string) -> returns nothing
 function tolk.on_button_hover(function) end
 
-
+```

@@ -1,3 +1,8 @@
+---
+title: rom.config.config_definition.lua
+---
+
+```lua
 ---@meta config.config_definition
 
 -- Section and key of a setting.
@@ -5,5 +10,4 @@
 ---@field section string # Group of the setting. All settings within a config file are grouped by this.
 ---@field key string # Name of the setting.
 
-
-
+```

@@ -1,3 +1,8 @@
+---
+title: rom.mods.lua
+---
+
+```lua
 ---@meta mods
 
 ---@class (exact) rom.mods
@@ -10,4 +15,4 @@ function mods.loading_order() end
 ---@param callback function callback that will be called once all mods are loaded. The callback function should match signature func()
 function mods.on_all_mods_loaded(callback) end
 
-
+```

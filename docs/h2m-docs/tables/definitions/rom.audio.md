@@ -1,3 +1,8 @@
+---
+title: rom.audio.lua
+---
+
+```lua
 ---@meta audio
 
 ---@class (exact) rom.audio
@@ -9,4 +14,4 @@
 ---@return bool # Returns true if bank loaded successfully.
 function audio.load_bank(file_path) end
 
-
+```

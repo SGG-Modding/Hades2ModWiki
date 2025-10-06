@@ -1,3 +1,8 @@
+---
+title: rom.gui.lua
+---
+
+```lua
 ---@meta gui
 
 ---@class (exact) rom.gui
@@ -55,4 +60,4 @@ function gui.is_open() end
 -- Opens or closes the GUI.
 function gui.toggle() end
 
-
+```

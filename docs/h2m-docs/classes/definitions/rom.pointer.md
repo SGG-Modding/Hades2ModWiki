@@ -1,3 +1,8 @@
+---
+title: rom.pointer.lua
+---
+
+```lua
 ---@meta pointer
 
 -- Class representing a 64-bit memory address.
@@ -141,4 +146,4 @@ function pointer:deref() end
 ---@return number # The memory address stored in the pointer object as a number.
 function pointer:get_address() end
 
-
+```

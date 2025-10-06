@@ -1,3 +1,8 @@
+---
+title: rom.data.lua
+---
+
+```lua
 ---@meta data
 
 ---@class (exact) rom.data
@@ -12,4 +17,4 @@ function data.reload_game_data() end
 ---@return string # Returns the string corresponding to the provided hash value.
 function data.get_string_from_hash_guid(hash_guid) end
 
-
+```
