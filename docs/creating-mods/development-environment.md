@@ -58,7 +58,7 @@ If you think a tool is missing from this list, please open a PR on the [GitHub r
 	- *IMPORTANT* - the current version of this tool does not work with models from the 1.0 release of Hades II, but only with models from the "The Unseen" update or earlier. Use Steam Depot downloader to download an earlier version of the game if you want to extract models from there.
 	- Some community members are working on a version that allows extracting the current models, so check the Discord for updates.
 
-### Visual Studio Code Extensions
+## Visual Studio Code Extensions
 
 The following extensions are recommended to install in Visual Studio Code to improve your modding experience:
 
