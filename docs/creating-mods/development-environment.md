@@ -32,7 +32,7 @@ If you think a tool is missing from this list, please open a PR on the [GitHub r
 	- Character models are *not* stored in `.pkg` files, but their textures are.
 	- Please note that for Hades II, all mods should create and load their own custom `.pkg` files, and *not* replace any of the game's original `.pkg` files. Custom package discovery is supported through Hell2Modding.
 
-- [Fmod Bank Tools (direct download)](<./audio/files/Fmod Bank Tools.zip>) - A utility that allows the extraction and repacking of FMOD `.bank` and `.fsb` soundbank files.
+- [Fmod Bank Tools (direct download hosted on this wiki)](<./audio/files/Fmod Bank Tools.zip>) - A utility that allows the extraction and repacking of FMOD `.bank` and `.fsb` soundbank files.
 	- `.bank` files are used for any music, ambient sounds and sound effects in the game. If you want to reference, replace or add onto these sounds, you will need this tool.
 	- `.fsb` files contain all voice lines in the game. If you want to change or add voice lines, you will need this tool. Use Python-fsb5 below to further extract separate voice lines from the `.fsb` files.
 	- Refer to the [Audio Modding](../category/audio) guides for more information on adding or modifying audio in Hades II.
