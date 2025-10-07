@@ -9,7 +9,7 @@ This article contains a number of tools and resources to help you get started wi
 Also join the [Hades II Modding Discord](https://discord.gg/fewDSuPj) if you haven't already, as it is a great resource for getting help and sharing your ideas.
 
 For an easy and quick start to developing your first mod, use the [Hades2ModTemplate](https://github.com/SGG-Modding/Hades2ModTemplate) created by the community.
-This template contains a basic mod structure to work with Hell2Modding, our mod loader, as well as a GitHub Actions workflow to automatically publish new versions of your mod to Thunderstore when you push a new release to GitHub.
+This template contains a basic mod structure to work with Hell2Modding, our mod loader, as well as a GitHub Actions workflow to create a release on GitHub and push the updated package to Thunderstore.
 
 ## Absolute Minimum Requirements
 
