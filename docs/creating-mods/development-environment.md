@@ -17,14 +17,14 @@ This template contains a basic mod structure to work with Hell2Modding, our mod 
 - [Thunderstore](https://thunderstore.io/c/hades-ii/) account - if you intend to share your mods with the community.
 	- Note that the wider modding community for Hades II has moved away from Nexus and is now using Thunderstore. Any mods created for Nexus are *not* compatible with Thunderstore mods, and all of the guides in this wiki are based on development for Thunderstore.
 - [GitHub](https://github.com/) account - primarily for code source control, but also for automated publishing of new mod package versions to Thunderstore through GitHub Actions.
-- [r2modman](https://thunderstore.io/c/hades-ii/p/ebkr/r2modman/) to install dependencies and locally test your mods. The mod template already contains dependencies that most mods will require. Note that locally installing a mod will not automatically install its dependencies. Either manually install them, or install another mod that requires these base dependencies, such as [PonyMenu](https://thunderstore.io/c/hades-ii/p/PonyWarrior/PonyMenu/). If you have already downloaded any mods, you will have these dependencies installed.
+- [r2modman](https://thunderstore.io/c/hades-ii/p/ebkr/r2modman/) to install dependencies and locally test your mods. The [Hades2ModTemplate](https://github.com/SGG-Modding/Hades2ModTemplate) already contains dependencies that most mods will require. Note that locally installing a mod will not automatically install its dependencies. Either manually install them, or install another mod that requires these base dependencies, such as [PonyMenu](https://thunderstore.io/c/hades-ii/p/PonyWarrior/PonyMenu/). If you have already downloaded any mods, you will have these dependencies installed.
 
 ## Situational tools
 
 This section is very likely incomplete depending on your specific needs and how the modding landscape has evolved since this was written.
 More niche and up-to-date tools may have be shared on the [Hades II Modding Discord](https://discord.gg/fewDSuPj) since.
 
-If you think a tool is missing from this list, please open a PR on the [GitHub repository](https://github.com/sgg-modding/hades2modwiki) to add it.
+If you think a tool is missing from this list, please open a PR on the wiki's [GitHub repository](https://github.com/sgg-modding/hades2modwiki) to add it.
 
 - [deppth](https://github.com/SGG-Modding/deppth) - Allows unpacking and repacking of `.pkg` files, which contain all the game's textures.
 	- You need this tool if you want to extract or add any kind of texture to the game, such as custom character portraits, objects, or even any UI elements.
