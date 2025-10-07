@@ -40,6 +40,10 @@ If you think a tool is missing from this list, please open a PR on the [GitHub r
 - [Python-fsb5](https://github.com/HearthSim/python-fsb5), directly related to the above - A python tool to convert `.fsb` voice line banks into separate `.ogg` files that can be played by most audio players.
 	- You will need this if you need to extract any existing voice lines from Hades II. For adding new voice lines, only the above Fmod Bank Tools are required.
 
+- [Hades-SaveExtractor](https://github.com/TheNormalnij/Hades-SavesExtractor) - To extract Hades and Hades II save game files into a human-readable lua format.
+	- Only required if you want to inspect what actually gets saved into a save file using an example, as the white- and blacklists for what is saved is also available in the game code.
+	- Useful to un-corrupt broken save files.
+
 - [HadesMapper](https://github.com/SGG-Modding/HadesMapper) - To decode and encode the game's map (level) files.
 	- You will need this tool in certain cases where you want to modify existing rooms.
 	- It can in theory also be used to create entirely new rooms, but this has not been done before and is heavily discouraged due to the sheer complexity of the task.
@@ -49,10 +53,6 @@ If you think a tool is missing from this list, please open a PR on the [GitHub r
 	- Most full-screen videos in Hades II are stored as `.bik` files, such as the main menu video, location and event banners and many in-game menu backgrounds.
 	- This tool allows you both to view these videos, as well as convert them to many file formats (such as a `.png` sequence), as well as encode those sequences into `.bik` files.
 	- In Hades, character animations were also stored in this format, but this is no longer the case in Hades II.
-
-- [Hades-SaveExtractor](https://github.com/TheNormalnij/Hades-SavesExtractor) - To extract Hades and Hades II save game files into a human-readable lua format.
-	- Only required if you want to inspect what actually gets saved into a save file using an example, as the white- and blacklists for what is saved is also available in the game code.
-	- Useful to un-corrupt broken save files.
 
 - [Hades2blender](https://github.com/LuneMods/io_Hades2blender) - A Blender plugin to export Hades II 3D models into Blender.
 	- *IMPORTANT* - the current version of this tool does not work with models from the 1.0 release of Hades II, but only with models from the "The Unseen" update or earlier. Use Steam Depot downloader to download an earlier version of the game if you want to extract models from there.
