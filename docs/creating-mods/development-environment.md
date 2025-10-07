@@ -18,7 +18,7 @@ This template contains a basic mod structure to work with Hell2Modding, our mod 
 - [Thunderstore](https://thunderstore.io/c/hades-ii/) account - if you intend to share your mods with the community.
 	- Note that the wider modding community for Hades II has moved away from Nexus and is now using Thunderstore. Any mods created for Nexus are *not* compatible with Thunderstore mods, and all of the guides in this wiki are based on development for Thunderstore.
 - [GitHub](https://github.com/) account - primarily for code source control, but also for automated publishing of new mod package versions to Thunderstore through GitHub Actions.
-- [r2modman](https://thunderstore.io/c/hades-ii/p/ebkr/r2modman/) to install dependencies and locally test your mods.
+- [r2modman](https://thunderstore.io/c/hades-ii/p/ebkr/r2modman/) to install dependencies and locally test your mods. The mod template already contains dependencies that most mods will require. Note that locally installing a mod will not automatically install its dependencies. Either manually install them, or install another mod that requires these base dependencies, such as [PonyMenu](https://thunderstore.io/c/hades-ii/p/PonyWarrior/PonyMenu/). If you have already downloaded any mods, you will have these dependencies installed.
 
 ## Situational tools
 
