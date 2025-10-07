@@ -5,11 +5,10 @@ sidebar_position: 1
 # Development Environment
 
 This article contains a number of tools and resources to help you get started with modding Hades II.
-It is implied that you already have a basic understanding of tools like git, and how to use a code editor like Visual Studio Code, as well as basic programming knowledge.
 
 Also join the [Hades II Modding Discord](https://discord.gg/fewDSuPj) if you haven't already, as it is a great resource for getting help and sharing your ideas.
 
-For an easy and quick start, use the [Hades2ModTemplate](https://github.com/SGG-Modding/Hades2ModTemplate) created by the community.
+For an easy and quick start to developing your first mod, use the [Hades2ModTemplate](https://github.com/SGG-Modding/Hades2ModTemplate) created by the community.
 This template contains a basic mod structure to work with Hell2Modding, our mod loader, as well as a GitHub Actions workflow to automatically publish new versions of your mod to Thunderstore when you push a new release to GitHub.
 
 ## Absolute Minimum Requirements
