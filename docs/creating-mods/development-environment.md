@@ -27,8 +27,8 @@ More niche and up-to-date tools may have be shared on the [Hades II Modding Disc
 If you think a tool is missing from this list, please open a PR on the wiki's [GitHub repository](https://github.com/sgg-modding/hades2modwiki) to add it.
 
 - [deppth](https://github.com/SGG-Modding/deppth) - Allows unpacking and repacking of `.pkg` files, which contain all the game's textures.
-	- You need this tool if you want to extract or add any kind of texture to the game, such as custom character portraits, objects, or even any UI elements.
-	- The [Hades Texture Packer](https://github.com/SGG-Modding/Hades-Texture-Packer) is a related tool to assist in packing textures into `.pkg` files that can be loaded by the game. Work is ongoing to integrate this functionality into deppth.
+	- You need this tool if you want to extract or add any kind of texture to the game, such as custom character portraits, objects, or any UI elements.
+	- deppth supports packing custom assets into new `.pkg` files that can be distributed with your mod. Refer to [this section in the README](https://github.com/SGG-Modding/deppth#hades-2-packing-cli-quick-start).
 	- Character models are *not* stored in `.pkg` files, but their textures are.
 	- Please note that for Hades II, all mods should create and load their own custom `.pkg` files, and *not* replace any of the game's original `.pkg` files. Custom package discovery is supported through Hell2Modding.
 
