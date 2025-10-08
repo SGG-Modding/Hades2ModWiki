@@ -65,3 +65,63 @@ The following extensions are recommended to install in Visual Studio Code to imp
 - [Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) - A lua language server
   - You can optionally also refer to [luaCATS](https://luals.github.io/wiki/annotations/) to learn how to document your mod with annotations.
 - [Autodesk Interactive Debugger](https://marketplace.visualstudio.com/items?itemName=jschmidt42.stingray-debug) - Works as a very basic language server for `.sjson` files, allowing you to e.g. collapse objects in the editor. Don't expect any advanced features though.
+
+## Local Testing
+
+Before you publish your mod, you need to test it locally to ensure that it works as intended.
+You should *never* publish mods without first testing them locally.
+
+There are multiple ways to approach local testing, and the below examples are just some possible ways to do it.
+If something else works better for your workflow, use that instead.
+
+### Creating a aymbolic link from your development directory to r2modman
+
+You can avoid the hassle of having to regularly build and import your mod package after every code change by creating a [symbolic link (symlink)](https://en.wikipedia.org/wiki/Symbolic_link) to your mod's `src` folder in the `plugins` folder used by r2modman.
+Having a symlink means that when loading your mod, the files will be read directly from your development directory, and any changes will be reflected immediately.
+
+Follow these steps to create a symlink:
+
+- You need to have a dummy `manifest.json` file in your mod's `src` directory, which is used by r2modman. The easiest way to get this is to run the `tcli build` command as described in the [next section for the alternative approach](#manually-building-and-importing-new-package-versions), which will create this file for you in the `.zip` package. Copy the manifest file into your `src` directory.
+- Additionally, copy the `icon.png` and `LICENSE` files from your repository root into your `src` directory, as these are also used by r2modman.
+- Create a new entry in your `.gitignore` file to ignore these three files when committing changes to your repository.
+- Open a PowerShell terminal with administrator privileges, and run the following command, replacing `<sourcePath>` with the path to your mod's `src` directory, and `<target>` with the path to the `plugins` directory used by r2modman (likely `C:\Users\USERNAME\AppData\Roaming\r2modmanPlus-local\HadesII\profiles\Default\ReturnOfModding\plugins`), and `AuthorName-ModName` with the name of your mod in the format used by Thunderstore (e.g. `PonyWarrior-PonyMenu`). 
+Note that the `-Path` and `-Target` parameters might seem swapped compared to what you would expect, as `-Path` is the location of the new symlink, and `-Target` is the location that this link points to.
+
+    ```
+    New-Item -ItemType SymbolicLink -Path "<target>\AuthorName-ModName" -Target "<sourcePath>"
+    ```
+
+
+:::warning[Dependencies]
+If you have not done so yet, you will need to install your mod's dependencies before your mod will work.
+:::
+
+:::warning[plugins_data folder]
+If your mod contains any assets that need to be placed in the `plugins_data` folder, such as new `.pkg` texture packages, you will need to repeat the above steps to link from your `data` (or equivalent) source folder to the `plugins_data` folder in r2modman.
+If you write to files in the `plugins_data` folder through your mod (such as cached files), you may instead opt to manually copy changed `data` files to the `plugins_data` folder when needed, as otherwise the file edits will be reflected in your source folder.
+:::
+
+### Manually building and importing new package versions
+
+You can use the [Thunderstore CLI](https://github.com/thunderstore-io/thunderstore-cli) (`dotnet tool install -g tcli`) to manually build your local package, and then import this package as a local mod in r2modman.
+
+In the root directory of your mod (the directory containing the `thunderstore.toml` file), run the following command to build your mod package:
+
+```
+tcli build
+```
+
+This will create a `.zip` file in the format `AuthorName-ModName-Version.zip` in the `build` directory.
+
+In r2modman, go to the Settings tab, and locate the "Import local mod" option.
+In the file explorer that opens, choose your newly created `.zip` file and submit.
+This will open an install dialog in r2modman where you can confirm the mod name and version that will be installed.
+After confirming, your mod will be installed and ready to use.
+
+Sharing this `.zip` file is also the recommended approach for when you might want to share versions of your mod with community members on the Discord before publishing it to Thunderstore.
+
+When you update any code or assets in your mod, you will need to repeat the above steps to create a new package and import it again in r2modman.
+
+:::warning[Dependencies]
+Installing a mod locally through r2modman will *not* automatically install any dependencies that your mod requires, if you have not had them installed before.
+:::
