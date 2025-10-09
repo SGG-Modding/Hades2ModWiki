@@ -4,10 +4,124 @@ sidebar_position: 1
 
 # Development Environment
 
-This article is still in development.
+This article contains a number of tools and resources to help you get started with modding Hades II.
 
-## Requirements
+Also join the [Hades II Modding Discord](https://discord.gg/fewDSuPj) if you haven't already, as it is a great resource for getting help and sharing your ideas.
 
-1. Code editor - VSCode is recommended
-2. Thunderstore account - if you intend to share your mods
-3. GitHub account - code tracking and publishing to Thunderstore
+For an easy and quick start to developing your first mod, use the [Hades2ModTemplate](https://github.com/SGG-Modding/Hades2ModTemplate) created by the community.
+This template contains a basic mod structure to work with Hell2Modding, our mod loader, as well as a GitHub Actions workflow to create a release on GitHub and push the updated package to Thunderstore.
+
+## Absolute Minimum Requirements
+
+- Code editor - [Visual Studio Code](https://code.visualstudio.com/) is recommended.
+- [Thunderstore](https://thunderstore.io/c/hades-ii/) account - if you intend to share your mods with the community.
+	- Note that the wider modding community for Hades II has moved away from Nexus and is now using Thunderstore. Any mods created for Nexus are *not* compatible with Thunderstore mods, and all of the guides in this wiki are based on development for Thunderstore.
+- [GitHub](https://github.com/) account - primarily for code source control, but also for automated publishing of new mod package versions to Thunderstore through GitHub Actions.
+- [r2modman](https://thunderstore.io/c/hades-ii/p/ebkr/r2modman/) to install dependencies and locally test your mods. The [Hades2ModTemplate](https://github.com/SGG-Modding/Hades2ModTemplate) already contains dependencies that most mods will require. Note that locally installing a mod will not automatically install its dependencies. Either manually install them, or install another mod that requires these base dependencies, such as [PonyMenu](https://thunderstore.io/c/hades-ii/p/PonyWarrior/PonyMenu/). If you have already downloaded any mods, you will have these dependencies installed.
+
+## Situational tools
+
+This section is very likely incomplete depending on your specific needs and how the modding landscape has evolved since this was written.
+More niche and up-to-date tools may have be shared on the [Hades II Modding Discord](https://discord.gg/fewDSuPj) since.
+
+If you think a tool is missing from this list, please open a PR on the wiki's [GitHub repository](https://github.com/sgg-modding/hades2modwiki) to add it.
+
+- [deppth](https://github.com/SGG-Modding/deppth) - Allows unpacking and repacking of `.pkg` files, which contain all the game's textures.
+	- You need this tool if you want to extract or add any kind of texture to the game, such as custom character portraits, objects, or any UI elements.
+	- deppth supports packing custom assets into new `.pkg` files that can be distributed with your mod. Refer to [this section in the README](https://github.com/SGG-Modding/deppth#hades-2-packing-cli-quick-start).
+	- Character models are *not* stored in `.pkg` files, but their textures are.
+	- Please note that for Hades II, all mods should create and load their own custom `.pkg` files, and *not* replace any of the game's original `.pkg` files. Custom package discovery is supported through Hell2Modding.
+
+- [Fmod Bank Tools (direct download hosted on this wiki)](<./audio/files/Fmod Bank Tools.zip>) - A utility that allows the extraction and repacking of FMOD `.bank` and `.fsb` soundbank files.
+	- `.bank` files are used for any music, ambient sounds and sound effects in the game. If you want to reference, replace or add onto these sounds, you will need this tool.
+	- `.fsb` files contain all voice lines in the game. If you want to change or add voice lines, you will need this tool. Use Python-fsb5 below to further extract separate voice lines from the `.fsb` files.
+	- Refer to the [Audio Modding](../category/audio) guides for more information on adding or modifying audio in Hades II.
+
+- [Python-fsb5](https://github.com/HearthSim/python-fsb5), directly related to the above - A python tool to convert `.fsb` voice line banks into separate `.ogg` files that can be played by most audio players.
+	- You will need this if you need to extract any existing voice lines from Hades II. For adding new voice lines, only the above Fmod Bank Tools are required.
+
+- [Hades-SaveExtractor](https://github.com/TheNormalnij/Hades-SavesExtractor) - To extract Hades and Hades II save game files into a human-readable lua format.
+	- Only required if you want to inspect what actually gets saved into a save file using an example, as the white- and blacklists for what is saved is also available in the game code.
+	- Useful to un-corrupt broken save files.
+
+- [HadesMapper](https://github.com/SGG-Modding/HadesMapper) - To decode and encode the game's map (level) files.
+	- You will need this tool in certain cases where you want to modify existing rooms.
+	- It can in theory also be used to create entirely new rooms, but this has not been done before and is heavily discouraged due to the sheer complexity of the task.
+	  - Some community members are working on a level editor tool, so check the Discord for updates.
+
+- [Bink2ForUnreal](https://www.radgametools.com/bnkdown.htm) - To view and convert `.bik` video files.
+	- Most full-screen videos in Hades II are stored as `.bik` files, such as the main menu video, location and event banners and many in-game menu backgrounds.
+	- This tool allows you both to view these videos, as well as convert them to many file formats (such as a `.png` sequence), as well as encode those sequences into `.bik` files.
+	- In Hades, character animations were also stored in this format, but this is no longer the case in Hades II.
+
+- [Hades2blender](https://github.com/LuneMods/io_Hades2blender) - A Blender plugin to export Hades II 3D models into Blender.
+	- *IMPORTANT* - the current version of this tool does not work with models from the 1.0 release of Hades II, but only with models from the "The Unseen" update or earlier. Use Steam Depot downloader to download an earlier version of the game if you want to extract models from there.
+	- Some community members are working on a version that allows extracting the current models, so check the Discord for updates.
+
+## Visual Studio Code Extensions
+
+The following extensions are recommended to install in Visual Studio Code to improve your modding experience:
+
+- [Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) - A lua language server
+  - You can optionally also refer to [luaCATS](https://luals.github.io/wiki/annotations/) to learn how to document your mod with annotations.
+- [Autodesk Interactive Debugger](https://marketplace.visualstudio.com/items?itemName=jschmidt42.stingray-debug) - Works as a very basic language server for `.sjson` files, allowing you to e.g. collapse objects in the editor. Don't expect any advanced features though.
+
+## Local Testing
+
+Before you publish your mod, you need to test it locally to ensure that it works as intended.
+You should *never* publish mods without first testing them locally.
+
+There are multiple ways to approach local testing, and the below examples are just some possible ways to do it.
+If something else works better for your workflow, use that instead.
+
+### Creating a aymbolic link from your development directory to r2modman
+
+You can avoid the hassle of having to regularly build and import your mod package after every code change by creating a [symbolic link (symlink)](https://en.wikipedia.org/wiki/Symbolic_link) to your mod's `src` folder in the `plugins` folder used by r2modman.
+Having a symlink means that when loading your mod, the files will be read directly from your development directory, and any changes will be reflected immediately.
+
+Follow these steps to create a symlink:
+
+- You need to have a dummy `manifest.json` file in your mod's `src` directory, which is used by r2modman. The easiest way to get this is to run the `tcli build` command as described in the [next section for the alternative approach](#manually-building-and-importing-new-package-versions), which will create this file for you in the `.zip` package. Copy the manifest file into your `src` directory.
+- Additionally, copy the `icon.png` and `LICENSE` files from your repository root into your `src` directory, as these are also used by r2modman.
+- Create a new entry in your `.gitignore` file to ignore these three files when committing changes to your repository.
+- Open a PowerShell terminal with administrator privileges, and run the following command, replacing `<sourcePath>` with the path to your mod's `src` directory, and `<target>` with the path to the `plugins` directory used by r2modman (likely `C:\Users\USERNAME\AppData\Roaming\r2modmanPlus-local\HadesII\profiles\Default\ReturnOfModding\plugins`), and `AuthorName-ModName` with the name of your mod in the format used by Thunderstore (e.g. `PonyWarrior-PonyMenu`). 
+Note that the `-Path` and `-Target` parameters might seem swapped compared to what you would expect, as `-Path` is the location of the new symlink, and `-Target` is the location that this link points to.
+
+    ```
+    New-Item -ItemType SymbolicLink -Path "<target>\AuthorName-ModName" -Target "<sourcePath>"
+    ```
+
+
+:::warning[Dependencies]
+If you have not done so yet, you will need to install your mod's dependencies before your mod will work.
+:::
+
+:::warning[plugins_data folder]
+If your mod contains any assets that need to be placed in the `plugins_data` folder, such as new `.pkg` texture packages, you will need to repeat the above steps to link from your `data` (or equivalent) source folder to the `plugins_data` folder in r2modman.
+If you write to files in the `plugins_data` folder through your mod (such as cached files), you may instead opt to manually copy changed `data` files to the `plugins_data` folder when needed, as otherwise the file edits will be reflected in your source folder.
+:::
+
+### Manually building and importing new package versions
+
+You can use the [Thunderstore CLI](https://github.com/thunderstore-io/thunderstore-cli) (`dotnet tool install -g tcli`) to manually build your local package, and then import this package as a local mod in r2modman.
+
+In the root directory of your mod (the directory containing the `thunderstore.toml` file), run the following command to build your mod package:
+
+```
+tcli build
+```
+
+This will create a `.zip` file in the format `AuthorName-ModName-Version.zip` in the `build` directory.
+
+In r2modman, go to the Settings tab, and locate the "Import local mod" option.
+In the file explorer that opens, choose your newly created `.zip` file and submit.
+This will open an install dialog in r2modman where you can confirm the mod name and version that will be installed.
+After confirming, your mod will be installed and ready to use.
+
+Sharing this `.zip` file is also the recommended approach for when you might want to share versions of your mod with community members on the Discord before publishing it to Thunderstore.
+
+When you update any code or assets in your mod, you will need to repeat the above steps to create a new package and import it again in r2modman.
+
+:::warning[Dependencies]
+Installing a mod locally through r2modman will *not* automatically install any dependencies that your mod requires, if you have not had them installed before.
+:::
