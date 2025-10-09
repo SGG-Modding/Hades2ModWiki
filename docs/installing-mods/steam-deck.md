@@ -47,7 +47,7 @@ chmod +x appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImage
 - Locate **r2modman (version number)** in the list by *scrolling*, NOT **Browse**.
 - Select it and click **Add Selected Programs**.
 
-### 5. Start r2modman and set Steam directory
+### 5. Start r2modman and set Steam/Hades II directory
 - Open **Steam**. Mode shouldn't matter here.
 - Select **r2modman**.
 - Select **Hades II** as the game, and open the **Settings**.
@@ -56,6 +56,7 @@ chmod +x appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImage
 When browsing for your **Steam** directory, the `.local` directory may be hidden by default. In this case, set your file browser to *show hidden files*.
 :::
 - Select **Change Steam folder**, and navigate to `/home/deck/.local/share/Steam`.
+- Select **Change Hades II folder**, and navigate to `/home/deck/.local/share/Steam/steamapps/common/Hades II/Ship`.
 
 Congratulations! You can now open **r2modman** in Gaming Mode, in the **Non-Steam** category of your library.
 
