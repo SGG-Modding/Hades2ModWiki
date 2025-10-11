@@ -91,7 +91,6 @@ Note that the `-Path` and `-Target` parameters might seem swapped compared to wh
     New-Item -ItemType SymbolicLink -Path "<target>\AuthorName-ModName" -Target "<sourcePath>"
     ```
 
-
 :::warning[Dependencies]
 If you have not done so yet, you will need to install your mod's dependencies before your mod will work.
 :::
