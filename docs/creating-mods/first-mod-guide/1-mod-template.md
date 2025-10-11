@@ -11,7 +11,7 @@ sidebar_position: 2
 In this first part of the guide, you'll learn how to clone and set up your own copy of the [Hades II Mod template](https://github.com/SGG-Modding/Hades2ModTemplate).
 
 To get started, navigate to the latest release of the [Hades II Mod template](https://github.com/SGG-Modding/Hades2ModTemplate/releases/latest), and download the `hades2-mod-template.zip`.
-Unzip the contents of this folder to where you'll be doing your mod development, and push the contents to a new GitHub repository.
+Unzip the contents of this folder to where you'll be doing your mod development, open it in your chosen code editor and push the contents to a new GitHub repository.
 
 :::note[Symlinking to r2modman]
 It's recommended to create a symlink from your mod development folder to the `ReturnOfModding` folder used by r2modman, as described in the [Development Environment](../development-environment.md#creating-a-aymbolic-link-from-your-development-directory-to-r2modman) guide.
@@ -36,11 +36,10 @@ To make use of the [release workflow](#release-workflow) included in the mod tem
 
 ## Understanding the components
 
-Open the mod template in your chosen code editor (e.g. Visual Studio Code).
 You can learn more about each of the core files in the template by expanding the sections below:
 
 <details>
-<summary><h3>thunderstore.toml</h3></summary>
+<summary><h3><a id="thunderstore-toml">thunderstore.toml</a></h3></summary>
 
 This file contains all of the metadata required for publishing your mod to Thunderstore.
 You can find the full specification for both the contents of this file and other parts of your mod package in the [Thunderstore package format requirements](https://thunderstore.io/c/hades-ii/create/docs/) online.
@@ -133,12 +132,78 @@ To release a new package version, follow these steps, first follow the [Creating
 
 </details>
 
+### The `data` folder
 
+This folder is not included in the template by default, as it doesn't have any files that would go in here.
+If your mod distributes any binary files, such as `.pkg` asset packages or `.bank` sound files, they should be placed in this folder.
+When building your mod package, this folder will be copied to `plugins_data`, which is where the mod loader looks for these files (remember to uncomment the relevant section in the [`thunderstore.toml`](#thunderstore-toml) file). 
 
+### The `src` folder
 
+The `src` folder is where your mod's code goes.
+The template already contains boilerplate code to integrate your mod with [Hell2Modding](https://thunderstore.io/c/hades-ii/p/Hell2Modding/Hell2Modding/), our mod loader for Hades II.
 
+---
 
+#### `main.lua`
 
+Start by opening the `main.lua` file.
+This file contains the entry point for your mod, and contains a number of boilerplate definitions and assignments that you should not change.
+How all of these work in detail won't be covered in this guide.
 
+The most relevant parts for you are the `on_ready()` and `on_reload()` functions.
+These two functions are where you should import any other lua files you create, as is shown with the existing imports of the `ready.lua` and `reload.lua` files.
+
+The content of the `on_ready()` function is run once, when your mod is first loaded, while the content of the `on_reload()` function is run every time your mod is reloaded (when you change one of it's files in the `plugins` folder).
+This is why it is recommended to [create a symlink](../development-environment.md#creating-a-aymbolic-link-from-your-development-directory-to-r2modman) from your development directory to the `plugins` directory, as that way you can make changes to your mod without needing to rebuild the package and restart the game to see them applied.
+
+---
+
+#### `ready.lua` and `reload.lua`
+
+Let's take a look at what the `ready.lua` and `reload.lua` files currently do in the template:
+
+1. From `ready.lua`, it uses the `sjson` dependency library to "hook" into the game's `ShellText.en.sjson` file, which contains text that is e.g. displayed on the main menu of the game.
+	- Localization files are located in `Game/Text/<languageShorthand>/<fileName>.<languageShorthand>.sjson`, and you need to hook into each one separately if you want to modify their contents.
+	- This hook is executed when the game loads the file, which is done only once on game start.
+	- It passes the data to `sjson_ShellText(data)`, which is defined in `reload.lua`, and which will modify the text shown on the `Play` button on the main menu.
+	- The `_PLUGIN.guid` referenced in this modification is the `AuthorName-ModName` unique identifier of your mod.
+	- When you locally install your mod, loading into the main menu should now show `Test <AuthorName-ModName>` instead of `Play`:
+
+![ShellText Play button modification](./img/shellText_hook.jpg)
+
+2. From `ready.lua`, we also "wrap" the function `SetupMap()`, which is defined by the game.
+  - In `function(base, ...)`, `base` is the original function, and `...` are any arguments passed to it.
+	- In a wrap, you should always call the original function either before or after your own code, depending on the modification you need to make. Otherwise the original function will not be executed at all. If this is what you want, consider using `modutil.mod.Path.Override` instead.
+	- In this case, we call the `prefix_SetupMap()` function defined in `reload.lua` before calling the original function.
+	- The `prefix_SetupMap()` function currently only adds a message to the log console that opens when you start the game modded, but this is where you could for example load any custom packages (`.pkg` files) required in each level.
+	- You can wrap or override any function defined by the game through lua, but be mindful of compatibility with other mods that may also be wrapping or overriding the same functions.
+
+3. Finally, the template registers a new function call to be executed when the player presses the key mapped to the `Gift` functionality - on keyboard, this would be the `G` key by default.
+	- When this key is pressed, the mod will execute the `trigger_Gift()` function defined in `reload.lua`.
+	- The original function calls the game defines to be called when this key is pressed are also executed alongside this new function.
+	- The `trigger_Gift()` function will add a log message above the player character (this call should be used for debugging only, as the game provides other functions for this to integrate more natively):
+
+![trigger_Gift function call](./img/trigger_Gift.jpg)
+
+---
+
+#### `config.lua`
+
+This file is where you should define any configuration options that users of your mod should be able to change.
+r2modman will automatically generate a configuration file that can be modified through the app, based on the contents of this file.
+
+In the template, the `message` configuration option can be used to change what floating text is shown by `trigger_Gift()` when the `G` key is pressed.
+
+Configuration files will persist even after your mod is uninstalled.
+
+---
+
+#### `def.lua`
+
+Unless you are creating a library mod that exposes functions to be used by other mods, you do not need this file and can safely delete it.
+If you do want to expose functions to other mods, this is where you should document them.
+
+---
 
 Once you've set up the template locally, continue on to: [2. TODO](./1-mod-template.md).
