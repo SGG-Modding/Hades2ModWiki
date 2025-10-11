@@ -6,9 +6,11 @@ sidebar_position: 2
 
 *Please ensure you've read the [Introduction](./0-intro.md) before starting this guide.*
 
+---
+
 ## Setting up a local copy
 
-In this first part of the guide, you'll learn how to clone and set up your own copy of the [Hades II Mod template](https://github.com/SGG-Modding/Hades2ModTemplate).
+In this first part of the guide, you'll learn how to clone and set up your own copy of the [Hades II Mod template](https://github.com/SGG-Modding/Hades2ModTemplate), as well as understand it's contents and basic layout.
 
 To get started, navigate to the latest release of the [Hades II Mod template](https://github.com/SGG-Modding/Hades2ModTemplate/releases/latest), and download the `hades2-mod-template.zip`.
 Unzip the contents of this folder to where you'll be doing your mod development, open it in your chosen code editor and push the contents to a new GitHub repository.
@@ -206,4 +208,4 @@ If you do want to expose functions to other mods, this is where you should docum
 
 ---
 
-Once you've set up the template locally, continue on to: [2. TODO](./1-mod-template.md).
+Once you've understood these basic concepts, you can continue on to the next page, where we'll start creating a simple portrait replacement mod using this template: [Portrait replacement](./2-portrait-replacement.md).

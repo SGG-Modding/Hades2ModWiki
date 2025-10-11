@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # Introduction
 
-Learn how to replace assets, change gameplay behaviour, and publish your first mod for Hades II.
+Start here to learn how to create and publish your first Hades II mod.
+
+---
 
 Before you start, please take a look at the [Development Environment](../development-environment.md) guide and ensure you have at least the minimum required setup.
 Some parts of this guide will require some of the situational tools mentioned, this will be noted where applicable.

@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # Development Environment
 
-This article contains a number of tools and resources to help you get started with modding Hades II.
+Tools and resources to help you get started with modding Hades II.
+
+---
 
 Also join the [Hades II Modding Discord](https://discord.gg/fewDSuPj) if you haven't already, as it is a great resource for getting help and sharing your ideas.
 
@@ -26,9 +28,9 @@ More niche and up-to-date tools may have be shared on the [Hades II Modding Disc
 
 If you think a tool is missing from this list, please open a PR on the wiki's [GitHub repository](https://github.com/sgg-modding/hades2modwiki) to add it.
 
-- [deppth](https://github.com/SGG-Modding/deppth) - Allows unpacking and repacking of `.pkg` files, which contain all the game's textures.
+- [deppth2](https://github.com/SGG-Modding/deppth) - Allows unpacking and repacking of `.pkg` files, which contain all the game's textures.
 	- You need this tool if you want to extract or add any kind of texture to the game, such as custom character portraits, objects, or any UI elements.
-	- deppth supports packing custom assets into new `.pkg` files that can be distributed with your mod. Refer to [this section in the README](https://github.com/SGG-Modding/deppth#hades-2-packing-cli-quick-start).
+	- deppth2 supports packing custom assets into new `.pkg` files that can be distributed with your mod. Refer to [this section in the README](https://github.com/SGG-Modding/deppth#hades-2-packing-cli-quick-start).
 	- Character models are *not* stored in `.pkg` files, but their textures are.
 	- Please note that for Hades II, all mods should create and load their own custom `.pkg` files, and *not* replace any of the game's original `.pkg` files. Custom package discovery is supported through Hell2Modding.
 

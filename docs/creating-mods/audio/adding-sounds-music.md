@@ -6,6 +6,8 @@ sidebar_position: 3
 
 Learn how to add new sounds or music to the game.
 
+---
+
 :::info[Install the required tools]
 Make sure you have followed the [prerequisites](./prerequisites.md) page to install the necessary tools before proceeding.
 :::
