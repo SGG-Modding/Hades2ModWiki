@@ -208,4 +208,4 @@ If you do want to expose functions to other mods, this is where you should docum
 
 ---
 
-Once you've understood these basic concepts, you can continue on to the next page, where we'll start creating a simple portrait replacement mod using this template: [Portrait replacement](./2-portrait-replacement.md).
+Once you've understood these basic concepts, you can continue on to the next page, where we'll create a simple portrait replacement mod using the template: [Portrait replacement](./2-portrait-replacement.md).

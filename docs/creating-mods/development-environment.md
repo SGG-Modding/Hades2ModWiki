@@ -78,6 +78,10 @@ If something else works better for your workflow, use that instead.
 
 ### Creating a aymbolic link from your development directory to r2modman
 
+:::info[Before you can do this]
+Before setting up a symlink, it is strongly recommended to use the manual build method below once to set up the correct folder structure for your mod in the `ReturnOfModding` folder used by r2modman.
+:::
+
 You can avoid the hassle of having to regularly build and import your mod package after every code change by creating a [symbolic link (symlink)](https://en.wikipedia.org/wiki/Symbolic_link) to your mod's `src` folder in the `plugins` folder used by r2modman.
 Having a symlink means that when loading your mod, the files will be read directly from your development directory, and any changes will be reflected immediately.
 
