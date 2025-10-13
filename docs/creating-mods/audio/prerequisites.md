@@ -4,9 +4,13 @@ sidebar_position: 1
 
 # Prerequisites
 
-Read through this page first to understand and download the necessary tools before you can start adding sounds or voicelines to the game.
+Necessary tools before you can start adding audio to the game.
+
+---
 
 > Parts of this guidance were adapted from [AlexKage's HadesAudioHelper](https://github.com/AlexKage69/HadesAudioHelper) for Hades.
+
+Before you continue reading any of the guides in the Audio section, please ensure you are familiar with how to develop mods for Hades II, following the [Creating your first Mod](../../category/creating-your-first-mod) guides if necessary.
 
 ## Tools
 

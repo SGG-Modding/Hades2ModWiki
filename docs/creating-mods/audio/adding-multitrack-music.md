@@ -4,7 +4,11 @@ sidebar_position: 4
 
 # Adding Multi-Track Music
 
-Learn how to add new music with multiple, dynamic tracks (such as vocals, different instruments) to the game.
+Learn how to add new music with dynamic tracks to the game.
+
+---
+
+This guide will teach you how to add new music with multiple, dynamic tracks (such as vocals, different instruments) to Hades II.
 In the game, a track is called a `stem` (or `MusicStem`).
 
 :::info[`MusicStem` vs `MusicSection`]

@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Learn how to add new voicelines to the game.
 
+---
+
 :::info[Install the required tools]
 Make sure you have followed the [prerequisites](./prerequisites.md) page to install the necessary tools before proceeding.
 Note that opposed the guidance in [Adding Sounds & Music](./adding-sounds-music.md), you do not need the template project linked there in order to add voicelines to the game.
