@@ -38,7 +38,7 @@ This function randomly selects a `musicSetup`, each value of which corresponds t
 Follow the [Adding Sounds & Music](./adding-sounds-music.md) guide to create a new music event for the base track/first instrument of your music first.
 
 The following sections will reference and explain the below screenshot, so refer back to it as needed:
-![FMOD Studio multi-track music event example](./img/fmod_multi_track.png)
+![FMOD Studio multi-track music event example](./img/multi-track/fmod_multi_track.png)
 
 To add additional stems to your music event, create a new track in FMOD Studio for each stem (e.g., vocals, guitar, drums).
 To do so, right-click on the existing track and choose `Add Audio Track`.
@@ -62,7 +62,7 @@ For each track/stem that you want to dynamically control via code, you'll need t
    - Drag the left point to the very left bottom corner, so that the volume is at `-infinity` decibels when the parameter is at `0`.
    - Drag the right point to the top right, so that the volume is at `0` decibels when the parameter is at `1`.
      - If you want to boost the audio at a value of `1`, you can change the curve to be above the `0` decibel line, but this is not recommended.
-   - To allow you to fade in the stem with floating point values between 0 and 1 via code, you can create additional points and fine-tune theri positions using right-click -> `Edit...` on the points. An initial third point at `0.05` with at least `-10` decibels is recommended, as anything below makes the audio barely audible.
+   - To allow you to fade in the stem with floating point values between 0 and 1 via code, you can create additional points and fine-tune their positions using right-click -> `Edit...` on the points. An initial third point at `0.05` with at least `-10` decibels is recommended, as anything below makes the audio barely audible.
      - You don't have to add any additional points if you will only ever set the stem to `0` or `1`, but if you do not set any, the volume drop-off will be very sudden.
 
 That's it - follow the generic guide to learn how to export and play your new multi-track music events in the game.

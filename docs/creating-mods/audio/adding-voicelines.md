@@ -65,14 +65,14 @@ Thus it is recommended to name the asset files in this format as well, to preven
 Create a new project in FMOD Studio and create a folder with the name of your speaker (`Megaera`).
 Import your voicelines into this folder, with each asset being imported as a new 2D event:
 
-[![Import assets into FMOD Studio](./img/fmod_import_assets.png)](./img/fmod_import_assets.png)
+[![Import assets into FMOD Studio](./img/voicelines/fmod_import_assets.png)](./img/voicelines/fmod_import_assets.png)
 
-[![FMOD Studio folder structure](./img/fmod_folder_structure.png)](./img/fmod_folder_structure.png)
+[![FMOD Studio folder structure](./img/voicelines/fmod_folder_structure.png)](./img/voicelines/fmod_folder_structure.png)
 
 Now, right-click your folder name, and select `Assign to Bank` -> `New Bank...`.
 Name this bank the **exact** same as your speaker name (`Megaera`).
 
-[![FMOD Studio bank structure](./img/fmod_bank_structure.png)](./img/fmod_bank_structure.png)
+[![FMOD Studio bank structure](./img/voicelines/fmod_bank_structure.png)](./img/voicelines/fmod_bank_structure.png)
 
 You should now see the previous `#unassigned` tag disappear from the events in your folder, and all events having been added to the bank with the speaker's name.
 Repeat this process for each different speaker you want to add voicelines for.
