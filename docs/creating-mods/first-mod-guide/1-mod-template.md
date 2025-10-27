@@ -206,6 +206,13 @@ Configuration files will persist even after your mod is uninstalled.
 Unless you are creating a library mod that exposes functions to be used by other mods, you do not need this file and can safely delete it.
 If you do want to expose functions to other mods, this is where you should document them.
 
+## Video walkthrough
+
+Here is a [video walkthrough](https://www.twitch.tv/videos/2599166443) of setting up a simple mod. The video goes over:
+- Creating your mod starting from the template
+- Running your mod locally
+- Demoing the template functionality and talking through the template code
+
 ---
 
 Once you've understood these basic concepts, you can continue on to the next page, where we'll create a simple portrait replacement mod using the template: [Portrait replacement](./2-portrait-replacement.md).
