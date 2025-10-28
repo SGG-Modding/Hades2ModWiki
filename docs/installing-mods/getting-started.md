@@ -51,6 +51,9 @@ The new h2m framework has significant benefits over ModImporter. It does not nee
 ### What if I don't want to use r2modman?
 This is not recommended, as manual installation of h2m and its mods is not a straightforward process.
 
+### Are there launch arguments for Steam to start the game modded by default?
+Yes. You can see the launch arguments r2modman provides for your current profile on the `Help` page, which is under the `Settings`. If you add these to your Steam launch arguments for Hades II, using `Play` in Steam will start the game modded instead of Vanilla. Please still regularly check r2modman for any mod updates and fixes. Whenever Hell2Modding gets an update, you also need to start the game at least once through `Start modded` in r2modman, to properly install the update.
+
 ### How do I clean up old ModImporter mods?
 1. Navigate to your `Hades II/Content` directory
 2. Delete the `Mods` directory
