@@ -26,7 +26,6 @@ const config = {
   trailingSlash: false,
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -34,6 +33,12 @@ const config = {
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
+  },
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
   },
 
   presets: [
@@ -88,7 +93,7 @@ const config = {
           {
             to: "/docs/intro",
             label: "Welcome!",
-            position: "left"
+            position: "left",
           },
           {
             to: "/docs/category/using-mods",
@@ -103,7 +108,7 @@ const config = {
           {
             to: "/docs/h2m-docs",
             label: "Hell2Modding Docs",
-            position: "left"
+            position: "left",
           },
           {
             to: "/docs/category/in-game-definitions",
