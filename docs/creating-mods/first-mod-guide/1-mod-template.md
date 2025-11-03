@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ## Setting up a local copy
 
-In this first part of the guide, you'll learn how to clone and set up your own copy of the [Hades II Mod template](https://github.com/SGG-Modding/Hades2ModTemplate), as well as understand it's contents and basic layout.
+In this first part of the guide, you'll learn how to clone and set up your own copy of the `Hades II Mod template`, as well as understand it's contents and basic layout.
 
 To get started, navigate to the latest release of the [Hades II Mod template](https://github.com/SGG-Modding/Hades2ModTemplate/releases/latest), and download the `hades2-mod-template.zip`.
 Unzip the contents of this folder to where you'll be doing your mod development, open it in your chosen code editor and push the contents to a new GitHub repository.
