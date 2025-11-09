@@ -11,7 +11,7 @@ ChooseNextRoomData(currentRun, args, otherDoors)
 Line of global table RoomData
 
 # Sample Usage
-The following snippets make it so Dionysius is forced every other room.
+The following snippets make it so Dionysus is forced every other room.
 
 ready.lua:
 ```lua
