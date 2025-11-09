@@ -18,7 +18,7 @@ ready.lua:
 modutil.mod.Path.Wrap("ChooseNextRoomData", function(base, currentRun, ...)
   -- Both EncounterData and RoomData have variables limiting how often a room can appear in a run and biome.
   -- Failing to edit those results in a crash
-  EncounterData = mod.AdjustMaxDioEncounters(EncounterData)
+	EncounterData = mod.AdjustMaxDioEncounters(EncounterData)
 	RoomData = mod.AdjustMaxDioRooms(RoomData)
 	return mod.ChooseNextRoomDataWrap(base, currentRun, ...)
 end)
