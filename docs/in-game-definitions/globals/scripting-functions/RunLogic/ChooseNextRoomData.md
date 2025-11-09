@@ -8,7 +8,7 @@ ChooseNextRoomData(currentRun, args, otherDoors)
 ## Parameters
 `currentRun`, `args`, `otherDoors`
 ## Returns
-Line of global table RoomData
+table: RoomData
 
 # Sample Usage
 The following snippets make it so Dionysus is forced every other room.
