@@ -8,7 +8,7 @@ Tools and resources to help you get started with modding Hades II.
 
 ---
 
-Also join the [Hades II Modding Discord](https://discord.gg/bAvteGANyx) if you haven't already, as it is a great resource for getting help and sharing your ideas.
+Also join the [Hades II Modding Discord](https://discord.gg/KuMbyrN) if you haven't already, as it is a great resource for getting help and sharing your ideas.
 
 For an easy and quick start to developing your first mod, use the [Hades2ModTemplate](https://github.com/SGG-Modding/Hades2ModTemplate) created by the community.
 This template contains a basic mod structure to work with Hell2Modding, our mod loader, as well as a GitHub Actions workflow to create a release on GitHub and push the updated package to Thunderstore.
@@ -24,7 +24,7 @@ This template contains a basic mod structure to work with Hell2Modding, our mod 
 ## Situational tools
 
 This section is very likely incomplete depending on your specific needs and how the modding landscape has evolved since this was written.
-More niche and up-to-date tools may have be shared on the [Hades II Modding Discord](https://discord.gg/bAvteGANyx) since.
+More niche and up-to-date tools may have be shared on the [Hades II Modding Discord](https://discord.gg/KuMbyrN) since.
 
 If you think a tool is missing from this list, please open a PR on the wiki's [GitHub repository](https://github.com/sgg-modding/hades2modwiki) to add it.
 
