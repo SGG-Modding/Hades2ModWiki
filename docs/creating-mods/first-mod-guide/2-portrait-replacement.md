@@ -411,6 +411,6 @@ This guide has shown you how to create a simple portrait replacement mod for Had
 Take some time to explore the mods available in our [Thunderstore community](https://thunderstore.io/c/hades-ii/).
 Many mod authors include a link to the mod's source code on GitHub on the mod's page, which is a great way to learn more about the possibilities of Hades II modding.
 
-Also join the [Hades Modding Discord](https://discord.gg/fewDSuPj) to ask questions, share ideas, and connect with other members of the community.
+Also join the [Hades Modding Discord](https://discord.gg/bAvteGANyx) to ask questions, share ideas, and connect with other members of the community.
 
 If there are any improvements you'd like to see in this guide, or would like to create your own guides for different aspects of modding for the game, we welcome any contributions to the [wiki's GitHub repository](https://github.com/SGG-Modding/Hades2ModWiki).
