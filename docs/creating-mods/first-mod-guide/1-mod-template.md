@@ -25,7 +25,7 @@ To publish your mods to Thunderstore, you need to create a **Team**.
 This is the name shown as the mod author on your mod page, and will be part of your mod's unique identifier on Thunderstore.
 A mod's team (just like its name) cannot be changed after publishing, so choose wisely.
 
-To make use of the [release workflow](#release-workflow) included in the mod template, you will also need to create a **Service Account** for your mod, and add its API token as a secret in your GitHub repository:
+To make use of the [release workflow](#githubworkflowsreleaseyaml) included in the mod template, you will also need to create a **Service Account** for your mod, and add its API token as a secret in your GitHub repository:
 
 - To create a team, first sign up for a [Thunderstore](https://thunderstore.io/c/hades-ii/) account, on the top right. You can choose to sign up using your GitHub account, which is recommended, or a Discord or Overwolf account.
   - After signing in, go to the [Teams settings](https://thunderstore.io/settings/teams/) on Thunderstore and create a new team. New options should appear in the left sidebar.
@@ -40,8 +40,10 @@ To make use of the [release workflow](#release-workflow) included in the mod tem
 
 You can learn more about each of the core files in the template by expanding the sections below:
 
+### thunderstore.toml
+
 <details>
-<summary><h3><a id="thunderstore-toml">thunderstore.toml</a></h3></summary>
+<summary>Click to expand section</summary>
 
 This file contains all of the metadata required for publishing your mod to Thunderstore.
 You can find the full specification for both the contents of this file and other parts of your mod package in the [Thunderstore package format requirements](https://thunderstore.io/c/hades-ii/create/docs/) online.
@@ -92,8 +94,10 @@ You may add additional, *existing* tags to the `[publish.categories]` list if yo
 See the [Thunderstore API](https://thunderstore.io/api/experimental/community/hades-ii/category/) for a full list of available categories.
 </details>
 
+### Readme.md, Changelog.md, License & icon.png
+
 <details>
-<summary><h3>Readme.md, Changelog.md, License & icon.png</h3></summary>
+<summary>Click to expand section</summary>
 
 The `Readme.md` should contain a description of your mod, alongside any possible configuration option (see [config.lua](#config) below).
 The contents of the Readme will be shown on the Thunderstore mod page.
@@ -110,8 +114,10 @@ It *must* be a 256x256 PNG icon.
 
 </details>
 
+### .github/workflows/release.yaml
+
 <details>
-<summary><h3><a id="release-workflow">.github/workflows/release.yaml</a></h3></summary>
+<summary>Click to expand section</summary>
 
 This file contains a GitHub Actions workflow that builds and publishes your mod package to both GitHub and Thunderstore.
 To release a new package version, follow these steps, first follow the [Creating a Thunderstore team](#creating-a-thunderstore-team) guide and create a service account as shown there.
@@ -138,7 +144,7 @@ To release a new package version, follow these steps, first follow the [Creating
 
 This folder is not included in the template by default, as it doesn't have any files that would go in here.
 If your mod distributes any binary files, such as `.pkg` asset packages or `.bank` sound files, they should be placed in this folder.
-When building your mod package, this folder will be copied to `plugins_data`, which is where the mod loader looks for these files (remember to uncomment the relevant section in the [`thunderstore.toml`](#thunderstore-toml) file). 
+When building your mod package, this folder will be copied to `plugins_data`, which is where the mod loader looks for these files (remember to uncomment the relevant section in the [`thunderstore.toml`](#thunderstoretoml) file). 
 
 ### The `src` folder
 
