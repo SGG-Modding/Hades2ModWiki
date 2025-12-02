@@ -6,6 +6,7 @@ sidebar_position: 2
 
 :::danger[Install to Internal Storage Only]
 Before starting, make sure Hades II is installed to the Steam Deck's internal storage, NOT the MicroSD card!
+If using Zagreus' Journey, Hades also needs to be installed on the internal storage.
 :::
 
 ## Part 1 - Getting r2modman to work in Gaming Mode
