@@ -76,13 +76,19 @@ It is recommended to create some sort of mapping of GUIDs to event names within 
 
 ## Load and play sounds in the game
 
-In your mod, you must load the soundbank before you can play any events from it, using `rom.audio.load_bank(path)`, e.g.:
+In your mod, you must load the soundbank before you can play any events from it, using `rom.audio.load_bank(path)`, e.g. like this if you need the bank to be loaded when in the Crossroads:
 
 ```lua
 -- Loads the sound bank when entering the Crossroads or switching between rooms in the Crossroads
 modutil.mod.Path.Wrap("DeathAreaRoomTransition", function(base, source, args)
 	rom.audio.load_bank(rom.path.combine(_PLUGIN.plugins_data_mod_folder_path, "Audio\\ModsNikkelMUnlockHadesMusic.bank"))
-	base(source, args)
+	return base(source, args)
+end)
+
+-- If returning from a Chaos Trial, HubPostBountyLoad will be called instead of DeathAreaRoomTransition, so we need to duplicate the wrap
+modutil.mod.Path.Wrap("HubPostBountyLoad", function(base, source, args)
+	rom.audio.load_bank(rom.path.combine(_PLUGIN.plugins_data_mod_folder_path, "Audio\\ModsNikkelMUnlockHadesMusic.bank"))
+	return base(source, args)
 end)
 ```
 
