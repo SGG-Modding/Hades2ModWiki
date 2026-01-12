@@ -186,7 +186,15 @@ modutil.mod.Path.Wrap("DeathAreaRoomTransition", function(base, source, args)
   if game.CurrentHubRoom.Name == "Hub_PreRun" then
     mod.LoadSkellyPackage()
   end
-  base(source, args)
+  return base(source, args)
+end)
+
+-- If returning from a Chaos Trial, HubPostBountyLoad will be called instead of DeathAreaRoomTransition, so we need to duplicate the wrap
+modutil.mod.Path.Wrap("HubPostBountyLoad", function(base, source, args)
+  if game.CurrentHubRoom.Name == "Hub_PreRun" then
+    mod.LoadSkellyPackage()
+  end
+  return base(source, args)
 end)
 ```
 
@@ -195,6 +203,10 @@ Since we only want to load our package in the training grounds, we check if the 
 If it is, we call our `mod.LoadSkellyPackage()` function to load our package.
 
 Finally, remember to always call the original function with its arguments using `base(<arguments>)` when wrapping a function - you can call `base` before or after your code, depending on when you want the original function to run.
+
+You technically only need to return in your wrap if the base function returns something, however it's good practice to always do so.
+
+You'll also notice we are wrapping `HubPostBountyLoad` as well - this function is called instead of `DeathAreaRoomTransition` when returning from a Chaos Trial, so we need to duplicate the wrap to ensure our package is also loaded in this case, as otherwise the portrait's package would not be loaded in this edge case.
 
 ### Method 2: Appending to built-in event tables
 
