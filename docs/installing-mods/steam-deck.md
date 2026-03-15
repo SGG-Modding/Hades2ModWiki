@@ -38,6 +38,7 @@ chmod +x appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImage
   - Important - use the "Manual Download" button!
   ![Download button](./steam-deck-r2modman-download-button.png)
 - Open the downloaded file and move the **r2modman** `.AppImage` file into your **Home/Applications** directory.
+  - It is recommended to tick the "Don't ask again" checkbox when asked if you would like to run the application
 ![r2modman in Applications directory](./steam-deck-r2modman.png)
 
 ### 4. Add r2modman as a Non-Steam Game
@@ -91,6 +92,7 @@ The steps in [Part 1](#part-1---getting-r2modman-to-work-in-gaming-mode) only al
 
 ### 3. Open Steam
 - Go to the **Properties** for *Hades II*.
+- In **General > Game Resolution**, set the resolution to *Native*.
 - In **General > Launch Options**, input the following text:
 ```
 WINEDLLOVERRIDES=d3d12=n,b %command%
