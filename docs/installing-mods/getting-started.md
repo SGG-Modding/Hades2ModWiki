@@ -54,6 +54,20 @@ This is not recommended, as manual installation of h2m and its mods is not a str
 ### Are there launch arguments for Steam to start the game modded by default?
 Yes. You can see the launch arguments r2modman provides for your current profile on the `Help` page, which is under the `Settings`. If you add these to your Steam launch arguments for Hades II, using `Play` in Steam will start the game modded instead of Vanilla. Please still regularly check r2modman for any mod updates and fixes. Whenever Hell2Modding gets an update, you also need to start the game at least once through `Start modded` in r2modman, to properly install the update.
 
+### I own Hades II on Epic Games and mods do not work when playing. What can I do?
+Many community members playing Hades II on Epic Games have reported that the following steps have resulted in mods working for them:
+1. Install r2modman as usual.
+2. Install your mods.
+3. In the Windows Explorer, navigate to `%appdata%\r2modmanPlus-local\HadesII\profiles` in the address bar at the top. This resolves to `C:\Users\<username>\AppData\Roaming\r2modmanPlus-local\HadesII\profiles`.
+4. Select your profile name. This is usually `Default`.
+5. Copy the content of this folder. It should contain a `_state` and `ReturnOfModding` folder, as well as a `d3d12.dll` and a `mods.yaml` file.
+6. Navigate to the `Ship` folder in the installation directory of Hades II. For Epic Games, this is likely `C:\Program Files (x86)\Epic Games\Games\HadesII\Ship`.
+7. Paste the copied content of the profile folder into the `Ship` directory.
+8. Use `Start Modded` in r2modman. A small console window should open alongside the game, and mods should be active when you load into the game.
+
+Note that unless you relink the profile folder in `AppData` to the `Ship` folder, you will need to re-copy the contents after each mod update and whenever you install a new mod.
+If you have any further issues playing with mods, please create a post in `#help-h2` in the [Hades II Modding Discord](https://discord.gg/KuMbyrN).
+
 ### How do I clean up old ModImporter mods?
 1. Navigate to your `Hades II/Content` directory
 2. Delete the `Mods` directory
