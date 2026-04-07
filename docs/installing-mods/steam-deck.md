@@ -19,7 +19,7 @@ If using Zagreus' Journey, Hades also needs to be installed on the internal stor
 :::info[Why AppImageLauncher?]
 Steam will not run `.AppImage` files by default and we need a workaround for this.
 :::
-- Download the **AppImageLauncher** installer from the [AppImageLauncher Github releases page](https://github.com/TheAssassin/AppImageLauncher/releases/download/v2.2.0/appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImage).
+- Download the **AppImageLauncher** installer from the [AppImageLauncher Github releases page](https://github.com/TheAssassin/AppImageLauncher/releases/download/v3.0.0-beta-3/appimagelauncher-lite-3.0.0-beta-2-gha287-x86_64.AppImage).
 - Move the **AppImageLauncher** `.AppImage` file to your **Home** directory.
 ![Home directory](./steam-deck-home-directory.png)
 - Open up **Konsole** (from the bottom left Start button > System > Konsole)
