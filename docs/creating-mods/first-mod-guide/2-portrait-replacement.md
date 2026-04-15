@@ -178,7 +178,7 @@ Now, let's take a look at the different ways we can make sure our package is loa
 
 ### Method 1: Wrapping a fitting function call
 
-The first way is to find a function that runs in the situation you want to load your packag, and optimally just then - you can wrap this function and add some code to load your package.
+The first way is to find a function that runs in the situation you want to load your package, and optimally just then - you can wrap this function and add some code to load your package.
 In your `ready.lua` file, remove everything below the comments at the top, and add the following code:
 
 ```lua
@@ -191,6 +191,14 @@ end)
 
 -- If returning from a Chaos Trial, HubPostBountyLoad will be called instead of DeathAreaRoomTransition, so we need to duplicate the wrap
 modutil.mod.Path.Wrap("HubPostBountyLoad", function(base, source, args)
+  if game.CurrentHubRoom.Name == "Hub_PreRun" then
+    mod.LoadSkellyPackage()
+  end
+  return base(source, args)
+end)
+
+-- If returning from a Dream Dive, HubPostDreamLoad will be called instead of DeathAreaRoomTransition, so we need to duplicate the wrap
+modutil.mod.Path.Wrap("HubPostDreamLoad", function(base, source, args)
   if game.CurrentHubRoom.Name == "Hub_PreRun" then
     mod.LoadSkellyPackage()
   end
