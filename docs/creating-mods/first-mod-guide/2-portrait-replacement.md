@@ -214,7 +214,7 @@ Finally, remember to always call the original function with its arguments using 
 
 You technically only need to return in your wrap if the base function returns something, however it's good practice to always do so.
 
-You'll also notice we are wrapping `HubPostBountyLoad` as well - this function is called instead of `DeathAreaRoomTransition` when returning from a Chaos Trial, so we need to duplicate the wrap to ensure our package is also loaded in this case, as otherwise the portrait's package would not be loaded in this edge case.
+You'll also notice we are wrapping `HubPostBountyLoad` and `HubPostDreamLoad` as well - these functions are called instead of `DeathAreaRoomTransition` when returning from a Chaos Trial or Dream Dive, so we need to duplicate the wrap to ensure our package is also loaded in these cases, as otherwise the portrait's package would not be loaded in these edge cases.
 
 ### Method 2: Appending to built-in event tables
 
