@@ -178,7 +178,7 @@ Now, let's take a look at the different ways we can make sure our package is loa
 
 ### Method 1: Wrapping a fitting function call
 
-The first way is to find a function that runs in the situation you want to load your packag, and optimally just then - you can wrap this function and add some code to load your package.
+The first way is to find a function that runs in the situation you want to load your package, and optimally just then - you can wrap this function and add some code to load your package.
 In your `ready.lua` file, remove everything below the comments at the top, and add the following code:
 
 ```lua
@@ -196,6 +196,14 @@ modutil.mod.Path.Wrap("HubPostBountyLoad", function(base, source, args)
   end
   return base(source, args)
 end)
+
+-- If returning from a Dream Dive, HubPostDreamLoad will be called instead of DeathAreaRoomTransition, so we need to duplicate the wrap
+modutil.mod.Path.Wrap("HubPostDreamLoad", function(base, source, args)
+  if game.CurrentHubRoom.Name == "Hub_PreRun" then
+    mod.LoadSkellyPackage()
+  end
+  return base(source, args)
+end)
 ```
 
 Here, we wrap the `DeathAreaRoomTransition` function, which is called whenever the player moves from the Crossroads hub room to the training grounds, or the other way around.
@@ -206,7 +214,7 @@ Finally, remember to always call the original function with its arguments using 
 
 You technically only need to return in your wrap if the base function returns something, however it's good practice to always do so.
 
-You'll also notice we are wrapping `HubPostBountyLoad` as well - this function is called instead of `DeathAreaRoomTransition` when returning from a Chaos Trial, so we need to duplicate the wrap to ensure our package is also loaded in this case, as otherwise the portrait's package would not be loaded in this edge case.
+You'll also notice we are wrapping `HubPostBountyLoad` and `HubPostDreamLoad` as well - these functions are called instead of `DeathAreaRoomTransition` when returning from a Chaos Trial or Dream Dive, so we need to duplicate the wrap to ensure our package is also loaded in these cases, as otherwise the portrait's package would not be loaded in these edge cases.
 
 ### Method 2: Appending to built-in event tables
 
