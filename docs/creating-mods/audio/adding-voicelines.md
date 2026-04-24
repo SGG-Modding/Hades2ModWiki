@@ -27,15 +27,14 @@ Voiceover files are stored in the `Content/Audio/Desktop/VO` folder in your Hade
 
 ## Creating voiceover files
 
-:::warning[Not all speaker name formats are supported]
-Loading voiceover files is handled in-engine, and not all speaker name (filename) formats work.
-If it seems the voiceover files for your speaker are not loading correctly, try using a different name.
-At the point of writing this, only speaker names that already existed in Hades are known to work, original names have not been able to be loaded.
-At the same time, not all Hades speaker names work either, so there will be some trial and error involved.
-:::
+:::warning[Voice Bank name formatting scheme]
+Voice bank names are normalized by the engine, and hence must be formatted in a certain way to be discoverable:
+- The first letter of your voice bank *may* be capitalized, e.g. `Authornamemodname` and `authornamemodname` would both load successfully.
+- All following letters *must* be lowercase, e.g. `AuthorNameModName` would **fail** to be discovered.
+- Exception: If your voice bank name contains the substrings `Field` or `Keepsake`, these *must* be capitalized, e.g. `Authornamemodnamekeepsake` would **fail** to be discovered, while `AuthornamemodnameKeepsake` **will** be discovered.
+- You *should* always prefix your voice bank name with your `Authornamemodname` to prevent any potential conflicts and duplicates with other mods.
 
-:::warning[Compatibility with other mods]
-If you want to optimize compatibility of your mod with other mods, use speaker names that other authors have not yet used, and load your voiceover files only when necessary.
+Hell2Modding will log a warning at startup if it detects a voice bank name that would fail the engine's normalization, so check your logs if cues aren't playing.
 :::
 
 :::info[Example speaker name]
@@ -56,8 +55,8 @@ The specific numbers do not matter (you do not need to have these ascending, and
 It's possible that the base assets do not have to be `.ogg` files to start with (before importing them into FMOD Studio), but it is recommended.
 
 :::danger[Event names must start with the speaker name!]
-All voiceover event names in FMOD Studio **MUST** start with the speaker's exact name, followed by an underscore `_`, otherwise the game will not load them!
-Thus it is recommended to name the asset files in this format as well, to prevent requiring renaming within FMOD Studio.
+All voiceover event names in FMOD Studio **MUST** start with the speaker's exact name, followed by an underscore `_`, otherwise the game will not be able to look them up at runtime!
+The part after the `_` does **not** need to be numeric - any string works (e.g. `Megaera_BattleCry0001`).
 :::
 
 ### Create an FMOD Studio project
@@ -157,11 +156,21 @@ $finalContent | Set-Content $outputFile
 
 ## Load voiceover files in your mod
 
-:::info[Copy voiceover files from your mod to the game's installation directory]
-The game can only load voiceover files from the `Content/Audio/Desktop/VO` folder in the game's installation directory.
-At the moment, we do not have a way to load modded voiceover files directly from a mod's folder, so you will need to have your mod copy the voiceover files to the game's installation directory, or instruct users to do so manually when they install your mod.
-Try to automate this process to happen once when the mod is first installed, to reduce the amount of manual work required by the user.
-:::
+### Place voiceover files in your mod
+
+Place your `.fsb` and `.txt` files anywhere in your mod's `plugins_data` folder (they must be co-located - same directory, same filename stem).
+Hell2Modding automatically discovers and registers all `.fsb` files and their `.txt` companions at startup.
+
+For example:
+```
+plugins_data/
+  AuthorName-ModName/
+    Content/Audio/Desktop/VO/   <- recommended location following Hades II directory structure, but not required
+      Authornamemodnameposeidon.fsb
+      Authornamemodnameposeidon.txt
+```
+
+### Load voiceover files at runtime
 
 In your mod, you can load voiceover files by name using the `LoadVoicebanks(speakerNames)` function.
 `speakerNames` is a table of strings, where each string is the name of a voiceover file (speaker) to load.
