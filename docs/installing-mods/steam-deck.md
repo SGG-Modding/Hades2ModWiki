@@ -24,10 +24,10 @@ Steam will not run `.AppImage` files by default and we need a workaround for thi
 ![Home directory](./steam-deck-home-directory.png)
 - Open up **Konsole** (from the bottom left Start button > System > Konsole)
 ![Open Konsole](./steam-deck-konsole.png)
-- Copy the following text:
+- Copy the following text (make sure that the name of the appimagelauncher matches the filename you downloaded!):
 ```bash
-chmod +x appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImage
-./appimagelauncher-lite-2.2.0-travis995-0f91801-x86_64.AppImage install
+chmod +x appimagelauncher-lite-3.0.0-beta-2-gha287-x86_64.AppImage
+./appimagelauncher-lite-3.0.0-beta-2-gha287-x86_64.AppImage install
 ```
 - Paste it into Konsole using the `Paste` button in the top-right of the application.
 ![Paste into Konsole](./steam-deck-konsole2.png)
