@@ -5,7 +5,7 @@ The `TraitData` structure contains all of the game traits which includes Boons /
 Aspects contains all of the game Weapon Aspects.
 
 ## Aspects contain the following parameters:
-**!Note** - The list below is incomplete
+**Note!** - The list below is incomplete
 
 ```lua
 InheritFrom = { "WeaponEnchantmentTrait" },
