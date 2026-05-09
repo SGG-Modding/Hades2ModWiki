@@ -5,6 +5,7 @@ The `TraitData` structure contains all of the game traits which includes Boons /
 Aspects contains all of the game Weapon Aspects.
 
 ## Aspects contain the following parameters:
+**!Note** - The list below is incomplete
 
 ```lua
 InheritFrom = { "WeaponEnchantmentTrait" },
@@ -34,6 +35,12 @@ Suit = `WeaponSuit`
 
 ```lua
 RequiredWeapon = "WeaponStaffSwing",
+```
+
+### PreEquipWeapons
+Add new attacks to the aspect 
+```lua
+PreEquipWeapons = { "WeaponAxe4", "WeaponAxe5"},
 ```
 ### WeaponKitGrannyModel
 The name of the model that would appear in the aspect selection menu
