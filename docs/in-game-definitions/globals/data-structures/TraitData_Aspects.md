@@ -89,7 +89,7 @@ Specify for each different attack
 ```lua
 WeaponDataOverride =
 		{
-			WeaponDaggerThrow = {
+			WeaponDaggerThrow = { --Changes Dagger special
 				ChargeWeaponStages =
 					{
 						{ ManaCost = 12, WeaponProperties = { Projectile = "ProjectileDaggerThrow", FireGraphic = "Melinoe_Dagger_SpecialEx_Fire", NumProjectiles = 3, AdditionalProjectileWaveChance = 0, ProjectileInterval = 0.08}, ApplyEffects = { "WeaponDaggerThrowEXDisable", "WeaponDaggerThrowEXDisableCancellable", "WeaponDaggerThrowEXDisableMoveHold" }, Wait = 0.32, HideStageReachedFx = true, ChannelSlowEventOnEnter = true },
@@ -128,7 +128,6 @@ PropertyChanges =
 ### Triggers
 Functions that occur while wearing the aspect each time the trigger occurs.
 Each trigger later calls a function. A perfect way to introduce aspect traits. 
-
 `OnWeaponFiredFunctions` - activates whenever an attack button is used.
 
 `OnProjectileCreationFunction` - activates whenever a projectile is created.
@@ -146,6 +145,26 @@ Each trigger later calls a function. A perfect way to introduce aspect traits.
 `OnSelfDamagedFunction` - activates whenever the hero receives damage.
 
 `OnUnequipFunctionName` - When the aspect is removed.
+
+**Note!** - each trigger may have slightly different arguement names.
+```lua
+OnEnemyDamagedAction = 
+		{
+			ValidWeapons = WeaponSets.HeroPrimaryWeapons, --Which attacks are allowed to trigger this funcion.
+			FunctionName = _PLUGIN.guid .. "." .. "ComboPresentation", -- the name of the function to be used following the trigger (mod.ComboPresentation)
+			FirstHitOnly = false, --If the attack strikes several targets would each target seperatly activates the function
+			Args = { --the arguements that pass into the function as functionArgs
+				test =''
+			},
+		},
+```
+Each function called by these triggets receives 
+
+`weaponData` - Any data about the attack from weaponData such as `WeaponName` 
+
+`functionArgs` - Any arguements given to the function in Args field.
+
+`triggerArgs` - Any arguements about what triggered the function.
 
 ### Add Modifiers
 Add modifiers to attacks
