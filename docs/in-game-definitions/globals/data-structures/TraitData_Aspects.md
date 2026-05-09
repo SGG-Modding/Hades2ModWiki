@@ -1,8 +1,8 @@
-# TraitData.Aspects 
+# TraitData - Aspects 
 
 The `TraitData` structure contains all of the game traits which includes Boons / Daedalic Hammers and Weapon Aspects
 
-`TratData.Aspects` contains all of the game Weapon Aspects.
+Aspects contains all of the game Weapon Aspects.
 
 ## Aspects contain the following parameters:
 
@@ -15,7 +15,7 @@ contains the reference to the icon exactly as mentioned in the `.pkg_manifest`
 ```lua
 Icon = "Hammer_Icon_41", --example base_game
 
-Icon = "JarlUlsfark-AspectYoungMel\\SkullAspectYoungMelIcon", --example from deppth2
+Icon = "JarlUlsfark-AspectYoungMel\\SkullAspectYoungMelIcon", --example from deppth2 hpk
 ```
 ### RequiredWeapon 
 the name of the base weapon the Aspect belongs to
@@ -128,6 +128,7 @@ PropertyChanges =
 ### Triggers
 Functions that occur while wearing the aspect each time the trigger occurs.
 Each trigger later calls a function. A perfect way to introduce aspect traits. 
+
 `OnWeaponFiredFunctions` - activates whenever an attack button is used.
 
 `OnProjectileCreationFunction` - activates whenever a projectile is created.
@@ -147,6 +148,7 @@ Each trigger later calls a function. A perfect way to introduce aspect traits.
 `OnUnequipFunctionName` - When the aspect is removed.
 
 **Note!** - each trigger may have slightly different arguement names.
+
 ```lua
 OnEnemyDamagedAction = 
 		{
@@ -176,6 +178,8 @@ Add modifiers to attacks
 `AddOutgoingLifestealModifiers` - Adds Lifesteal modifiers
 
 `AddOutgoingCritModifiers` - Adds critical hit modifiers
+
+**Note!** - each modifier may have slightly different arguement names.
 
 ### Miscellaneous parameters
 
@@ -212,4 +216,17 @@ StatLines =
 		{
 			"AspectDashRechargeStatDisplay",
 		},
+```
+
+## Adding new Aspects into the game
+
+### Overwriting existing Trait
+```lua
+OverwriteTableKeys( TraitSetData.Aspects.AxeRecoveryAspect, AxeAspectofYoungMelinoe)
+```
+
+### Adding new Aspects
+Adding new aspects also requires Modifiying upgrade and shop menus so the new aspect would be selectable.
+```lua
+TraitData.AxeAspectofYoungMelinoe = AxeAspectofYoungMelinoe
 ```
