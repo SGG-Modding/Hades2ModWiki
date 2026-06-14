@@ -101,7 +101,7 @@ Within the created directory, you will find a `texture/Portraits` folder - and t
 Copy this file.
 
 :::note[Extracting mips]
-Deppth2 will skip extracting lower mip level textures by default as these are not relevant for most use cases. If you want them to be extracted as well, you can use the `--include-mip` flag. Not every texture will have a lower mip level.
+Deppth2 will skip extracting lower mip level textures by default as these are not relevant for most use cases. If you want them to be extracted as well, you can use the `--include-mip` flag. Note that not every texture will have a lower mip level.
 :::
 
 ## Creating new packages
