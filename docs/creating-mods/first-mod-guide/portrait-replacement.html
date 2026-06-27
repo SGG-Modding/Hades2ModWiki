@@ -10,9 +10,9 @@
 
 
 <link rel="search" type="application/opensearchdescription+xml" title="Hades 2 Mod Wiki" href="/Hades2ModWiki/opensearch.xml">
-<link rel="preload" href="/fonts/CaesarDressing-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous"><link rel="stylesheet" href="/Hades2ModWiki/assets/css/styles.3717f09d.css">
-<script src="/Hades2ModWiki/assets/js/runtime~main.a7112963.js" defer="defer"></script>
-<script src="/Hades2ModWiki/assets/js/main.6e2661b5.js" defer="defer"></script>
+<link rel="preload" href="/fonts/CaesarDressing-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous"><link rel="stylesheet" href="/Hades2ModWiki/assets/css/styles.f6cd4b19.css">
+<script src="/Hades2ModWiki/assets/js/runtime~main.9e749976.js" defer="defer"></script>
+<script src="/Hades2ModWiki/assets/js/main.eb6d8469.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <svg style="display: none;"><defs>
@@ -68,6 +68,7 @@ Open a terminal in the folder containing the packages, and run the following com
 </ul>
 <p>Within the created directory, you will find a <code>texture/Portraits</code> folder - and this folder contains the <code>Portraits_Skelly_01.png</code> file we are looking for, just as the <code>FilePath</code> field in the portrait definition told us.
 Copy this file.</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>Extracting mips</div><div class="admonitionContent_BuS1"><p>Deppth2 will skip extracting lower mip level textures by default as these are not relevant for most use cases. If you want them to be extracted as well, you can use the <code>--include-mip</code> flag. Note that not every texture will have a lower mip level.</p></div></div>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="creating-new-packages">Creating new packages<a href="#creating-new-packages" class="hash-link" aria-label="Direct link to Creating new packages" title="Direct link to Creating new packages" translate="no">​</a></h2>
 <p>Within your mod project folder, create a new <code>packages</code> folder at the same level as the <code>src</code> folder.
 To not include it in your git repo, you may want to add this folder to your <code>.gitignore</code> file.</p>

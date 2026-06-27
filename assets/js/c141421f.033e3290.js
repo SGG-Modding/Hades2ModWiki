@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhades_2_mod_wiki=self.webpackChunkhades_2_mod_wiki||[]).push([[80957],{40936:e=>{e.exports=JSON.parse('{"name":"docusaurus-theme-search-algolia","id":"default"}')}}]);
