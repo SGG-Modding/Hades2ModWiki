@@ -76,7 +76,7 @@ You should *never* publish mods without first testing them locally.
 There are multiple ways to approach local testing, and the below examples are just some possible ways to do it.
 If something else works better for your workflow, use that instead.
 
-### Creating a aymbolic link from your development directory to r2modman
+### Creating a symbolic link from your development directory to r2modman
 
 :::info[Before you can do this]
 Before setting up a symlink, it is strongly recommended to use the manual build method below once to set up the correct folder structure for your mod in the `ReturnOfModding` folder used by r2modman.
