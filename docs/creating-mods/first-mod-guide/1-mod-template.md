@@ -16,7 +16,7 @@ To get started, navigate to the latest release of the [Hades II Mod template](ht
 Unzip the contents of this folder to where you'll be doing your mod development, open it in your chosen code editor and push the contents to a new GitHub repository.
 
 :::note[Symlinking to r2modman]
-It's recommended to create a symlink from your mod development folder to the `ReturnOfModding` folder used by r2modman, as described in the [Development Environment](../development-environment.md#creating-a-aymbolic-link-from-your-development-directory-to-r2modman) guide.
+It's recommended to create a symlink from your mod development folder to the `ReturnOfModding` folder used by r2modman, as described in the [Development Environment](../development-environment.md#creating-a-symbolic-link-from-your-development-directory-to-r2modman) guide.
 :::
 
 ## Creating a Thunderstore team
@@ -163,7 +163,7 @@ The most relevant parts for you are the `on_ready()` and `on_reload()` functions
 These two functions are where you should import any other lua files you create, as is shown with the existing imports of the `ready.lua` and `reload.lua` files.
 
 The content of the `on_ready()` function is run once, when your mod is first loaded, while the content of the `on_reload()` function is run every time your mod is reloaded (when you change one of it's files in the `plugins` folder).
-This is why it is recommended to [create a symlink](../development-environment.md#creating-a-aymbolic-link-from-your-development-directory-to-r2modman) from your development directory to the `plugins` directory, as that way you can make changes to your mod without needing to rebuild the package and restart the game to see them applied.
+This is why it is recommended to [create a symlink](../development-environment.md#creating-a-symbolic-link-from-your-development-directory-to-r2modman) from your development directory to the `plugins` directory, as that way you can make changes to your mod without needing to rebuild the package and restart the game to see them applied.
 
 ---
 
