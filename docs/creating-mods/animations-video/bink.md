@@ -113,7 +113,7 @@ You'll see that the filename of the original atlas is stored in the middle of th
 
 ## Using the new animation in Hades II
 
-After creating the new `.bik` and `.bik_atlas` files, you'll need to add them to the `plugins_data` directory. Within the `plugins_data` folder place them under a `1080p` or `720p` subfolder, depending on the resolution of the asset.
+After creating the new `.bik` and `.bik_atlas` files, you'll need to add them to the `plugins_data` directory. Within the `plugins_data` folder you can place them under something like a `Movies/<resolution>` subfolder. The `<resolution>` being either `1080p` or `720p`, depending on the resolution of the asset.
 
 Now, all you need to do is to create the necessary `sjson` entries to define the new animations using the new bink file.
 In our example, these look like this, to create `In` and `Out` dialogue background animations:
