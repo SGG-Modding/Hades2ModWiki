@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkhades_2_mod_wiki=globalThis.webpackChunkhades_2_mod_wiki||[]).push([[86900],{18786(a){a.exports=JSON.parse('{"metadata":{"permalink":"/Hades2ModWiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

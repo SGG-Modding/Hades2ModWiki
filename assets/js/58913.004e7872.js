@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkhades_2_mod_wiki=globalThis.webpackChunkhades_2_mod_wiki||[]).push([[58913],{58913(h,i,s){s.r(i)}}]);
