@@ -32,9 +32,9 @@ This manager requires Overwolf, runs ads, and is generally a few weeks of featur
 3. Click `Select profile` to continue with the default profile
 4. Browse the `Online` mod section and download whatever you like
 5. Click `Start modded` in the top-left of the screen to start the game with your downloaded mods
-  - To play with mods, you will *always* need to use "Start modded" in r2modman to start the game, otherwise it will start vanilla
-  - Optionally, you can set Steam launch arguments to have it start with mods, see [this section below](#are-there-launch-arguments-for-steam-to-start-the-game-modded-by-default)
-  - For help with modding your Epic Games copy of Hades II, please refer to [this section below](#i-own-hades-ii-on-epic-games-and-mods-do-not-work-when-playing-what-can-i-do)
+    - To play with mods, you will *always* need to use "Start modded" in r2modman to start the game, otherwise it will start vanilla.
+    - Optionally, you can set Steam launch arguments to have it start with mods, see [this section below](#are-there-launch-arguments-for-steam-to-start-the-game-modded-by-default).
+    - For help with modding your Epic Games copy of Hades II, please refer to [this section below](#i-own-hades-ii-on-epic-games-and-mods-do-not-work-when-playing-what-can-i-do).
 6. Have fun!
 
 ---
