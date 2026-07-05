@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Getting Started
-Welcome! This guide will help you set up **r2modman** so you can begin downloading and using **Hell2Modding** (also known as h2m) mods from Thunderstore.
+Welcome! This guide will help you set up **r2modman**, the community mod manager, so you can begin downloading and using **Hell2Modding** (also known as h2m) mods from Thunderstore.
 
 ## Browsing available mods
 All available mods can be viewed in the [Thunderstore Hades II](https://thunderstore.io/c/hades-ii/) community.
@@ -13,16 +13,17 @@ If you were not previously using mods from Nexus, skip to Step 2! \
 If you were using mods from Nexus, you will need to uninstall them before using r2modman. \
 [How to clean up ModImporter mods](#how-do-i-clean-up-old-modimporter-mods)
 
-:::danger
-
-    Mods downloaded from Nexus Mods are NOT compatible with r2modman mods!
-
+:::danger[Nexus Mods incompatibility]
+Mods downloaded from Nexus Mods are NOT compatible with r2modman mods!
 :::
 
-
 ## 2. Install r2modman
-Download *r2modman* from Thunderstore, extract the archive, and run the installer. \
-[r2modman on Thunderstore](https://thunderstore.io/package/ebkr/r2modman/)
+Download [*r2modman* on Thunderstore](https://thunderstore.io/package/ebkr/r2modman/) using the "Download" (not the "Install") button, extract the `.zip` archive, and run the installer executable.
+
+:::info[r2modman vs. Thunderstore Mod Manager]
+Thunderstore (the website) publishes their own mod manager, the Thunderstore Mod Manager, which is based on r2modman.
+This manager requires Overwolf, runs ads, and is generally a few weeks of features behind r2modman, hence the community recommends using r2modman, unless you want to support Thunderstore financially.
+:::
 
 ## 3. Start r2modman
 
@@ -31,6 +32,9 @@ Download *r2modman* from Thunderstore, extract the archive, and run the installe
 3. Click `Select profile` to continue with the default profile
 4. Browse the `Online` mod section and download whatever you like
 5. Click `Start modded` in the top-left of the screen to start the game with your downloaded mods
+  - To play with mods, you will *always* need to use "Start modded" in r2modman to start the game, otherwise it will start vanilla
+  - Optionally, you can set Steam launch arguments to have it start with mods, see [this section below](#are-there-launch-arguments-for-steam-to-start-the-game-modded-by-default)
+  - For help with modding your Epic Games copy of Hades II, please refer to [this section below](#i-own-hades-ii-on-epic-games-and-mods-do-not-work-when-playing-what-can-i-do)
 6. Have fun!
 
 ---
@@ -52,7 +56,7 @@ The new h2m framework has significant benefits over ModImporter. It does not nee
 This is not recommended, as manual installation of h2m and its mods is not a straightforward process.
 
 ### Are there launch arguments for Steam to start the game modded by default?
-Yes. You can see the launch arguments r2modman provides for your current profile on the `Help` page, which is under the `Settings`. If you add these to your Steam launch arguments for Hades II, using `Play` in Steam will start the game modded instead of Vanilla. Please still regularly check r2modman for any mod updates and fixes. Whenever Hell2Modding gets an update, you also need to start the game at least once through `Start modded` in r2modman, to properly install the update.
+Yes. You can see the launch arguments r2modman provides for your current profile on the `Help` page, which is at the bottom of the left toolbar in r2modman. If you add these to your Steam launch arguments for Hades II, using `Play` in Steam will start the game modded instead of Vanilla. Please still regularly check r2modman for any mod updates and fixes.
 
 ### I own Hades II on Epic Games and mods do not work when playing. What can I do?
 Many community members playing Hades II on Epic Games have reported that the following steps have resulted in mods working for them:
@@ -65,7 +69,7 @@ Many community members playing Hades II on Epic Games have reported that the fol
 7. Paste the copied content of the profile folder into the `Ship` directory.
 8. Use `Start Modded` in r2modman. A small console window should open alongside the game, and mods should be active when you load into the game.
 
-Note that unless you relink the profile folder in `AppData` to the `Ship` folder, you will need to re-copy the contents after each mod update and whenever you install a new mod.
+Note that you will need to re-copy the folder contents after each mod update, and whenever you install a new mod.
 If you have any further issues playing with mods, please create a post in `#help-h2` in the [Hades II Modding Discord](https://discord.gg/KuMbyrN).
 
 ### How do I clean up old ModImporter mods?
