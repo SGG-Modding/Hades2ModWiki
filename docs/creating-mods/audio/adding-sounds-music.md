@@ -100,6 +100,12 @@ So a sound follows whichever of these buses sits on its bus's parent chain:
 The template project routes its master bus to `bus:/Game`, so by default every event you add is controlled by the **SFX** slider.
 This is correct for sound effects, but means any **music** you add will be on the SFX slider instead of the Music slider until you re-route it.
 
+:::info[Ambience bus]
+For some reason, the Ambience bus is nested under the SFX bus.
+This means that any ambience sounds in your bank will be controlled by *both* the SFX and the Ambience sliders.
+Turning either off will also turn off your ambience sounds.
+:::
+
 :::info[Music Maker songs]
 If you are adding songs to the Music Maker in the Crossroads, route them to `bus:/Music/MUSIC PLAYER`.
 This is the bus the vanilla songs use, it follows the Music slider, and it avoids the vocal muting that the game applies to its in-combat music buses.
@@ -128,15 +134,25 @@ The quickest in-game check is to open the audio settings and confirm the matchin
 In your mod, you must load the soundbank before you can play any events from it, using `rom.audio.load_bank(path)`, e.g. like this if you need the bank to be loaded when in the Crossroads:
 
 ```lua
+function loadModBanks()
+	rom.audio.load_bank(rom.path.combine(_PLUGIN.plugins_data_mod_folder_path, "Audio\\AuthorNameModNameCustomMusicBank.bank"))
+end
+
 -- Loads the sound bank when entering the Crossroads or switching between rooms in the Crossroads
 modutil.mod.Path.Wrap("DeathAreaRoomTransition", function(base, source, args)
-	rom.audio.load_bank(rom.path.combine(_PLUGIN.plugins_data_mod_folder_path, "Audio\\ModsNikkelMUnlockHadesMusic.bank"))
+	loadModBanks()
 	return base(source, args)
 end)
 
--- If returning from a Chaos Trial, HubPostBountyLoad will be called instead of DeathAreaRoomTransition, so we need to duplicate the wrap
+-- If returning from a Chaos Trial, HubPostBountyLoad will be called instead of DeathAreaRoomTransition
 modutil.mod.Path.Wrap("HubPostBountyLoad", function(base, source, args)
-	rom.audio.load_bank(rom.path.combine(_PLUGIN.plugins_data_mod_folder_path, "Audio\\ModsNikkelMUnlockHadesMusic.bank"))
+	loadModBanks()
+	return base(source, args)
+end)
+
+-- If returning from a Dream Dive, HubPostDreamLoad will be called instead of DeathAreaRoomTransition
+modutil.mod.Path.Wrap("HubPostDreamLoad", function(base, source, args)
+	loadModBanks()
 	return base(source, args)
 end)
 ```
@@ -161,4 +177,3 @@ Make sure to include the curly braces `{}` around the GUID, as this is how the g
 It is important to note that you **cannot** play events by their name for custom soundbanks, only by their GUID.
 This is a restriction imposed by the way FMOD's master bank works.
 :::
-
