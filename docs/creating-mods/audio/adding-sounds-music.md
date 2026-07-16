@@ -36,6 +36,12 @@ Some additional information regarding this template from the relevant [Hell2Modd
 You can refer to the [Hades OST for the Music Maker](https://github.com/NikkelM/Hades-II-UnlockHadesMusic) mod as an example of how to add music to the game using this method.
 :::
 
+:::tip[`bus:/Game` is the SFX slider]
+The `bus:/Game` GUID referenced above is the game's **SFX** bus.
+Routing to it makes your audio audible, but it also means the in-game SFX slider (not the Music slider) controls its volume.
+If you are adding music, see [Controlling which volume slider affects your audio](#controlling-which-volume-slider-affects-your-audio) below to route it to the Music slider instead.
+:::
+
 ## Basics 
 
 In Hades II, sounds and music are stored in `.bank` files, which are then loaded into the game's audio system.
@@ -73,6 +79,49 @@ The file will look like this:
 
 You will need the GUIDs for the events (the bank GUID is irrelevant) later on when you want to play the events in the game.
 It is recommended to create some sort of mapping of GUIDs to event names within your mod, to make your mod more maintainable and readable by others.
+
+## Controlling which volume slider affects your audio
+
+Which of the game's volume sliders (`Options -> Audio`) controls your sounds is decided by the **mixer bus** your events route to, which is baked into the bank when you build it.
+
+The game applies each volume slider to a fixed set of FMOD buses (by GUID), and the value cascades down to every child bus.
+So a sound follows whichever of these buses sits on its bus's parent chain:
+
+| In-game slider/context | Bus path | Bus GUID |
+| --- | --- | --- |
+| **Master** | `bus:/` | `{a531b196-bb6e-4cd0-b5b3-420e81b5af19}` |
+| **Music** | `bus:/Music` | `{764b5aef-b84a-486a-8484-b80b26a6cfb7}` |
+| **Music** (Music Maker) | `bus:/Music/MUSIC PLAYER` | `{837ae5af-d2e1-423d-bde4-42ac2884cf0f}` |
+| **SFX** | `bus:/Game` | `{9b320436-fb96-4de1-8229-63da4b1d52af}` |
+| **SFX** (UI sounds) | `bus:/UI` | `{30b6f7ba-1ed3-4994-9f31-fe8554991a2e}` |
+| **Ambience** | `bus:/Game/In World/Ambience` | `{7030c0dc-5dcc-4ad7-93a7-0bd20262ced4}` |
+| **Speech** | `bus:/VO` | `{029a988e-8e1c-4f5c-a239-30ad2201d324}` |
+
+The template project routes its master bus to `bus:/Game`, so by default every event you add is controlled by the **SFX** slider.
+This is correct for sound effects, but means any **music** you add will be on the SFX slider instead of the Music slider until you re-route it.
+
+:::info[Music Maker songs]
+If you are adding songs to the Music Maker in the Crossroads, route them to `bus:/Music/MUSIC PLAYER`.
+This is the bus the vanilla songs use, it follows the Music slider, and it avoids the vocal muting that the game applies to its in-combat music buses.
+:::
+
+### Re-routing your events to a different bus
+
+The template hard-wires the `bus:/Game` GUID `{9b320436-fb96-4de1-8229-63da4b1d52af}` as its mixer master.
+To move your bank onto a different slider, replace that GUID with your target bus GUID from the table above, everywhere it appears in your project's metadata:
+
+1. Close FMOD Studio, so it does not overwrite your changes on save.
+2. In your project's `Metadata` folder, replace every occurrence of `9b320436-fb96-4de1-8229-63da4b1d52af` with your target GUID (for music, use `764b5aef-b84a-486a-8484-b80b26a6cfb7`) in:
+   - `Master.xml` (the `MixerMaster` `id`)
+   - `Mixer.xml` (the `masterBus` destination)
+   - every file under `Metadata/Event/` that references it (each event's output routing)
+3. Re-open FMOD Studio and rebuild your bank via `File -> Build`.
+
+This re-routes the whole bank, which is what you want for a music-only mod.
+
+:::tip[Verify the routing]
+The quickest in-game check is to open the audio settings and confirm the matching slider now changes your audio's volume (turning the other sliders to zero makes it obvious).
+:::
 
 ## Load and play sounds in the game
 
