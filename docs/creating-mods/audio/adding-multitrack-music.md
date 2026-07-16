@@ -21,6 +21,11 @@ At the time of writing, how to properly utilize this system for custom tracks ha
 Before continuing to read this guide, make sure you have read and understood the [Adding Sounds & Music](./adding-sounds-music.md) guide, as this guide builds on that knowledge.
 :::
 
+:::tip[Put your music on the Music slider]
+Because this is music, remember to route your bank to the Music bus so it follows the in-game Music slider rather than the SFX slider.
+See [Controlling which volume slider affects your audio](./adding-sounds-music.md#controlling-which-volume-slider-affects-your-audio) in the general guide.
+:::
+
 ## Multi-track music in Hades II
 
 In Hades II, most music events are multi-track, meaning that they consist of multiple instrumental and vocal tracks that are toggled on and off on-demand by the game.
