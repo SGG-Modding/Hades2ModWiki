@@ -11,7 +11,7 @@
 
 <link rel="search" type="application/opensearchdescription+xml" title="Hades 2 Mod Wiki" href="/Hades2ModWiki/opensearch.xml">
 <link rel="preload" href="/fonts/CaesarDressing-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous"><link rel="stylesheet" href="/Hades2ModWiki/assets/css/styles.524f9ce4.css">
-<script src="/Hades2ModWiki/assets/js/runtime~main.975fccb9.js" defer="defer"></script>
+<script src="/Hades2ModWiki/assets/js/runtime~main.504b995e.js" defer="defer"></script>
 <script src="/Hades2ModWiki/assets/js/main.6e2661b5.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -45,8 +45,8 @@ If you are adding music, see <a href="#controlling-which-volume-slider-affects-y
 <p>In Hades II, sounds and music are stored in <code>.bank</code> files, which are then loaded into the game&#x27;s audio system.</p>
 <p>These <code>.bank</code> files are stored in the <code>Content/Audio/Desktop</code> folder in your Hades II installation.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="creating-soundbanks">Creating soundbanks<a href="#creating-soundbanks" class="hash-link" aria-label="Direct link to Creating soundbanks" title="Direct link to Creating soundbanks" translate="no">​</a></h2>
-<p>Use the template FMOD studio project linked above and add your assets to the project.
-For music tracks, you will want to create each event as a <code>3D Timeline</code> in most cases.</p>
+<p>Use the template FMOD studio project linked above and add your assets to the project.</p>
+<p>For music tracks, you must create each event as a <code>2D Timeline</code> to prevent playback issues in certain situations.</p>
 <div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Looping</div><div class="admonitionContent_BuS1"><p>If you are adding music or sounds that should loop, select the event in FMOD Studio, right-click the timeline/preview of the event and select <code>New Loop Region</code>.
 This will add a new logic track on top of the event that you can use to define the looping region.
 When previewing the event, the event should loop seamlessly.</p></div></div>
