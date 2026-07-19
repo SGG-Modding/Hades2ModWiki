@@ -52,9 +52,7 @@ These `.bank` files are stored in the `Content/Audio/Desktop` folder in your Had
 
 Use the template FMOD studio project linked above and add your assets to the project.
 
-For music tracks, you will want to create each event as a `2D Timeline` in most cases.
-Using the `3D timeline` adds a Spatializer to the event, and can cause the event to not play if e.g. this is a Music Maker song and the player loads a save in the Training Grounds.
-Unless you have a good reason to go with a 3D event, stick with 2D.
+For music tracks, you must create each event as a `2D Timeline` to prevent playback issues in certain situations.
 
 :::info[Looping]
 If you are adding music or sounds that should loop, select the event in FMOD Studio, right-click the timeline/preview of the event and select `New Loop Region`.
