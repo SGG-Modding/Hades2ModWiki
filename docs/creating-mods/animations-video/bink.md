@@ -85,31 +85,19 @@ With your `.png` sequence ready, you can now generate the `.bik` file using the 
 10. Your settings should look similar to the screenshot above. Then, click `Bink` to generate the `.bik` file.
 11. You should now have the `.bik` file in the same folder as your `.png` sequence. Selecting it and clicking `Play` in `RAD Video Tools` should open the animation and play it.
 
-## Preparing the .bik_atlas
+## Creating the .bik_atlas
 
-Before you can use your new bink file in the game, you need to create a fitting `.bik_atlas` file for it, which contains important metadata, such as the resolution, about the `.bik` file.
-There is no way of generating a new `.bik_atlas` from scratch, so we need to copy and reuse an existing one - this is why we can only add bink files with resolutions already present in Hades or Hades II, as the resolution is stored in the `.bik_atlas` file, but cannot be changed (at least we have not yet found a way to do so).
+Before you can use your new bink file in the game, you need to create a fitting `.bik_atlas` file for it, which contains important metadata, such as the resolution, about the `.bik` file. We can use the [HadesBikAtlas](https://github.com/adi1998/HadesBikAtlas) tool for this.
 
-Let's grab an existing `.bik_atlas` file from Hades II, since we're adding a new full-screen video, we can use one of the existing dialogue background animations from `Content/Movies/1080p`, e.g. `DialogueBackgroundOceanus.bik_atlas`.
+Run this command to create a `.bik_atlas`. We've renamed the bink file to something more identifying before we actually use it in our mod.
 
-:::warning[Filename character length]
-Another limitation of this process is that your new bink file and it's atlas file need to have filenames with the same character length as the existing atlas you are copying from. For example, `DialogueBackgroundOceanus.bik` has 26 characters (without the file ending), so your new bink file also needs to have 26 characters in its name.
-:::
-
-As the atlas we copied has 26 characters, we'll name the `.bik` file we created earlier `HadesBiomesDiaBackAsphodel.bik` to match this requirement, and also try to have a unique name (so we don't end up accidentally clashing with any other mods).
+```bash
+hadesbikatlas create -f "path/to/bink/HadesBiomesDiaBackAsphodel.bik"
+```
 
 You should now have a `.bik` and `.bik_atlas` file with the same names in your folder:
 
 ![.bik_atlas in file explorer](./img/bink/atlas_file_in_explorer.png)
-
-For the last step, we'll need to open the `.bik_atlas` file in a Hex Editor (e.g. by using the Hex Editor extension for VS Code).
-Depending on your atlas, this will look similar to the following:
-
-![.bik_atlas in hex editor](./img/bink/hex_edit_start.png)
-
-You'll see that the filename of the original atlas is stored in the middle of the file here (`DialogueBackgroundOceanus`) - we'll need to change this to the name of our new bink file (`HadesBiomesDiaBackAsphodel`). Make sure to only remove the characters belonging to the filename, and not any before or after it, then insert the new name:
-
-![.bik_atlas filename changed](./img/bink/hex_edit_changed.png)
 
 ## Using the new animation in Hades II
 
