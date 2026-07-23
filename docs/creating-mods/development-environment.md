@@ -56,6 +56,10 @@ If you think a tool is missing from this list, please open a PR on the wiki's [G
 	- This tool allows you both to view these videos, as well as convert them to many file formats (such as a `.png` sequence), as well as encode those sequences into `.bik` files.
 	- In Hades, character animations were also stored in this format, but this is no longer the case in Hades II.
 
+- [HadesBinkAtlas](https://github.com/adi1998/HadesBikAtlas) - Tool to create/edit `.bik_atlas` files
+	- Edit an existing `.bik_atlas`. Stuff like renaming the bink, changing the scale for 720p support, etc.
+	- Create a `.bik_atlas` for entirely new binks that you want to add to the game.
+
 - [Hades2blender](https://github.com/LuneMods/io_Hades2blender) - A Blender plugin to export Hades II 3D models into Blender.
 	- *IMPORTANT* - the current version of this tool does not work with models from the 1.0 release of Hades II, but only with models from the "The Unseen" update or earlier. Use Steam Depot downloader to download an earlier version of the game if you want to extract models from there.
 	- Some community members are working on a version that allows extracting the current models, so check the Discord for updates.
