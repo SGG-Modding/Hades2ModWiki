@@ -13,7 +13,7 @@ Make sure you have followed the [prerequisites](./prerequisites.md) page to inst
 :::
 
 :::info[BinkFixTutorial]
-The initial sections of this guide were adapted from [EtchJetty/Girl Bowser's BinkFixTutorial](https://github.com/EtchJetty/BinkFixTutorial) for Hades, which focused on *replacing* existing bink animations. Anything from the [Preparing the .bik_atlas](#preparing-the-bik_atlas) section onwards is new and required specifically if you are adding a *new* bink animation, both to Hades and Hades II.
+The initial sections of this guide were adapted from [EtchJetty/Girl Bowser's BinkFixTutorial](https://github.com/EtchJetty/BinkFixTutorial) for Hades, which focused on *replacing* existing bink animations. Anything from the [Creating the .bik_atlas](#creating-the-bik_atlas) section onwards is new and required specifically if you are adding a *new* bink animation, both to Hades and Hades II.
 :::
 
 Bink video files were the basis of all character and enemy animations in Hades, and were also used for full-screen videos (such as the into/outro videos or the main menu background).
@@ -35,7 +35,7 @@ Character animations work the same way, but will require additional work on the 
 ## Setting up your .png sequence
 
 :::info[Familiar with the BinkFixTutorial?]
-If you're already familiar with the BinkFixTutorial, you can directly skip to the [Preparing the .bik_atlas](./bink.md#preparing-the-bik_atlas) section, as this was not covered in that guide and is required to use new bink files in the game.
+If you're already familiar with the BinkFixTutorial, you can directly skip to the [Creating the .bik_atlas](./bink.md#creating-the-bik_atlas) section, as this was not covered in that guide and is required to use new bink files in the game.
 :::
 
 The basis of any bink animation is a sequence of `.png` images, each representing one frame of the animation.
