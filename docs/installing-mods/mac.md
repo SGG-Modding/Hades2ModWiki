@@ -27,18 +27,20 @@ If a mod uses `imgui` or not is not visible from their Thunderstore page, so if 
 Start by installing a `CrossOver` bottle with Hades II installed.
 If you want to use the `Zagreus' Journey` mod, also install Hades in this bottle.
 
-Next, install r2modman version `3.1.58` in the same bottle.
+Next, install r2modman version `3.2.18` in the same bottle.
 You can try newer versions, but this was the only one that has been reported to work at the time of writing of this guide.
 
 Afterwards, go to the Wine configuration in CrossOver, then to Library and add these overrides:
+
 - `winhttp` → `native, builtin`
-- `libglesv2` → `disabled`
+- `libglesv2` → `native, builtin`
 - `d3d12` → `native, builtin`
 
 ## Installing mods
 
 To install mods, download them directly through r2modman.
 Then, manually copy the content of your r2modman profile folder to the game directory:
+
 - From: `~/Library/Application Support/r2modman-local/Hades2/profiles/Default/BepInEx`
 - To: `~/Library/Application Support/CrossOver/Bottles/[YourBottle]/.../Hades II/Ship/BepInEx`
 
