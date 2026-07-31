@@ -12,14 +12,11 @@ If you have any additional questions, you may find help on the [Hades II Modding
 The only current known way to use Thunderstore mods using Hell2Modding on Mac is through CrossOver, a paid software that allows running Windows applications on macOS.
 
 :::danger[CrossOver]
-CrossOver is paid third-party software.
-The existence of this guide does *not* mean that you will be able to use mods on Mac.
-CrossOver has a trial available, which you should make use of before purchasing to ensure it works for you.
+CrossOver is paid third-party software. The existence of this guide does *not* mean that you will be able to use mods on Mac. **Use the latest version of CrossOver, or at least version 23.7+**, which includes DXVK and MSync support for improved performance and compatibility. CrossOver has a trial available, which you should make use of before purchasing to ensure it works for you.
 :::
 
 :::warning[Limitations]
-You will not be able to run mods that require `imgui`, which is sometimes used by mods to allow you to configure them in-game.
-If a mod uses `imgui` or not is not visible from their Thunderstore page, so if mods do not work for you or the game crashes, uninstall mods until you find the culprit.
+If you're using an older CrossOver version without the latest DXVK/MSync support, certain mods—especially those requiring `imgui` (used by some mods to provide in-game configuration)—may fail or cause crashes. If a mod uses `imgui` or not is not visible from their Thunderstore page, so if mods do not work for you or the game crashes, uninstall mods until you find the culprit.
 :::
 
 ## Setting up CrossOver and r2modman
@@ -27,7 +24,12 @@ If a mod uses `imgui` or not is not visible from their Thunderstore page, so if 
 Start by installing a `CrossOver` bottle with Hades II installed.
 If you want to use the `Zagreus' Journey` mod, also install Hades in this bottle.
 
-Next, install r2modman version `3.2.18` in the same bottle.
+Next, in the **Advanced Settings** for your CrossOver bottle and ensure:
+
+- Graphics -> `DXVK`
+- MSYNC -> `enabled`
+
+Then, install r2modman version `3.2.18` in the same bottle.
 You can try newer versions, but this was the only one that has been reported to work at the time of writing of this guide.
 
 Afterwards, go to the Wine configuration in CrossOver, then to Library and add these overrides:
@@ -39,12 +41,6 @@ Afterwards, go to the Wine configuration in CrossOver, then to Library and add t
 ## Installing mods
 
 To install mods, download them directly through r2modman.
-Then, manually copy the content of your r2modman profile folder to the game directory:
-
-- From: `~/Library/Application Support/r2modman-local/Hades2/profiles/Default/BepInEx`
-- To: `~/Library/Application Support/CrossOver/Bottles/[YourBottle]/.../Hades II/Ship/BepInEx`
-
-As this is a manual step, you will need to repeat this every time a mod is updated, as the updated files will be placed in the r2modman profile folder.
 
 Then, launch the game directly through r2modman using `Start Modded`.
 If this does not work, try launching it once through Steam first, then try again.
@@ -55,7 +51,7 @@ Mods are only enabled if you launch the game through r2modman.
 There have been reports of occasional crashes during startup/in menus (likely related to lua memory corruption in the mod framework).
 A restart should fix this, and the issue has not been reported during gameplay.
 
-Mods that use `imgui` will not work as expected, or may cause crashes.
+Mods that use `imgui` will not work as expected, or may cause crashes. If you are experiencing `imgui` issues even with CrossOver version 23.7+, try installing **Microsoft .NET Framework 4.8** into the same CrossOver bottle, as some `imgui`-dependent mods require it to function properly. Please review the limitations above before troubleshooting, as it outlines what is and isn't supported on Mac.
 
 ## Contribute to the guide
 
