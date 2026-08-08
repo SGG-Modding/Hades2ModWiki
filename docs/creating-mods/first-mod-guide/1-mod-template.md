@@ -69,9 +69,18 @@ The mod template already contains a list of dependencies that will be required b
 You should not have to remove any of these, unless you know for certain you do not require them.
 These dependencies will already be installed by most users through other mods, so having them listed here will not cause any issues.
 
-If you need to depend on a new mod, you can add it here as `"AuthorName-ModName" = "version"`.
+If you need to depend on a new mod, you can add it here as `AuthorName-ModName = "version"`.
 Note that this is not a pinned version, and by default, Thunderstore will always get the latest version of any dependency.
 So if a later version of one of your dependencies breaks your mod, this will not prevent users from updating to that version.
+
+#### `[package.rom_soft_deps]`
+
+You can add mods to this list that you want to load before your mod if they are present, but not required.
+This is useful if you want to integrate with another mod and you *need* to load after that mod is done loading for it to work.
+Note that not every mod integration would require this and it should only be used if a specific load order is a desired.
+
+The entries in this component will follow the same format as the `[package.dependencies]` entries.
+If you want to use this feature, you'll need to use the `tcli` [fork](https://github.com/adi1998/thunderstore-cli/releases) locally for testing and update the workflow file `.github/workflows/release.yaml` with this [patch](https://github.com/adi1998/Hades2ModTemplate/commit/41983833c21bc792655d942d973102570e99ac4c).
 
 #### `[build]` sections
 
