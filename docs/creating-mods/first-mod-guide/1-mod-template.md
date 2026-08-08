@@ -75,7 +75,7 @@ So if a later version of one of your dependencies breaks your mod, this will not
 
 #### `[package.rom_soft_deps]`
 
-You can add mods to this list that you want to load before your mod if they are present, but not required.
+Think of this as optional dependencies: you can add mods to this list that, if they are present, you want to load before your mod, but that are not required for your mod to function.
 This is useful if you want to integrate with another mod and you *need* to load after that mod is done loading for it to work.
 Note that not every mod integration would require this and it should only be used if a specific load order is a desired.
 
