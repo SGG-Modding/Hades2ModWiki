@@ -69,9 +69,28 @@ The mod template already contains a list of dependencies that will be required b
 You should not have to remove any of these, unless you know for certain you do not require them.
 These dependencies will already be installed by most users through other mods, so having them listed here will not cause any issues.
 
-If you need to depend on a new mod, you can add it here as `"AuthorName-ModName" = "version"`.
+If you need to depend on a new mod, you can add it here as `AuthorName-ModName = "version"`.
 Note that this is not a pinned version, and by default, Thunderstore will always get the latest version of any dependency.
 So if a later version of one of your dependencies breaks your mod, this will not prevent users from updating to that version.
+
+#### `[package.rom_soft_deps]`
+
+Think of this as optional dependencies: you can add mods to this list that, if they are present, you want to load before your mod, but that are not required for your mod to function.
+This is useful if you want to integrate with another mod and you *need* to load after that mod is done loading for it to work. The entries in this component follow the same format as the `[package.dependencies]` entries.
+
+Note that not every mod integration would require this and it should only be used if a specific load order is a desired. Some cases where it makes sense to use this:
+
+1. You want to integrate with a mod and it requires access to its data, tables or functions that will only be present once that has done loading. For eg. a mod that wants to add their own entry to PonyMenu (a debug/cheat mod)
+2. You want to integrate with a mod that makes changes to the base game's tables/functions and those changes need to already be present for the integration to work. For example, you want to integrate with Zagreus' Journey (a mod that adds a lot of new content to the base game).
+
+Some cases where you wouldn't need to use this:
+
+1. If just checking for the presence of the other mod is enough to integrate. You can do this by checking the `rom.mods` table for any mod you want: `rom.mods["AuthorName-ModName"]`.
+2. In some cases placing the integration code inside the `on_ready_late` function in `main.lua` might make sense but is not generally recommended. Only do this if the integration doesn't introduce any new function wraps and the mod being integrated with doesn't use `on_ready_late` itself.
+
+If you would like to learn more about when to use optional dependencies vs. `on_ready_late`, feel free to reach out in the [Hades Modding Discord](https://discord.gg/KuMbyrN).
+
+If you want to use this feature, you'll need to use the `tcli` [fork](https://github.com/adi1998/thunderstore-cli/releases) locally for testing and update the workflow file `.github/workflows/release.yaml` with this [patch](https://github.com/adi1998/Hades2ModTemplate/commit/41983833c21bc792655d942d973102570e99ac4c). This fork adds support for the custom field `rom_soft_deps` in the thunderstore.toml project file and the manifest.json it generates. It should otherwise function exactly the same as the official release. You can see how it differs from the official source [here](https://github.com/thunderstore-io/thunderstore-cli/compare/master...adi1998:thunderstore-cli:master).
 
 #### `[build]` sections
 
