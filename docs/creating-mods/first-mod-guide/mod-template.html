@@ -11,7 +11,7 @@
 
 <link rel="search" type="application/opensearchdescription+xml" title="Hades 2 Mod Wiki" href="/Hades2ModWiki/opensearch.xml">
 <link rel="preload" href="/fonts/CaesarDressing-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous"><link rel="stylesheet" href="/Hades2ModWiki/assets/css/styles.524f9ce4.css">
-<script src="/Hades2ModWiki/assets/js/runtime~main.be205c23.js" defer="defer"></script>
+<script src="/Hades2ModWiki/assets/js/runtime~main.0598981a.js" defer="defer"></script>
 <script src="/Hades2ModWiki/assets/js/main.6e2661b5.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -118,6 +118,10 @@ To release a new package version, follow these steps, first follow the <a href="
 <p>This folder is not included in the template by default, as it doesn&#x27;t have any files that would go in here.
 If your mod distributes any binary files, such as <code>.pkg</code> asset packages or <code>.bank</code> sound files, they should be placed in this folder.
 When building your mod package, this folder will be copied to <code>plugins_data</code>, which is where the mod loader looks for these files (remember to uncomment the relevant section in the <a href="#thunderstoretoml" class=""><code>thunderstore.toml</code></a> file).</p>
+<p>Hell2Modding can also load entirely new <code>.sjson</code> files from a <code>Hell2Modding-SJSON</code> folder inside <code>plugins_data</code>.
+Its structure must mirror the directory structure below <code>Content/Game</code>, for example, <code>plugins_data/Hell2Modding-SJSON/Animations/MyAnimations.sjson</code> is loaded as <code>Content/Game/Animations/MyAnimations.sjson</code>.
+Use this approach instead of using an <code>sjson.hook()</code> when you add entirely new sjson entries instead of modifying existing ones.
+Hell2Modding discovers these files at game startup.</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-src-folder">The <code>src</code> folder<a href="#the-src-folder" class="hash-link" aria-label="Direct link to the-src-folder" title="Direct link to the-src-folder" translate="no">​</a></h3>
 <p>The <code>src</code> folder is where your mod&#x27;s code goes.
 The template already contains boilerplate code to integrate your mod with <a href="https://thunderstore.io/c/hades-ii/p/Hell2Modding/Hell2Modding/" target="_blank" rel="noopener noreferrer" class="">Hell2Modding</a>, our mod loader for Hades II.</p>
