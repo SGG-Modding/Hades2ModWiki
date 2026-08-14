@@ -165,6 +165,11 @@ This folder is not included in the template by default, as it doesn't have any f
 If your mod distributes any binary files, such as `.pkg` asset packages or `.bank` sound files, they should be placed in this folder.
 When building your mod package, this folder will be copied to `plugins_data`, which is where the mod loader looks for these files (remember to uncomment the relevant section in the [`thunderstore.toml`](#thunderstoretoml) file). 
 
+Hell2Modding can also load entirely new `.sjson` files from a `Hell2Modding-SJSON` folder inside `plugins_data`.
+Its structure must mirror the directory structure below `Content/Game`, for example, `plugins_data/Hell2Modding-SJSON/Animations/MyAnimations.sjson` is loaded as `Content/Game/Animations/MyAnimations.sjson`.
+Use this approach instead of using an `sjson.hook()` when you add entirely new sjson entries instead of modifying existing ones. 
+Hell2Modding discovers these files at game startup.
+
 ### The `src` folder
 
 The `src` folder is where your mod's code goes.

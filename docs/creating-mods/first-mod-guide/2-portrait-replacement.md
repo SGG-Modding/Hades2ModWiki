@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Creating a Portrait Replacement Mod
 
-Use `deppth2` to replace Schelemeus' portrait with Skelly from Hades.
+Use the mod template to replace Schelemeus' portrait with Skelly.
 
 ---
 
@@ -329,6 +329,11 @@ end)
 
 This will execute the hook when the `GUI_Portraits_VFX.sjson` file is loaded, and modify the `FilePath` of the `Portrait_Skelly_Default_01` entry to point to our new portrait in our custom package.
 
+:::info[SJSON hooks vs. Hell2Modding-SJSON]
+Use an SJSON hook when you need to modify entries in a file that already exists in Hades II, as we do in this example.
+If you want to add entirely new sjson entries, instead add a new `.sjson` file in the `Hell2Modding-SJSON` folder under `plugins_data` (see [this section in the mod template guide](./1-mod-template.md#the-data-folder)).
+:::
+
 ## Building and testing our mod locally
 
 Now that we have created the package, written the code to load it and changed the file path used by the portrait, we need to locally test our mod to see if it works before we can release it.
@@ -438,4 +443,3 @@ Many mod authors include a link to the mod's source code on GitHub on the mod's 
 Also join the [Hades Modding Discord](https://discord.gg/KuMbyrN) to ask questions, share ideas, and connect with other members of the community.
 
 If there are any improvements you'd like to see in this guide, or would like to create your own guides for different aspects of modding for the game, we welcome any contributions to the [wiki's GitHub repository](https://github.com/SGG-Modding/Hades2ModWiki).
-
