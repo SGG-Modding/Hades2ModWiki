@@ -170,6 +170,12 @@ Its structure must mirror the directory structure below `Content/Game`, for exam
 Use this approach instead of using an `sjson.hook()` when you add entirely new sjson entries instead of modifying existing ones. 
 Hell2Modding discovers these files at game startup.
 
+:::warning[Unique Filenames]
+You must ensure that any files added to the `Hell2Modding-SJSON` folder have filenames unique to your mod, ideally by pre- or suffixing them with your `AuthorName-ModName`.
+This is because Hell2Modding redirects engine calls for files in the game's `Content/Game` folder to your `Hell2Modding-SJSON` folder for modded files, so there can only be one copy of each file between the base game and all mods.
+Hell2Modding logs an error and skips any file who's name matches a vanilla one.
+:::
+
 ### The `src` folder
 
 The `src` folder is where your mod's code goes.
