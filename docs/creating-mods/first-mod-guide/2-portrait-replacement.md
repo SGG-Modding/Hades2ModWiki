@@ -165,6 +165,24 @@ All `.pkg` files located in any subdirectory of the `plugins_data` folder will b
 You should never place any package files directly in the game's package directory in your mods!
 :::
 
+:::info[Supplying a separate 720p package]
+The game ships every package twice, under `Content/Packages/1080p` and `Content/Packages/720p`, and loads one or the other depending on the resolution the player is running at.
+A package in your `plugins_data` folder is used for both, so a single copy keeps working at any resolution and you only need to read on if you want to ship a smaller version for lower resolutions.
+To supply one, place it in a folder named `720p`, spelled exactly as the game spells it, and give it the same filename as your default copy.
+Your default copy can live anywhere, but putting it in a `1080p` folder next to the `720p` one is recommended.
+Remember that a package is two files (the package and its manifest), so supplying both resolutions means four files in total.
+
+```
+data/
+  1080p/
+    AuthorName-ModNamePortraits.pkg
+    AuthorName-ModNamePortraits.pkg_manifest
+  720p/
+    AuthorName-ModNamePortraits.pkg
+    AuthorName-ModNamePortraits.pkg_manifest
+```
+:::
+
 If you have set up your intellisense for VS Code up correctly, you will now also see that `mod` is marked as an undefined global - let's fix that.
 
 In your `main.lua` file, you can register your mod with modutil (a dependency for all mods using the template) at the top of the `on_ready()` function as follows:
