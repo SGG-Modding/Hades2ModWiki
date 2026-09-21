@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-creating-mods/first-mod-guide/mod-template" data-has-hydrated="false">
 <head>
 <meta charset="UTF-8">
-<meta name="generator" content="Docusaurus v3.10.1">
+<meta name="generator" content="Docusaurus v3.9.2">
 <title data-rh="true">Using the Mod template | Hades 2 Mod Wiki</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://sgg-modding.github.io/Hades2ModWiki/img/wiki-social-card.png"><meta data-rh="true" name="twitter:image" content="https://sgg-modding.github.io/Hades2ModWiki/img/wiki-social-card.png"><meta data-rh="true" property="og:url" content="https://sgg-modding.github.io/Hades2ModWiki/docs/creating-mods/first-mod-guide/mod-template"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Using the Mod template | Hades 2 Mod Wiki"><meta data-rh="true" name="description" content="Please ensure you&#x27;ve read the Introduction before starting this guide."><meta data-rh="true" property="og:description" content="Please ensure you&#x27;ve read the Introduction before starting this guide."><link data-rh="true" rel="icon" href="/Hades2ModWiki/img/Pom.png"><link data-rh="true" rel="canonical" href="https://sgg-modding.github.io/Hades2ModWiki/docs/creating-mods/first-mod-guide/mod-template"><link data-rh="true" rel="alternate" href="https://sgg-modding.github.io/Hades2ModWiki/docs/creating-mods/first-mod-guide/mod-template" hreflang="en"><link data-rh="true" rel="alternate" href="https://sgg-modding.github.io/Hades2ModWiki/docs/creating-mods/first-mod-guide/mod-template" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://0GIDGDR7T0-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Creating Mods","item":"https://sgg-modding.github.io/Hades2ModWiki/docs/category/creating-mods"},{"@type":"ListItem","position":2,"name":"Creating your first Mod","item":"https://sgg-modding.github.io/Hades2ModWiki/docs/category/creating-your-first-mod"},{"@type":"ListItem","position":3,"name":"Using the Mod template","item":"https://sgg-modding.github.io/Hades2ModWiki/docs/creating-mods/first-mod-guide/mod-template"}]}</script><link rel="alternate" type="application/rss+xml" href="/Hades2ModWiki/blog/rss.xml" title="Hades 2 Mod Wiki RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/Hades2ModWiki/blog/atom.xml" title="Hades 2 Mod Wiki Atom Feed">
 
@@ -10,11 +10,11 @@
 
 
 <link rel="search" type="application/opensearchdescription+xml" title="Hades 2 Mod Wiki" href="/Hades2ModWiki/opensearch.xml">
-<link rel="preload" href="/fonts/CaesarDressing-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous"><link rel="stylesheet" href="/Hades2ModWiki/assets/css/styles.023778ae.css">
-<script src="/Hades2ModWiki/assets/js/runtime~main.49dcf526.js" defer="defer"></script>
-<script src="/Hades2ModWiki/assets/js/main.cc616a1d.js" defer="defer"></script>
+<link rel="preload" href="/fonts/CaesarDressing-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous"><link rel="stylesheet" href="/Hades2ModWiki/assets/css/styles.524f9ce4.css">
+<script src="/Hades2ModWiki/assets/js/runtime~main.265469f0.js" defer="defer"></script>
+<script src="/Hades2ModWiki/assets/js/main.6e2661b5.js" defer="defer"></script>
 </head>
-<body>
+<body class="navigation-with-keyboard">
 <svg style="display: none;"><defs>
 <symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
 </defs></svg>
@@ -124,7 +124,8 @@ Use this approach instead of using an <code>sjson.hook()</code> when you add ent
 Hell2Modding discovers these files at game startup.</p>
 <div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Unique Filenames</div><div class="admonitionContent_BuS1"><p>You must ensure that any files added to the <code>Hell2Modding-SJSON</code> folder have filenames unique to your mod, ideally by pre- or suffixing them with your <code>AuthorName-ModName</code>.
 This is because Hell2Modding redirects engine calls for files in the game&#x27;s <code>Content/Game</code> folder to your <code>Hell2Modding-SJSON</code> folder for modded files, so there can only be one copy of each file between the base game and all mods.
-Hell2Modding logs an error and skips any file who&#x27;s name matches a vanilla one.</p></div></div>
+Hell2Modding logs an error and skips any file whose name matches a vanilla one.</p><p>Hell2Modding applies the same check to <code>.pkg</code>, <code>.pkg_manifest</code>, <code>.map_text</code>, <code>.thing_bin</code>, <code>.bik</code>, <code>.bik_atlas</code>, and voice bank <code>.fsb</code> files, as well as the <code>.txt</code> companions of discovered voice banks: files matching a vanilla filename in the corresponding engine directory are rejected.</p><p>Granny model archives (<code>.gpk</code>) are exempt from this check because modifying a model currently requires replacing a vanilla GPK.
+Their filenames should still be unique between mods, as the filename registry keeps the first registration.</p></div></div>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-src-folder">The <code>src</code> folder<a href="#the-src-folder" class="hash-link" aria-label="Direct link to the-src-folder" title="Direct link to the-src-folder" translate="no">​</a></h3>
 <p>The <code>src</code> folder is where your mod&#x27;s code goes.
 The template already contains boilerplate code to integrate your mod with <a href="https://thunderstore.io/c/hades-ii/p/Hell2Modding/Hell2Modding/" target="_blank" rel="noopener noreferrer" class="">Hell2Modding</a>, our mod loader for Hades II.</p>
