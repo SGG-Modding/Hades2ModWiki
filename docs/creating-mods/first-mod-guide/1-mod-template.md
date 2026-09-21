@@ -173,7 +173,12 @@ Hell2Modding discovers these files at game startup.
 :::warning[Unique Filenames]
 You must ensure that any files added to the `Hell2Modding-SJSON` folder have filenames unique to your mod, ideally by pre- or suffixing them with your `AuthorName-ModName`.
 This is because Hell2Modding redirects engine calls for files in the game's `Content/Game` folder to your `Hell2Modding-SJSON` folder for modded files, so there can only be one copy of each file between the base game and all mods.
-Hell2Modding logs an error and skips any file who's name matches a vanilla one.
+Hell2Modding logs an error and skips any file whose name matches a vanilla one.
+
+Hell2Modding applies the same check to `.pkg`, `.pkg_manifest`, `.map_text`, `.thing_bin`, `.bik`, `.bik_atlas`, and voice bank `.fsb` files, as well as the `.txt` companions of discovered voice banks: files matching a vanilla filename in the corresponding engine directory are rejected.
+
+Granny model archives (`.gpk`) are exempt from this check because modifying a model currently requires replacing a vanilla GPK.
+Their filenames should still be unique between mods, as the filename registry keeps the first registration.
 :::
 
 ### The `src` folder

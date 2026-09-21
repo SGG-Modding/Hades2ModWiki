@@ -54,6 +54,8 @@ Use the template FMOD studio project linked above and add your assets to the pro
 
 For music tracks, you must create each event as a `2D Timeline` to prevent playback issues in certain situations.
 
+For sustained music events (such as background music), you should set FMOD's `Event Macro Controls > Priority` to `Highest` (find this at the bottom right panel when editing an event).
+
 :::info[Looping]
 If you are adding music or sounds that should loop, select the event in FMOD Studio, right-click the timeline/preview of the event and select `New Loop Region`.
 This will add a new logic track on top of the event that you can use to define the looping region.
