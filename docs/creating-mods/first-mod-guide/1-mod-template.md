@@ -111,6 +111,10 @@ You must not change the `[publish]` section, as this defines that your mod will 
 
 You may add additional, *existing* tags to the `[publish.categories]` list if you wish.
 See the [Thunderstore API](https://thunderstore.io/api/experimental/community/hades-ii/category/) for a full list of available categories.
+
+If your mod contains assets or a significant amount of code created by Generative AI, add the `ai-generated` tag under `[publish.categories]` and disclose the AI usage in your README.
+The tag is not required when the only AI-generated content is the README or mod icon.
+Moderators may add the tag retroactively if they find that a mod contains a significant amount of code or assets created by Generative AI.
 </details>
 
 ### Readme.md, Changelog.md, License & icon.png
@@ -121,6 +125,14 @@ See the [Thunderstore API](https://thunderstore.io/api/experimental/community/ha
 The `Readme.md` should contain a description of your mod, alongside any possible configuration option (see [config.lua](#config) below).
 The contents of the Readme will be shown on the Thunderstore mod page.
 If you link any images in the Readme, these must be URLs, as relative paths to files in your repository will not work.
+
+If your mod contains a significant amount of code or assets created by Generative AI, use AI disclosure template in the [Hades2ModTemplate README](https://github.com/SGG-Modding/Hades2ModTemplate/blob/main/src/README.md) to disclose its usage to mod users.
+Please also note the following official policy shared by Supergiant Games:
+
+> It is forbidden to use any of Supergiant Games' intellectual property (art, voice acting, music, code) for the training or grounding of Generative AI models.
+> This explicitly includes, but is not limited to, using Generative AI trained on SGG's IP to create alternate versions of portraits or additional voicelines for existing characters.
+
+Any mods found to be in violation of this policy will need to be removed by the community moderators.
 
 The `Changelog.md` should contain a list of changes made in each version of your mod.
 A short guide on how to use the file is included in the template - remove this guidance before publishing.
