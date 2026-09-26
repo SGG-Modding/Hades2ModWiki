@@ -11,7 +11,7 @@
 
 <link rel="search" type="application/opensearchdescription+xml" title="Hades 2 Mod Wiki" href="/Hades2ModWiki/opensearch.xml">
 <link rel="preload" href="/fonts/CaesarDressing-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous"><link rel="stylesheet" href="/Hades2ModWiki/assets/css/styles.524f9ce4.css">
-<script src="/Hades2ModWiki/assets/js/runtime~main.265469f0.js" defer="defer"></script>
+<script src="/Hades2ModWiki/assets/js/runtime~main.bd18f71c.js" defer="defer"></script>
 <script src="/Hades2ModWiki/assets/js/main.6e2661b5.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -78,11 +78,17 @@ The two most relevant of these are the <code>./src</code> folder being copied to
 You must not change the target folders, as these are used by the mod loader to discover your mod.
 You may change the source folders if required.</p><p>Copying the <code>./data</code> folder is commented out of the template by default, as it doesn&#x27;t include any data files (such as <code>.pkg</code> packages or <code>.bank</code> sound files).
 Change this if your mod includes these.</p><h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="publish-sections"><code>[publish]</code> sections<a href="#publish-sections" class="hash-link" aria-label="Direct link to publish-sections" title="Direct link to publish-sections" translate="no">​</a></h4><p>You must not change the <code>[publish]</code> section, as this defines that your mod will be published to the Hades II community on Thunderstore.</p><p>You may add additional, <em>existing</em> tags to the <code>[publish.categories]</code> list if you wish.
-See the <a href="https://thunderstore.io/api/experimental/community/hades-ii/category/" target="_blank" rel="noopener noreferrer" class="">Thunderstore API</a> for a full list of available categories.</p></div></div></details>
+See the <a href="https://thunderstore.io/api/experimental/community/hades-ii/category/" target="_blank" rel="noopener noreferrer" class="">Thunderstore API</a> for a full list of available categories.</p><p>If your mod contains assets or a significant amount of code created by Generative AI, add the <code>ai-generated</code> tag under <code>[publish.categories]</code> and disclose the AI usage in your README.
+The tag is not required when the only AI-generated content is the README or mod icon.
+Moderators may add the tag retroactively if they find that a mod contains a significant amount of code or assets created by Generative AI.</p></div></div></details>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="readmemd-changelogmd-license--iconpng">Readme.md, Changelog.md, License &amp; icon.png<a href="#readmemd-changelogmd-license--iconpng" class="hash-link" aria-label="Direct link to Readme.md, Changelog.md, License &amp; icon.png" title="Direct link to Readme.md, Changelog.md, License &amp; icon.png" translate="no">​</a></h3>
 <details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Click to expand section</summary><div><div class="collapsibleContent_i85q"><p>The <code>Readme.md</code> should contain a description of your mod, alongside any possible configuration option (see <a href="#config" class="">config.lua</a> below).
 The contents of the Readme will be shown on the Thunderstore mod page.
-If you link any images in the Readme, these must be URLs, as relative paths to files in your repository will not work.</p><p>The <code>Changelog.md</code> should contain a list of changes made in each version of your mod.
+If you link any images in the Readme, these must be URLs, as relative paths to files in your repository will not work.</p><p>If your mod contains a significant amount of code or assets created by Generative AI, use AI disclosure template in the <a href="https://github.com/SGG-Modding/Hades2ModTemplate/blob/main/src/README.md" target="_blank" rel="noopener noreferrer" class="">Hades2ModTemplate README</a> to disclose its usage to mod users.
+Please also note the following official policy shared by Supergiant Games:</p><blockquote>
+<p>It is forbidden to use any of Supergiant Games&#x27; intellectual property (art, voice acting, music, code) for the training or grounding of Generative AI models.
+This explicitly includes, but is not limited to, using Generative AI trained on SGG&#x27;s IP to create alternate versions of portraits or additional voicelines for existing characters.</p>
+</blockquote><p>Any mods found to be in violation of this policy will need to be removed by the community moderators.</p><p>The <code>Changelog.md</code> should contain a list of changes made in each version of your mod.
 A short guide on how to use the file is included in the template - remove this guidance before publishing.</p><p>In the <code>LICENSE</code> file, replace the <code>[year]</code> and <code>[fullname]</code> placeholders.
 By default, the template ships the <a href="https://choosealicense.com/licenses/mit/" target="_blank" rel="noopener noreferrer" class="">MIT license</a>, which is recommended to use in this community.</p><p>The <code>icon.png</code> is the icon shown for your mod on Thunderstore and in r2modman.
 It <em>must</em> be a 256x256 PNG icon.</p></div></div></details>
