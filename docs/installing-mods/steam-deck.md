@@ -2,12 +2,14 @@
 sidebar_position: 2
 ---
 
-# Steam Deck Installation
+# Steam Deck & Linux Installation
 
 :::danger[Install to Internal Storage Only]
 Before starting, make sure Hades II is installed to the Steam Deck's internal storage, NOT the MicroSD card!
 If using Zagreus' Journey, Hades also needs to be installed on the internal storage.
 :::
+
+This guide is specifically for installing Hades II mods on Steam Deck, but some steps and troubleshooting entries may also apply to generic Linux installations.
 
 ## Part 1 - Getting r2modman to work in Gaming Mode
 ### 1. Enter Desktop Mode
@@ -151,6 +153,13 @@ You've most likely downloaded an update to **r2modman**, and your shortcut is no
 - Press the `STEAM` button.
 - In the *Hades II* game menu, switch the window back to *Hades II*.
 ![Switch window](./steam-deck-switch-window.png)
+
+### The game randomly freezes with `Waiting for Rendercommands to be ready to write` or another message in the console/log!
+Some users have reported that disabling the Steam Overlay for *Hades II* can help prevent this issue. To do this:
+- Go to your Steam Library.
+- Right-click on *Hades II* and select **Properties**.
+- Under the **General** tab, uncheck **Enable the Steam Overlay while in-game**.
+- Restart the game.
 
 ## Acknowledgements
 - Thank you to Kenorah for writing the bulk of the guide, and providing great screenshots!
