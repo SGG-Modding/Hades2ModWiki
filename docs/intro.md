@@ -10,7 +10,7 @@ This wiki is broken into several sections, categorized in the left panel:
 
 ### Using Mods
 
-Instructions for installing r2modman in Windows, as well as a separate Steam Deck article.
+This section contains Windows instructions for installing mods with `r2modman` for Steam, Epic Games, and Microsoft Store/Xbox app copies, plus separate articles for Steam Deck/Linux and Mac.
 
 ### Creating Mods
 
